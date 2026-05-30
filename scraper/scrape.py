@@ -52,8 +52,8 @@ def scrape():
         print("Loading FXStreet economic calendar...")
         page.goto(
             "https://www.fxstreet.com/economic-calendar",
-            wait_until="networkidle",
-            timeout=30000,
+                        wait_until="domcontentloaded",
+            timeout=60000,
         )
         page.wait_for_timeout(8000)
 
