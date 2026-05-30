@@ -15,7 +15,13 @@ def fetch_fxstreet(start, end):
         f"?&volatilities=NONE&volatilities=LOW&volatilities=MEDIUM&volatilities=HIGH"
     )
     print(f"Fetching: {url[:120]}...")
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+        "Referer": "https://www.fxstreet.com/economic-calendar",
+        "Origin": "https://www.fxstreet.com",
+        "Accept": "application/json",
+    })
+
     with urllib.request.urlopen(req, timeout=30) as resp:
         return json.loads(resp.read().decode())
 
