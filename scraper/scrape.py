@@ -115,10 +115,14 @@ def normalize(raw):
                     or ev.get("date_utc") or ev.get("date") or ""
                 )
 
-            vol = ev.get("Volatility") or ev.get("volatility")
+                        vol = ev.get("Volatility") or ev.get("volatility")
             if vol is not None:
-                v = int(vol)
-                impact = "High" if v >= 3 else ("Medium" if v == 2 else "Low")
+                if isinstance(vol, str) and not vol.isdigit():
+                    vol_map = {"high": "High", "medium": "Medium", "low": "Low", "none": "Low"}
+                    impact = vol_map.get(vol.strip().lower(), "Low")
+                else:
+                    v = int(vol)
+                    impact = "High" if v >= 3 else ("Medium" if v == 2 else "Low")
             elif ev.get("impact"):
                 impact = str(ev["impact"]).capitalize()
             else:
