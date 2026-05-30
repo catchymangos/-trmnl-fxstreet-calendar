@@ -1,29 +1,44 @@
 import json
 import os
 from datetime import datetime, timedelta, timezone
-import urllib.request
+from playwright.sync_api import sync_playwright
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS_DIR = os.path.join(ROOT, "docs")
 OUTPUT = os.path.join(DOCS_DIR, "calendar.json")
 
 
-def fetch_fxstreet(start, end):
-    url = (
-        f"https://calendar-api.fxsstatic.com/en/api/v2/eventDates/"
-        f"{start.strftime('%Y-%m-%dT00:00:00Z')}/{end.strftime('%Y-%m-%dT23:59:59Z')}"
-        f"?&volatilities=NONE&volatilities=LOW&volatilities=MEDIUM&volatilities=HIGH"
-    )
-    print(f"Fetching: {url[:120]}...")
-        req = urllib.request.Request(url, headers={
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
-        "Referer": "https://www.fxstreet.com/economic-calendar",
-        "Origin": "https://www.fxstreet.com",
-        "Accept": "application/json",
-    })
+def scrape():
+    with sync_playwright() as pw:
+        browser = pw.chromium.launch(headless=True)
+        ctx = browser.new_context(
+            viewport={"width": 1280, "height": 900},
+            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+        )
+        page = ctx.new_page()
 
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return json.loads(resp.read().decode())
+        print("Loading FXStreet for auth cookies...")
+        page.goto("https://www.fxstreet.com/economic-calendar", wait_until="domcontentloaded", timeout=60000)
+        page.wait_for_timeout(10000)
+
+        now = datetime.now(timezone.utc)
+        start = (now - timedelta(days=14)).strftime("%Y-%m-%dT00:00:00Z")
+        end = (now + timedelta(days=10)).strftime("%Y-%m-%dT23:59:59Z")
+        api_url = (
+            f"https://calendar-api.fxsstatic.com/en/api/v2/eventDates/{start}/{end}"
+            f"?&volatilities=NONE&volatilities=LOW&volatilities=MEDIUM&volatilities=HIGH"
+        )
+
+        print(f"Fetching 3-week range via browser: {api_url[:100]}...")
+        events = page.evaluate(f"""async () => {{
+            const res = await fetch("{api_url}");
+            return await res.json();
+        }}""")
+
+        browser.close()
+
+    print(f"Fetched {len(events)} events")
+    return normalize(events)
 
 
 def normalize(raw):
@@ -64,16 +79,8 @@ def normalize(raw):
 
 
 if __name__ == "__main__":
-    now = datetime.now(timezone.utc)
-    start = now - timedelta(days=14)
-    end = now + timedelta(days=10)
-
-    raw = fetch_fxstreet(start, end)
-    print(f"Fetched {len(raw)} raw events")
-
-    events = normalize(raw)
-
+    events = scrape()
     os.makedirs(DOCS_DIR, exist_ok=True)
     with open(OUTPUT, "w") as f:
         json.dump(events, f, indent=2)
-    print(f"Saved {len(events)} events to calendar.json")
+    print(f"Saved {len(events)} events")
