@@ -1,6 +1,6 @@
 import json
 import os
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from playwright.sync_api import sync_playwright
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -10,7 +10,6 @@ OUTPUT = os.path.join(DOCS_DIR, "calendar.json")
 
 def scrape():
     api_events = []
-    all_urls = []
 
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=True)
@@ -25,31 +24,22 @@ def scrape():
         page = ctx.new_page()
 
         def on_response(resp):
-            url = resp.url
             ct = resp.headers.get("content-type", "")
-            all_urls.append({"url": url[:200], "status": resp.status, "ct": ct[:50]})
-
             if "json" not in ct:
                 return
             try:
                 body = resp.json()
             except Exception:
                 return
-
-            print(f"JSON response: {url[:150]} -> type={type(body).__name__}, len={len(body) if isinstance(body, (list, dict)) else 'n/a'}")
-
-            if isinstance(body, list) and len(body) > 0:
-                api_events.extend(body)
-                print(f"  >> Captured {len(body)} items from list response")
-                if len(body) > 0:
-                    print(f"  >> First item keys: {list(body[0].keys()) if isinstance(body[0], dict) else 'not a dict'}")
+            if isinstance(body, list) and len(body) > 0 and isinstance(body[0], dict):
+                if "dateUtc" in body[0] or "DateUtc" in body[0] or "name" in body[0]:
+                    api_events.extend(body)
+                    print(f"Captured {len(body)} calendar events from {resp.url[:100]}")
             elif isinstance(body, dict):
-                for key in ("items", "data", "eventDates", "events", "value", "result", "calendar", "rows"):
+                for key in ("items", "data", "eventDates", "events", "value"):
                     if key in body and isinstance(body[key], list) and len(body[key]) > 0:
                         api_events.extend(body[key])
-                        print(f"  >> Captured {len(body[key])} items from dict['{key}']")
-                        if isinstance(body[key][0], dict):
-                            print(f"  >> First item keys: {list(body[key][0].keys())}")
+                        print(f"Captured {len(body[key])} events from dict['{key}']")
                         return
 
         page.on("response", on_response)
@@ -60,37 +50,11 @@ def scrape():
             wait_until="domcontentloaded",
             timeout=60000,
         )
-        print("Page loaded, waiting 15s for JS to render...")
+        print("Waiting 15s for calendar data to load...")
         page.wait_for_timeout(15000)
-
-        print(f"\n=== Network summary: {len(all_urls)} total responses ===")
-        for u in all_urls:
-            if "fxstreet" in u["url"].lower() or "calendar" in u["url"].lower():
-                print(f"  {u['status']} {u['ct'][:30]:30s} {u['url'][:150]}")
-
-        print(f"\n=== API events captured: {len(api_events)} ===")
-
-        if not api_events:
-            print("\nTrying DOM fallback...")
-            print(f"Page title: {page.title()}")
-            print(f"Page URL: {page.url}")
-            body_text = page.inner_text("body")[:500]
-            print(f"Body text preview: {body_text[:300]}")
-
-            selectors_to_try = [
-                "[class*='calendar']", "[class*='Calendar']",
-                "[class*='event']", "[class*='Event']",
-                "table", "tr[data-eventid]",
-                "[data-testid]", "[class*='row']",
-                "iframe",
-            ]
-            for sel in selectors_to_try:
-                count = len(page.query_selector_all(sel))
-                if count > 0:
-                    print(f"  Selector '{sel}': {count} matches")
-
         browser.close()
 
+    print(f"Total events captured: {len(api_events)}")
     return normalize(api_events)
 
 
@@ -103,19 +67,21 @@ def _str(v):
 
 def normalize(raw):
     out = []
-    now_iso = datetime.utcnow().isoformat() + "Z"
+    now_iso = datetime.now(timezone.utc).isoformat()
     for ev in raw:
         try:
-            date_raw = ev.get("DateTime") or ev.get("dateTime")
-            if isinstance(date_raw, dict):
-                date_utc = date_raw.get("Date", "")
-            else:
-                date_utc = _str(date_raw) or _str(
-                    ev.get("DateUtc") or ev.get("dateUtc")
-                    or ev.get("date_utc") or ev.get("date") or ""
-                )
+            date_utc = _str(
+                ev.get("dateUtc") or ev.get("DateUtc")
+                or ev.get("date_utc") or ev.get("date") or ""
+            )
+            if not date_utc:
+                date_raw = ev.get("DateTime") or ev.get("dateTime")
+                if isinstance(date_raw, dict):
+                    date_utc = date_raw.get("Date", "")
+                else:
+                    date_utc = _str(date_raw)
 
-                        vol = ev.get("Volatility") or ev.get("volatility")
+            vol = ev.get("volatility") or ev.get("Volatility")
             if vol is not None:
                 if isinstance(vol, str) and not vol.isdigit():
                     vol_map = {"high": "High", "medium": "Medium", "low": "Low", "none": "Low"}
@@ -123,29 +89,34 @@ def normalize(raw):
                 else:
                     v = int(vol)
                     impact = "High" if v >= 3 else ("Medium" if v == 2 else "Low")
-            elif ev.get("impact"):
-                impact = str(ev["impact"]).capitalize()
             else:
                 impact = "Low"
 
+            is_better = ev.get("isBetterThanExpected")
+            actual = ev.get("actual")
+            consensus = ev.get("consensus")
+
             n = {
-                "id":        _str(ev.get("IdEcoCalendarDate") or ev.get("id") or ev.get("eventId") or ""),
-                "event_id":  _str(ev.get("IdEcoCalendar") or ev.get("eventTypeId") or ""),
-                "name":      _str(ev.get("Name") or ev.get("name") or ev.get("event") or ""),
-                "country":   _str(ev.get("InternationalCode") or ev.get("CountryCode") or ev.get("countryCode") or ev.get("country") or "").strip(),
+                "id":        _str(ev.get("id") or ev.get("IdEcoCalendarDate") or ev.get("eventId") or ""),
+                "name":      _str(ev.get("name") or ev.get("Name") or ""),
+                "country":   _str(ev.get("countryCode") or ev.get("CountryCode") or ev.get("country") or "").strip(),
                 "date_utc":  date_utc,
                 "impact":    impact,
-                "actual":    _str(ev.get("DisplayActual") or ev.get("Actual") or ev.get("actual") or ""),
-                "consensus": _str(ev.get("DisplayConsensus") or ev.get("Consensus") or ev.get("consensus") or ""),
-                "previous":  _str(ev.get("DisplayPrevious") or ev.get("Previous") or ev.get("previous") or ""),
-                "better":    ev.get("Better") or ev.get("better") or False,
-                "worse":     ev.get("Worst") or ev.get("worst") or False,
+                "actual":    _str(actual) if actual is not None else "",
+                "consensus": _str(consensus) if consensus is not None else "",
+                "previous":  _str(ev.get("previous")) if ev.get("previous") is not None else "",
+                "unit":      _str(ev.get("unit") or ""),
+                "currency":  _str(ev.get("currencyCode") or ""),
+                "better":    is_better is True,
+                "worse":     is_better is False and actual is not None and consensus is not None,
                 "scraped":   now_iso,
             }
             if n["name"]:
                 out.append(n)
-        except Exception:
+        except Exception as e:
+            print(f"Normalize error: {e} for event: {ev.get('name', 'unknown')}")
             continue
+    print(f"Normalized {len(out)} events from {len(raw)} raw")
     return out
 
 
@@ -166,15 +137,14 @@ def merge_and_save(new_events):
     for ev in new_events:
         by_key[ev.get("id") or (ev.get("name") + ev.get("date_utc", ""))] = ev
 
-    cutoff = (datetime.utcnow() - timedelta(weeks=3)).isoformat()
+    cutoff = (datetime.now(timezone.utc) - timedelta(weeks=3)).isoformat()
     merged = [ev for ev in by_key.values() if ev.get("date_utc", "z") >= cutoff]
     merged.sort(key=lambda x: x.get("date_utc", ""))
 
     with open(OUTPUT, "w") as f:
         json.dump(merged, f, indent=2)
 
-    print(f"Saved {len(merged)} events to docs/calendar.json "
-          f"({len(new_events)} fresh, {len(existing)} prior)")
+    print(f"Saved {len(merged)} events ({len(new_events)} fresh, {len(existing)} prior)")
 
 
 if __name__ == "__main__":
