@@ -1,6 +1,5 @@
 import json
 import os
-import sys
 from datetime import datetime, timedelta
 from playwright.sync_api import sync_playwright
 
@@ -11,6 +10,7 @@ OUTPUT = os.path.join(DOCS_DIR, "calendar.json")
 
 def scrape():
     api_events = []
+    all_urls = []
 
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=True)
@@ -25,26 +25,31 @@ def scrape():
         page = ctx.new_page()
 
         def on_response(resp):
-            url = resp.url.lower()
-            hit = any(d in url for d in [
-                "calendar-api.fxstreet.com",
-                "calendar.fxstreet.com",
-                "fxstreet.com/proxy/calendar",
-                "fxstreet.com/api/calendar",
-                "eco-calendar",
-            ])
-            if not hit:
+            url = resp.url
+            ct = resp.headers.get("content-type", "")
+            all_urls.append({"url": url[:200], "status": resp.status, "ct": ct[:50]})
+
+            if "json" not in ct:
                 return
             try:
                 body = resp.json()
             except Exception:
                 return
-            if isinstance(body, list):
+
+            print(f"JSON response: {url[:150]} -> type={type(body).__name__}, len={len(body) if isinstance(body, (list, dict)) else 'n/a'}")
+
+            if isinstance(body, list) and len(body) > 0:
                 api_events.extend(body)
+                print(f"  >> Captured {len(body)} items from list response")
+                if len(body) > 0:
+                    print(f"  >> First item keys: {list(body[0].keys()) if isinstance(body[0], dict) else 'not a dict'}")
             elif isinstance(body, dict):
-                for key in ("items", "data", "eventDates", "events", "value"):
-                    if key in body and isinstance(body[key], list):
+                for key in ("items", "data", "eventDates", "events", "value", "result", "calendar", "rows"):
+                    if key in body and isinstance(body[key], list) and len(body[key]) > 0:
                         api_events.extend(body[key])
+                        print(f"  >> Captured {len(body[key])} items from dict['{key}']")
+                        if isinstance(body[key][0], dict):
+                            print(f"  >> First item keys: {list(body[key][0].keys())}")
                         return
 
         page.on("response", on_response)
@@ -52,67 +57,41 @@ def scrape():
         print("Loading FXStreet economic calendar...")
         page.goto(
             "https://www.fxstreet.com/economic-calendar",
-                        wait_until="domcontentloaded",
+            wait_until="domcontentloaded",
             timeout=60000,
         )
-        page.wait_for_timeout(8000)
+        print("Page loaded, waiting 15s for JS to render...")
+        page.wait_for_timeout(15000)
 
-        dom_events = []
+        print(f"\n=== Network summary: {len(all_urls)} total responses ===")
+        for u in all_urls:
+            if "fxstreet" in u["url"].lower() or "calendar" in u["url"].lower():
+                print(f"  {u['status']} {u['ct'][:30]:30s} {u['url'][:150]}")
+
+        print(f"\n=== API events captured: {len(api_events)} ===")
+
         if not api_events:
-            print("No API data intercepted - trying DOM fallback...")
-            dom_events = parse_dom(page)
+            print("\nTrying DOM fallback...")
+            print(f"Page title: {page.title()}")
+            print(f"Page URL: {page.url}")
+            body_text = page.inner_text("body")[:500]
+            print(f"Body text preview: {body_text[:300]}")
+
+            selectors_to_try = [
+                "[class*='calendar']", "[class*='Calendar']",
+                "[class*='event']", "[class*='Event']",
+                "table", "tr[data-eventid]",
+                "[data-testid]", "[class*='row']",
+                "iframe",
+            ]
+            for sel in selectors_to_try:
+                count = len(page.query_selector_all(sel))
+                if count > 0:
+                    print(f"  Selector '{sel}': {count} matches")
 
         browser.close()
 
-    raw = api_events or dom_events
-    print(f"Captured {len(raw)} raw events (source: {'api' if api_events else 'dom'})")
-    if not raw:
-        print("WARNING: No events captured. Page structure may have changed.")
-
-    return normalize(raw)
-
-
-SELECTOR_SETS = [
-    {
-        "row":       "[class*='calendarRow'], [class*='EventRow'], tr[data-eventid]",
-        "name":      "[class*='eventTitle'], [class*='eventName'], [class*='event__title']",
-        "time":      "[class*='eventTime'], [class*='event__time'], time",
-        "country":   "[class*='country'], [class*='flag']",
-        "actual":    "[class*='actual']",
-        "consensus": "[class*='consensus'], [class*='forecast']",
-        "previous":  "[class*='previous']",
-        "impact":    "[class*='volatility'], [class*='impact'], [class*='bull']",
-    },
-]
-
-
-def parse_dom(page):
-    events = []
-    for sel in SELECTOR_SETS:
-        rows = page.query_selector_all(sel["row"])
-        if not rows:
-            continue
-        for row in rows:
-            ev = {}
-            for field in ("name", "time", "country", "actual", "consensus", "previous"):
-                el = row.query_selector(sel[field])
-                ev[field] = el.inner_text().strip() if el else ""
-            imp_el = row.query_selector(sel["impact"])
-            if imp_el:
-                cls = (imp_el.get_attribute("class") or "").lower()
-                if "high" in cls or "3" in cls:
-                    ev["impact"] = "High"
-                elif "medium" in cls or "2" in cls:
-                    ev["impact"] = "Medium"
-                else:
-                    ev["impact"] = "Low"
-            ev["date_utc"] = row.get_attribute("data-date") or row.get_attribute("data-eventdate") or ""
-            ev["source"] = "dom"
-            if ev.get("name"):
-                events.append(ev)
-        if events:
-            break
-    return events
+    return normalize(api_events)
 
 
 def _str(v):
