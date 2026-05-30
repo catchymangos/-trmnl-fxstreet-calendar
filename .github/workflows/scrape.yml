@@ -20,9 +20,8 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: |
-          pip install -r scraper/requirements.txt
-          playwright install chromium --with-deps
+        run: echo "No dependencies needed"
+
 
       - name: Scrape FXStreet calendar
         run: python scraper/scrape.py
