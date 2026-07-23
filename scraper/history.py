@@ -1,12 +1,13 @@
 import json
 import os
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS_DIR = os.path.join(ROOT, "docs")
 CALENDAR = os.path.join(DOCS_DIR, "calendar.json")
 HISTORY_DIR = os.path.join(DOCS_DIR, "history")
+RECENT = os.path.join(HISTORY_DIR, "recent.json")
 
 # Minimal indicator normalizer — mirrors the transform so history keys match the
 # base names the plugin groups by. Keep in rough sync with the transform's indicatorMap.
@@ -23,7 +24,7 @@ INDICATOR_MAP = [
     (r"Retail Sales", "Retail Sales"),
     (r"Nonfarm Payrolls|\bNFP\b", "Nonfarm Payrolls"),
     (r"ADP Employment", "ADP Jobs"),
-    (r"Employment Change|Full[- ]Time Employment|Part[- ]Time Employment|Participation Rate", "Employment Change"),
+    (r"Employment Change|Net Change in Employment|Full[- ]Time Employment|Part[- ]Time Employment|Participation Rate", "Employment Change"),
     (r"Unemployment Rate", "Unemployment Rate"),
     (r"Average Earnings|Wage", "Wage Growth"),
     (r"Manufacturing PMI", "Manufacturing PMI"),
@@ -41,7 +42,6 @@ def base_name(name):
     for pat, rep in INDICATOR_MAP:
         if re.search(pat, name, re.IGNORECASE):
             return rep
-    # fall back to the name before any parenthesis
     return re.split(r"\(", name)[0].strip()
 
 
@@ -59,6 +59,27 @@ def load(path):
     return {}
 
 
+def write_recent():
+    # Rolling window of the last 90 days across all monthly files, stable filename for polling.
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=90)).strftime("%Y-%m-%d")
+    merged = {}
+    if os.path.isdir(HISTORY_DIR):
+        for fn in os.listdir(HISTORY_DIR):
+            if not re.match(r"\d{4}-\d{2}\.json$", fn):
+                continue  # only monthly files, skip recent.json itself
+            with open(os.path.join(HISTORY_DIR, fn)) as f:
+                try:
+                    data = json.load(f)
+                except Exception:
+                    continue
+            for k, v in data.items():
+                if v.get("date", "") >= cutoff:
+                    merged[k] = v
+    with open(RECENT, "w") as f:
+        json.dump(merged, f, indent=2, sort_keys=True)
+    print(f"Wrote recent.json ({len(merged)} records, last 90 days)")
+
+
 def run():
     if not os.path.exists(CALENDAR):
         print("No calendar.json; nothing to archive.")
@@ -67,20 +88,20 @@ def run():
         events = json.load(f)
 
     os.makedirs(HISTORY_DIR, exist_ok=True)
-    touched = {}  # month_path -> dict
+    touched = {}
 
     added = 0
     for ev in events:
         actual = (ev.get("actual") or "").strip()
         if not actual:
-            continue  # only archive RELEASED events (they have an actual)
+            continue
         impact = ev.get("impact") or "Low"
         if impact not in ("High", "Medium"):
             continue
         date_utc = ev.get("date_utc") or ""
         if len(date_utc) < 10:
             continue
-        day = date_utc[:10]  # YYYY-MM-DD
+        day = date_utc[:10]
         country = (ev.get("country") or "").strip()
         base = base_name((ev.get("name") or "").strip())
         key = f"{country}|{base}|{day}"
@@ -90,7 +111,6 @@ def run():
             touched[mp] = load(mp)
         store = touched[mp]
 
-        # upsert — re-runs overwrite the same key rather than duplicating
         if key not in store:
             added += 1
         store[key] = {
@@ -108,6 +128,7 @@ def run():
             json.dump(store, f, indent=2, sort_keys=True)
         print(f"Wrote {mp} ({len(store)} records)")
 
+    write_recent()
     print(f"History updated — {added} new records across {len(touched)} month file(s).")
 
 
