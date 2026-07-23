@@ -1,0 +1,668 @@
+{
+  "AU|Consumer Inflation Expectations|2026-07-16": {
+    "actual": "4.7",
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-07-16",
+    "indicator": "Consumer Inflation Expectations",
+    "previous": "5.5",
+    "unit": "%"
+  },
+  "AU|Employment Change|2026-07-23": {
+    "actual": "67",
+    "consensus": "66.7",
+    "country": "AU",
+    "date": "2026-07-23",
+    "indicator": "Employment Change",
+    "previous": "66.7",
+    "unit": "%"
+  },
+  "AU|Unemployment Rate|2026-07-23": {
+    "actual": "4.4",
+    "consensus": "4.4",
+    "country": "AU",
+    "date": "2026-07-23",
+    "indicator": "Unemployment Rate",
+    "previous": "4.4",
+    "unit": "%"
+  },
+  "AU|Westpac Consumer Confidence|2026-07-14": {
+    "actual": "4.1",
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-07-14",
+    "indicator": "Westpac Consumer Confidence",
+    "previous": "-2.9",
+    "unit": "%"
+  },
+  "CA|CPI|2026-07-20": {
+    "actual": "2.8",
+    "consensus": "2.9",
+    "country": "CA",
+    "date": "2026-07-20",
+    "indicator": "CPI",
+    "previous": "3.2",
+    "unit": "%"
+  },
+  "CA|Net Change in Employment|2026-07-10": {
+    "actual": "18.2",
+    "consensus": "10",
+    "country": "CA",
+    "date": "2026-07-10",
+    "indicator": "Net Change in Employment",
+    "previous": "87.8",
+    "unit": ""
+  },
+  "CA|Rate Decision|2026-07-15": {
+    "actual": "2.25",
+    "consensus": "2.25",
+    "country": "CA",
+    "date": "2026-07-15",
+    "indicator": "Rate Decision",
+    "previous": "2.25",
+    "unit": "%"
+  },
+  "CA|Unemployment Rate|2026-07-10": {
+    "actual": "6.5",
+    "consensus": "6.6",
+    "country": "CA",
+    "date": "2026-07-10",
+    "indicator": "Unemployment Rate",
+    "previous": "6.6",
+    "unit": "%"
+  },
+  "CA|Wage Growth|2026-07-10": {
+    "actual": "3.7",
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-07-10",
+    "indicator": "Wage Growth",
+    "previous": "3.2",
+    "unit": "%"
+  },
+  "CN|CPI|2026-07-09": {
+    "actual": "1",
+    "consensus": "1.1",
+    "country": "CN",
+    "date": "2026-07-09",
+    "indicator": "CPI",
+    "previous": "1.2",
+    "unit": "%"
+  },
+  "CN|Exports|2026-07-14": {
+    "actual": "20.8",
+    "consensus": "",
+    "country": "CN",
+    "date": "2026-07-14",
+    "indicator": "Exports",
+    "previous": "13.8",
+    "unit": "%"
+  },
+  "CN|GDP|2026-07-15": {
+    "actual": "4.3",
+    "consensus": "4.5",
+    "country": "CN",
+    "date": "2026-07-15",
+    "indicator": "GDP",
+    "previous": "5",
+    "unit": "%"
+  },
+  "CN|Imports|2026-07-14": {
+    "actual": "29.4",
+    "consensus": "",
+    "country": "CN",
+    "date": "2026-07-14",
+    "indicator": "Imports",
+    "previous": "21.5",
+    "unit": "%"
+  },
+  "CN|Industrial Production|2026-07-15": {
+    "actual": "5.3",
+    "consensus": "4.6",
+    "country": "CN",
+    "date": "2026-07-15",
+    "indicator": "Industrial Production",
+    "previous": "4.5",
+    "unit": "%"
+  },
+  "CN|PPI|2026-07-09": {
+    "actual": "4.1",
+    "consensus": "4.1",
+    "country": "CN",
+    "date": "2026-07-09",
+    "indicator": "PPI",
+    "previous": "3.9",
+    "unit": "%"
+  },
+  "CN|Rate Decision|2026-07-20": {
+    "actual": "3",
+    "consensus": "3",
+    "country": "CN",
+    "date": "2026-07-20",
+    "indicator": "Rate Decision",
+    "previous": "3",
+    "unit": "%"
+  },
+  "CN|Retail Sales|2026-07-15": {
+    "actual": "1",
+    "consensus": "-0.1",
+    "country": "CN",
+    "date": "2026-07-15",
+    "indicator": "Retail Sales",
+    "previous": "-0.6",
+    "unit": "%"
+  },
+  "CN|Trade Balance|2026-07-14": {
+    "actual": "125.62",
+    "consensus": "121",
+    "country": "CN",
+    "date": "2026-07-14",
+    "indicator": "Trade Balance",
+    "previous": "105.43",
+    "unit": "$"
+  },
+  "DE|Inflation|2026-07-10": {
+    "actual": "2.4",
+    "consensus": "2.4",
+    "country": "DE",
+    "date": "2026-07-10",
+    "indicator": "Inflation",
+    "previous": "2.4",
+    "unit": "%"
+  },
+  "DE|PPI|2026-07-20": {
+    "actual": "1.8",
+    "consensus": "",
+    "country": "DE",
+    "date": "2026-07-20",
+    "indicator": "PPI",
+    "previous": "2.2",
+    "unit": "%"
+  },
+  "DE|Trade Balance|2026-07-09": {
+    "actual": "19.1",
+    "consensus": "14.8",
+    "country": "DE",
+    "date": "2026-07-09",
+    "indicator": "Trade Balance",
+    "previous": "14.5",
+    "unit": "\u20ac"
+  },
+  "DE|ZEW Current Conditions|2026-07-21": {
+    "actual": "-77.6",
+    "consensus": "-77.8",
+    "country": "DE",
+    "date": "2026-07-21",
+    "indicator": "ZEW Current Conditions",
+    "previous": "-81",
+    "unit": ""
+  },
+  "DE|ZEW Sentiment|2026-07-21": {
+    "actual": "26.3",
+    "consensus": "18",
+    "country": "DE",
+    "date": "2026-07-21",
+    "indicator": "ZEW Sentiment",
+    "previous": "10.5",
+    "unit": ""
+  },
+  "EMU|Industrial Production|2026-07-15": {
+    "actual": "-0.2",
+    "consensus": "0.2",
+    "country": "EMU",
+    "date": "2026-07-15",
+    "indicator": "Industrial Production",
+    "previous": "0.1",
+    "unit": "%"
+  },
+  "EMU|Inflation|2026-07-17": {
+    "actual": "-0.1",
+    "consensus": "-0.1",
+    "country": "EMU",
+    "date": "2026-07-17",
+    "indicator": "Inflation",
+    "previous": "-0.1",
+    "unit": "%"
+  },
+  "EMU|ZEW Sentiment|2026-07-21": {
+    "actual": "23.4",
+    "consensus": "11.2",
+    "country": "EMU",
+    "date": "2026-07-21",
+    "indicator": "ZEW Sentiment",
+    "previous": "9.5",
+    "unit": ""
+  },
+  "ES|Inflation|2026-07-15": {
+    "actual": "3.6",
+    "consensus": "3.6",
+    "country": "ES",
+    "date": "2026-07-15",
+    "indicator": "Inflation",
+    "previous": "3.6",
+    "unit": "%"
+  },
+  "FR|CPI|2026-07-10": {
+    "actual": "2",
+    "consensus": "2",
+    "country": "FR",
+    "date": "2026-07-10",
+    "indicator": "CPI",
+    "previous": "2",
+    "unit": "%"
+  },
+  "IT|CPI|2026-07-16": {
+    "actual": "3",
+    "consensus": "3",
+    "country": "IT",
+    "date": "2026-07-16",
+    "indicator": "CPI",
+    "previous": "3",
+    "unit": "%"
+  },
+  "JP|Exports|2026-07-21": {
+    "actual": "19.3",
+    "consensus": "18.6",
+    "country": "JP",
+    "date": "2026-07-21",
+    "indicator": "Exports",
+    "previous": "17",
+    "unit": "%"
+  },
+  "JP|Imports|2026-07-21": {
+    "actual": "25.4",
+    "consensus": "21",
+    "country": "JP",
+    "date": "2026-07-21",
+    "indicator": "Imports",
+    "previous": "12.5",
+    "unit": "%"
+  },
+  "JP|Trade Balance|2026-07-21": {
+    "actual": "-406.9",
+    "consensus": "-120",
+    "country": "JP",
+    "date": "2026-07-21",
+    "indicator": "Trade Balance",
+    "previous": "-378.7",
+    "unit": "\u00a5"
+  },
+  "KR|GDP|2026-07-22": {
+    "actual": "0.6",
+    "consensus": "0.4",
+    "country": "KR",
+    "date": "2026-07-22",
+    "indicator": "GDP",
+    "previous": "1.8",
+    "unit": "%"
+  },
+  "KR|Rate Decision|2026-07-16": {
+    "actual": "2.75",
+    "consensus": "2.75",
+    "country": "KR",
+    "date": "2026-07-16",
+    "indicator": "Rate Decision",
+    "previous": "2.5",
+    "unit": "%"
+  },
+  "MX|Headline Inflation|2026-07-09": {
+    "actual": "-0.27",
+    "consensus": "-0.13",
+    "country": "MX",
+    "date": "2026-07-09",
+    "indicator": "Headline Inflation",
+    "previous": "-0.21",
+    "unit": "%"
+  },
+  "NZ|Business NZ PSI|2026-07-12": {
+    "actual": "50.6",
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-07-12",
+    "indicator": "Business NZ PSI",
+    "previous": "47.5",
+    "unit": ""
+  },
+  "NZ|CPI|2026-07-20": {
+    "actual": "4.1",
+    "consensus": "4",
+    "country": "NZ",
+    "date": "2026-07-20",
+    "indicator": "CPI",
+    "previous": "3.1",
+    "unit": "%"
+  },
+  "NZ|Exports|2026-07-19": {
+    "actual": "8.09",
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-07-19",
+    "indicator": "Exports",
+    "previous": "8.88",
+    "unit": "$"
+  },
+  "NZ|Imports|2026-07-19": {
+    "actual": "8.07",
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-07-19",
+    "indicator": "Imports",
+    "previous": "8.08",
+    "unit": "$"
+  },
+  "NZ|NZIER Business Confidence|2026-07-13": {
+    "actual": "8",
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-07-13",
+    "indicator": "NZIER Business Confidence",
+    "previous": "-4",
+    "unit": "%"
+  },
+  "NZ|Trade Balance|2026-07-19": {
+    "actual": "-3.74",
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-07-19",
+    "indicator": "Trade Balance",
+    "previous": "-3.36",
+    "unit": "$"
+  },
+  "UK|CPI|2026-07-22": {
+    "actual": "2.6",
+    "consensus": "2.7",
+    "country": "UK",
+    "date": "2026-07-22",
+    "indicator": "CPI",
+    "previous": "2.8",
+    "unit": "%"
+  },
+  "UK|Claimant Count Change|2026-07-21": {
+    "actual": "6.7",
+    "consensus": "28.3",
+    "country": "UK",
+    "date": "2026-07-21",
+    "indicator": "Claimant Count Change",
+    "previous": "31.2",
+    "unit": ""
+  },
+  "UK|Claimant Count Rate|2026-07-21": {
+    "actual": "4.4",
+    "consensus": "",
+    "country": "UK",
+    "date": "2026-07-21",
+    "indicator": "Claimant Count Rate",
+    "previous": "4.5",
+    "unit": "%"
+  },
+  "UK|Core CPI|2026-07-22": {
+    "actual": "2.6",
+    "consensus": "2.5",
+    "country": "UK",
+    "date": "2026-07-22",
+    "indicator": "Core CPI",
+    "previous": "2.6",
+    "unit": "%"
+  },
+  "UK|Core PPI|2026-07-22": {
+    "actual": "2.6",
+    "consensus": "",
+    "country": "UK",
+    "date": "2026-07-22",
+    "indicator": "Core PPI",
+    "previous": "2.3",
+    "unit": "%"
+  },
+  "UK|Employment Change|2026-07-21": {
+    "actual": "147",
+    "consensus": "",
+    "country": "UK",
+    "date": "2026-07-21",
+    "indicator": "Employment Change",
+    "previous": "100",
+    "unit": ""
+  },
+  "UK|GDP|2026-07-16": {
+    "actual": "0.1",
+    "consensus": "0.1",
+    "country": "UK",
+    "date": "2026-07-16",
+    "indicator": "GDP",
+    "previous": "-0.1",
+    "unit": "%"
+  },
+  "UK|Industrial Production|2026-07-16": {
+    "actual": "-0.5",
+    "consensus": "-0.1",
+    "country": "UK",
+    "date": "2026-07-16",
+    "indicator": "Industrial Production",
+    "previous": "0",
+    "unit": "%"
+  },
+  "UK|Manufacturing Production|2026-07-16": {
+    "actual": "0.1",
+    "consensus": "-0.2",
+    "country": "UK",
+    "date": "2026-07-16",
+    "indicator": "Manufacturing Production",
+    "previous": "0.4",
+    "unit": "%"
+  },
+  "UK|PPI|2026-07-22": {
+    "actual": "3.5",
+    "consensus": "",
+    "country": "UK",
+    "date": "2026-07-22",
+    "indicator": "PPI",
+    "previous": "4",
+    "unit": "%"
+  },
+  "UK|RPI|2026-07-22": {
+    "actual": "3",
+    "consensus": "3",
+    "country": "UK",
+    "date": "2026-07-22",
+    "indicator": "RPI",
+    "previous": "3.1",
+    "unit": "%"
+  },
+  "UK|Retail Sales|2026-07-13": {
+    "actual": "1.7",
+    "consensus": "2.9",
+    "country": "UK",
+    "date": "2026-07-13",
+    "indicator": "Retail Sales",
+    "previous": "3.4",
+    "unit": "%"
+  },
+  "UK|Unemployment Rate|2026-07-21": {
+    "actual": "4.9",
+    "consensus": "5",
+    "country": "UK",
+    "date": "2026-07-21",
+    "indicator": "Unemployment Rate",
+    "previous": "4.9",
+    "unit": "%"
+  },
+  "UK|Wage Growth|2026-07-21": {
+    "actual": "4.3",
+    "consensus": "4.5",
+    "country": "UK",
+    "date": "2026-07-21",
+    "indicator": "Wage Growth",
+    "previous": "4.4",
+    "unit": "%"
+  },
+  "US|ADP Jobs|2026-07-14": {
+    "actual": "19.75",
+    "consensus": "",
+    "country": "US",
+    "date": "2026-07-14",
+    "indicator": "ADP Jobs",
+    "previous": "21",
+    "unit": ""
+  },
+  "US|ADP Jobs|2026-07-21": {
+    "actual": "16.5",
+    "consensus": "",
+    "country": "US",
+    "date": "2026-07-21",
+    "indicator": "ADP Jobs",
+    "previous": "19.75",
+    "unit": ""
+  },
+  "US|Building Permits|2026-07-17": {
+    "actual": "1.367",
+    "consensus": "1.4",
+    "country": "US",
+    "date": "2026-07-17",
+    "indicator": "Building Permits",
+    "previous": "1.413",
+    "unit": ""
+  },
+  "US|CPI|2026-07-14": {
+    "actual": "2.6",
+    "consensus": "2.8",
+    "country": "US",
+    "date": "2026-07-14",
+    "indicator": "CPI",
+    "previous": "2.9",
+    "unit": "%"
+  },
+  "US|Existing Home Sales Change|2026-07-09": {
+    "actual": "-2.4",
+    "consensus": "",
+    "country": "US",
+    "date": "2026-07-09",
+    "indicator": "Existing Home Sales Change",
+    "previous": "3.2",
+    "unit": "%"
+  },
+  "US|Housing Starts|2026-07-17": {
+    "actual": "1.427",
+    "consensus": "1.31",
+    "country": "US",
+    "date": "2026-07-17",
+    "indicator": "Housing Starts",
+    "previous": "1.177",
+    "unit": ""
+  },
+  "US|Industrial Production|2026-07-17": {
+    "actual": "0.1",
+    "consensus": "0.2",
+    "country": "US",
+    "date": "2026-07-17",
+    "indicator": "Industrial Production",
+    "previous": "0.1",
+    "unit": "%"
+  },
+  "US|Initial Jobless Claims|2026-07-09": {
+    "actual": "215",
+    "consensus": "218",
+    "country": "US",
+    "date": "2026-07-09",
+    "indicator": "Initial Jobless Claims",
+    "previous": "215",
+    "unit": ""
+  },
+  "US|Initial Jobless Claims|2026-07-16": {
+    "actual": "208",
+    "consensus": "217",
+    "country": "US",
+    "date": "2026-07-16",
+    "indicator": "Initial Jobless Claims",
+    "previous": "215",
+    "unit": ""
+  },
+  "US|Michigan Consumer Expectations Index|2026-07-17": {
+    "actual": "54",
+    "consensus": "",
+    "country": "US",
+    "date": "2026-07-17",
+    "indicator": "Michigan Consumer Expectations Index",
+    "previous": "50.7",
+    "unit": ""
+  },
+  "US|Michigan Consumer Sentiment Index|2026-07-17": {
+    "actual": "54.4",
+    "consensus": "51",
+    "country": "US",
+    "date": "2026-07-17",
+    "indicator": "Michigan Consumer Sentiment Index",
+    "previous": "49.5",
+    "unit": ""
+  },
+  "US|Monthly Budget Statement|2026-07-13": {
+    "actual": "-120",
+    "consensus": "-132.8",
+    "country": "US",
+    "date": "2026-07-13",
+    "indicator": "Monthly Budget Statement",
+    "previous": "-293",
+    "unit": "$"
+  },
+  "US|NY Empire State Manufacturing Index|2026-07-15": {
+    "actual": "15.6",
+    "consensus": "8.8",
+    "country": "US",
+    "date": "2026-07-15",
+    "indicator": "NY Empire State Manufacturing Index",
+    "previous": "5.7",
+    "unit": ""
+  },
+  "US|PPI|2026-07-15": {
+    "actual": "4.7",
+    "consensus": "5.2",
+    "country": "US",
+    "date": "2026-07-15",
+    "indicator": "PPI",
+    "previous": "4.9",
+    "unit": "%"
+  },
+  "US|Pending Home Sales|2026-07-16": {
+    "actual": "-5.4",
+    "consensus": "-0.5",
+    "country": "US",
+    "date": "2026-07-16",
+    "indicator": "Pending Home Sales",
+    "previous": "3.8",
+    "unit": "%"
+  },
+  "US|Philadelphia Fed Manufacturing Survey|2026-07-16": {
+    "actual": "41.4",
+    "consensus": "13",
+    "country": "US",
+    "date": "2026-07-16",
+    "indicator": "Philadelphia Fed Manufacturing Survey",
+    "previous": "10.3",
+    "unit": ""
+  },
+  "US|Retail Sales|2026-07-16": {
+    "actual": "-0.2",
+    "consensus": "-0.1",
+    "country": "US",
+    "date": "2026-07-16",
+    "indicator": "Retail Sales",
+    "previous": "0.8",
+    "unit": "%"
+  },
+  "US|UoM 1-year Consumer Inflation Expectations|2026-07-17": {
+    "actual": "4.2",
+    "consensus": "",
+    "country": "US",
+    "date": "2026-07-17",
+    "indicator": "UoM 1-year Consumer Inflation Expectations",
+    "previous": "4.6",
+    "unit": "%"
+  },
+  "US|UoM 5-year Consumer Inflation Expectation|2026-07-17": {
+    "actual": "3.3",
+    "consensus": "",
+    "country": "US",
+    "date": "2026-07-17",
+    "indicator": "UoM 5-year Consumer Inflation Expectation",
+    "previous": "3.3",
+    "unit": "%"
+  }
+}
