@@ -368,6 +368,15 @@
     "previous": "-3.36",
     "unit": "$"
   },
+  "TR|Rate Decision|2026-07-23": {
+    "actual": "37",
+    "consensus": "37",
+    "country": "TR",
+    "date": "2026-07-23",
+    "indicator": "Rate Decision",
+    "previous": "37",
+    "unit": "%"
+  },
   "UK|CPI|2026-07-22": {
     "actual": "2.6",
     "consensus": "2.7",
