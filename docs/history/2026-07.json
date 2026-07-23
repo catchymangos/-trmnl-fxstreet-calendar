@@ -62,6 +62,15 @@
     "previous": "2.25",
     "unit": "%"
   },
+  "CA|Retail Sales|2026-07-23": {
+    "actual": "1.2",
+    "consensus": "1.4",
+    "country": "CA",
+    "date": "2026-07-23",
+    "indicator": "Retail Sales",
+    "previous": "0.1",
+    "unit": "%"
+  },
   "CA|Unemployment Rate|2026-07-10": {
     "actual": "6.5",
     "consensus": "6.6",
@@ -205,6 +214,33 @@
     "indicator": "ZEW Sentiment",
     "previous": "10.5",
     "unit": ""
+  },
+  "EMU|Consumer Confidence|2026-07-23": {
+    "actual": "-15.9",
+    "consensus": "-16.8",
+    "country": "EMU",
+    "date": "2026-07-23",
+    "indicator": "Consumer Confidence",
+    "previous": "-17.7",
+    "unit": ""
+  },
+  "EMU|ECB Main Refinancing Operations Rate|2026-07-23": {
+    "actual": "2.4",
+    "consensus": "2.4",
+    "country": "EMU",
+    "date": "2026-07-23",
+    "indicator": "ECB Main Refinancing Operations Rate",
+    "previous": "2.4",
+    "unit": "%"
+  },
+  "EMU|ECB Rate On Deposit Facility|2026-07-23": {
+    "actual": "2.25",
+    "consensus": "2.25",
+    "country": "EMU",
+    "date": "2026-07-23",
+    "indicator": "ECB Rate On Deposit Facility",
+    "previous": "2.25",
+    "unit": "%"
   },
   "EMU|Industrial Production|2026-07-15": {
     "actual": "-0.2",
@@ -582,6 +618,15 @@
     "date": "2026-07-16",
     "indicator": "Initial Jobless Claims",
     "previous": "215",
+    "unit": ""
+  },
+  "US|Initial Jobless Claims|2026-07-23": {
+    "actual": "187",
+    "consensus": "212",
+    "country": "US",
+    "date": "2026-07-23",
+    "indicator": "Initial Jobless Claims",
+    "previous": "208",
     "unit": ""
   },
   "US|Michigan Consumer Expectations Index|2026-07-17": {
