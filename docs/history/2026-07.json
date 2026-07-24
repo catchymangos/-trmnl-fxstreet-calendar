@@ -961,6 +961,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Manufacturing PMI|2026-07-24": {
+    "actual": "53.8",
+    "better": false,
+    "consensus": "54.5",
+    "country": "US",
+    "date": "2026-07-24",
+    "indicator": "Manufacturing PMI",
+    "previous": "53.9",
+    "unit": "",
+    "worse": true
+  },
   "US|Michigan Consumer Expectations Index|2026-07-17": {
     "actual": "54",
     "consensus": "",
@@ -1001,6 +1012,17 @@
     "indicator": "NY Empire State Manufacturing Index",
     "previous": "5.7",
     "unit": "",
+    "worse": false
+  },
+  "US|New Home Sales Change|2026-07-24": {
+    "actual": "1.6",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-07-24",
+    "indicator": "New Home Sales Change",
+    "previous": "-7.3",
+    "unit": "%",
     "worse": false
   },
   "US|PPI|2026-07-15": {
@@ -1046,6 +1068,28 @@
     "previous": "0.8",
     "unit": "%",
     "worse": true
+  },
+  "US|S&P Global Composite PMI|2026-07-24": {
+    "actual": "53.6",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-07-24",
+    "indicator": "S&P Global Composite PMI",
+    "previous": "51.9",
+    "unit": "",
+    "worse": false
+  },
+  "US|Services PMI|2026-07-24": {
+    "actual": "53.6",
+    "better": true,
+    "consensus": "51",
+    "country": "US",
+    "date": "2026-07-24",
+    "indicator": "Services PMI",
+    "previous": "51.2",
+    "unit": "",
+    "worse": false
   },
   "US|UoM 1-year Consumer Inflation Expectations|2026-07-17": {
     "actual": "4.2",
