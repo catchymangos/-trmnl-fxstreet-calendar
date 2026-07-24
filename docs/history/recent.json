@@ -640,6 +640,17 @@
     "previous": "-3.36",
     "unit": "$"
   },
+  "RU|Rate Decision|2026-07-24": {
+    "actual": "14",
+    "better": false,
+    "consensus": "14",
+    "country": "RU",
+    "date": "2026-07-24",
+    "indicator": "Rate Decision",
+    "previous": "14.25",
+    "unit": "%",
+    "worse": false
+  },
   "TR|Rate Decision|2026-07-23": {
     "actual": "37",
     "consensus": "37",
@@ -740,6 +751,17 @@
     "unit": "%",
     "worse": true
   },
+  "UK|Manufacturing PMI|2026-07-24": {
+    "actual": "52.8",
+    "better": true,
+    "consensus": "52",
+    "country": "UK",
+    "date": "2026-07-24",
+    "indicator": "Manufacturing PMI",
+    "previous": "52.5",
+    "unit": "",
+    "worse": false
+  },
   "UK|Manufacturing Production|2026-07-16": {
     "actual": "0.1",
     "better": true,
@@ -791,6 +813,28 @@
     "indicator": "Retail Sales",
     "previous": "1.2",
     "unit": "%",
+    "worse": false
+  },
+  "UK|S&P Global Composite PMI|2026-07-24": {
+    "actual": "52.1",
+    "better": true,
+    "consensus": "49.7",
+    "country": "UK",
+    "date": "2026-07-24",
+    "indicator": "S&P Global Composite PMI",
+    "previous": "49.3",
+    "unit": "",
+    "worse": false
+  },
+  "UK|Services PMI|2026-07-24": {
+    "actual": "51.8",
+    "better": true,
+    "consensus": "49.4",
+    "country": "UK",
+    "date": "2026-07-24",
+    "indicator": "Services PMI",
+    "previous": "48.8",
+    "unit": "",
     "worse": false
   },
   "UK|Unemployment Rate|2026-07-21": {
