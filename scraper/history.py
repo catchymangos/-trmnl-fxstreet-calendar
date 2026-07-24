@@ -59,6 +59,15 @@ def load(path):
     return {}
 
 
+def as_bool(v):
+    # FXStreet's better/worse arrive as bool or string; normalize to real bool.
+    if isinstance(v, bool):
+        return v
+    if isinstance(v, str):
+        return v.strip().lower() in ("true", "1", "yes")
+    return False
+
+
 def write_recent():
     # Rolling window of the last 90 days across all monthly files, stable filename for polling.
     cutoff = (datetime.now(timezone.utc) - timedelta(days=90)).strftime("%Y-%m-%d")
@@ -86,11 +95,10 @@ def run():
         return
     with open(CALENDAR) as f:
         events = json.load(f)
-
     os.makedirs(HISTORY_DIR, exist_ok=True)
     touched = {}
-
     added = 0
+    updated = 0
     for ev in events:
         actual = (ev.get("actual") or "").strip()
         if not actual:
@@ -105,15 +113,11 @@ def run():
         country = (ev.get("country") or "").strip()
         base = base_name((ev.get("name") or "").strip())
         key = f"{country}|{base}|{day}"
-
         mp = month_path(day)
         if mp not in touched:
             touched[mp] = load(mp)
         store = touched[mp]
-
-        if key not in store:
-            added += 1
-        store[key] = {
+        record = {
             "country": country,
             "indicator": base,
             "date": day,
@@ -121,15 +125,23 @@ def run():
             "consensus": (ev.get("consensus") or "").strip(),
             "previous": (ev.get("previous") or "").strip(),
             "unit": ev.get("unit") or "",
+            "better": as_bool(ev.get("better")),
+            "worse": as_bool(ev.get("worse")),
         }
-
+        if key not in store:
+            added += 1
+            store[key] = record
+        elif not store[key].get("better") and not store[key].get("worse") and (record["better"] or record["worse"]):
+            # Backfill directional verdict onto an existing record that lacked it.
+            store[key]["better"] = record["better"]
+            store[key]["worse"] = record["worse"]
+            updated += 1
     for mp, store in touched.items():
         with open(mp, "w") as f:
             json.dump(store, f, indent=2, sort_keys=True)
         print(f"Wrote {mp} ({len(store)} records)")
-
     write_recent()
-    print(f"History updated — {added} new records across {len(touched)} month file(s).")
+    print(f"History updated — {added} new, {updated} backfilled across {len(touched)} month file(s).")
 
 
 if __name__ == "__main__":
