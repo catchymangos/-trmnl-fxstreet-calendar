@@ -29,6 +29,9 @@ jobs:
 
       - name: Archive released events to history
         run: python scraper/history.py
+        
+      - name: Compute world pulse scores
+        run: python scraper/pulse.py
 
       - name: Commit and push
         run: |
