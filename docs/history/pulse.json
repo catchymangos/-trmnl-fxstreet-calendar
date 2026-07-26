@@ -1,0 +1,78 @@
+{
+  "2026-W30": {
+    "date": "2026-07-26",
+    "rows": {
+      "AU": {
+        "driver": "Employment Change s.a.",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 5.3
+      },
+      "CA": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -1.0,
+        "weight": 9.3
+      },
+      "DE": {
+        "driver": "HCOB Composite PMI",
+        "driver_dir": 1,
+        "n": 7,
+        "tone": 0.577,
+        "weight": 12.3
+      },
+      "EMU": {
+        "driver": "HCOB Composite PMI",
+        "driver_dir": 1,
+        "n": 5,
+        "tone": 1.0,
+        "weight": 9.7
+      },
+      "FR": {
+        "driver": "HCOB Manufacturing PMI",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": 0.0,
+        "weight": 3.6
+      },
+      "JP": {
+        "driver": "Merchandise Trade Balance Total",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -0.059,
+        "weight": 3.4
+      },
+      "KR": {
+        "driver": "Gross Domestic Product Growth (QoQ)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 3.0
+      },
+      "NZ": {
+        "driver": "Consumer Price Index (QoQ)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 9.0
+      },
+      "UK": {
+        "driver": "ILO Unemployment Rate (3M)",
+        "driver_dir": 1,
+        "n": 14,
+        "tone": 0.541,
+        "weight": 35.3
+      },
+      "US": {
+        "driver": "S&P Global Manufacturing PMI",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": 0.129,
+        "weight": 6.2
+      }
+    },
+    "week": "2026-W30"
+  }
+}
