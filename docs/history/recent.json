@@ -250,6 +250,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|IFO Business Climate|2026-07-27": {
+    "actual": "86.6",
+    "better": true,
+    "consensus": "86.1",
+    "country": "DE",
+    "date": "2026-07-27",
+    "indicator": "IFO Business Climate",
+    "previous": "85.6",
+    "unit": "",
+    "worse": false
+  },
   "DE|Inflation|2026-07-10": {
     "actual": "2.4",
     "consensus": "2.4",
