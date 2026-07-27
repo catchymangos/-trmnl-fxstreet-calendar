@@ -910,6 +910,39 @@
     "unit": "%",
     "worse": true
   },
+  "US|Durable Goods Orders ex Defense|2026-07-27": {
+    "actual": "0.3",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-07-27",
+    "indicator": "Durable Goods Orders ex Defense",
+    "previous": "-4.6",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Durable Goods Orders ex Transportation|2026-07-27": {
+    "actual": "0.6",
+    "better": false,
+    "consensus": "0.9",
+    "country": "US",
+    "date": "2026-07-27",
+    "indicator": "Durable Goods Orders ex Transportation",
+    "previous": "1.3",
+    "unit": "%",
+    "worse": true
+  },
+  "US|Durable Goods Orders|2026-07-27": {
+    "actual": "0.3",
+    "better": false,
+    "consensus": "1.6",
+    "country": "US",
+    "date": "2026-07-27",
+    "indicator": "Durable Goods Orders",
+    "previous": "-4.5",
+    "unit": "%",
+    "worse": true
+  },
   "US|Existing Home Sales Change|2026-07-09": {
     "actual": "-2.4",
     "consensus": "",
@@ -1033,6 +1066,17 @@
     "date": "2026-07-24",
     "indicator": "New Home Sales Change",
     "previous": "-7.3",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Nondefense Capital Goods Orders ex Aircraft|2026-07-27": {
+    "actual": "0.9",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-07-27",
+    "indicator": "Nondefense Capital Goods Orders ex Aircraft",
+    "previous": "1.6",
     "unit": "%",
     "worse": false
   },

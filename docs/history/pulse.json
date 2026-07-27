@@ -137,9 +137,9 @@
       "US": {
         "driver": "S&P Global Manufacturing PMI",
         "driver_dir": -1,
-        "n": 3,
-        "tone": 0.129,
-        "weight": 6.2
+        "n": 5,
+        "tone": -0.103,
+        "weight": 7.8
       }
     },
     "week": "2026-W31"
