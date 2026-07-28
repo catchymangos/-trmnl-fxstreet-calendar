@@ -888,6 +888,17 @@
     "previous": "19.75",
     "unit": ""
   },
+  "US|ADP Jobs|2026-07-28": {
+    "actual": "15",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-07-28",
+    "indicator": "ADP Jobs",
+    "previous": "16.5",
+    "unit": "",
+    "worse": false
+  },
   "US|Building Permits|2026-07-17": {
     "actual": "1.367",
     "better": false,
@@ -951,6 +962,17 @@
     "indicator": "Existing Home Sales Change",
     "previous": "3.2",
     "unit": "%"
+  },
+  "US|Housing Price Index|2026-07-28": {
+    "actual": "0.3",
+    "better": true,
+    "consensus": "0.2",
+    "country": "US",
+    "date": "2026-07-28",
+    "indicator": "Housing Price Index",
+    "previous": "-0.1",
+    "unit": "%",
+    "worse": false
   },
   "US|Housing Starts|2026-07-17": {
     "actual": "1.427",
