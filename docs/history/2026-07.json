@@ -1157,6 +1157,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Rate Decision|2026-07-29": {
+    "actual": "3.75",
+    "better": false,
+    "consensus": "3.75",
+    "country": "US",
+    "date": "2026-07-29",
+    "indicator": "Rate Decision",
+    "previous": "3.75",
+    "unit": "%",
+    "worse": false
+  },
   "US|Retail Sales|2026-07-16": {
     "actual": "-0.2",
     "better": false,
