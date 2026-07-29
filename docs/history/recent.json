@@ -1,4 +1,15 @@
 {
+  "AU|CPI|2026-07-29": {
+    "actual": "-0.1",
+    "better": false,
+    "consensus": "0.2",
+    "country": "AU",
+    "date": "2026-07-29",
+    "indicator": "CPI",
+    "previous": "-0.7",
+    "unit": "%",
+    "worse": true
+  },
   "AU|Consumer Inflation Expectations|2026-07-16": {
     "actual": "4.7",
     "consensus": "",
@@ -134,6 +145,17 @@
     "indicator": "Wage Growth",
     "previous": "3.2",
     "unit": "%"
+  },
+  "CH|ZEW Sentiment|2026-07-29": {
+    "actual": "10",
+    "better": false,
+    "consensus": "",
+    "country": "CH",
+    "date": "2026-07-29",
+    "indicator": "ZEW Sentiment",
+    "previous": "-25",
+    "unit": "",
+    "worse": false
   },
   "CN|CPI|2026-07-09": {
     "actual": "1",

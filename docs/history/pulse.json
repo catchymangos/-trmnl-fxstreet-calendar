@@ -76,14 +76,14 @@
     "week": "2026-W30"
   },
   "2026-W31": {
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "rows": {
       "AU": {
         "driver": "Employment Change s.a.",
         "driver_dir": 1,
-        "n": 2,
-        "tone": 1.0,
-        "weight": 5.3
+        "n": 3,
+        "tone": 0.082,
+        "weight": 9.8
       },
       "CA": {
         "driver": "Retail Sales ex Autos (MoM)",
@@ -113,19 +113,12 @@
         "tone": 0.0,
         "weight": 3.6
       },
-      "KR": {
-        "driver": "Gross Domestic Product Growth (QoQ)",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 3.0
-      },
       "UK": {
-        "driver": "Consumer Price Index (YoY)",
-        "driver_dir": -1,
-        "n": 11,
-        "tone": 0.547,
-        "weight": 27.8
+        "driver": "Retail Sales (MoM)",
+        "driver_dir": 1,
+        "n": 8,
+        "tone": 1.0,
+        "weight": 17.0
       },
       "US": {
         "driver": "S&P Global Manufacturing PMI",
