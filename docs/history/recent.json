@@ -760,6 +760,17 @@
     "previous": "-0.21",
     "unit": "%"
   },
+  "NZ|ANZ \u2013 Roy Morgan Consumer Confidence|2026-07-30": {
+    "actual": "99.3",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-07-30",
+    "indicator": "ANZ \u2013 Roy Morgan Consumer Confidence",
+    "previous": "91.3",
+    "unit": "",
+    "worse": false
+  },
   "NZ|Business NZ PSI|2026-07-12": {
     "actual": "50.6",
     "consensus": "",
