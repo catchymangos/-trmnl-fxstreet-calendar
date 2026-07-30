@@ -378,6 +378,17 @@
     "unit": "",
     "worse": false
   },
+  "EMU|Business Climate|2026-07-30": {
+    "actual": "-0.19",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-07-30",
+    "indicator": "Business Climate",
+    "previous": "-0.38",
+    "unit": "",
+    "worse": false
+  },
   "EMU|Consumer Confidence|2026-07-23": {
     "actual": "-15.9",
     "better": true,
@@ -386,6 +397,17 @@
     "date": "2026-07-23",
     "indicator": "Consumer Confidence",
     "previous": "-17.7",
+    "unit": "",
+    "worse": false
+  },
+  "EMU|Consumer Confidence|2026-07-30": {
+    "actual": "-15.9",
+    "better": false,
+    "consensus": "-15.9",
+    "country": "EMU",
+    "date": "2026-07-30",
+    "indicator": "Consumer Confidence",
+    "previous": "-15.9",
     "unit": "",
     "worse": false
   },
@@ -406,6 +428,28 @@
     "indicator": "ECB Rate On Deposit Facility",
     "previous": "2.25",
     "unit": "%"
+  },
+  "EMU|Economic Sentiment Indicator|2026-07-30": {
+    "actual": "96.9",
+    "better": true,
+    "consensus": "96",
+    "country": "EMU",
+    "date": "2026-07-30",
+    "indicator": "Economic Sentiment Indicator",
+    "previous": "95",
+    "unit": "",
+    "worse": false
+  },
+  "EMU|GDP|2026-07-30": {
+    "actual": "0.4",
+    "better": true,
+    "consensus": "0.2",
+    "country": "EMU",
+    "date": "2026-07-30",
+    "indicator": "GDP",
+    "previous": "-0.2",
+    "unit": "%",
+    "worse": false
   },
   "EMU|HCOB Composite PMI|2026-07-24": {
     "actual": "51.9",
@@ -459,6 +503,17 @@
     "previous": "49.4",
     "unit": "",
     "worse": false
+  },
+  "EMU|Unemployment Rate|2026-07-30": {
+    "actual": "6.3",
+    "better": false,
+    "consensus": "6.2",
+    "country": "EMU",
+    "date": "2026-07-30",
+    "indicator": "Unemployment Rate",
+    "previous": "6.2",
+    "unit": "%",
+    "worse": true
   },
   "EMU|ZEW Sentiment|2026-07-21": {
     "actual": "23.4",
@@ -759,6 +814,39 @@
     "previous": "37",
     "unit": "%"
   },
+  "UK|BoE MPC Vote Rate Cut|2026-07-30": {
+    "actual": "0",
+    "better": false,
+    "consensus": "0",
+    "country": "UK",
+    "date": "2026-07-30",
+    "indicator": "BoE MPC Vote Rate Cut",
+    "previous": "0",
+    "unit": "",
+    "worse": false
+  },
+  "UK|BoE MPC Vote Rate Hike|2026-07-30": {
+    "actual": "3",
+    "better": true,
+    "consensus": "2",
+    "country": "UK",
+    "date": "2026-07-30",
+    "indicator": "BoE MPC Vote Rate Hike",
+    "previous": "2",
+    "unit": "",
+    "worse": false
+  },
+  "UK|BoE MPC Vote Rate Unchanged|2026-07-30": {
+    "actual": "6",
+    "better": false,
+    "consensus": "7",
+    "country": "UK",
+    "date": "2026-07-30",
+    "indicator": "BoE MPC Vote Rate Unchanged",
+    "previous": "7",
+    "unit": "",
+    "worse": false
+  },
   "UK|CPI|2026-07-22": {
     "actual": "2.6",
     "better": false,
@@ -891,6 +979,17 @@
     "indicator": "RPI",
     "previous": "3.1",
     "unit": "%"
+  },
+  "UK|Rate Decision|2026-07-30": {
+    "actual": "3.75",
+    "better": false,
+    "consensus": "3.75",
+    "country": "UK",
+    "date": "2026-07-30",
+    "indicator": "Rate Decision",
+    "previous": "3.75",
+    "unit": "%",
+    "worse": false
   },
   "UK|Retail Sales|2026-07-13": {
     "actual": "1.7",

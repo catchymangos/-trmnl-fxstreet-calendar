@@ -93,11 +93,11 @@
         "weight": 18.7
       },
       "EMU": {
-        "driver": "HCOB Composite PMI",
+        "driver": "Gross Domestic Product s.a. (QoQ)",
         "driver_dir": 1,
-        "n": 3,
-        "tone": 1.0,
-        "weight": 8.1
+        "n": 7,
+        "tone": 0.713,
+        "weight": 20.9
       },
       "ES": {
         "driver": "Gross Domestic Product - Estimated (QoQ)",
@@ -123,9 +123,9 @@
       "UK": {
         "driver": "Retail Sales (MoM)",
         "driver_dir": 1,
-        "n": 7,
+        "n": 8,
         "tone": 1.0,
-        "weight": 16.2
+        "weight": 17.4
       },
       "US": {
         "driver": "S&P Global Manufacturing PMI",
