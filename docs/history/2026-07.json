@@ -1,4 +1,15 @@
 {
+  "AU|Building Permits|2026-07-30": {
+    "actual": "7.2",
+    "better": true,
+    "consensus": "-1.5",
+    "country": "AU",
+    "date": "2026-07-30",
+    "indicator": "Building Permits",
+    "previous": "-1.1",
+    "unit": "%",
+    "worse": false
+  },
   "AU|CPI|2026-07-29": {
     "actual": "-0.1",
     "better": false,
@@ -250,6 +261,17 @@
     "unit": "$",
     "worse": false
   },
+  "DE|GDP|2026-07-30": {
+    "actual": "0.2",
+    "better": true,
+    "consensus": "0.1",
+    "country": "DE",
+    "date": "2026-07-30",
+    "indicator": "GDP",
+    "previous": "0.3",
+    "unit": "%",
+    "worse": false
+  },
   "DE|GfK Consumer Confidence Survey|2026-07-24": {
     "actual": "-29.6",
     "better": false,
@@ -449,6 +471,17 @@
     "unit": "",
     "worse": false
   },
+  "ES|GDP|2026-07-30": {
+    "actual": "0.7",
+    "better": true,
+    "consensus": "0.6",
+    "country": "ES",
+    "date": "2026-07-30",
+    "indicator": "GDP",
+    "previous": "0.6",
+    "unit": "%",
+    "worse": false
+  },
   "ES|Inflation|2026-07-15": {
     "actual": "3.6",
     "consensus": "3.6",
@@ -458,6 +491,17 @@
     "previous": "3.6",
     "unit": "%"
   },
+  "ES|Inflation|2026-07-30": {
+    "actual": "3.8",
+    "better": true,
+    "consensus": "3.7",
+    "country": "ES",
+    "date": "2026-07-30",
+    "indicator": "Inflation",
+    "previous": "3.6",
+    "unit": "%",
+    "worse": false
+  },
   "FR|CPI|2026-07-10": {
     "actual": "2",
     "consensus": "2",
@@ -466,6 +510,17 @@
     "indicator": "CPI",
     "previous": "2",
     "unit": "%"
+  },
+  "FR|GDP|2026-07-30": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "0.2",
+    "country": "FR",
+    "date": "2026-07-30",
+    "indicator": "GDP",
+    "previous": "-0.1",
+    "unit": "%",
+    "worse": false
   },
   "FR|HCOB Composite PMI|2026-07-24": {
     "actual": "49.6",
@@ -543,6 +598,17 @@
     "previous": "3",
     "unit": "%",
     "worse": true
+  },
+  "IT|GDP|2026-07-30": {
+    "actual": "0.2",
+    "better": true,
+    "consensus": "0.1",
+    "country": "IT",
+    "date": "2026-07-30",
+    "indicator": "GDP",
+    "previous": "0.3",
+    "unit": "%",
+    "worse": false
   },
   "JP|CPI|2026-07-23": {
     "actual": "1.7",

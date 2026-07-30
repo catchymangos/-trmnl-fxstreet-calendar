@@ -76,35 +76,35 @@
     "week": "2026-W30"
   },
   "2026-W31": {
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "rows": {
       "AU": {
-        "driver": "Employment Change s.a.",
-        "driver_dir": 1,
-        "n": 3,
-        "tone": 0.082,
-        "weight": 9.8
-      },
-      "CA": {
-        "driver": "Retail Sales ex Autos (MoM)",
+        "driver": "Consumer Price Index (YoY)",
         "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 1.8
+        "n": 2,
+        "tone": -0.698,
+        "weight": 5.3
       },
       "DE": {
-        "driver": "HCOB Composite PMI",
+        "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 5,
-        "tone": 0.835,
-        "weight": 9.7
+        "n": 7,
+        "tone": 0.914,
+        "weight": 18.7
       },
       "EMU": {
         "driver": "HCOB Composite PMI",
         "driver_dir": 1,
-        "n": 4,
+        "n": 3,
         "tone": 1.0,
-        "weight": 8.9
+        "weight": 8.1
+      },
+      "ES": {
+        "driver": "Gross Domestic Product - Estimated (QoQ)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 6.0
       },
       "FR": {
         "driver": "HCOB Manufacturing PMI",
@@ -113,19 +113,26 @@
         "tone": 0.0,
         "weight": 3.6
       },
+      "IT": {
+        "driver": "Gross Domestic Product (QoQ)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 6.0
+      },
       "UK": {
         "driver": "Retail Sales (MoM)",
         "driver_dir": 1,
-        "n": 8,
+        "n": 7,
         "tone": 1.0,
-        "weight": 17.0
+        "weight": 16.2
       },
       "US": {
         "driver": "S&P Global Manufacturing PMI",
         "driver_dir": -1,
-        "n": 6,
-        "tone": 0.0,
-        "weight": 8.6
+        "n": 5,
+        "tone": -0.103,
+        "weight": 7.8
       }
     },
     "week": "2026-W31"
