@@ -88,9 +88,9 @@
       "DE": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 7,
-        "tone": 0.914,
-        "weight": 18.7
+        "n": 10,
+        "tone": 0.948,
+        "weight": 30.7
       },
       "EMU": {
         "driver": "Gross Domestic Product s.a. (QoQ)",
@@ -128,11 +128,11 @@
         "weight": 17.4
       },
       "US": {
-        "driver": "S&P Global Manufacturing PMI",
+        "driver": "Core Personal Consumption Expenditures - Price Index (MoM)",
         "driver_dir": -1,
-        "n": 5,
-        "tone": -0.103,
-        "weight": 7.8
+        "n": 11,
+        "tone": -0.32,
+        "weight": 25.9
       }
     },
     "week": "2026-W31"
