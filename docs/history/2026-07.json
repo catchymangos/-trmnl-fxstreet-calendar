@@ -559,6 +559,17 @@
     "previous": "-0.1",
     "unit": "%"
   },
+  "EMU|Inflation|2026-07-31": {
+    "actual": "0",
+    "better": true,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-07-31",
+    "indicator": "Inflation",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
   "EMU|Manufacturing PMI|2026-07-24": {
     "actual": "52",
     "better": true,
@@ -741,6 +752,17 @@
     "previous": "3",
     "unit": "%",
     "worse": true
+  },
+  "IT|CPI|2026-07-31": {
+    "actual": "2.9",
+    "better": true,
+    "consensus": "2.8",
+    "country": "IT",
+    "date": "2026-07-31",
+    "indicator": "CPI",
+    "previous": "3",
+    "unit": "%",
+    "worse": false
   },
   "IT|GDP|2026-07-30": {
     "actual": "0.2",

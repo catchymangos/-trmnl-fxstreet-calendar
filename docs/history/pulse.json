@@ -109,9 +109,9 @@
       "EMU": {
         "driver": "Gross Domestic Product s.a. (QoQ)",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 0.531,
-        "weight": 12.8
+        "n": 5,
+        "tone": 0.653,
+        "weight": 17.3
       },
       "ES": {
         "driver": "Gross Domestic Product - Estimated (QoQ)",
@@ -130,9 +130,9 @@
       "IT": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 2,
+        "n": 3,
         "tone": 1.0,
-        "weight": 6.0
+        "weight": 9.0
       },
       "JP": {
         "driver": "Tokyo CPI ex Fresh Food (YoY)",
