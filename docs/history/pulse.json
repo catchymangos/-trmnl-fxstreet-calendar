@@ -262,9 +262,9 @@
       "US": {
         "driver": "Core Personal Consumption Expenditures - Price Index (MoM)",
         "driver_dir": -1,
-        "n": 11,
-        "tone": -0.158,
-        "weight": 22.1
+        "n": 13,
+        "tone": 0.038,
+        "weight": 26.6
       }
     },
     "week": "2026-W32"

@@ -108,5 +108,49 @@
     "previous": "32.11",
     "unit": "%",
     "worse": true
+  },
+  "US|ISM Manufacturing Employment Index|2026-08-03": {
+    "actual": "52.8",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-03",
+    "indicator": "ISM Manufacturing Employment Index",
+    "previous": "49.7",
+    "unit": "",
+    "worse": false
+  },
+  "US|ISM Manufacturing New Orders Index|2026-08-03": {
+    "actual": "56.7",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-03",
+    "indicator": "ISM Manufacturing New Orders Index",
+    "previous": "56",
+    "unit": "",
+    "worse": false
+  },
+  "US|ISM Manufacturing Prices Paid|2026-08-03": {
+    "actual": "71.1",
+    "better": true,
+    "consensus": "70.3",
+    "country": "US",
+    "date": "2026-08-03",
+    "indicator": "ISM Manufacturing Prices Paid",
+    "previous": "73",
+    "unit": "",
+    "worse": false
+  },
+  "US|Manufacturing PMI|2026-08-03": {
+    "actual": "55.6",
+    "better": true,
+    "consensus": "54",
+    "country": "US",
+    "date": "2026-08-03",
+    "indicator": "Manufacturing PMI",
+    "previous": "53.3",
+    "unit": "",
+    "worse": false
   }
 }
