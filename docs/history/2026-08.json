@@ -1,0 +1,112 @@
+{
+  "AU|TD-MI Inflation Gauge|2026-08-03": {
+    "actual": "4",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-08-03",
+    "indicator": "TD-MI Inflation Gauge",
+    "previous": "3.9",
+    "unit": "%",
+    "worse": false
+  },
+  "CH|CPI|2026-08-03": {
+    "actual": "-0.1",
+    "better": false,
+    "consensus": "-0.1",
+    "country": "CH",
+    "date": "2026-08-03",
+    "indicator": "CPI",
+    "previous": "0",
+    "unit": "%",
+    "worse": false
+  },
+  "CN|Manufacturing PMI|2026-08-03": {
+    "actual": "50.9",
+    "better": false,
+    "consensus": "51.5",
+    "country": "CN",
+    "date": "2026-08-03",
+    "indicator": "Manufacturing PMI",
+    "previous": "51.7",
+    "unit": "",
+    "worse": true
+  },
+  "DE|Manufacturing PMI|2026-08-03": {
+    "actual": "52.2",
+    "better": false,
+    "consensus": "52.2",
+    "country": "DE",
+    "date": "2026-08-03",
+    "indicator": "Manufacturing PMI",
+    "previous": "52.2",
+    "unit": "",
+    "worse": false
+  },
+  "DE|Retail Sales|2026-08-03": {
+    "actual": "-1.1",
+    "better": false,
+    "consensus": "-0.5",
+    "country": "DE",
+    "date": "2026-08-03",
+    "indicator": "Retail Sales",
+    "previous": "1.1",
+    "unit": "%",
+    "worse": true
+  },
+  "ES|Manufacturing PMI|2026-08-03": {
+    "actual": "50.2",
+    "better": false,
+    "consensus": "50.7",
+    "country": "ES",
+    "date": "2026-08-03",
+    "indicator": "Manufacturing PMI",
+    "previous": "49.7",
+    "unit": "",
+    "worse": true
+  },
+  "IN|Manufacturing PMI|2026-08-03": {
+    "actual": "53.5",
+    "better": false,
+    "consensus": "53.9",
+    "country": "IN",
+    "date": "2026-08-03",
+    "indicator": "Manufacturing PMI",
+    "previous": "53.9",
+    "unit": "",
+    "worse": true
+  },
+  "IT|Manufacturing PMI|2026-08-03": {
+    "actual": "51.3",
+    "better": false,
+    "consensus": "52.5",
+    "country": "IT",
+    "date": "2026-08-03",
+    "indicator": "Manufacturing PMI",
+    "previous": "52.2",
+    "unit": "",
+    "worse": true
+  },
+  "NZ|Building Permits s.a.|2026-08-02": {
+    "actual": "-3.6",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-08-02",
+    "indicator": "Building Permits s.a.",
+    "previous": "-4",
+    "unit": "%",
+    "worse": false
+  },
+  "TR|CPI|2026-08-03": {
+    "actual": "31.75",
+    "better": false,
+    "consensus": "31.8",
+    "country": "TR",
+    "date": "2026-08-03",
+    "indicator": "CPI",
+    "previous": "32.11",
+    "unit": "%",
+    "worse": true
+  }
+}
