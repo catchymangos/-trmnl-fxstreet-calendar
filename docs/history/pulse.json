@@ -178,9 +178,9 @@
       "CA": {
         "driver": "Gross Domestic Product (MoM)",
         "driver_dir": 1,
-        "n": 1,
+        "n": 2,
         "tone": 1.0,
-        "weight": 3.0
+        "weight": 4.8
       },
       "CH": {
         "driver": "Real Retail Sales (YoY)",
@@ -262,9 +262,9 @@
       "US": {
         "driver": "Core Personal Consumption Expenditures - Price Index (MoM)",
         "driver_dir": -1,
-        "n": 12,
-        "tone": 0.008,
-        "weight": 25.8
+        "n": 14,
+        "tone": -0.051,
+        "weight": 27.4
       }
     },
     "week": "2026-W32"
