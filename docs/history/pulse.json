@@ -166,7 +166,7 @@
     "week": "2026-W31"
   },
   "2026-W32": {
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "rows": {
       "AU": {
         "driver": "Consumer Price Index (YoY)",
@@ -262,9 +262,9 @@
       "US": {
         "driver": "Core Personal Consumption Expenditures - Price Index (MoM)",
         "driver_dir": -1,
-        "n": 13,
-        "tone": 0.038,
-        "weight": 26.6
+        "n": 12,
+        "tone": 0.008,
+        "weight": 25.8
       }
     },
     "week": "2026-W32"
