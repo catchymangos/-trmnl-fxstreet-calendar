@@ -171,9 +171,9 @@
       "AU": {
         "driver": "Consumer Price Index (YoY)",
         "driver_dir": -1,
-        "n": 2,
-        "tone": -0.698,
-        "weight": 5.3
+        "n": 4,
+        "tone": -0.011,
+        "weight": 8.9
       },
       "CA": {
         "driver": "Gross Domestic Product (MoM)",
@@ -244,6 +244,13 @@
         "n": 2,
         "tone": 0.579,
         "weight": 3.8
+      },
+      "NZ": {
+        "driver": "Employment Change",
+        "driver_dir": 1,
+        "n": 4,
+        "tone": 0.151,
+        "weight": 10.6
       },
       "TR": {
         "driver": "Consumer Price Index (YoY)",
