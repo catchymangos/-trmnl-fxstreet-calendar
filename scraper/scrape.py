@@ -1,5 +1,6 @@
 import json
 import os
+import sys
 from datetime import datetime, timedelta, timezone
 from playwright.sync_api import sync_playwright
 
@@ -36,6 +37,13 @@ def scrape():
         }}""")
 
         browser.close()
+
+    # Validate the response before trusting it — a bad/empty fetch must not
+    # be allowed to overwrite a good calendar.json.
+    if not isinstance(events, list):
+        raise SystemExit(f"Aborting: API returned {type(events).__name__}, expected a list.")
+    if len(events) == 0:
+        raise SystemExit("Aborting: API returned an empty list; keeping existing calendar.json.")
 
     print(f"Fetched {len(events)} events")
     return normalize(events)
@@ -78,6 +86,9 @@ def normalize(raw):
 
 if __name__ == "__main__":
     events = scrape()
+    # Guard: never write an empty result over an existing good file.
+    if not events:
+        raise SystemExit("Aborting: 0 events after normalize; keeping existing calendar.json.")
     os.makedirs(DOCS_DIR, exist_ok=True)
     with open(OUTPUT, "w") as f:
         json.dump(events, f, indent=2)
