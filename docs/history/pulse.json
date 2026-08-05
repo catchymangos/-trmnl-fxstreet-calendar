@@ -166,14 +166,14 @@
     "week": "2026-W31"
   },
   "2026-W32": {
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "rows": {
       "AU": {
-        "driver": "Consumer Price Index (YoY)",
-        "driver_dir": -1,
-        "n": 4,
-        "tone": -0.011,
-        "weight": 8.9
+        "driver": "S&P Global Composite PMI",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 1.0,
+        "weight": 4.4
       },
       "CA": {
         "driver": "Gross Domestic Product (MoM)",
@@ -192,30 +192,30 @@
       "CN": {
         "driver": "NBS Manufacturing PMI",
         "driver_dir": -1,
-        "n": 3,
+        "n": 4,
         "tone": -1.0,
-        "weight": 8.1
+        "weight": 10.8
       },
       "DE": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 8,
-        "tone": 0.458,
-        "weight": 28.8
+        "n": 10,
+        "tone": 0.519,
+        "weight": 32.4
       },
       "EMU": {
         "driver": "Gross Domestic Product s.a. (QoQ)",
         "driver_dir": 1,
-        "n": 5,
-        "tone": 0.653,
-        "weight": 17.3
+        "n": 6,
+        "tone": 0.686,
+        "weight": 19.1
       },
       "ES": {
         "driver": "Gross Domestic Product - Estimated (QoQ)",
         "driver_dir": 1,
-        "n": 3,
-        "tone": 0.538,
-        "weight": 7.8
+        "n": 4,
+        "tone": 0.625,
+        "weight": 9.6
       },
       "FR": {
         "driver": "Consumer Price Index (EU norm) (YoY)",
@@ -227,9 +227,9 @@
       "IN": {
         "driver": "HSBC Manufacturing PMI",
         "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 1.8
+        "n": 2,
+        "tone": 0.0,
+        "weight": 3.6
       },
       "IT": {
         "driver": "Gross Domestic Product (QoQ)",

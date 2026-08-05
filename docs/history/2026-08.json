@@ -76,6 +76,28 @@
     "unit": "",
     "worse": true
   },
+  "CN|Services PMI|2026-08-05": {
+    "actual": "50.4",
+    "better": false,
+    "consensus": "53.7",
+    "country": "CN",
+    "date": "2026-08-05",
+    "indicator": "Services PMI",
+    "previous": "54.1",
+    "unit": "",
+    "worse": true
+  },
+  "DE|HCOB Composite PMI|2026-08-05": {
+    "actual": "51.3",
+    "better": true,
+    "consensus": "51.2",
+    "country": "DE",
+    "date": "2026-08-05",
+    "indicator": "HCOB Composite PMI",
+    "previous": "51.2",
+    "unit": "",
+    "worse": false
+  },
   "DE|Manufacturing PMI|2026-08-03": {
     "actual": "52.2",
     "better": false,
@@ -98,6 +120,28 @@
     "unit": "%",
     "worse": true
   },
+  "DE|Services PMI|2026-08-05": {
+    "actual": "49.8",
+    "better": true,
+    "consensus": "49.6",
+    "country": "DE",
+    "date": "2026-08-05",
+    "indicator": "Services PMI",
+    "previous": "49.6",
+    "unit": "",
+    "worse": false
+  },
+  "EMU|HCOB Composite PMI|2026-08-05": {
+    "actual": "52",
+    "better": true,
+    "consensus": "51.9",
+    "country": "EMU",
+    "date": "2026-08-05",
+    "indicator": "HCOB Composite PMI",
+    "previous": "51.9",
+    "unit": "",
+    "worse": false
+  },
   "ES|Manufacturing PMI|2026-08-03": {
     "actual": "50.2",
     "better": false,
@@ -108,6 +152,28 @@
     "previous": "49.7",
     "unit": "",
     "worse": true
+  },
+  "ES|Services PMI|2026-08-05": {
+    "actual": "58.3",
+    "better": true,
+    "consensus": "55.3",
+    "country": "ES",
+    "date": "2026-08-05",
+    "indicator": "Services PMI",
+    "previous": "54.2",
+    "unit": "",
+    "worse": false
+  },
+  "IN|HSBC Composite PMI|2026-08-05": {
+    "actual": "54.3",
+    "better": false,
+    "consensus": "54.3",
+    "country": "IN",
+    "date": "2026-08-05",
+    "indicator": "HSBC Composite PMI",
+    "previous": "54.3",
+    "unit": "",
+    "worse": false
   },
   "IN|Manufacturing PMI|2026-08-03": {
     "actual": "53.5",
@@ -120,6 +186,28 @@
     "unit": "",
     "worse": true
   },
+  "IN|Rate Decision|2026-08-05": {
+    "actual": "5.25",
+    "better": false,
+    "consensus": "5.25",
+    "country": "IN",
+    "date": "2026-08-05",
+    "indicator": "Rate Decision",
+    "previous": "5.25",
+    "unit": "%",
+    "worse": false
+  },
+  "IN|Services PMI|2026-08-05": {
+    "actual": "53.3",
+    "better": true,
+    "consensus": "53.1",
+    "country": "IN",
+    "date": "2026-08-05",
+    "indicator": "Services PMI",
+    "previous": "53.1",
+    "unit": "",
+    "worse": false
+  },
   "IT|Manufacturing PMI|2026-08-03": {
     "actual": "51.3",
     "better": false,
@@ -130,6 +218,17 @@
     "previous": "52.2",
     "unit": "",
     "worse": true
+  },
+  "JP|Labor Cash Earnings|2026-08-04": {
+    "actual": "3.4",
+    "better": false,
+    "consensus": "3.4",
+    "country": "JP",
+    "date": "2026-08-04",
+    "indicator": "Labor Cash Earnings",
+    "previous": "3.2",
+    "unit": "%",
+    "worse": false
   },
   "NZ|Building Permits s.a.|2026-08-02": {
     "actual": "-3.6",
