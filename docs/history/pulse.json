@@ -269,9 +269,71 @@
       "US": {
         "driver": "Core Personal Consumption Expenditures - Price Index (MoM)",
         "driver_dir": -1,
-        "n": 14,
-        "tone": -0.051,
-        "weight": 27.4
+        "n": 17,
+        "tone": -0.187,
+        "weight": 36.4
+      }
+    },
+    "trends": {
+      "AU": {
+        "dir": 1,
+        "streak": 1
+      },
+      "CA": {
+        "dir": 1,
+        "streak": 2
+      },
+      "CH": {
+        "dir": -1,
+        "streak": 2
+      },
+      "CN": {
+        "dir": -1,
+        "streak": 2
+      },
+      "DE": {
+        "dir": 1,
+        "streak": 3
+      },
+      "EMU": {
+        "dir": 1,
+        "streak": 3
+      },
+      "ES": {
+        "dir": 1,
+        "streak": 2
+      },
+      "FR": {
+        "dir": 1,
+        "streak": 2
+      },
+      "IN": {
+        "dir": 0,
+        "streak": 0
+      },
+      "IT": {
+        "dir": 1,
+        "streak": 2
+      },
+      "JP": {
+        "dir": 1,
+        "streak": 2
+      },
+      "NZ": {
+        "dir": 1,
+        "streak": 1
+      },
+      "TR": {
+        "dir": -1,
+        "streak": 1
+      },
+      "UK": {
+        "dir": 1,
+        "streak": 3
+      },
+      "US": {
+        "dir": -1,
+        "streak": 2
       }
     },
     "week": "2026-W32"

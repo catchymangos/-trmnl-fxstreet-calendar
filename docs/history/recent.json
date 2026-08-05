@@ -1581,6 +1581,17 @@
     "unit": "",
     "worse": false
   },
+  "US|ADP Jobs|2026-08-05": {
+    "actual": "44",
+    "better": false,
+    "consensus": "70",
+    "country": "US",
+    "date": "2026-08-05",
+    "indicator": "ADP Jobs",
+    "previous": "98",
+    "unit": "",
+    "worse": true
+  },
   "US|Building Permits|2026-07-17": {
     "actual": "1.367",
     "better": false,
@@ -1763,6 +1774,39 @@
     "date": "2026-08-03",
     "indicator": "ISM Manufacturing Prices Paid",
     "previous": "73",
+    "unit": "",
+    "worse": false
+  },
+  "US|ISM Services Employment Index|2026-08-05": {
+    "actual": "47.4",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-05",
+    "indicator": "ISM Services Employment Index",
+    "previous": "51.2",
+    "unit": "",
+    "worse": false
+  },
+  "US|ISM Services New Orders Index|2026-08-05": {
+    "actual": "57.2",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-05",
+    "indicator": "ISM Services New Orders Index",
+    "previous": "55.1",
+    "unit": "",
+    "worse": false
+  },
+  "US|ISM Services Prices Paid|2026-08-05": {
+    "actual": "70.3",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-05",
+    "indicator": "ISM Services Prices Paid",
+    "previous": "67.7",
     "unit": "",
     "worse": false
   },
@@ -2048,6 +2092,17 @@
     "unit": "",
     "worse": false
   },
+  "US|S&P Global Composite PMI|2026-08-05": {
+    "actual": "54.5",
+    "better": true,
+    "consensus": "53.6",
+    "country": "US",
+    "date": "2026-08-05",
+    "indicator": "S&P Global Composite PMI",
+    "previous": "53.6",
+    "unit": "",
+    "worse": false
+  },
   "US|Services PMI|2026-07-24": {
     "actual": "53.6",
     "better": true,
@@ -2058,6 +2113,17 @@
     "previous": "51.2",
     "unit": "",
     "worse": false
+  },
+  "US|Services PMI|2026-08-05": {
+    "actual": "54.1",
+    "better": false,
+    "consensus": "54.5",
+    "country": "US",
+    "date": "2026-08-05",
+    "indicator": "Services PMI",
+    "previous": "54",
+    "unit": "",
+    "worse": true
   },
   "US|UoM 1-year Consumer Inflation Expectations|2026-07-17": {
     "actual": "4.2",
