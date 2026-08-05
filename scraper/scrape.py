@@ -43,7 +43,6 @@ def scrape():
 
 def normalize(raw):
     out = []
-    now_iso = datetime.now(timezone.utc).isoformat()
     vol_map = {"high": "High", "medium": "Medium", "low": "Low", "none": "Low"}
     for ev in raw:
         try:
@@ -69,7 +68,6 @@ def normalize(raw):
                 "currency": ev.get("currencyCode") or "",
                 "better": is_better is True,
                 "worse": is_better is False and actual is not None and consensus is not None,
-                "scraped": now_iso,
             })
         except Exception as e:
             print(f"Skip: {e}")
