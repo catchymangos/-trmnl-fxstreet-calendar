@@ -735,6 +735,17 @@
     "unit": "",
     "worse": false
   },
+  "EMU|PPI|2026-08-05": {
+    "actual": "-0.3",
+    "better": false,
+    "consensus": "-0.3",
+    "country": "EMU",
+    "date": "2026-08-05",
+    "indicator": "PPI",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
   "EMU|Services PMI|2026-07-24": {
     "actual": "51.6",
     "better": true,
