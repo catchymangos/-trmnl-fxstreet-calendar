@@ -801,6 +801,17 @@
     "unit": "%",
     "worse": false
   },
+  "EMU|Retail Sales|2026-08-06": {
+    "actual": "-0.3",
+    "better": false,
+    "consensus": "0.1",
+    "country": "EMU",
+    "date": "2026-08-06",
+    "indicator": "Retail Sales",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": true
+  },
   "EMU|Services PMI|2026-07-24": {
     "actual": "51.6",
     "better": true,
@@ -1668,6 +1679,17 @@
     "previous": "2.9",
     "unit": "%",
     "worse": true
+  },
+  "US|Challenger Job Cuts|2026-08-06": {
+    "actual": "33.429",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-06",
+    "indicator": "Challenger Job Cuts",
+    "previous": "45.849",
+    "unit": "",
+    "worse": false
   },
   "US|Chicago PMI|2026-07-31": {
     "actual": "57.6",

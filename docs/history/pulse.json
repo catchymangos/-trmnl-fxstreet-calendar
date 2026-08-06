@@ -206,9 +206,9 @@
       "EMU": {
         "driver": "Core Harmonized Index of Consumer Prices (YoY)",
         "driver_dir": 1,
-        "n": 2,
-        "tone": 1.0,
-        "weight": 6.3
+        "n": 4,
+        "tone": 0.167,
+        "weight": 10.8
       },
       "ES": {
         "driver": "HCOB Manufacturing PMI",
