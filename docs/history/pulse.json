@@ -166,14 +166,14 @@
     "week": "2026-W31"
   },
   "2026-W32": {
-    "date": "2026-08-05",
+    "date": "2026-08-06",
     "rows": {
       "AU": {
-        "driver": "S&P Global Composite PMI",
+        "driver": "Trade Balance (MoM)",
         "driver_dir": 1,
         "n": 3,
         "tone": 1.0,
-        "weight": 4.4
+        "weight": 6.3
       },
       "CA": {
         "driver": "Gross Domestic Product (MoM)",
@@ -197,25 +197,25 @@
         "weight": 10.8
       },
       "DE": {
-        "driver": "Gross Domestic Product (QoQ)",
-        "driver_dir": 1,
-        "n": 10,
-        "tone": 0.519,
-        "weight": 32.4
+        "driver": "Unemployment Change",
+        "driver_dir": -1,
+        "n": 6,
+        "tone": -0.279,
+        "weight": 12.2
       },
       "EMU": {
-        "driver": "Gross Domestic Product s.a. (QoQ)",
+        "driver": "Core Harmonized Index of Consumer Prices (YoY)",
         "driver_dir": 1,
-        "n": 6,
-        "tone": 0.686,
-        "weight": 19.1
+        "n": 2,
+        "tone": 1.0,
+        "weight": 6.3
       },
       "ES": {
-        "driver": "Gross Domestic Product - Estimated (QoQ)",
-        "driver_dir": 1,
-        "n": 4,
-        "tone": 0.625,
-        "weight": 9.6
+        "driver": "HCOB Manufacturing PMI",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": 0.0,
+        "weight": 3.6
       },
       "FR": {
         "driver": "Consumer Price Index (EU norm) (YoY)",
@@ -232,18 +232,11 @@
         "weight": 3.6
       },
       "IT": {
-        "driver": "Gross Domestic Product (QoQ)",
-        "driver_dir": 1,
-        "n": 4,
-        "tone": 0.667,
-        "weight": 10.8
-      },
-      "JP": {
-        "driver": "Tokyo CPI ex Fresh Food (YoY)",
+        "driver": "Consumer Price Index (EU Norm) (YoY)",
         "driver_dir": 1,
         "n": 2,
-        "tone": 0.579,
-        "weight": 3.8
+        "tone": 0.25,
+        "weight": 4.8
       },
       "NZ": {
         "driver": "Employment Change",
@@ -259,19 +252,12 @@
         "tone": -1.0,
         "weight": 3.0
       },
-      "UK": {
-        "driver": "BoE MPC Vote Rate Hike",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 1.2
-      },
       "US": {
-        "driver": "Core Personal Consumption Expenditures - Price Index (MoM)",
+        "driver": "ADP Employment Change",
         "driver_dir": -1,
-        "n": 17,
-        "tone": -0.187,
-        "weight": 36.4
+        "n": 11,
+        "tone": 0.038,
+        "weight": 18.3
       }
     },
     "trends": {
@@ -292,16 +278,16 @@
         "streak": 2
       },
       "DE": {
-        "dir": 1,
-        "streak": 3
+        "dir": -1,
+        "streak": 1
       },
       "EMU": {
         "dir": 1,
         "streak": 3
       },
       "ES": {
-        "dir": 1,
-        "streak": 2
+        "dir": 0,
+        "streak": 0
       },
       "FR": {
         "dir": 1,
@@ -315,10 +301,6 @@
         "dir": 1,
         "streak": 2
       },
-      "JP": {
-        "dir": 1,
-        "streak": 2
-      },
       "NZ": {
         "dir": 1,
         "streak": 1
@@ -327,13 +309,9 @@
         "dir": -1,
         "streak": 1
       },
-      "UK": {
-        "dir": 1,
-        "streak": 3
-      },
       "US": {
-        "dir": -1,
-        "streak": 2
+        "dir": 0,
+        "streak": 0
       }
     },
     "week": "2026-W32"

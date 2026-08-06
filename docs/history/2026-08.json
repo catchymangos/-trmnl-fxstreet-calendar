@@ -10,6 +10,28 @@
     "unit": "",
     "worse": false
   },
+  "AU|Exports|2026-08-06": {
+    "actual": "9.6",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-08-06",
+    "indicator": "Exports",
+    "previous": "-6.9",
+    "unit": "%",
+    "worse": false
+  },
+  "AU|Imports|2026-08-06": {
+    "actual": "-0.2",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-08-06",
+    "indicator": "Imports",
+    "previous": "2.6",
+    "unit": "%",
+    "worse": false
+  },
   "AU|S&P Global Composite PMI|2026-08-04": {
     "actual": "53.2",
     "better": true,
@@ -41,6 +63,17 @@
     "indicator": "TD-MI Inflation Gauge",
     "previous": "3.9",
     "unit": "%",
+    "worse": false
+  },
+  "AU|Trade Balance|2026-08-06": {
+    "actual": "1929",
+    "better": true,
+    "consensus": "-1100",
+    "country": "AU",
+    "date": "2026-08-06",
+    "indicator": "Trade Balance",
+    "previous": "-3018",
+    "unit": "",
     "worse": false
   },
   "CA|Manufacturing PMI|2026-08-04": {
@@ -86,6 +119,28 @@
     "previous": "54.1",
     "unit": "",
     "worse": true
+  },
+  "DE|Factory Orders n.s.a.|2026-08-06": {
+    "actual": "6.5",
+    "better": false,
+    "consensus": "",
+    "country": "DE",
+    "date": "2026-08-06",
+    "indicator": "Factory Orders n.s.a.",
+    "previous": "6.2",
+    "unit": "%",
+    "worse": false
+  },
+  "DE|Factory Orders s.a.|2026-08-06": {
+    "actual": "3.1",
+    "better": true,
+    "consensus": "0.3",
+    "country": "DE",
+    "date": "2026-08-06",
+    "indicator": "Factory Orders s.a.",
+    "previous": "1.9",
+    "unit": "%",
+    "worse": false
   },
   "DE|HCOB Composite PMI|2026-08-05": {
     "actual": "51.3",
