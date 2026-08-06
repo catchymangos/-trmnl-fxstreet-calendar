@@ -307,6 +307,17 @@
     "unit": "%",
     "worse": false
   },
+  "MX|Rate Decision|2026-08-06": {
+    "actual": "6.5",
+    "better": false,
+    "consensus": "6.5",
+    "country": "MX",
+    "date": "2026-08-06",
+    "indicator": "Rate Decision",
+    "previous": "6.5",
+    "unit": "%",
+    "worse": false
+  },
   "NZ|Building Permits s.a.|2026-08-02": {
     "actual": "-3.6",
     "better": false,
@@ -461,6 +472,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Initial Jobless Claims|2026-08-06": {
+    "actual": "199",
+    "better": true,
+    "consensus": "202",
+    "country": "US",
+    "date": "2026-08-06",
+    "indicator": "Initial Jobless Claims",
+    "previous": "197",
+    "unit": "",
+    "worse": false
+  },
   "US|JOLTS Job Openings|2026-08-04": {
     "actual": "7.359",
     "better": false,
@@ -483,6 +505,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Nonfarm Productivity|2026-08-06": {
+    "actual": "1.4",
+    "better": true,
+    "consensus": "0.6",
+    "country": "US",
+    "date": "2026-08-06",
+    "indicator": "Nonfarm Productivity",
+    "previous": "0.3",
+    "unit": "%",
+    "worse": false
+  },
   "US|S&P Global Composite PMI|2026-08-05": {
     "actual": "54.5",
     "better": true,
@@ -503,6 +536,17 @@
     "indicator": "Services PMI",
     "previous": "54",
     "unit": "",
+    "worse": true
+  },
+  "US|Unit Labor Costs|2026-08-06": {
+    "actual": "1.3",
+    "better": false,
+    "consensus": "2",
+    "country": "US",
+    "date": "2026-08-06",
+    "indicator": "Unit Labor Costs",
+    "previous": "1.8",
+    "unit": "%",
     "worse": true
   }
 }
