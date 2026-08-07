@@ -176,11 +176,11 @@
         "weight": 6.3
       },
       "CA": {
-        "driver": "S&P Global Manufacturing PMI",
+        "driver": "Net Change in Employment",
         "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 1.8
+        "n": 4,
+        "tone": 0.714,
+        "weight": 12.6
       },
       "CN": {
         "driver": "RatingDog Manufacturing PMI",
@@ -241,9 +241,9 @@
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": -1,
-        "n": 10,
-        "tone": -0.097,
-        "weight": 17.5
+        "n": 14,
+        "tone": -0.283,
+        "weight": 30.4
       }
     },
     "trends": {
@@ -288,8 +288,8 @@
         "streak": 1
       },
       "US": {
-        "dir": 0,
-        "streak": 0
+        "dir": -1,
+        "streak": 2
       }
     },
     "week": "2026-W32"

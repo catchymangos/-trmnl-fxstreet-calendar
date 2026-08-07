@@ -196,6 +196,17 @@
     "unit": "",
     "worse": false
   },
+  "CA|Employment Change|2026-08-07": {
+    "actual": "75.1",
+    "better": true,
+    "consensus": "15",
+    "country": "CA",
+    "date": "2026-08-07",
+    "indicator": "Employment Change",
+    "previous": "18.2",
+    "unit": "",
+    "worse": false
+  },
   "CA|GDP|2026-07-31": {
     "actual": "0.3",
     "better": true,
@@ -205,6 +216,28 @@
     "indicator": "GDP",
     "previous": "0.5",
     "unit": "%",
+    "worse": false
+  },
+  "CA|Ivey Purchasing Managers Index s.a|2026-08-07": {
+    "actual": "55.1",
+    "better": false,
+    "consensus": "55.5",
+    "country": "CA",
+    "date": "2026-08-07",
+    "indicator": "Ivey Purchasing Managers Index s.a",
+    "previous": "56.2",
+    "unit": "",
+    "worse": true
+  },
+  "CA|Ivey Purchasing Managers Index|2026-08-07": {
+    "actual": "54.1",
+    "better": false,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-08-07",
+    "indicator": "Ivey Purchasing Managers Index",
+    "previous": "59.7",
+    "unit": "",
     "worse": false
   },
   "CA|Manufacturing PMI|2026-08-04": {
@@ -258,6 +291,17 @@
     "unit": "%",
     "worse": false
   },
+  "CA|Unemployment Rate|2026-08-07": {
+    "actual": "6.4",
+    "better": true,
+    "consensus": "6.5",
+    "country": "CA",
+    "date": "2026-08-07",
+    "indicator": "Unemployment Rate",
+    "previous": "6.5",
+    "unit": "%",
+    "worse": false
+  },
   "CA|Wage Growth|2026-07-10": {
     "actual": "3.7",
     "consensus": "",
@@ -266,6 +310,17 @@
     "indicator": "Wage Growth",
     "previous": "3.2",
     "unit": "%"
+  },
+  "CA|Wage Growth|2026-08-07": {
+    "actual": "3",
+    "better": false,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-08-07",
+    "indicator": "Wage Growth",
+    "previous": "3.7",
+    "unit": "%",
+    "worse": false
   },
   "CH|CPI|2026-08-03": {
     "actual": "-0.1",
@@ -1288,6 +1343,17 @@
     "previous": "-0.21",
     "unit": "%"
   },
+  "MX|Headline Inflation|2026-08-07": {
+    "actual": "0.03",
+    "better": false,
+    "consensus": "0.03",
+    "country": "MX",
+    "date": "2026-08-07",
+    "indicator": "Headline Inflation",
+    "previous": "-0.27",
+    "unit": "%",
+    "worse": false
+  },
   "MX|Rate Decision|2026-08-06": {
     "actual": "6.5",
     "better": false,
@@ -1724,6 +1790,17 @@
     "unit": "",
     "worse": true
   },
+  "US|Average Hourly Earnings|2026-08-07": {
+    "actual": "0.1",
+    "better": false,
+    "consensus": "0.3",
+    "country": "US",
+    "date": "2026-08-07",
+    "indicator": "Average Hourly Earnings",
+    "previous": "0.3",
+    "unit": "%",
+    "worse": true
+  },
   "US|Building Permits|2026-07-17": {
     "actual": "1.367",
     "better": false,
@@ -1822,6 +1899,17 @@
     "previous": "-4.5",
     "unit": "%",
     "worse": true
+  },
+  "US|Employment Change|2026-08-07": {
+    "actual": "61.4",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-07",
+    "indicator": "Employment Change",
+    "previous": "61.5",
+    "unit": "%",
+    "worse": false
   },
   "US|Employment Cost Index|2026-07-31": {
     "actual": "0.9",
@@ -2136,6 +2224,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|Nonfarm Payrolls|2026-08-07": {
+    "actual": "-23",
+    "better": false,
+    "consensus": "80",
+    "country": "US",
+    "date": "2026-08-07",
+    "indicator": "Nonfarm Payrolls",
+    "previous": "57",
+    "unit": "",
+    "worse": true
+  },
   "US|Nonfarm Productivity|2026-08-06": {
     "actual": "1.4",
     "better": true,
@@ -2289,6 +2388,28 @@
     "previous": "54",
     "unit": "",
     "worse": true
+  },
+  "US|U6 Underemployment Rate|2026-08-07": {
+    "actual": "7.9",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-07",
+    "indicator": "U6 Underemployment Rate",
+    "previous": "7.9",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Unemployment Rate|2026-08-07": {
+    "actual": "4.1",
+    "better": true,
+    "consensus": "4.2",
+    "country": "US",
+    "date": "2026-08-07",
+    "indicator": "Unemployment Rate",
+    "previous": "4.2",
+    "unit": "%",
+    "worse": false
   },
   "US|Unit Labor Costs|2026-08-06": {
     "actual": "1.3",
