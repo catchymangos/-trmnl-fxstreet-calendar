@@ -98,6 +98,28 @@
     "unit": "%",
     "worse": false
   },
+  "CN|Exports|2026-08-07": {
+    "actual": "23.9",
+    "better": true,
+    "consensus": "22.2",
+    "country": "CN",
+    "date": "2026-08-07",
+    "indicator": "Exports",
+    "previous": "27",
+    "unit": "%",
+    "worse": false
+  },
+  "CN|Imports|2026-08-07": {
+    "actual": "27.5",
+    "better": false,
+    "consensus": "27.9",
+    "country": "CN",
+    "date": "2026-08-07",
+    "indicator": "Imports",
+    "previous": "36",
+    "unit": "%",
+    "worse": true
+  },
   "CN|Manufacturing PMI|2026-08-03": {
     "actual": "50.9",
     "better": false,
@@ -119,6 +141,17 @@
     "previous": "54.1",
     "unit": "",
     "worse": true
+  },
+  "CN|Trade Balance|2026-08-07": {
+    "actual": "767.07",
+    "better": true,
+    "consensus": "740",
+    "country": "CN",
+    "date": "2026-08-07",
+    "indicator": "Trade Balance",
+    "previous": "859.05",
+    "unit": "",
+    "worse": false
   },
   "DE|Factory Orders n.s.a.|2026-08-06": {
     "actual": "6.5",
@@ -153,6 +186,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|Industrial Production|2026-08-07": {
+    "actual": "-0.1",
+    "better": true,
+    "consensus": "",
+    "country": "DE",
+    "date": "2026-08-07",
+    "indicator": "Industrial Production",
+    "previous": "0",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Manufacturing PMI|2026-08-03": {
     "actual": "52.2",
     "better": false,
@@ -185,6 +229,17 @@
     "previous": "49.6",
     "unit": "",
     "worse": false
+  },
+  "DE|Trade Balance|2026-08-07": {
+    "actual": "15.4",
+    "better": false,
+    "consensus": "17.4",
+    "country": "DE",
+    "date": "2026-08-07",
+    "indicator": "Trade Balance",
+    "previous": "19.1",
+    "unit": "\u20ac",
+    "worse": true
   },
   "EMU|HCOB Composite PMI|2026-08-05": {
     "actual": "52",

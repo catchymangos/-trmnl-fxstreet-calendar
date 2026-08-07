@@ -166,7 +166,7 @@
     "week": "2026-W31"
   },
   "2026-W32": {
-    "date": "2026-08-06",
+    "date": "2026-08-07",
     "rows": {
       "AU": {
         "driver": "Trade Balance (MoM)",
@@ -176,39 +176,32 @@
         "weight": 6.3
       },
       "CA": {
-        "driver": "Gross Domestic Product (MoM)",
+        "driver": "S&P Global Manufacturing PMI",
         "driver_dir": 1,
-        "n": 2,
-        "tone": 1.0,
-        "weight": 4.8
-      },
-      "CH": {
-        "driver": "Real Retail Sales (YoY)",
-        "driver_dir": -1,
         "n": 1,
-        "tone": -1.0,
+        "tone": 1.0,
         "weight": 1.8
       },
       "CN": {
-        "driver": "NBS Manufacturing PMI",
-        "driver_dir": -1,
-        "n": 4,
-        "tone": -1.0,
-        "weight": 10.8
-      },
-      "DE": {
-        "driver": "Unemployment Change",
+        "driver": "RatingDog Manufacturing PMI",
         "driver_dir": -1,
         "n": 6,
-        "tone": -0.279,
-        "weight": 12.2
+        "tone": -0.17,
+        "weight": 10.6
+      },
+      "DE": {
+        "driver": "Retail Sales (MoM)",
+        "driver_dir": -1,
+        "n": 6,
+        "tone": 0.265,
+        "weight": 9.8
       },
       "EMU": {
-        "driver": "Core Harmonized Index of Consumer Prices (YoY)",
-        "driver_dir": 1,
-        "n": 4,
-        "tone": 0.167,
-        "weight": 10.8
+        "driver": "Retail Sales (YoY)",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -0.429,
+        "weight": 6.3
       },
       "ES": {
         "driver": "HCOB Manufacturing PMI",
@@ -216,13 +209,6 @@
         "n": 2,
         "tone": 0.0,
         "weight": 3.6
-      },
-      "FR": {
-        "driver": "Consumer Price Index (EU norm) (YoY)",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 3.0
       },
       "IN": {
         "driver": "HSBC Manufacturing PMI",
@@ -232,11 +218,11 @@
         "weight": 3.6
       },
       "IT": {
-        "driver": "Consumer Price Index (EU Norm) (YoY)",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 0.25,
-        "weight": 4.8
+        "driver": "HCOB Manufacturing PMI",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 1.8
       },
       "NZ": {
         "driver": "Employment Change",
@@ -255,9 +241,9 @@
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": -1,
-        "n": 14,
-        "tone": 0.072,
-        "weight": 20.7
+        "n": 10,
+        "tone": -0.097,
+        "weight": 17.5
       }
     },
     "trends": {
@@ -269,37 +255,29 @@
         "dir": 1,
         "streak": 2
       },
-      "CH": {
-        "dir": -1,
-        "streak": 2
-      },
       "CN": {
         "dir": -1,
         "streak": 2
       },
       "DE": {
-        "dir": -1,
-        "streak": 1
-      },
-      "EMU": {
         "dir": 1,
         "streak": 3
+      },
+      "EMU": {
+        "dir": -1,
+        "streak": 1
       },
       "ES": {
         "dir": 0,
         "streak": 0
-      },
-      "FR": {
-        "dir": 1,
-        "streak": 2
       },
       "IN": {
         "dir": 0,
         "streak": 0
       },
       "IT": {
-        "dir": 1,
-        "streak": 2
+        "dir": -1,
+        "streak": 1
       },
       "NZ": {
         "dir": 1,

@@ -320,6 +320,17 @@
     "unit": "%",
     "worse": false
   },
+  "CN|Exports|2026-08-07": {
+    "actual": "23.9",
+    "better": true,
+    "consensus": "22.2",
+    "country": "CN",
+    "date": "2026-08-07",
+    "indicator": "Exports",
+    "previous": "27",
+    "unit": "%",
+    "worse": false
+  },
   "CN|GDP|2026-07-15": {
     "actual": "4.3",
     "better": false,
@@ -341,6 +352,17 @@
     "previous": "21.5",
     "unit": "%",
     "worse": false
+  },
+  "CN|Imports|2026-08-07": {
+    "actual": "27.5",
+    "better": false,
+    "consensus": "27.9",
+    "country": "CN",
+    "date": "2026-08-07",
+    "indicator": "Imports",
+    "previous": "36",
+    "unit": "%",
+    "worse": true
   },
   "CN|Industrial Production|2026-07-15": {
     "actual": "5.3",
@@ -424,6 +446,17 @@
     "indicator": "Trade Balance",
     "previous": "105.43",
     "unit": "$",
+    "worse": false
+  },
+  "CN|Trade Balance|2026-08-07": {
+    "actual": "767.07",
+    "better": true,
+    "consensus": "740",
+    "country": "CN",
+    "date": "2026-08-07",
+    "indicator": "Trade Balance",
+    "previous": "859.05",
+    "unit": "",
     "worse": false
   },
   "DE|CPI|2026-07-30": {
@@ -525,6 +558,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|Industrial Production|2026-08-07": {
+    "actual": "-0.1",
+    "better": true,
+    "consensus": "",
+    "country": "DE",
+    "date": "2026-08-07",
+    "indicator": "Industrial Production",
+    "previous": "0",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Inflation|2026-07-10": {
     "actual": "2.4",
     "consensus": "2.4",
@@ -619,6 +663,17 @@
     "indicator": "Trade Balance",
     "previous": "14.5",
     "unit": "\u20ac"
+  },
+  "DE|Trade Balance|2026-08-07": {
+    "actual": "15.4",
+    "better": false,
+    "consensus": "17.4",
+    "country": "DE",
+    "date": "2026-08-07",
+    "indicator": "Trade Balance",
+    "previous": "19.1",
+    "unit": "\u20ac",
+    "worse": true
   },
   "DE|Unemployment Rate|2026-07-31": {
     "actual": "6.4",
