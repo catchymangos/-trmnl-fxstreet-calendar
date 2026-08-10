@@ -1094,6 +1094,17 @@
     "unit": "",
     "worse": false
   },
+  "ID|Consumer Confidence|2026-08-10": {
+    "actual": "116.8",
+    "better": false,
+    "consensus": "",
+    "country": "ID",
+    "date": "2026-08-10",
+    "indicator": "Consumer Confidence",
+    "previous": "117.8",
+    "unit": "",
+    "worse": false
+  },
   "IN|HSBC Composite PMI|2026-07-24": {
     "actual": "54.3",
     "better": false,
@@ -1236,6 +1247,17 @@
     "previous": "1.7",
     "unit": "%",
     "worse": false
+  },
+  "JP|Current Account n.s.a.|2026-08-09": {
+    "actual": "-92.3",
+    "better": false,
+    "consensus": "1512",
+    "country": "JP",
+    "date": "2026-08-09",
+    "indicator": "Current Account n.s.a.",
+    "previous": "3968.3",
+    "unit": "\u00a5",
+    "worse": true
   },
   "JP|Exports|2026-07-21": {
     "actual": "19.3",

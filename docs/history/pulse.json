@@ -293,5 +293,112 @@
       }
     },
     "week": "2026-W32"
+  },
+  "2026-W33": {
+    "date": "2026-08-10",
+    "rows": {
+      "AU": {
+        "driver": "Trade Balance (MoM)",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 1.0,
+        "weight": 6.3
+      },
+      "CA": {
+        "driver": "Net Change in Employment",
+        "driver_dir": 1,
+        "n": 4,
+        "tone": 0.714,
+        "weight": 12.6
+      },
+      "CN": {
+        "driver": "RatingDog Services PMI",
+        "driver_dir": -1,
+        "n": 5,
+        "tone": 0.114,
+        "weight": 7.9
+      },
+      "DE": {
+        "driver": "HCOB Composite PMI",
+        "driver_dir": 1,
+        "n": 5,
+        "tone": 0.55,
+        "weight": 8.0
+      },
+      "EMU": {
+        "driver": "Retail Sales (YoY)",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -0.429,
+        "weight": 6.3
+      },
+      "ES": {
+        "driver": "HCOB Services PMI",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.8
+      },
+      "IN": {
+        "driver": "HSBC Services PMI",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.8
+      },
+      "NZ": {
+        "driver": "Employment Change",
+        "driver_dir": 1,
+        "n": 4,
+        "tone": 0.151,
+        "weight": 10.6
+      },
+      "US": {
+        "driver": "ADP Employment Change",
+        "driver_dir": -1,
+        "n": 12,
+        "tone": -0.506,
+        "weight": 25.9
+      }
+    },
+    "trends": {
+      "AU": {
+        "dir": 1,
+        "streak": 2
+      },
+      "CA": {
+        "dir": 1,
+        "streak": 3
+      },
+      "CN": {
+        "dir": 0,
+        "streak": 0
+      },
+      "DE": {
+        "dir": 1,
+        "streak": 4
+      },
+      "EMU": {
+        "dir": -1,
+        "streak": 2
+      },
+      "ES": {
+        "dir": 1,
+        "streak": 1
+      },
+      "IN": {
+        "dir": 1,
+        "streak": 1
+      },
+      "NZ": {
+        "dir": 1,
+        "streak": 2
+      },
+      "US": {
+        "dir": -1,
+        "streak": 3
+      }
+    },
+    "week": "2026-W33"
   }
 }
