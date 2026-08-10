@@ -351,6 +351,17 @@
     "unit": "%",
     "worse": true
   },
+  "EMU|Sentix Investor Confidence|2026-08-10": {
+    "actual": "0.9",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-08-10",
+    "indicator": "Sentix Investor Confidence",
+    "previous": "-3.1",
+    "unit": "",
+    "worse": false
+  },
   "ES|Manufacturing PMI|2026-08-03": {
     "actual": "50.2",
     "better": false,
