@@ -295,21 +295,21 @@
     "week": "2026-W32"
   },
   "2026-W33": {
-    "date": "2026-08-10",
+    "date": "2026-08-11",
     "rows": {
       "AU": {
         "driver": "Trade Balance (MoM)",
         "driver_dir": 1,
-        "n": 3,
+        "n": 1,
         "tone": 1.0,
-        "weight": 6.3
+        "weight": 2.7
       },
       "CA": {
         "driver": "Net Change in Employment",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 0.714,
-        "weight": 12.6
+        "n": 3,
+        "tone": 0.667,
+        "weight": 10.8
       },
       "CN": {
         "driver": "RatingDog Services PMI",
@@ -346,19 +346,19 @@
         "tone": 1.0,
         "weight": 1.8
       },
-      "NZ": {
-        "driver": "Employment Change",
-        "driver_dir": 1,
-        "n": 4,
-        "tone": 0.151,
-        "weight": 10.6
+      "UK": {
+        "driver": "BRC Like-For-Like Retail Sales (YoY)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 1.8
       },
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": -1,
-        "n": 12,
-        "tone": -0.506,
-        "weight": 25.9
+        "n": 10,
+        "tone": -0.473,
+        "weight": 24.3
       }
     },
     "trends": {
@@ -390,9 +390,9 @@
         "dir": 1,
         "streak": 1
       },
-      "NZ": {
-        "dir": 1,
-        "streak": 2
+      "UK": {
+        "dir": -1,
+        "streak": 1
       },
       "US": {
         "dir": -1,
