@@ -1867,6 +1867,17 @@
     "unit": "",
     "worse": true
   },
+  "US|ADP Jobs|2026-08-11": {
+    "actual": "8.25",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-11",
+    "indicator": "ADP Jobs",
+    "previous": "15",
+    "unit": "",
+    "worse": false
+  },
   "US|Average Hourly Earnings|2026-08-07": {
     "actual": "0.1",
     "better": false,
@@ -2007,6 +2018,17 @@
     "indicator": "Existing Home Sales Change",
     "previous": "3.2",
     "unit": "%"
+  },
+  "US|Existing Home Sales Change|2026-08-11": {
+    "actual": "-1.7",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-11",
+    "indicator": "Existing Home Sales Change",
+    "previous": "-2.4",
+    "unit": "%",
+    "worse": false
   },
   "US|Factory Orders|2026-08-04": {
     "actual": "-0.3",
