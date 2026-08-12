@@ -626,6 +626,17 @@
     "unit": "%",
     "worse": true
   },
+  "US|CPI|2026-08-12": {
+    "actual": "0.1",
+    "better": false,
+    "consensus": "0.1",
+    "country": "US",
+    "date": "2026-08-12",
+    "indicator": "CPI",
+    "previous": "-0.4",
+    "unit": "%",
+    "worse": false
+  },
   "US|Challenger Job Cuts|2026-08-06": {
     "actual": "33.429",
     "better": false,
