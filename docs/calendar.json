@@ -8629,13 +8629,13 @@
     "country": "US",
     "date_utc": "2026-08-12T18:00:00Z",
     "impact": "Medium",
-    "actual": "",
+    "actual": "-432",
     "consensus": "-346",
     "previous": "-120",
     "unit": "$",
     "currency": "USD",
     "better": false,
-    "worse": false
+    "worse": true
   },
   {
     "id": "75a2b71e-f7a6-423b-ab45-456bb83cfbe1",

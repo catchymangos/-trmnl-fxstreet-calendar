@@ -780,6 +780,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Monthly Budget Statement|2026-08-12": {
+    "actual": "-432",
+    "better": false,
+    "consensus": "-346",
+    "country": "US",
+    "date": "2026-08-12",
+    "indicator": "Monthly Budget Statement",
+    "previous": "-120",
+    "unit": "$",
+    "worse": true
+  },
   "US|Nonfarm Payrolls|2026-08-07": {
     "actual": "-23",
     "better": false,
