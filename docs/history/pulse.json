@@ -332,6 +332,13 @@
         "tone": -1.0,
         "weight": 4.5
       },
+      "IT": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 3.0
+      },
       "UK": {
         "driver": "BRC Like-For-Like Retail Sales (YoY)",
         "driver_dir": -1,
@@ -367,6 +374,10 @@
       "EMU": {
         "dir": -1,
         "streak": 2
+      },
+      "IT": {
+        "dir": 1,
+        "streak": 1
       },
       "UK": {
         "dir": -1,

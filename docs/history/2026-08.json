@@ -461,6 +461,17 @@
     "unit": "",
     "worse": false
   },
+  "IT|CPI|2026-08-12": {
+    "actual": "2.9",
+    "better": true,
+    "consensus": "2.9",
+    "country": "IT",
+    "date": "2026-08-12",
+    "indicator": "CPI",
+    "previous": "2.9",
+    "unit": "%",
+    "worse": false
+  },
   "IT|Manufacturing PMI|2026-08-03": {
     "actual": "51.3",
     "better": false,
