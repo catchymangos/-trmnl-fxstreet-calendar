@@ -1041,6 +1041,17 @@
     "unit": "%",
     "worse": false
   },
+  "ES|Inflation|2026-08-13": {
+    "actual": "3.9",
+    "better": true,
+    "consensus": "3.8",
+    "country": "ES",
+    "date": "2026-08-13",
+    "indicator": "Inflation",
+    "previous": "3.8",
+    "unit": "%",
+    "worse": false
+  },
   "ES|Manufacturing PMI|2026-08-03": {
     "actual": "50.2",
     "better": false,
@@ -1544,6 +1555,17 @@
     "previous": "-4",
     "unit": "%"
   },
+  "NZ|RBNZ Inflation Expectations|2026-08-13": {
+    "actual": "2.34",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-08-13",
+    "indicator": "RBNZ Inflation Expectations",
+    "previous": "2.53",
+    "unit": "%",
+    "worse": false
+  },
   "NZ|Trade Balance|2026-07-19": {
     "actual": "-3.74",
     "consensus": "",
@@ -1697,6 +1719,17 @@
     "previous": "-0.1",
     "unit": "%"
   },
+  "UK|GDP|2026-08-13": {
+    "actual": "0.3",
+    "better": true,
+    "consensus": "0",
+    "country": "UK",
+    "date": "2026-08-13",
+    "indicator": "GDP",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": false
+  },
   "UK|GfK Consumer Confidence|2026-07-23": {
     "actual": "-17",
     "better": true,
@@ -1716,6 +1749,17 @@
     "date": "2026-07-16",
     "indicator": "Industrial Production",
     "previous": "0",
+    "unit": "%",
+    "worse": true
+  },
+  "UK|Industrial Production|2026-08-13": {
+    "actual": "-0.2",
+    "better": false,
+    "consensus": "0.1",
+    "country": "UK",
+    "date": "2026-08-13",
+    "indicator": "Industrial Production",
+    "previous": "-0.5",
     "unit": "%",
     "worse": true
   },
@@ -1740,6 +1784,17 @@
     "previous": "0.4",
     "unit": "%",
     "worse": false
+  },
+  "UK|Manufacturing Production|2026-08-13": {
+    "actual": "-0.5",
+    "better": false,
+    "consensus": "-0.2",
+    "country": "UK",
+    "date": "2026-08-13",
+    "indicator": "Manufacturing Production",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": true
   },
   "UK|PPI|2026-07-22": {
     "actual": "3.5",
