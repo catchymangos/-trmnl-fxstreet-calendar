@@ -2314,6 +2314,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Initial Jobless Claims|2026-08-13": {
+    "actual": "209",
+    "better": false,
+    "consensus": "202",
+    "country": "US",
+    "date": "2026-08-13",
+    "indicator": "Initial Jobless Claims",
+    "previous": "199",
+    "unit": "",
+    "worse": true
+  },
   "US|JOLTS Job Openings|2026-08-04": {
     "actual": "7.359",
     "better": false,
@@ -2474,6 +2485,17 @@
     "date": "2026-07-15",
     "indicator": "PPI",
     "previous": "4.9",
+    "unit": "%",
+    "worse": true
+  },
+  "US|PPI|2026-08-13": {
+    "actual": "0",
+    "better": false,
+    "consensus": "0.2",
+    "country": "US",
+    "date": "2026-08-13",
+    "indicator": "PPI",
+    "previous": "-0.3",
     "unit": "%",
     "worse": true
   },
