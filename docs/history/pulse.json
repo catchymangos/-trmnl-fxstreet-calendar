@@ -318,6 +318,13 @@
         "tone": 0.0,
         "weight": 3.6
       },
+      "EMU": {
+        "driver": "Industrial Production s.a. (MoM)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.8
+      },
       "ES": {
         "driver": "Harmonized Index of Consumer Prices (YoY)",
         "driver_dir": 1,
@@ -359,6 +366,10 @@
       "DE": {
         "dir": 0,
         "streak": 0
+      },
+      "EMU": {
+        "dir": 1,
+        "streak": 1
       },
       "ES": {
         "dir": 1,

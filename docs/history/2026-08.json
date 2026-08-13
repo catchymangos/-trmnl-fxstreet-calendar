@@ -351,6 +351,17 @@
     "unit": "",
     "worse": false
   },
+  "EMU|Industrial Production|2026-08-13": {
+    "actual": "0",
+    "better": true,
+    "consensus": "-0.1",
+    "country": "EMU",
+    "date": "2026-08-13",
+    "indicator": "Industrial Production",
+    "previous": "-0.2",
+    "unit": "%",
+    "worse": false
+  },
   "EMU|PPI|2026-08-05": {
     "actual": "-0.3",
     "better": false,
@@ -535,6 +546,17 @@
     "date": "2026-08-06",
     "indicator": "Rate Decision",
     "previous": "6.5",
+    "unit": "%",
+    "worse": false
+  },
+  "NO|Rate Decision|2026-08-13": {
+    "actual": "4.25",
+    "better": false,
+    "consensus": "4.25",
+    "country": "NO",
+    "date": "2026-08-13",
+    "indicator": "Rate Decision",
+    "previous": "4.25",
     "unit": "%",
     "worse": false
   },
