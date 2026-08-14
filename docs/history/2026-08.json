@@ -340,6 +340,28 @@
     "unit": "\u20ac",
     "worse": true
   },
+  "EMU|Employment Change|2026-08-14": {
+    "actual": "0.1",
+    "better": false,
+    "consensus": "0.1",
+    "country": "EMU",
+    "date": "2026-08-14",
+    "indicator": "Employment Change",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": false
+  },
+  "EMU|GDP|2026-08-14": {
+    "actual": "0.4",
+    "better": false,
+    "consensus": "0.4",
+    "country": "EMU",
+    "date": "2026-08-14",
+    "indicator": "GDP",
+    "previous": "0.4",
+    "unit": "%",
+    "worse": false
+  },
   "EMU|HCOB Composite PMI|2026-08-05": {
     "actual": "52",
     "better": true,

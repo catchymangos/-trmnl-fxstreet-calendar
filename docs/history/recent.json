@@ -869,6 +869,17 @@
     "unit": "",
     "worse": false
   },
+  "EMU|Employment Change|2026-08-14": {
+    "actual": "0.1",
+    "better": false,
+    "consensus": "0.1",
+    "country": "EMU",
+    "date": "2026-08-14",
+    "indicator": "Employment Change",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": false
+  },
   "EMU|GDP|2026-07-30": {
     "actual": "0.4",
     "better": true,
@@ -877,6 +888,17 @@
     "date": "2026-07-30",
     "indicator": "GDP",
     "previous": "-0.2",
+    "unit": "%",
+    "worse": false
+  },
+  "EMU|GDP|2026-08-14": {
+    "actual": "0.4",
+    "better": false,
+    "consensus": "0.4",
+    "country": "EMU",
+    "date": "2026-08-14",
+    "indicator": "GDP",
+    "previous": "0.4",
     "unit": "%",
     "worse": false
   },
