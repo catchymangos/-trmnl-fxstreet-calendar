@@ -2422,6 +2422,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Michigan Consumer Expectations Index|2026-08-14": {
+    "actual": "50.6",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-14",
+    "indicator": "Michigan Consumer Expectations Index",
+    "previous": "55.4",
+    "unit": "",
+    "worse": false
+  },
   "US|Michigan Consumer Sentiment Index|2026-07-17": {
     "actual": "54.4",
     "better": true,
@@ -2443,6 +2454,17 @@
     "previous": "54.4",
     "unit": "",
     "worse": false
+  },
+  "US|Michigan Consumer Sentiment Index|2026-08-14": {
+    "actual": "51",
+    "better": false,
+    "consensus": "54.5",
+    "country": "US",
+    "date": "2026-08-14",
+    "indicator": "Michigan Consumer Sentiment Index",
+    "previous": "55.2",
+    "unit": "",
+    "worse": true
   },
   "US|Monthly Budget Statement|2026-07-13": {
     "actual": "-120",
@@ -2631,6 +2653,17 @@
     "unit": "%",
     "worse": true
   },
+  "US|Retail Sales|2026-08-14": {
+    "actual": "-0.6",
+    "better": false,
+    "consensus": "0.1",
+    "country": "US",
+    "date": "2026-08-14",
+    "indicator": "Retail Sales",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": true
+  },
   "US|S&P Global Composite PMI|2026-07-24": {
     "actual": "53.6",
     "better": false,
@@ -2728,6 +2761,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|UoM 1-year Consumer Inflation Expectations|2026-08-14": {
+    "actual": "4.3",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-14",
+    "indicator": "UoM 1-year Consumer Inflation Expectations",
+    "previous": "4.2",
+    "unit": "%",
+    "worse": false
+  },
   "US|UoM 5-year Consumer Inflation Expectation|2026-07-17": {
     "actual": "3.3",
     "consensus": "",
@@ -2743,6 +2787,17 @@
     "consensus": "3.3",
     "country": "US",
     "date": "2026-07-31",
+    "indicator": "UoM 5-year Consumer Inflation Expectation",
+    "previous": "3.3",
+    "unit": "%",
+    "worse": false
+  },
+  "US|UoM 5-year Consumer Inflation Expectation|2026-08-14": {
+    "actual": "3.3",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-14",
     "indicator": "UoM 5-year Consumer Inflation Expectation",
     "previous": "3.3",
     "unit": "%",

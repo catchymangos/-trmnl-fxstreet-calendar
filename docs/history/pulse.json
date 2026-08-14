@@ -326,11 +326,11 @@
         "weight": 11.9
       },
       "US": {
-        "driver": "Producer Price Index (MoM)",
+        "driver": "Retail Sales (MoM)",
         "driver_dir": -1,
-        "n": 5,
+        "n": 8,
         "tone": -1.0,
-        "weight": 7.0
+        "weight": 12.7
       }
     },
     "trends": {
