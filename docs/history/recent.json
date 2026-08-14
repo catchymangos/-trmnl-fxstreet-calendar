@@ -1105,6 +1105,17 @@
     "unit": "%",
     "worse": false
   },
+  "FR|CPI|2026-08-14": {
+    "actual": "2.4",
+    "better": false,
+    "consensus": "2.4",
+    "country": "FR",
+    "date": "2026-08-14",
+    "indicator": "CPI",
+    "previous": "2.4",
+    "unit": "%",
+    "worse": false
+  },
   "FR|GDP|2026-07-30": {
     "actual": "0.2",
     "better": false,
@@ -1506,6 +1517,17 @@
     "indicator": "Building Permits s.a.",
     "previous": "-4",
     "unit": "%",
+    "worse": false
+  },
+  "NZ|Business NZ PMI|2026-08-13": {
+    "actual": "54.3",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-08-13",
+    "indicator": "Business NZ PMI",
+    "previous": "59.7",
+    "unit": "",
     "worse": false
   },
   "NZ|Business NZ PSI|2026-07-12": {

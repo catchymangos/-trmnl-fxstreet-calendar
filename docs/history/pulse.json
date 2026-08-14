@@ -295,29 +295,8 @@
     "week": "2026-W32"
   },
   "2026-W33": {
-    "date": "2026-08-13",
+    "date": "2026-08-14",
     "rows": {
-      "CA": {
-        "driver": "Net Change in Employment",
-        "driver_dir": 1,
-        "n": 3,
-        "tone": 0.667,
-        "weight": 10.8
-      },
-      "CN": {
-        "driver": "Trade Balance CNY",
-        "driver_dir": 1,
-        "n": 4,
-        "tone": 0.692,
-        "weight": 5.2
-      },
-      "DE": {
-        "driver": "Industrial Production s.a. (MoM)",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 0.0,
-        "weight": 3.6
-      },
       "EMU": {
         "driver": "Industrial Production s.a. (MoM)",
         "driver_dir": 1,
@@ -347,26 +326,14 @@
         "weight": 11.9
       },
       "US": {
-        "driver": "Nonfarm Payrolls",
+        "driver": "Producer Price Index (MoM)",
         "driver_dir": -1,
-        "n": 9,
-        "tone": -0.698,
-        "weight": 19.9
+        "n": 5,
+        "tone": -1.0,
+        "weight": 7.0
       }
     },
     "trends": {
-      "CA": {
-        "dir": 1,
-        "streak": 3
-      },
-      "CN": {
-        "dir": 1,
-        "streak": 1
-      },
-      "DE": {
-        "dir": 0,
-        "streak": 0
-      },
       "EMU": {
         "dir": 1,
         "streak": 1
