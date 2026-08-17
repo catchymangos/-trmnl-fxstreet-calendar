@@ -549,6 +549,17 @@
     "unit": "\u00a5",
     "worse": true
   },
+  "JP|GDP|2026-08-16": {
+    "actual": "0.3",
+    "better": false,
+    "consensus": "0.5",
+    "country": "JP",
+    "date": "2026-08-16",
+    "indicator": "GDP",
+    "previous": "0.5",
+    "unit": "%",
+    "worse": true
+  },
   "JP|Labor Cash Earnings|2026-08-04": {
     "actual": "3.4",
     "better": false,
@@ -612,6 +623,17 @@
     "date": "2026-08-13",
     "indicator": "Business NZ PMI",
     "previous": "59.7",
+    "unit": "",
+    "worse": false
+  },
+  "NZ|Business NZ PSI|2026-08-16": {
+    "actual": "50.6",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-08-16",
+    "indicator": "Business NZ PSI",
+    "previous": "50.6",
     "unit": "",
     "worse": false
   },

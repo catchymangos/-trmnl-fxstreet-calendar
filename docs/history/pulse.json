@@ -356,5 +356,68 @@
       }
     },
     "week": "2026-W33"
+  },
+  "2026-W34": {
+    "date": "2026-08-17",
+    "rows": {
+      "EMU": {
+        "driver": "Industrial Production s.a. (MoM)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.8
+      },
+      "ES": {
+        "driver": "Harmonized Index of Consumer Prices (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 3.0
+      },
+      "IT": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 3.0
+      },
+      "UK": {
+        "driver": "Gross Domestic Product (YoY)",
+        "driver_dir": 1,
+        "n": 4,
+        "tone": 0.485,
+        "weight": 10.1
+      },
+      "US": {
+        "driver": "Retail Sales (MoM)",
+        "driver_dir": -1,
+        "n": 8,
+        "tone": -1.0,
+        "weight": 12.7
+      }
+    },
+    "trends": {
+      "EMU": {
+        "dir": 1,
+        "streak": 2
+      },
+      "ES": {
+        "dir": 1,
+        "streak": 2
+      },
+      "IT": {
+        "dir": 1,
+        "streak": 2
+      },
+      "UK": {
+        "dir": 1,
+        "streak": 2
+      },
+      "US": {
+        "dir": -1,
+        "streak": 4
+      }
+    },
+    "week": "2026-W34"
   }
 }

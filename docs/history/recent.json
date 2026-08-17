@@ -1369,6 +1369,17 @@
     "unit": "%",
     "worse": false
   },
+  "JP|GDP|2026-08-16": {
+    "actual": "0.3",
+    "better": false,
+    "consensus": "0.5",
+    "country": "JP",
+    "date": "2026-08-16",
+    "indicator": "GDP",
+    "previous": "0.5",
+    "unit": "%",
+    "worse": true
+  },
   "JP|Imports|2026-07-21": {
     "actual": "25.4",
     "better": true,
@@ -1560,6 +1571,17 @@
     "indicator": "Business NZ PSI",
     "previous": "47.5",
     "unit": ""
+  },
+  "NZ|Business NZ PSI|2026-08-16": {
+    "actual": "50.6",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-08-16",
+    "indicator": "Business NZ PSI",
+    "previous": "50.6",
+    "unit": "",
+    "worse": false
   },
   "NZ|CPI|2026-07-20": {
     "actual": "4.1",
