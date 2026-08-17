@@ -7957,12 +7957,12 @@
     "country": "US",
     "date_utc": "2026-08-17T20:00:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "172.7",
     "consensus": "151.4",
     "previous": "232.7",
     "unit": "$",
     "currency": "USD",
-    "better": false,
+    "better": true,
     "worse": false
   },
   {
@@ -7971,7 +7971,7 @@
     "country": "US",
     "date_utc": "2026-08-17T20:00:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "133.5",
     "consensus": "",
     "previous": "132.2",
     "unit": "$",
