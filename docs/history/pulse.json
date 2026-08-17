@@ -360,6 +360,13 @@
   "2026-W34": {
     "date": "2026-08-17",
     "rows": {
+      "CN": {
+        "driver": "Industrial Production (YoY)",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 5.4
+      },
       "EMU": {
         "driver": "Industrial Production s.a. (MoM)",
         "driver_dir": 1,
@@ -397,6 +404,10 @@
       }
     },
     "trends": {
+      "CN": {
+        "dir": -1,
+        "streak": 1
+      },
       "EMU": {
         "dir": 1,
         "streak": 2

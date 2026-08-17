@@ -197,6 +197,17 @@
     "unit": "%",
     "worse": true
   },
+  "CN|Industrial Production|2026-08-17": {
+    "actual": "4.5",
+    "better": false,
+    "consensus": "5",
+    "country": "CN",
+    "date": "2026-08-17",
+    "indicator": "Industrial Production",
+    "previous": "5.3",
+    "unit": "%",
+    "worse": true
+  },
   "CN|Manufacturing PMI|2026-08-03": {
     "actual": "50.9",
     "better": false,
@@ -216,6 +227,17 @@
     "date": "2026-08-09",
     "indicator": "PPI",
     "previous": "4.1",
+    "unit": "%",
+    "worse": true
+  },
+  "CN|Retail Sales|2026-08-17": {
+    "actual": "0.6",
+    "better": false,
+    "consensus": "1.5",
+    "country": "CN",
+    "date": "2026-08-17",
+    "indicator": "Retail Sales",
+    "previous": "1",
     "unit": "%",
     "worse": true
   },
