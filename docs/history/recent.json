@@ -196,6 +196,17 @@
     "unit": "%",
     "worse": true
   },
+  "CA|CPI|2026-08-17": {
+    "actual": "0.2",
+    "better": true,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-08-17",
+    "indicator": "CPI",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": false
+  },
   "CA|Employment Change|2026-07-10": {
     "actual": "18.2",
     "better": true,
@@ -2540,6 +2551,17 @@
     "date": "2026-07-15",
     "indicator": "NY Empire State Manufacturing Index",
     "previous": "5.7",
+    "unit": "",
+    "worse": false
+  },
+  "US|NY Empire State Manufacturing Index|2026-08-17": {
+    "actual": "20.6",
+    "better": true,
+    "consensus": "11",
+    "country": "US",
+    "date": "2026-08-17",
+    "indicator": "NY Empire State Manufacturing Index",
+    "previous": "15.6",
     "unit": "",
     "worse": false
   },

@@ -360,6 +360,13 @@
   "2026-W34": {
     "date": "2026-08-17",
     "rows": {
+      "CA": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 4.5
+      },
       "CN": {
         "driver": "Industrial Production (YoY)",
         "driver_dir": -1,
@@ -398,12 +405,16 @@
       "US": {
         "driver": "Retail Sales (MoM)",
         "driver_dir": -1,
-        "n": 8,
-        "tone": -1.0,
-        "weight": 12.7
+        "n": 9,
+        "tone": -0.881,
+        "weight": 13.5
       }
     },
     "trends": {
+      "CA": {
+        "dir": 1,
+        "streak": 1
+      },
       "CN": {
         "dir": -1,
         "streak": 1
