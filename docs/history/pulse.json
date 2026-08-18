@@ -358,7 +358,7 @@
     "week": "2026-W33"
   },
   "2026-W34": {
-    "date": "2026-08-17",
+    "date": "2026-08-18",
     "rows": {
       "CA": {
         "driver": "Consumer Price Index (YoY)",
@@ -398,9 +398,9 @@
       "UK": {
         "driver": "Gross Domestic Product (YoY)",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 0.485,
-        "weight": 10.1
+        "n": 7,
+        "tone": 0.193,
+        "weight": 17.6
       },
       "US": {
         "driver": "Retail Sales (MoM)",
