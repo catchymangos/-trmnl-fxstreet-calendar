@@ -7229,12 +7229,12 @@
     "country": "DE",
     "date_utc": "2026-08-18T09:00:00Z",
     "impact": "Medium",
-    "actual": "",
+    "actual": "-61.1",
     "consensus": "-68.8",
     "previous": "-77.6",
     "unit": "",
     "currency": "EUR",
-    "better": false,
+    "better": true,
     "worse": false
   },
   {
@@ -7243,12 +7243,12 @@
     "country": "DE",
     "date_utc": "2026-08-18T09:00:00Z",
     "impact": "Medium",
-    "actual": "",
+    "actual": "34.2",
     "consensus": "30",
     "previous": "26.3",
     "unit": "",
     "currency": "EUR",
-    "better": false,
+    "better": true,
     "worse": false
   },
   {
@@ -7257,12 +7257,12 @@
     "country": "EMU",
     "date_utc": "2026-08-18T09:00:00Z",
     "impact": "Medium",
-    "actual": "",
+    "actual": "31.4",
     "consensus": "25.4",
     "previous": "23.4",
     "unit": "",
     "currency": "EUR",
-    "better": false,
+    "better": true,
     "worse": false
   },
   {
@@ -7271,7 +7271,7 @@
     "country": "UK",
     "date_utc": "2026-08-18T09:30:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "5.16",
     "consensus": "",
     "previous": "5.04",
     "unit": "%",

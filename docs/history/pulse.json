@@ -374,12 +374,19 @@
         "tone": -1.0,
         "weight": 5.4
       },
+      "DE": {
+        "driver": "ZEW Survey \u2013 Current Situation",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 1.6
+      },
       "EMU": {
         "driver": "Industrial Production s.a. (MoM)",
         "driver_dir": 1,
-        "n": 1,
+        "n": 2,
         "tone": 1.0,
-        "weight": 1.8
+        "weight": 2.6
       },
       "ES": {
         "driver": "Harmonized Index of Consumer Prices (YoY)",
@@ -417,6 +424,10 @@
       },
       "CN": {
         "dir": -1,
+        "streak": 1
+      },
+      "DE": {
+        "dir": 1,
         "streak": 1
       },
       "EMU": {

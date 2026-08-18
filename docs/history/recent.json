@@ -840,6 +840,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|ZEW Current Conditions|2026-08-18": {
+    "actual": "-61.1",
+    "better": true,
+    "consensus": "-68.8",
+    "country": "DE",
+    "date": "2026-08-18",
+    "indicator": "ZEW Current Conditions",
+    "previous": "-77.6",
+    "unit": "",
+    "worse": false
+  },
   "DE|ZEW Sentiment|2026-07-21": {
     "actual": "26.3",
     "better": true,
@@ -848,6 +859,17 @@
     "date": "2026-07-21",
     "indicator": "ZEW Sentiment",
     "previous": "10.5",
+    "unit": "",
+    "worse": false
+  },
+  "DE|ZEW Sentiment|2026-08-18": {
+    "actual": "34.2",
+    "better": true,
+    "consensus": "30",
+    "country": "DE",
+    "date": "2026-08-18",
+    "indicator": "ZEW Sentiment",
+    "previous": "26.3",
     "unit": "",
     "worse": false
   },
@@ -1084,6 +1106,17 @@
     "date": "2026-07-21",
     "indicator": "ZEW Sentiment",
     "previous": "9.5",
+    "unit": "",
+    "worse": false
+  },
+  "EMU|ZEW Sentiment|2026-08-18": {
+    "actual": "31.4",
+    "better": true,
+    "consensus": "25.4",
+    "country": "EMU",
+    "date": "2026-08-18",
+    "indicator": "ZEW Sentiment",
+    "previous": "23.4",
     "unit": "",
     "worse": false
   },
