@@ -890,6 +890,17 @@
     "unit": "",
     "worse": false
   },
+  "US|ADP Jobs|2026-08-18": {
+    "actual": "9.5",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-18",
+    "indicator": "ADP Jobs",
+    "previous": "8.25",
+    "unit": "",
+    "worse": false
+  },
   "US|Average Hourly Earnings|2026-08-07": {
     "actual": "0.1",
     "better": false,
@@ -900,6 +911,17 @@
     "previous": "0.3",
     "unit": "%",
     "worse": true
+  },
+  "US|Building Permits|2026-08-18": {
+    "actual": "1.443",
+    "better": true,
+    "consensus": "1.37",
+    "country": "US",
+    "date": "2026-08-18",
+    "indicator": "Building Permits",
+    "previous": "1.367",
+    "unit": "",
+    "worse": false
   },
   "US|CPI|2026-08-12": {
     "actual": "0.1",
@@ -954,6 +976,17 @@
     "indicator": "Factory Orders",
     "previous": "-1.3",
     "unit": "%",
+    "worse": true
+  },
+  "US|Housing Starts|2026-08-18": {
+    "actual": "1.239",
+    "better": false,
+    "consensus": "1.35",
+    "country": "US",
+    "date": "2026-08-18",
+    "indicator": "Housing Starts",
+    "previous": "1.427",
+    "unit": "",
     "worse": true
   },
   "US|ISM Manufacturing Employment Index|2026-08-03": {
@@ -1021,6 +1054,17 @@
     "previous": "67.7",
     "unit": "",
     "worse": false
+  },
+  "US|Industrial Production|2026-08-18": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "0.3",
+    "country": "US",
+    "date": "2026-08-18",
+    "indicator": "Industrial Production",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": true
   },
   "US|Initial Jobless Claims|2026-08-06": {
     "actual": "199",
@@ -1140,6 +1184,17 @@
     "date": "2026-08-13",
     "indicator": "PPI",
     "previous": "-0.3",
+    "unit": "%",
+    "worse": true
+  },
+  "US|Pending Home Sales|2026-08-18": {
+    "actual": "-2.3",
+    "better": false,
+    "consensus": "0.3",
+    "country": "US",
+    "date": "2026-08-18",
+    "indicator": "Pending Home Sales",
+    "previous": "-5.4",
     "unit": "%",
     "worse": true
   },

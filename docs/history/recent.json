@@ -2175,6 +2175,17 @@
     "unit": "",
     "worse": false
   },
+  "US|ADP Jobs|2026-08-18": {
+    "actual": "9.5",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-18",
+    "indicator": "ADP Jobs",
+    "previous": "8.25",
+    "unit": "",
+    "worse": false
+  },
   "US|Average Hourly Earnings|2026-08-07": {
     "actual": "0.1",
     "better": false,
@@ -2196,6 +2207,17 @@
     "previous": "1.413",
     "unit": "",
     "worse": true
+  },
+  "US|Building Permits|2026-08-18": {
+    "actual": "1.443",
+    "better": true,
+    "consensus": "1.37",
+    "country": "US",
+    "date": "2026-08-18",
+    "indicator": "Building Permits",
+    "previous": "1.367",
+    "unit": "",
+    "worse": false
   },
   "US|CPI|2026-07-14": {
     "actual": "2.6",
@@ -2382,6 +2404,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Housing Starts|2026-08-18": {
+    "actual": "1.239",
+    "better": false,
+    "consensus": "1.35",
+    "country": "US",
+    "date": "2026-08-18",
+    "indicator": "Housing Starts",
+    "previous": "1.427",
+    "unit": "",
+    "worse": true
+  },
   "US|ISM Manufacturing Employment Index|2026-08-03": {
     "actual": "52.8",
     "better": false,
@@ -2454,6 +2487,17 @@
     "consensus": "0.2",
     "country": "US",
     "date": "2026-07-17",
+    "indicator": "Industrial Production",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": true
+  },
+  "US|Industrial Production|2026-08-18": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "0.3",
+    "country": "US",
+    "date": "2026-08-18",
     "indicator": "Industrial Production",
     "previous": "0.1",
     "unit": "%",
@@ -2738,6 +2782,17 @@
     "date": "2026-07-16",
     "indicator": "Pending Home Sales",
     "previous": "3.8",
+    "unit": "%",
+    "worse": true
+  },
+  "US|Pending Home Sales|2026-08-18": {
+    "actual": "-2.3",
+    "better": false,
+    "consensus": "0.3",
+    "country": "US",
+    "date": "2026-08-18",
+    "indicator": "Pending Home Sales",
+    "previous": "-5.4",
     "unit": "%",
     "worse": true
   },
