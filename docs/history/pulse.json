@@ -358,7 +358,7 @@
     "week": "2026-W33"
   },
   "2026-W34": {
-    "date": "2026-08-18",
+    "date": "2026-08-19",
     "rows": {
       "CA": {
         "driver": "Consumer Price Index (YoY)",
@@ -395,26 +395,26 @@
         "tone": 1.0,
         "weight": 3.0
       },
-      "IT": {
-        "driver": "Consumer Price Index (YoY)",
+      "NZ": {
+        "driver": "Producer Price Index - Output (QoQ)",
         "driver_dir": 1,
         "n": 1,
         "tone": 1.0,
-        "weight": 3.0
+        "weight": 1.8
       },
       "UK": {
         "driver": "Gross Domestic Product (YoY)",
         "driver_dir": 1,
-        "n": 7,
-        "tone": 0.193,
-        "weight": 17.6
+        "n": 9,
+        "tone": 0.255,
+        "weight": 23.9
       },
       "US": {
         "driver": "Retail Sales (MoM)",
         "driver_dir": -1,
-        "n": 13,
-        "tone": -0.819,
-        "weight": 17.7
+        "n": 12,
+        "tone": -0.811,
+        "weight": 16.9
       }
     },
     "trends": {
@@ -438,9 +438,9 @@
         "dir": 1,
         "streak": 2
       },
-      "IT": {
+      "NZ": {
         "dir": 1,
-        "streak": 2
+        "streak": 1
       },
       "UK": {
         "dir": 1,
