@@ -419,9 +419,9 @@
       "US": {
         "driver": "Retail Sales (MoM)",
         "driver_dir": -1,
-        "n": 8,
-        "tone": -0.701,
-        "weight": 10.7
+        "n": 10,
+        "tone": -0.48,
+        "weight": 12.3
       }
     },
     "trends": {

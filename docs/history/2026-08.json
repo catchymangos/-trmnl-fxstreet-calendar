@@ -1286,6 +1286,17 @@
     "unit": "",
     "worse": true
   },
+  "US|Initial Jobless Claims|2026-08-20": {
+    "actual": "206",
+    "better": true,
+    "consensus": "210",
+    "country": "US",
+    "date": "2026-08-20",
+    "indicator": "Initial Jobless Claims",
+    "previous": "209",
+    "unit": "",
+    "worse": false
+  },
   "US|JOLTS Job Openings|2026-08-04": {
     "actual": "7.359",
     "better": false,
@@ -1395,6 +1406,17 @@
     "previous": "-5.4",
     "unit": "%",
     "worse": true
+  },
+  "US|Philadelphia Fed Manufacturing Survey|2026-08-20": {
+    "actual": "47.4",
+    "better": true,
+    "consensus": "25",
+    "country": "US",
+    "date": "2026-08-20",
+    "indicator": "Philadelphia Fed Manufacturing Survey",
+    "previous": "41.4",
+    "unit": "",
+    "worse": false
   },
   "US|Retail Sales|2026-08-14": {
     "actual": "-0.6",
