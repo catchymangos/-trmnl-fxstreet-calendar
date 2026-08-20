@@ -358,8 +358,15 @@
     "week": "2026-W33"
   },
   "2026-W34": {
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "rows": {
+      "AU": {
+        "driver": "Employment Change s.a.",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 9.0
+      },
       "CA": {
         "driver": "Consumer Price Index (YoY)",
         "driver_dir": 1,
@@ -375,25 +382,25 @@
         "weight": 5.4
       },
       "DE": {
-        "driver": "ZEW Survey \u2013 Current Situation",
+        "driver": "Producer Price Index (MoM)",
         "driver_dir": 1,
-        "n": 2,
+        "n": 4,
         "tone": 1.0,
-        "weight": 1.6
+        "weight": 5.2
       },
       "EMU": {
-        "driver": "Industrial Production s.a. (MoM)",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 1.0,
-        "weight": 2.6
-      },
-      "ES": {
-        "driver": "Harmonized Index of Consumer Prices (YoY)",
+        "driver": "ZEW Survey \u2013 Economic Sentiment",
         "driver_dir": 1,
         "n": 1,
         "tone": 1.0,
-        "weight": 3.0
+        "weight": 0.8
+      },
+      "JP": {
+        "driver": "Merchandise Trade Balance Total",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 1.0,
+        "weight": 3.4
       },
       "NZ": {
         "driver": "Producer Price Index - Output (QoQ)",
@@ -403,21 +410,25 @@
         "weight": 1.8
       },
       "UK": {
-        "driver": "Gross Domestic Product (YoY)",
-        "driver_dir": 1,
-        "n": 9,
-        "tone": 0.255,
-        "weight": 23.9
+        "driver": "ILO Unemployment Rate (3M)",
+        "driver_dir": -1,
+        "n": 5,
+        "tone": 0.087,
+        "weight": 13.8
       },
       "US": {
         "driver": "Retail Sales (MoM)",
         "driver_dir": -1,
-        "n": 12,
-        "tone": -0.811,
-        "weight": 16.9
+        "n": 8,
+        "tone": -0.701,
+        "weight": 10.7
       }
     },
     "trends": {
+      "AU": {
+        "dir": -1,
+        "streak": 1
+      },
       "CA": {
         "dir": 1,
         "streak": 1
@@ -434,17 +445,17 @@
         "dir": 1,
         "streak": 2
       },
-      "ES": {
+      "JP": {
         "dir": 1,
-        "streak": 2
+        "streak": 1
       },
       "NZ": {
         "dir": 1,
         "streak": 1
       },
       "UK": {
-        "dir": 1,
-        "streak": 2
+        "dir": 0,
+        "streak": 0
       },
       "US": {
         "dir": -1,

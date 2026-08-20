@@ -10,6 +10,28 @@
     "unit": "",
     "worse": false
   },
+  "AU|Consumer Inflation Expectations|2026-08-20": {
+    "actual": "4.9",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-08-20",
+    "indicator": "Consumer Inflation Expectations",
+    "previous": "4.7",
+    "unit": "%",
+    "worse": false
+  },
+  "AU|Employment Change|2026-08-20": {
+    "actual": "-15.8",
+    "better": false,
+    "consensus": "15",
+    "country": "AU",
+    "date": "2026-08-20",
+    "indicator": "Employment Change",
+    "previous": "76.3",
+    "unit": "",
+    "worse": true
+  },
   "AU|Exports|2026-08-06": {
     "actual": "9.6",
     "better": false,
@@ -86,6 +108,17 @@
     "previous": "-3018",
     "unit": "",
     "worse": false
+  },
+  "AU|Unemployment Rate|2026-08-20": {
+    "actual": "4.5",
+    "better": false,
+    "consensus": "4.4",
+    "country": "AU",
+    "date": "2026-08-20",
+    "indicator": "Unemployment Rate",
+    "previous": "4.4",
+    "unit": "%",
+    "worse": true
   },
   "AU|Wage Growth|2026-08-19": {
     "actual": "0.8",
@@ -197,6 +230,17 @@
     "unit": "%",
     "worse": false
   },
+  "CH|Industrial Production|2026-08-19": {
+    "actual": "5.5",
+    "better": false,
+    "consensus": "",
+    "country": "CH",
+    "date": "2026-08-19",
+    "indicator": "Industrial Production",
+    "previous": "-7.1",
+    "unit": "%",
+    "worse": false
+  },
   "CN|CPI|2026-08-09": {
     "actual": "-0.1",
     "better": false,
@@ -262,6 +306,17 @@
     "previous": "4.1",
     "unit": "%",
     "worse": true
+  },
+  "CN|Rate Decision|2026-08-20": {
+    "actual": "3",
+    "better": false,
+    "consensus": "3",
+    "country": "CN",
+    "date": "2026-08-20",
+    "indicator": "Rate Decision",
+    "previous": "3",
+    "unit": "%",
+    "worse": false
   },
   "CN|Retail Sales|2026-08-17": {
     "actual": "0.6",
@@ -360,6 +415,17 @@
     "indicator": "Manufacturing PMI",
     "previous": "52.2",
     "unit": "",
+    "worse": false
+  },
+  "DE|PPI|2026-08-20": {
+    "actual": "1.1",
+    "better": true,
+    "consensus": "0.7",
+    "country": "DE",
+    "date": "2026-08-20",
+    "indicator": "PPI",
+    "previous": "-0.3",
+    "unit": "%",
     "worse": false
   },
   "DE|Retail Sales|2026-08-03": {
@@ -648,6 +714,17 @@
     "unit": "\u00a5",
     "worse": true
   },
+  "JP|Exports|2026-08-19": {
+    "actual": "23.2",
+    "better": true,
+    "consensus": "19.9",
+    "country": "JP",
+    "date": "2026-08-19",
+    "indicator": "Exports",
+    "previous": "19.3",
+    "unit": "%",
+    "worse": false
+  },
   "JP|GDP|2026-08-16": {
     "actual": "0.3",
     "better": false,
@@ -659,6 +736,17 @@
     "unit": "%",
     "worse": true
   },
+  "JP|Imports|2026-08-19": {
+    "actual": "27.8",
+    "better": true,
+    "consensus": "26.5",
+    "country": "JP",
+    "date": "2026-08-19",
+    "indicator": "Imports",
+    "previous": "25.4",
+    "unit": "%",
+    "worse": false
+  },
   "JP|Labor Cash Earnings|2026-08-04": {
     "actual": "3.4",
     "better": false,
@@ -668,6 +756,17 @@
     "indicator": "Labor Cash Earnings",
     "previous": "3.2",
     "unit": "%",
+    "worse": false
+  },
+  "JP|Trade Balance|2026-08-19": {
+    "actual": "-686",
+    "better": true,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-08-19",
+    "indicator": "Trade Balance",
+    "previous": "-881.9",
+    "unit": "\u00a5",
     "worse": false
   },
   "MX|Headline Inflation|2026-08-07": {
