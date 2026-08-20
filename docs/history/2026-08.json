@@ -890,6 +890,17 @@
     "unit": "%",
     "worse": true
   },
+  "SE|Rate Decision|2026-08-20": {
+    "actual": "1.75",
+    "better": false,
+    "consensus": "1.75",
+    "country": "SE",
+    "date": "2026-08-20",
+    "indicator": "Rate Decision",
+    "previous": "1.75",
+    "unit": "%",
+    "worse": false
+  },
   "TR|CPI|2026-08-03": {
     "actual": "31.75",
     "better": false,
