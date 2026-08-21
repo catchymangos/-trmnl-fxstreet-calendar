@@ -382,18 +382,25 @@
         "weight": 5.4
       },
       "DE": {
-        "driver": "Producer Price Index (MoM)",
+        "driver": "HCOB Composite PMI",
+        "driver_dir": -1,
+        "n": 7,
+        "tone": 0.188,
+        "weight": 13.3
+      },
+      "EMU": {
+        "driver": "HCOB Composite PMI",
         "driver_dir": 1,
         "n": 4,
         "tone": 1.0,
-        "weight": 5.2
+        "weight": 8.9
       },
-      "EMU": {
-        "driver": "ZEW Survey \u2013 Economic Sentiment",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 0.8
+      "FR": {
+        "driver": "HCOB Composite PMI",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -0.333,
+        "weight": 5.4
       },
       "JP": {
         "driver": "Merchandise Trade Balance Total",
@@ -412,9 +419,9 @@
       "UK": {
         "driver": "ILO Unemployment Rate (3M)",
         "driver_dir": -1,
-        "n": 9,
-        "tone": -0.17,
-        "weight": 20.0
+        "n": 11,
+        "tone": 0.079,
+        "weight": 25.4
       },
       "US": {
         "driver": "Industrial Production (MoM)",
@@ -445,6 +452,10 @@
         "dir": 1,
         "streak": 2
       },
+      "FR": {
+        "dir": -1,
+        "streak": 1
+      },
       "JP": {
         "dir": 1,
         "streak": 1
@@ -454,8 +465,8 @@
         "streak": 1
       },
       "UK": {
-        "dir": -1,
-        "streak": 1
+        "dir": 0,
+        "streak": 0
       },
       "US": {
         "dir": 0,
