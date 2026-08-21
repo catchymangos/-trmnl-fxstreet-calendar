@@ -390,6 +390,17 @@
     "unit": "%",
     "worse": true
   },
+  "CA|Retail Sales|2026-08-21": {
+    "actual": "0.6",
+    "better": true,
+    "consensus": "0.4",
+    "country": "CA",
+    "date": "2026-08-21",
+    "indicator": "Retail Sales",
+    "previous": "1",
+    "unit": "%",
+    "worse": false
+  },
   "CA|Unemployment Rate|2026-07-10": {
     "actual": "6.5",
     "better": true,
@@ -1044,6 +1055,17 @@
     "consensus": "-15.9",
     "country": "EMU",
     "date": "2026-07-30",
+    "indicator": "Consumer Confidence",
+    "previous": "-15.9",
+    "unit": "",
+    "worse": false
+  },
+  "EMU|Consumer Confidence|2026-08-21": {
+    "actual": "-15.5",
+    "better": true,
+    "consensus": "-16.3",
+    "country": "EMU",
+    "date": "2026-08-21",
     "indicator": "Consumer Confidence",
     "previous": "-15.9",
     "unit": "",
@@ -3073,6 +3095,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Manufacturing PMI|2026-08-21": {
+    "actual": "53.2",
+    "better": false,
+    "consensus": "53.9",
+    "country": "US",
+    "date": "2026-08-21",
+    "indicator": "Manufacturing PMI",
+    "previous": "53.9",
+    "unit": "",
+    "worse": true
+  },
   "US|Michigan Consumer Expectations Index|2026-07-17": {
     "actual": "54",
     "consensus": "",
@@ -3390,6 +3423,17 @@
     "unit": "",
     "worse": false
   },
+  "US|S&P Global Composite PMI|2026-08-21": {
+    "actual": "56",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-21",
+    "indicator": "S&P Global Composite PMI",
+    "previous": "54.5",
+    "unit": "",
+    "worse": false
+  },
   "US|Services PMI|2026-07-24": {
     "actual": "53.6",
     "better": true,
@@ -3411,6 +3455,17 @@
     "previous": "54",
     "unit": "",
     "worse": true
+  },
+  "US|Services PMI|2026-08-21": {
+    "actual": "56.8",
+    "better": true,
+    "consensus": "54",
+    "country": "US",
+    "date": "2026-08-21",
+    "indicator": "Services PMI",
+    "previous": "54.6",
+    "unit": "",
+    "worse": false
   },
   "US|U6 Underemployment Rate|2026-08-07": {
     "actual": "7.9",

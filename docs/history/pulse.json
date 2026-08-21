@@ -370,9 +370,9 @@
       "CA": {
         "driver": "Consumer Price Index (YoY)",
         "driver_dir": 1,
-        "n": 1,
+        "n": 3,
         "tone": 1.0,
-        "weight": 4.5
+        "weight": 8.1
       },
       "CN": {
         "driver": "Industrial Production (YoY)",
@@ -391,9 +391,9 @@
       "EMU": {
         "driver": "HCOB Composite PMI",
         "driver_dir": 1,
-        "n": 4,
+        "n": 5,
         "tone": 1.0,
-        "weight": 8.9
+        "weight": 9.7
       },
       "FR": {
         "driver": "HCOB Composite PMI",
@@ -424,11 +424,11 @@
         "weight": 25.4
       },
       "US": {
-        "driver": "Industrial Production (MoM)",
+        "driver": "S&P Global Manufacturing PMI",
         "driver_dir": -1,
-        "n": 7,
-        "tone": -0.03,
-        "weight": 6.6
+        "n": 9,
+        "tone": -0.017,
+        "weight": 12.0
       }
     },
     "trends": {
