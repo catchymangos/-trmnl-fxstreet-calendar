@@ -105,6 +105,17 @@
     "previous": "51.5",
     "unit": ""
   },
+  "AU|Manufacturing PMI|2026-08-20": {
+    "actual": "52",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-08-20",
+    "indicator": "Manufacturing PMI",
+    "previous": "52",
+    "unit": "",
+    "worse": false
+  },
   "AU|PPI|2026-07-31": {
     "actual": "3.6",
     "better": false,
@@ -147,6 +158,17 @@
     "unit": "",
     "worse": false
   },
+  "AU|S&P Global Composite PMI|2026-08-20": {
+    "actual": "52.5",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-08-20",
+    "indicator": "S&P Global Composite PMI",
+    "previous": "53.2",
+    "unit": "",
+    "worse": false
+  },
   "AU|Services PMI|2026-07-23": {
     "actual": "53",
     "consensus": "",
@@ -164,6 +186,17 @@
     "date": "2026-08-04",
     "indicator": "Services PMI",
     "previous": "53",
+    "unit": "",
+    "worse": false
+  },
+  "AU|Services PMI|2026-08-20": {
+    "actual": "52.9",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-08-20",
+    "indicator": "Services PMI",
+    "previous": "53.6",
     "unit": "",
     "worse": false
   },
@@ -1380,6 +1413,17 @@
     "unit": "",
     "worse": false
   },
+  "IN|HSBC Composite PMI|2026-08-21": {
+    "actual": "54.6",
+    "better": false,
+    "consensus": "",
+    "country": "IN",
+    "date": "2026-08-21",
+    "indicator": "HSBC Composite PMI",
+    "previous": "54.3",
+    "unit": "",
+    "worse": false
+  },
   "IN|Manufacturing PMI|2026-07-24": {
     "actual": "53.9",
     "better": false,
@@ -1401,6 +1445,17 @@
     "previous": "53.9",
     "unit": "",
     "worse": true
+  },
+  "IN|Manufacturing PMI|2026-08-21": {
+    "actual": "52.9",
+    "better": false,
+    "consensus": "",
+    "country": "IN",
+    "date": "2026-08-21",
+    "indicator": "Manufacturing PMI",
+    "previous": "53.5",
+    "unit": "",
+    "worse": false
   },
   "IN|Rate Decision|2026-08-05": {
     "actual": "5.25",
@@ -1432,6 +1487,17 @@
     "date": "2026-08-05",
     "indicator": "Services PMI",
     "previous": "53.1",
+    "unit": "",
+    "worse": false
+  },
+  "IN|Services PMI|2026-08-21": {
+    "actual": "54.5",
+    "better": false,
+    "consensus": "",
+    "country": "IN",
+    "date": "2026-08-21",
+    "indicator": "Services PMI",
+    "previous": "53.3",
     "unit": "",
     "worse": false
   },
@@ -1507,6 +1573,17 @@
     "consensus": "",
     "country": "JP",
     "date": "2026-07-30",
+    "indicator": "CPI",
+    "previous": "1.7",
+    "unit": "%",
+    "worse": false
+  },
+  "JP|CPI|2026-08-20": {
+    "actual": "1.9",
+    "better": false,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-08-20",
     "indicator": "CPI",
     "previous": "1.7",
     "unit": "%",
@@ -1812,6 +1889,17 @@
     "previous": "8.88",
     "unit": "$"
   },
+  "NZ|Exports|2026-08-20": {
+    "actual": "7.39",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-08-20",
+    "indicator": "Exports",
+    "previous": "8.09",
+    "unit": "$",
+    "worse": false
+  },
   "NZ|Imports|2026-07-19": {
     "actual": "8.07",
     "consensus": "",
@@ -1820,6 +1908,17 @@
     "indicator": "Imports",
     "previous": "8.08",
     "unit": "$"
+  },
+  "NZ|Imports|2026-08-20": {
+    "actual": "9.34",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-08-20",
+    "indicator": "Imports",
+    "previous": "8.07",
+    "unit": "$",
+    "worse": false
   },
   "NZ|Labour Cost Index|2026-08-04": {
     "actual": "0.7",
@@ -1871,6 +1970,17 @@
     "indicator": "Trade Balance",
     "previous": "-3.36",
     "unit": "$"
+  },
+  "NZ|Trade Balance|2026-08-20": {
+    "actual": "-5.23",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-08-20",
+    "indicator": "Trade Balance",
+    "previous": "-3.74",
+    "unit": "$",
+    "worse": false
   },
   "NZ|Unemployment Rate|2026-08-04": {
     "actual": "5.6",
@@ -2115,6 +2225,17 @@
     "unit": "",
     "worse": false
   },
+  "UK|GfK Consumer Confidence|2026-08-20": {
+    "actual": "-14",
+    "better": true,
+    "consensus": "-18",
+    "country": "UK",
+    "date": "2026-08-20",
+    "indicator": "GfK Consumer Confidence",
+    "previous": "-17",
+    "unit": "",
+    "worse": false
+  },
   "UK|Industrial Production|2026-07-16": {
     "actual": "-0.5",
     "better": false,
@@ -2253,6 +2374,17 @@
     "date": "2026-08-10",
     "indicator": "Retail Sales",
     "previous": "1.7",
+    "unit": "%",
+    "worse": true
+  },
+  "UK|Retail Sales|2026-08-21": {
+    "actual": "-0.5",
+    "better": false,
+    "consensus": "-0.5",
+    "country": "UK",
+    "date": "2026-08-21",
+    "indicator": "Retail Sales",
+    "previous": "1",
     "unit": "%",
     "worse": true
   },

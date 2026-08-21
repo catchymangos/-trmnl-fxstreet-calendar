@@ -358,7 +358,7 @@
     "week": "2026-W33"
   },
   "2026-W34": {
-    "date": "2026-08-20",
+    "date": "2026-08-21",
     "rows": {
       "AU": {
         "driver": "Employment Change s.a.",
@@ -412,16 +412,16 @@
       "UK": {
         "driver": "ILO Unemployment Rate (3M)",
         "driver_dir": -1,
-        "n": 5,
-        "tone": 0.087,
-        "weight": 13.8
+        "n": 9,
+        "tone": -0.17,
+        "weight": 20.0
       },
       "US": {
-        "driver": "Retail Sales (MoM)",
+        "driver": "Industrial Production (MoM)",
         "driver_dir": -1,
-        "n": 10,
-        "tone": -0.48,
-        "weight": 12.3
+        "n": 7,
+        "tone": -0.03,
+        "weight": 6.6
       }
     },
     "trends": {
@@ -454,12 +454,12 @@
         "streak": 1
       },
       "UK": {
-        "dir": 0,
-        "streak": 0
+        "dir": -1,
+        "streak": 1
       },
       "US": {
-        "dir": -1,
-        "streak": 4
+        "dir": 0,
+        "streak": 0
       }
     },
     "week": "2026-W34"
