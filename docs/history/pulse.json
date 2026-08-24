@@ -474,5 +474,112 @@
       }
     },
     "week": "2026-W34"
+  },
+  "2026-W35": {
+    "date": "2026-08-24",
+    "rows": {
+      "AU": {
+        "driver": "Employment Change s.a.",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 9.0
+      },
+      "CA": {
+        "driver": "Retail Sales (MoM)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 3.6
+      },
+      "DE": {
+        "driver": "HCOB Composite PMI",
+        "driver_dir": -1,
+        "n": 7,
+        "tone": 0.188,
+        "weight": 13.3
+      },
+      "EMU": {
+        "driver": "HCOB Composite PMI",
+        "driver_dir": 1,
+        "n": 5,
+        "tone": 1.0,
+        "weight": 9.7
+      },
+      "FR": {
+        "driver": "HCOB Composite PMI",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -0.333,
+        "weight": 5.4
+      },
+      "JP": {
+        "driver": "Merchandise Trade Balance Total",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 1.0,
+        "weight": 3.4
+      },
+      "NZ": {
+        "driver": "Producer Price Index - Output (QoQ)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.8
+      },
+      "UK": {
+        "driver": "ILO Unemployment Rate (3M)",
+        "driver_dir": -1,
+        "n": 11,
+        "tone": 0.079,
+        "weight": 25.4
+      },
+      "US": {
+        "driver": "S&P Global Manufacturing PMI",
+        "driver_dir": -1,
+        "n": 8,
+        "tone": -0.089,
+        "weight": 11.2
+      }
+    },
+    "trends": {
+      "AU": {
+        "dir": -1,
+        "streak": 2
+      },
+      "CA": {
+        "dir": 1,
+        "streak": 2
+      },
+      "DE": {
+        "dir": 1,
+        "streak": 2
+      },
+      "EMU": {
+        "dir": 1,
+        "streak": 3
+      },
+      "FR": {
+        "dir": -1,
+        "streak": 2
+      },
+      "JP": {
+        "dir": 1,
+        "streak": 2
+      },
+      "NZ": {
+        "dir": 1,
+        "streak": 2
+      },
+      "UK": {
+        "dir": 0,
+        "streak": 0
+      },
+      "US": {
+        "dir": 0,
+        "streak": 0
+      }
+    },
+    "week": "2026-W35"
   }
 }

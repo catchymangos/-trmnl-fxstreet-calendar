@@ -2083,6 +2083,17 @@
     "unit": "%",
     "worse": false
   },
+  "NZ|Retail Sales|2026-08-23": {
+    "actual": "-0.5",
+    "better": false,
+    "consensus": "0.1",
+    "country": "NZ",
+    "date": "2026-08-23",
+    "indicator": "Retail Sales",
+    "previous": "0.9",
+    "unit": "%",
+    "worse": true
+  },
   "NZ|Trade Balance|2026-07-19": {
     "actual": "-3.74",
     "consensus": "",
