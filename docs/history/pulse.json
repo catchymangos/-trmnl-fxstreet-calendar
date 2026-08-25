@@ -530,9 +530,9 @@
       "US": {
         "driver": "S&P Global Manufacturing PMI",
         "driver_dir": -1,
-        "n": 4,
-        "tone": 0.229,
-        "weight": 7.0
+        "n": 5,
+        "tone": 0.103,
+        "weight": 7.8
       }
     },
     "trends": {
@@ -565,8 +565,8 @@
         "streak": 1
       },
       "US": {
-        "dir": 1,
-        "streak": 1
+        "dir": 0,
+        "streak": 0
       }
     },
     "week": "2026-W35"

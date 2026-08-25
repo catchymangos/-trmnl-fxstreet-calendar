@@ -2703,6 +2703,17 @@
     "unit": "",
     "worse": false
   },
+  "US|ADP Jobs|2026-08-25": {
+    "actual": "11.75",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-25",
+    "indicator": "ADP Jobs",
+    "previous": "9.5",
+    "unit": "",
+    "worse": false
+  },
   "US|Average Hourly Earnings|2026-08-07": {
     "actual": "0.1",
     "better": false,
@@ -2909,6 +2920,17 @@
     "previous": "-0.1",
     "unit": "%",
     "worse": false
+  },
+  "US|Housing Price Index|2026-08-25": {
+    "actual": "0",
+    "better": false,
+    "consensus": "0.2",
+    "country": "US",
+    "date": "2026-08-25",
+    "indicator": "Housing Price Index",
+    "previous": "0.3",
+    "unit": "%",
+    "worse": true
   },
   "US|Housing Starts|2026-07-17": {
     "actual": "1.427",
@@ -3255,6 +3277,17 @@
     "date": "2026-07-24",
     "indicator": "New Home Sales Change",
     "previous": "-7.3",
+    "unit": "%",
+    "worse": false
+  },
+  "US|New Home Sales Change|2026-08-25": {
+    "actual": "-10.5",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-08-25",
+    "indicator": "New Home Sales Change",
+    "previous": "1.6",
     "unit": "%",
     "worse": false
   },

@@ -6720,26 +6720,12 @@
     "worse": false
   },
   {
-    "id": "8616f64c-b11e-4d2c-8392-411df42c04d9",
-    "name": "M2 Money Supply",
-    "country": "KW",
-    "date_utc": "2026-08-25T08:00:00Z",
-    "impact": "Low",
-    "actual": "",
-    "consensus": "",
-    "previous": "1.7",
-    "unit": "%",
-    "currency": "KWD",
-    "better": false,
-    "worse": false
-  },
-  {
     "id": "e91cc8dd-3411-47f0-aaae-462e61c64082",
     "name": "MNB Interest Rate Decision",
     "country": "HU",
     "date_utc": "2026-08-25T12:00:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "5.5",
     "consensus": "5.5",
     "previous": "5.75",
     "unit": "%",
@@ -6753,7 +6739,7 @@
     "country": "US",
     "date_utc": "2026-08-25T12:15:00Z",
     "impact": "Medium",
-    "actual": "",
+    "actual": "11.75",
     "consensus": "",
     "previous": "9.5",
     "unit": "",
@@ -6767,7 +6753,7 @@
     "country": "US",
     "date_utc": "2026-08-25T12:55:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "9.1",
     "consensus": "",
     "previous": "7.6",
     "unit": "%",
@@ -6781,13 +6767,13 @@
     "country": "BE",
     "date_utc": "2026-08-25T13:00:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "-13.2",
     "consensus": "-10.5",
     "previous": "-11.9",
     "unit": "",
     "currency": "EUR",
     "better": false,
-    "worse": false
+    "worse": true
   },
   {
     "id": "35d238e3-9499-409a-806f-8c97f30c8ce6",
@@ -6795,13 +6781,13 @@
     "country": "US",
     "date_utc": "2026-08-25T13:00:00Z",
     "impact": "Medium",
-    "actual": "",
+    "actual": "0",
     "consensus": "0.2",
     "previous": "0.3",
     "unit": "%",
     "currency": "USD",
     "better": false,
-    "worse": false
+    "worse": true
   },
   {
     "id": "9b461a21-bd07-44e5-8687-40cd86f8911a",
@@ -6809,12 +6795,12 @@
     "country": "US",
     "date_utc": "2026-08-25T13:00:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "2.1",
     "consensus": "1.7",
     "previous": "1.6",
     "unit": "%",
     "currency": "USD",
-    "better": false,
+    "better": true,
     "worse": false
   },
   {
@@ -6837,13 +6823,13 @@
     "country": "US",
     "date_utc": "2026-08-25T14:00:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "0.607",
     "consensus": "0.62",
     "previous": "0.628",
     "unit": "",
     "currency": "USD",
     "better": false,
-    "worse": false
+    "worse": true
   },
   {
     "id": "75002e73-b682-4de0-b012-4dc84515e707",
@@ -6851,7 +6837,7 @@
     "country": "US",
     "date_utc": "2026-08-25T14:00:00Z",
     "impact": "Medium",
-    "actual": "",
+    "actual": "-10.5",
     "consensus": "",
     "previous": "1.6",
     "unit": "%",
@@ -6865,13 +6851,13 @@
     "country": "US",
     "date_utc": "2026-08-25T14:00:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "4",
     "consensus": "7",
     "previous": "5",
     "unit": "",
     "currency": "USD",
     "better": false,
-    "worse": false
+    "worse": true
   },
   {
     "id": "207ea357-ba46-407d-9905-2dc0d918f930",
@@ -7136,6 +7122,20 @@
     "previous": "10",
     "unit": "",
     "currency": "CHF",
+    "better": false,
+    "worse": false
+  },
+  {
+    "id": "8616f64c-b11e-4d2c-8392-411df42c04d9",
+    "name": "M2 Money Supply",
+    "country": "KW",
+    "date_utc": "2026-08-26T08:00:00Z",
+    "impact": "Low",
+    "actual": "",
+    "consensus": "",
+    "previous": "1.7",
+    "unit": "%",
+    "currency": "KWD",
     "better": false,
     "worse": false
   },
@@ -11375,7 +11375,7 @@
     "impact": "Low",
     "actual": "",
     "consensus": "",
-    "previous": "",
+    "previous": "9.1",
     "unit": "%",
     "currency": "USD",
     "better": false,
