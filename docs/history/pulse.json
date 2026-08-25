@@ -495,9 +495,9 @@
       "DE": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 7,
-        "tone": 0.39,
-        "weight": 17.7
+        "n": 10,
+        "tone": 0.463,
+        "weight": 20.1
       },
       "EMU": {
         "driver": "HCOB Composite PMI",
