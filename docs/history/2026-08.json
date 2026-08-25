@@ -417,6 +417,17 @@
     "unit": "%",
     "worse": false
   },
+  "DE|GDP|2026-08-25": {
+    "actual": "0.3",
+    "better": true,
+    "consensus": "0.2",
+    "country": "DE",
+    "date": "2026-08-25",
+    "indicator": "GDP",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
   "DE|HCOB Composite PMI|2026-08-05": {
     "actual": "51.3",
     "better": true,

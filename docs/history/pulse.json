@@ -476,7 +476,7 @@
     "week": "2026-W34"
   },
   "2026-W35": {
-    "date": "2026-08-24",
+    "date": "2026-08-25",
     "rows": {
       "AU": {
         "driver": "Employment Change s.a.",
@@ -493,18 +493,18 @@
         "weight": 3.6
       },
       "DE": {
-        "driver": "HCOB Composite PMI",
-        "driver_dir": -1,
+        "driver": "Gross Domestic Product (QoQ)",
+        "driver_dir": 1,
         "n": 7,
-        "tone": 0.188,
-        "weight": 13.3
+        "tone": 0.39,
+        "weight": 17.7
       },
       "EMU": {
         "driver": "HCOB Composite PMI",
         "driver_dir": 1,
-        "n": 5,
+        "n": 4,
         "tone": 1.0,
-        "weight": 9.7
+        "weight": 8.9
       },
       "FR": {
         "driver": "HCOB Composite PMI",
@@ -520,26 +520,19 @@
         "tone": 1.0,
         "weight": 3.4
       },
-      "NZ": {
-        "driver": "Producer Price Index - Output (QoQ)",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 1.8
-      },
       "UK": {
-        "driver": "ILO Unemployment Rate (3M)",
-        "driver_dir": -1,
-        "n": 11,
-        "tone": 0.079,
-        "weight": 25.4
+        "driver": "Core Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 8,
+        "tone": 0.196,
+        "weight": 17.9
       },
       "US": {
         "driver": "S&P Global Manufacturing PMI",
         "driver_dir": -1,
-        "n": 8,
-        "tone": -0.089,
-        "weight": 11.2
+        "n": 4,
+        "tone": 0.229,
+        "weight": 7.0
       }
     },
     "trends": {
@@ -567,17 +560,13 @@
         "dir": 1,
         "streak": 2
       },
-      "NZ": {
-        "dir": 1,
-        "streak": 2
-      },
       "UK": {
-        "dir": 0,
-        "streak": 0
+        "dir": 1,
+        "streak": 1
       },
       "US": {
-        "dir": 0,
-        "streak": 0
+        "dir": 1,
+        "streak": 1
       }
     },
     "week": "2026-W35"

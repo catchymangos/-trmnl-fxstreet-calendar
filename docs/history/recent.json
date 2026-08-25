@@ -756,6 +756,17 @@
     "unit": "%",
     "worse": false
   },
+  "DE|GDP|2026-08-25": {
+    "actual": "0.3",
+    "better": true,
+    "consensus": "0.2",
+    "country": "DE",
+    "date": "2026-08-25",
+    "indicator": "GDP",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
   "DE|GfK Consumer Confidence Survey|2026-07-24": {
     "actual": "-29.6",
     "better": false,
