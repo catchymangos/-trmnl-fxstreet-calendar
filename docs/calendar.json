@@ -6991,13 +6991,13 @@
     "country": "RU",
     "date_utc": "2026-08-26T16:00:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "0.4",
     "consensus": "0.7",
     "previous": "0.6",
     "unit": "%",
     "currency": "RUB",
     "better": false,
-    "worse": false
+    "worse": true
   },
   {
     "id": "81401983-748d-4b21-b141-1d59ba12ad55",
@@ -7005,7 +7005,7 @@
     "country": "US",
     "date_utc": "2026-08-26T17:00:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "4.393",
     "consensus": "",
     "previous": "4.408",
     "unit": "%",
