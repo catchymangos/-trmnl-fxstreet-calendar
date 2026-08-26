@@ -32,6 +32,17 @@
     "unit": "%",
     "worse": true
   },
+  "AU|CPI|2026-08-26": {
+    "actual": "1",
+    "better": true,
+    "consensus": "0.8",
+    "country": "AU",
+    "date": "2026-08-26",
+    "indicator": "CPI",
+    "previous": "-0.1",
+    "unit": "%",
+    "worse": false
+  },
   "AU|Consumer Inflation Expectations|2026-07-16": {
     "actual": "4.7",
     "consensus": "",
