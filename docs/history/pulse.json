@@ -521,11 +521,11 @@
         "weight": 11.6
       },
       "US": {
-        "driver": "S&P Global Manufacturing PMI",
-        "driver_dir": -1,
-        "n": 5,
-        "tone": 0.103,
-        "weight": 7.8
+        "driver": "Core Personal Consumption Expenditures (QoQ)",
+        "driver_dir": 1,
+        "n": 13,
+        "tone": 0.538,
+        "weight": 18.6
       }
     },
     "trends": {
@@ -554,8 +554,8 @@
         "streak": 0
       },
       "US": {
-        "dir": 0,
-        "streak": 0
+        "dir": 1,
+        "streak": 1
       }
     },
     "week": "2026-W35"
