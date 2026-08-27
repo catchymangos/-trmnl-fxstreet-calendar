@@ -488,16 +488,16 @@
       "CA": {
         "driver": "Retail Sales (MoM)",
         "driver_dir": 1,
-        "n": 2,
+        "n": 3,
         "tone": 1.0,
-        "weight": 3.6
+        "weight": 4.4
       },
       "DE": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 8,
-        "tone": 0.345,
-        "weight": 16.5
+        "n": 9,
+        "tone": 0.376,
+        "weight": 17.3
       },
       "EMU": {
         "driver": "HCOB Composite PMI",
@@ -523,9 +523,9 @@
       "US": {
         "driver": "Core Personal Consumption Expenditures (QoQ)",
         "driver_dir": 1,
-        "n": 11,
-        "tone": 0.494,
-        "weight": 17.0
+        "n": 12,
+        "tone": 0.517,
+        "weight": 17.8
       }
     },
     "trends": {
