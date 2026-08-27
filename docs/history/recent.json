@@ -138,6 +138,17 @@
     "unit": "%",
     "worse": false
   },
+  "AU|Private Capital Expenditure|2026-08-27": {
+    "actual": "-3.6",
+    "better": false,
+    "consensus": "0",
+    "country": "AU",
+    "date": "2026-08-27",
+    "indicator": "Private Capital Expenditure",
+    "previous": "6.5",
+    "unit": "%",
+    "worse": true
+  },
   "AU|Rate Decision|2026-08-11": {
     "actual": "4.35",
     "better": false,
@@ -1927,6 +1938,17 @@
     "indicator": "Rate Decision",
     "previous": "2.5",
     "unit": "%"
+  },
+  "KR|Rate Decision|2026-08-27": {
+    "actual": "3",
+    "better": false,
+    "consensus": "3",
+    "country": "KR",
+    "date": "2026-08-27",
+    "indicator": "Rate Decision",
+    "previous": "2.75",
+    "unit": "%",
+    "worse": false
   },
   "MX|Headline Inflation|2026-07-09": {
     "actual": "-0.27",

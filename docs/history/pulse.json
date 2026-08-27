@@ -476,14 +476,14 @@
     "week": "2026-W34"
   },
   "2026-W35": {
-    "date": "2026-08-26",
+    "date": "2026-08-27",
     "rows": {
       "AU": {
-        "driver": "Employment Change s.a.",
-        "driver_dir": -1,
-        "n": 3,
-        "tone": -0.333,
-        "weight": 13.5
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 0.698,
+        "weight": 5.3
       },
       "CA": {
         "driver": "Retail Sales (MoM)",
@@ -495,9 +495,9 @@
       "DE": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 10,
-        "tone": 0.463,
-        "weight": 20.1
+        "n": 8,
+        "tone": 0.345,
+        "weight": 16.5
       },
       "EMU": {
         "driver": "HCOB Composite PMI",
@@ -516,22 +516,22 @@
       "UK": {
         "driver": "S&P Global Composite PMI",
         "driver_dir": 1,
-        "n": 6,
-        "tone": 0.069,
-        "weight": 11.6
+        "n": 5,
+        "tone": 0.0,
+        "weight": 10.8
       },
       "US": {
         "driver": "Core Personal Consumption Expenditures (QoQ)",
         "driver_dir": 1,
-        "n": 13,
-        "tone": 0.538,
-        "weight": 18.6
+        "n": 11,
+        "tone": 0.494,
+        "weight": 17.0
       }
     },
     "trends": {
       "AU": {
-        "dir": -1,
-        "streak": 2
+        "dir": 1,
+        "streak": 1
       },
       "CA": {
         "dir": 1,
