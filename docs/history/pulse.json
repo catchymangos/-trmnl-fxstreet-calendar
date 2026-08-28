@@ -476,7 +476,7 @@
     "week": "2026-W34"
   },
   "2026-W35": {
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "rows": {
       "AU": {
         "driver": "Consumer Price Index (YoY)",
@@ -486,46 +486,32 @@
         "weight": 5.3
       },
       "CA": {
-        "driver": "Retail Sales (MoM)",
+        "driver": "Current Account",
         "driver_dir": 1,
-        "n": 3,
+        "n": 1,
         "tone": 1.0,
-        "weight": 4.4
+        "weight": 0.8
       },
       "DE": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 9,
-        "tone": 0.376,
-        "weight": 17.3
-      },
-      "EMU": {
-        "driver": "HCOB Composite PMI",
-        "driver_dir": 1,
-        "n": 4,
+        "n": 6,
         "tone": 1.0,
-        "weight": 8.9
+        "weight": 9.2
       },
-      "FR": {
-        "driver": "HCOB Composite PMI",
-        "driver_dir": -1,
-        "n": 3,
-        "tone": -0.333,
-        "weight": 5.4
-      },
-      "UK": {
-        "driver": "S&P Global Composite PMI",
+      "JP": {
+        "driver": "Tokyo CPI ex Fresh Food (YoY)",
         "driver_dir": 1,
-        "n": 5,
-        "tone": 0.0,
-        "weight": 10.8
+        "n": 2,
+        "tone": 1.0,
+        "weight": 6.0
       },
       "US": {
         "driver": "Core Personal Consumption Expenditures (QoQ)",
         "driver_dir": 1,
-        "n": 12,
-        "tone": 0.517,
-        "weight": 17.8
+        "n": 10,
+        "tone": 0.742,
+        "weight": 12.4
       }
     },
     "trends": {
@@ -541,17 +527,9 @@
         "dir": 1,
         "streak": 2
       },
-      "EMU": {
+      "JP": {
         "dir": 1,
-        "streak": 3
-      },
-      "FR": {
-        "dir": -1,
         "streak": 2
-      },
-      "UK": {
-        "dir": 0,
-        "streak": 0
       },
       "US": {
         "dir": 1,

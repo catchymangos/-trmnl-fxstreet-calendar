@@ -978,6 +978,17 @@
     "unit": "%",
     "worse": false
   },
+  "JP|CPI|2026-08-27": {
+    "actual": "1.9",
+    "better": true,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-08-27",
+    "indicator": "CPI",
+    "previous": "2",
+    "unit": "%",
+    "worse": false
+  },
   "JP|Current Account n.s.a.|2026-08-09": {
     "actual": "-92.3",
     "better": false,
@@ -1042,6 +1053,17 @@
     "indicator": "Trade Balance",
     "previous": "-881.9",
     "unit": "\u00a5",
+    "worse": false
+  },
+  "JP|Unemployment Rate|2026-08-27": {
+    "actual": "2.4",
+    "better": true,
+    "consensus": "2.5",
+    "country": "JP",
+    "date": "2026-08-27",
+    "indicator": "Unemployment Rate",
+    "previous": "2.5",
+    "unit": "%",
     "worse": false
   },
   "KR|Rate Decision|2026-08-27": {
