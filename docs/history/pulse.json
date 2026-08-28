@@ -486,18 +486,32 @@
         "weight": 5.3
       },
       "CA": {
-        "driver": "Current Account",
+        "driver": "Gross Domestic Product Annualized",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -0.084,
+        "weight": 8.3
+      },
+      "DE": {
+        "driver": "Gross Domestic Product (QoQ)",
+        "driver_dir": 1,
+        "n": 7,
+        "tone": 1.0,
+        "weight": 12.2
+      },
+      "EMU": {
+        "driver": "Economic Sentiment Indicator",
         "driver_dir": 1,
         "n": 1,
         "tone": 1.0,
         "weight": 0.8
       },
-      "DE": {
-        "driver": "Gross Domestic Product (QoQ)",
-        "driver_dir": 1,
-        "n": 6,
-        "tone": 1.0,
-        "weight": 9.2
+      "ES": {
+        "driver": "Harmonized Index of Consumer Prices (YoY)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 3.0
       },
       "JP": {
         "driver": "Tokyo CPI ex Fresh Food (YoY)",
@@ -509,9 +523,9 @@
       "US": {
         "driver": "Core Personal Consumption Expenditures (QoQ)",
         "driver_dir": 1,
-        "n": 10,
-        "tone": 0.742,
-        "weight": 12.4
+        "n": 13,
+        "tone": 0.676,
+        "weight": 14.8
       }
     },
     "trends": {
@@ -520,12 +534,20 @@
         "streak": 1
       },
       "CA": {
-        "dir": 1,
-        "streak": 2
+        "dir": 0,
+        "streak": 0
       },
       "DE": {
         "dir": 1,
         "streak": 2
+      },
+      "EMU": {
+        "dir": 1,
+        "streak": 3
+      },
+      "ES": {
+        "dir": -1,
+        "streak": 1
       },
       "JP": {
         "dir": 1,

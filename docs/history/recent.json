@@ -361,6 +361,17 @@
     "unit": "%",
     "worse": false
   },
+  "CA|GDP|2026-08-28": {
+    "actual": "0.3",
+    "better": true,
+    "consensus": "0.2",
+    "country": "CA",
+    "date": "2026-08-28",
+    "indicator": "GDP",
+    "previous": "0.3",
+    "unit": "%",
+    "worse": false
+  },
   "CA|Ivey Purchasing Managers Index s.a|2026-08-07": {
     "actual": "55.1",
     "better": false,
@@ -767,6 +778,17 @@
     "unit": "",
     "worse": true
   },
+  "DE|Employment Change|2026-08-28": {
+    "actual": "4",
+    "better": true,
+    "consensus": "5",
+    "country": "DE",
+    "date": "2026-08-28",
+    "indicator": "Employment Change",
+    "previous": "6",
+    "unit": "",
+    "worse": false
+  },
   "DE|Factory Orders n.s.a.|2026-08-06": {
     "actual": "6.5",
     "better": false,
@@ -1060,6 +1082,17 @@
     "unit": "%",
     "worse": true
   },
+  "DE|Unemployment Rate|2026-08-28": {
+    "actual": "6.4",
+    "better": false,
+    "consensus": "6.4",
+    "country": "DE",
+    "date": "2026-08-28",
+    "indicator": "Unemployment Rate",
+    "previous": "6.4",
+    "unit": "%",
+    "worse": false
+  },
   "DE|ZEW Current Conditions|2026-07-21": {
     "actual": "-77.6",
     "better": true,
@@ -1115,6 +1148,17 @@
     "unit": "",
     "worse": false
   },
+  "EMU|Business Climate|2026-08-28": {
+    "actual": "-0.23",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-08-28",
+    "indicator": "Business Climate",
+    "previous": "-0.19",
+    "unit": "",
+    "worse": false
+  },
   "EMU|Consumer Confidence|2026-07-23": {
     "actual": "-15.9",
     "better": true,
@@ -1148,6 +1192,17 @@
     "unit": "",
     "worse": false
   },
+  "EMU|Consumer Confidence|2026-08-28": {
+    "actual": "-15.5",
+    "better": false,
+    "consensus": "-15.5",
+    "country": "EMU",
+    "date": "2026-08-28",
+    "indicator": "Consumer Confidence",
+    "previous": "-15.5",
+    "unit": "",
+    "worse": false
+  },
   "EMU|ECB Main Refinancing Operations Rate|2026-07-23": {
     "actual": "2.4",
     "consensus": "2.4",
@@ -1174,6 +1229,17 @@
     "date": "2026-07-30",
     "indicator": "Economic Sentiment Indicator",
     "previous": "95",
+    "unit": "",
+    "worse": false
+  },
+  "EMU|Economic Sentiment Indicator|2026-08-28": {
+    "actual": "98.4",
+    "better": true,
+    "consensus": "97.5",
+    "country": "EMU",
+    "date": "2026-08-28",
+    "indicator": "Economic Sentiment Indicator",
+    "previous": "96.9",
     "unit": "",
     "worse": false
   },
@@ -1448,6 +1514,17 @@
     "unit": "%",
     "worse": false
   },
+  "ES|Inflation|2026-08-28": {
+    "actual": "4.5",
+    "better": false,
+    "consensus": "4.6",
+    "country": "ES",
+    "date": "2026-08-28",
+    "indicator": "Inflation",
+    "previous": "3.9",
+    "unit": "%",
+    "worse": true
+  },
   "ES|Manufacturing PMI|2026-08-03": {
     "actual": "50.2",
     "better": false,
@@ -1496,6 +1573,17 @@
     "consensus": "2.4",
     "country": "FR",
     "date": "2026-08-14",
+    "indicator": "CPI",
+    "previous": "2.4",
+    "unit": "%",
+    "worse": false
+  },
+  "FR|CPI|2026-08-28": {
+    "actual": "2.7",
+    "better": false,
+    "consensus": "",
+    "country": "FR",
+    "date": "2026-08-28",
     "indicator": "CPI",
     "previous": "2.4",
     "unit": "%",
@@ -3357,6 +3445,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Michigan Consumer Expectations Index|2026-08-28": {
+    "actual": "51.5",
+    "better": true,
+    "consensus": "50.6",
+    "country": "US",
+    "date": "2026-08-28",
+    "indicator": "Michigan Consumer Expectations Index",
+    "previous": "50.6",
+    "unit": "",
+    "worse": false
+  },
   "US|Michigan Consumer Sentiment Index|2026-07-17": {
     "actual": "54.4",
     "better": true,
@@ -3389,6 +3488,17 @@
     "previous": "55.2",
     "unit": "",
     "worse": true
+  },
+  "US|Michigan Consumer Sentiment Index|2026-08-28": {
+    "actual": "51.7",
+    "better": true,
+    "consensus": "51",
+    "country": "US",
+    "date": "2026-08-28",
+    "indicator": "Michigan Consumer Sentiment Index",
+    "previous": "51",
+    "unit": "",
+    "worse": false
   },
   "US|Monthly Budget Statement|2026-07-13": {
     "actual": "-120",
@@ -3817,6 +3927,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|UoM 1-year Consumer Inflation Expectations|2026-08-28": {
+    "actual": "4",
+    "better": false,
+    "consensus": "4.3",
+    "country": "US",
+    "date": "2026-08-28",
+    "indicator": "UoM 1-year Consumer Inflation Expectations",
+    "previous": "4.3",
+    "unit": "%",
+    "worse": true
+  },
   "US|UoM 5-year Consumer Inflation Expectation|2026-07-17": {
     "actual": "3.3",
     "consensus": "",
@@ -3843,6 +3964,17 @@
     "consensus": "",
     "country": "US",
     "date": "2026-08-14",
+    "indicator": "UoM 5-year Consumer Inflation Expectation",
+    "previous": "3.3",
+    "unit": "%",
+    "worse": false
+  },
+  "US|UoM 5-year Consumer Inflation Expectation|2026-08-28": {
+    "actual": "3.3",
+    "better": false,
+    "consensus": "3.3",
+    "country": "US",
+    "date": "2026-08-28",
     "indicator": "UoM 5-year Consumer Inflation Expectation",
     "previous": "3.3",
     "unit": "%",
