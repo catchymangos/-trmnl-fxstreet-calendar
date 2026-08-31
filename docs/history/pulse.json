@@ -559,5 +559,112 @@
       }
     },
     "week": "2026-W35"
+  },
+  "2026-W36": {
+    "date": "2026-08-31",
+    "rows": {
+      "AU": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 0.698,
+        "weight": 5.3
+      },
+      "CA": {
+        "driver": "Gross Domestic Product Annualized",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -0.084,
+        "weight": 8.3
+      },
+      "CN": {
+        "driver": "NBS Manufacturing PMI",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 2.7
+      },
+      "DE": {
+        "driver": "Consumer Price Index (MoM)",
+        "driver_dir": -1,
+        "n": 10,
+        "tone": 0.008,
+        "weight": 24.2
+      },
+      "EMU": {
+        "driver": "Economic Sentiment Indicator",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 0.8
+      },
+      "ES": {
+        "driver": "Harmonized Index of Consumer Prices (YoY)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 3.0
+      },
+      "IN": {
+        "driver": "Gross Domestic Product Quarterly (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 3.0
+      },
+      "JP": {
+        "driver": "Tokyo CPI ex Fresh Food (YoY)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 6.0
+      },
+      "US": {
+        "driver": "Core Personal Consumption Expenditures (QoQ)",
+        "driver_dir": 1,
+        "n": 14,
+        "tone": 0.59,
+        "weight": 15.6
+      }
+    },
+    "trends": {
+      "AU": {
+        "dir": 1,
+        "streak": 2
+      },
+      "CA": {
+        "dir": 0,
+        "streak": 0
+      },
+      "CN": {
+        "dir": 1,
+        "streak": 1
+      },
+      "DE": {
+        "dir": 0,
+        "streak": 0
+      },
+      "EMU": {
+        "dir": 1,
+        "streak": 4
+      },
+      "ES": {
+        "dir": -1,
+        "streak": 2
+      },
+      "IN": {
+        "dir": 1,
+        "streak": 1
+      },
+      "JP": {
+        "dir": 1,
+        "streak": 3
+      },
+      "US": {
+        "dir": 1,
+        "streak": 2
+      }
+    },
+    "week": "2026-W36"
   }
 }

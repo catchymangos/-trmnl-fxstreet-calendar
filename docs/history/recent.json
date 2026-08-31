@@ -233,6 +233,17 @@
     "unit": "%",
     "worse": false
   },
+  "AU|TD-MI Inflation Gauge|2026-08-31": {
+    "actual": "4.8",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-08-31",
+    "indicator": "TD-MI Inflation Gauge",
+    "previous": "4",
+    "unit": "%",
+    "worse": false
+  },
   "AU|Trade Balance|2026-08-06": {
     "actual": "1929",
     "better": true,
@@ -661,6 +672,17 @@
     "unit": "",
     "worse": true
   },
+  "CN|Manufacturing PMI|2026-08-31": {
+    "actual": "49.8",
+    "better": true,
+    "consensus": "49.7",
+    "country": "CN",
+    "date": "2026-08-31",
+    "indicator": "Manufacturing PMI",
+    "previous": "49.2",
+    "unit": "",
+    "worse": false
+  },
   "CN|PPI|2026-07-09": {
     "actual": "4.1",
     "consensus": "4.1",
@@ -766,6 +788,17 @@
     "previous": "-0.3",
     "unit": "%",
     "worse": false
+  },
+  "DE|CPI|2026-08-31": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "0.3",
+    "country": "DE",
+    "date": "2026-08-31",
+    "indicator": "CPI",
+    "previous": "0.8",
+    "unit": "%",
+    "worse": true
   },
   "DE|Employment Change|2026-07-31": {
     "actual": "6",
@@ -951,6 +984,17 @@
     "previous": "0.9",
     "unit": "%",
     "worse": false
+  },
+  "DE|Inflation|2026-08-31": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "0.3",
+    "country": "DE",
+    "date": "2026-08-31",
+    "indicator": "Inflation",
+    "previous": "0.9",
+    "unit": "%",
+    "worse": true
   },
   "DE|Manufacturing PMI|2026-07-24": {
     "actual": "52.2",
@@ -1677,6 +1721,17 @@
     "unit": "",
     "worse": false
   },
+  "IN|GDP|2026-08-31": {
+    "actual": "7.8",
+    "better": true,
+    "consensus": "7.1",
+    "country": "IN",
+    "date": "2026-08-31",
+    "indicator": "GDP",
+    "previous": "7.8",
+    "unit": "%",
+    "worse": false
+  },
   "IN|HSBC Composite PMI|2026-07-24": {
     "actual": "54.3",
     "better": false,
@@ -1974,6 +2029,17 @@
     "unit": "%",
     "worse": false
   },
+  "JP|Large Retailer Sales|2026-08-30": {
+    "actual": "1.4",
+    "better": false,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-08-30",
+    "indicator": "Large Retailer Sales",
+    "previous": "-1",
+    "unit": "%",
+    "worse": false
+  },
   "JP|Rate Decision|2026-07-31": {
     "actual": "1",
     "better": false,
@@ -1996,6 +2062,17 @@
     "unit": "%",
     "worse": false
   },
+  "JP|Retail Trade s.a|2026-08-30": {
+    "actual": "2.4",
+    "better": false,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-08-30",
+    "indicator": "Retail Trade s.a",
+    "previous": "-4.1",
+    "unit": "%",
+    "worse": false
+  },
   "JP|Retail Trade|2026-07-30": {
     "actual": "0.5",
     "better": false,
@@ -2006,6 +2083,17 @@
     "previous": "5.3",
     "unit": "%",
     "worse": true
+  },
+  "JP|Retail Trade|2026-08-30": {
+    "actual": "4",
+    "better": true,
+    "consensus": "3",
+    "country": "JP",
+    "date": "2026-08-30",
+    "indicator": "Retail Trade",
+    "previous": "0.5",
+    "unit": "%",
+    "worse": false
   },
   "JP|Trade Balance|2026-07-21": {
     "actual": "-406.9",
@@ -2966,6 +3054,17 @@
     "previous": "56.7",
     "unit": "",
     "worse": false
+  },
+  "US|Chicago PMI|2026-08-28": {
+    "actual": "47.1",
+    "better": false,
+    "consensus": "57",
+    "country": "US",
+    "date": "2026-08-28",
+    "indicator": "Chicago PMI",
+    "previous": "57.6",
+    "unit": "",
+    "worse": true
   },
   "US|Core Personal Consumption Expenditures - Price Index|2026-07-30": {
     "actual": "0.1",
