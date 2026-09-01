@@ -1,4 +1,15 @@
 {
+  "AU|AiG Industry Index|2026-09-01": {
+    "actual": "-3.5",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-09-01",
+    "indicator": "AiG Industry Index",
+    "previous": "-29.9",
+    "unit": "",
+    "worse": false
+  },
   "AU|Building Permits|2026-09-01": {
     "actual": "-3.6",
     "better": true,
@@ -141,6 +152,17 @@
     "previous": "51.3",
     "unit": "",
     "worse": true
+  },
+  "NZ|Building Permits s.a.|2026-09-01": {
+    "actual": "-4.3",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-09-01",
+    "indicator": "Building Permits s.a.",
+    "previous": "-3.6",
+    "unit": "%",
+    "worse": false
   },
   "US|ISM Manufacturing Employment Index|2026-09-01": {
     "actual": "51.2",
