@@ -561,7 +561,7 @@
     "week": "2026-W35"
   },
   "2026-W36": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "rows": {
       "AU": {
         "driver": "Consumer Price Index (YoY)",
@@ -587,9 +587,9 @@
       "DE": {
         "driver": "Consumer Price Index (MoM)",
         "driver_dir": -1,
-        "n": 10,
-        "tone": 0.008,
-        "weight": 24.2
+        "n": 5,
+        "tone": -0.519,
+        "weight": 15.8
       },
       "EMU": {
         "driver": "Economic Sentiment Indicator",
@@ -622,9 +622,9 @@
       "US": {
         "driver": "Core Personal Consumption Expenditures (QoQ)",
         "driver_dir": 1,
-        "n": 14,
-        "tone": 0.59,
-        "weight": 15.6
+        "n": 13,
+        "tone": 0.676,
+        "weight": 14.8
       }
     },
     "trends": {
@@ -641,8 +641,8 @@
         "streak": 1
       },
       "DE": {
-        "dir": 0,
-        "streak": 0
+        "dir": -1,
+        "streak": 1
       },
       "EMU": {
         "dir": 1,
