@@ -636,9 +636,9 @@
       "US": {
         "driver": "Core Personal Consumption Expenditures (QoQ)",
         "driver_dir": 1,
-        "n": 13,
-        "tone": 0.676,
-        "weight": 14.8
+        "n": 16,
+        "tone": 0.234,
+        "weight": 20.1
       }
     },
     "trends": {

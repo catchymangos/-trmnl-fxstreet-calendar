@@ -10,6 +10,17 @@
     "unit": "%",
     "worse": false
   },
+  "CA|Manufacturing PMI|2026-09-01": {
+    "actual": "53",
+    "better": false,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-09-01",
+    "indicator": "Manufacturing PMI",
+    "previous": "53.5",
+    "unit": "",
+    "worse": false
+  },
   "CH|Retail Sales|2026-09-01": {
     "actual": "2.3",
     "better": true,
@@ -128,6 +139,61 @@
     "date": "2026-09-01",
     "indicator": "Manufacturing PMI",
     "previous": "51.3",
+    "unit": "",
+    "worse": true
+  },
+  "US|ISM Manufacturing Employment Index|2026-09-01": {
+    "actual": "51.2",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-01",
+    "indicator": "ISM Manufacturing Employment Index",
+    "previous": "52.8",
+    "unit": "",
+    "worse": false
+  },
+  "US|ISM Manufacturing New Orders Index|2026-09-01": {
+    "actual": "53.7",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-01",
+    "indicator": "ISM Manufacturing New Orders Index",
+    "previous": "56.7",
+    "unit": "",
+    "worse": false
+  },
+  "US|ISM Manufacturing Prices Paid|2026-09-01": {
+    "actual": "71.1",
+    "better": false,
+    "consensus": "72",
+    "country": "US",
+    "date": "2026-09-01",
+    "indicator": "ISM Manufacturing Prices Paid",
+    "previous": "71.1",
+    "unit": "",
+    "worse": true
+  },
+  "US|JOLTS Job Openings|2026-09-01": {
+    "actual": "7.271",
+    "better": false,
+    "consensus": "7.3",
+    "country": "US",
+    "date": "2026-09-01",
+    "indicator": "JOLTS Job Openings",
+    "previous": "7.359",
+    "unit": "",
+    "worse": true
+  },
+  "US|Manufacturing PMI|2026-09-01": {
+    "actual": "54.6",
+    "better": false,
+    "consensus": "55.2",
+    "country": "US",
+    "date": "2026-09-01",
+    "indicator": "Manufacturing PMI",
+    "previous": "55.6",
     "unit": "",
     "worse": true
   }
