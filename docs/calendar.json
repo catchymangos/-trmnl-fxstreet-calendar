@@ -8246,20 +8246,6 @@
     "worse": true
   },
   {
-    "id": "8f5ca21e-1557-4677-8e70-2d0a0a022e01",
-    "name": "GDT Price Index",
-    "country": "NZ",
-    "date_utc": "2026-09-01T15:00:00Z",
-    "impact": "Low",
-    "actual": "",
-    "consensus": "",
-    "previous": "2.3",
-    "unit": "%",
-    "currency": "NZD",
-    "better": false,
-    "worse": false
-  },
-  {
     "id": "72467912-257d-49f9-960d-59da9042ce30",
     "name": "BoE's Mann speech",
     "country": "UK",
@@ -8312,6 +8298,20 @@
     "previous": "",
     "unit": "",
     "currency": "EUR",
+    "better": false,
+    "worse": false
+  },
+  {
+    "id": "8f5ca21e-1557-4677-8e70-2d0a0a022e01",
+    "name": "GDT Price Index",
+    "country": "NZ",
+    "date_utc": "2026-09-01T18:00:11.027Z",
+    "impact": "Low",
+    "actual": "0.9",
+    "consensus": "",
+    "previous": "2.3",
+    "unit": "%",
+    "currency": "NZD",
     "better": false,
     "worse": false
   },
