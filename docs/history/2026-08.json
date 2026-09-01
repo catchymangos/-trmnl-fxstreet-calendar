@@ -1286,6 +1286,17 @@
     "unit": "%",
     "worse": false
   },
+  "NZ|ANZ \u2013 Roy Morgan Consumer Confidence|2026-08-27": {
+    "actual": "98",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-08-27",
+    "indicator": "ANZ \u2013 Roy Morgan Consumer Confidence",
+    "previous": "99.3",
+    "unit": "",
+    "worse": false
+  },
   "NZ|Building Permits s.a.|2026-08-02": {
     "actual": "-3.6",
     "better": false,

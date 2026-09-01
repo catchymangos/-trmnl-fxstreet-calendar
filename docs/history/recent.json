@@ -21,6 +21,17 @@
     "unit": "%",
     "worse": false
   },
+  "AU|Building Permits|2026-09-01": {
+    "actual": "-3.6",
+    "better": true,
+    "consensus": "-4.8",
+    "country": "AU",
+    "date": "2026-09-01",
+    "indicator": "Building Permits",
+    "previous": "7.2",
+    "unit": "%",
+    "worse": false
+  },
   "AU|CPI|2026-07-29": {
     "actual": "-0.1",
     "better": false,
@@ -531,6 +542,17 @@
     "unit": "%",
     "worse": true
   },
+  "CH|Retail Sales|2026-09-01": {
+    "actual": "2.3",
+    "better": true,
+    "consensus": "1.3",
+    "country": "CH",
+    "date": "2026-09-01",
+    "indicator": "Retail Sales",
+    "previous": "1.5",
+    "unit": "%",
+    "worse": false
+  },
   "CH|ZEW Sentiment|2026-07-29": {
     "actual": "10",
     "better": false,
@@ -680,6 +702,17 @@
     "date": "2026-08-31",
     "indicator": "Manufacturing PMI",
     "previous": "49.2",
+    "unit": "",
+    "worse": false
+  },
+  "CN|Manufacturing PMI|2026-09-01": {
+    "actual": "51.5",
+    "better": true,
+    "consensus": "50.9",
+    "country": "CN",
+    "date": "2026-09-01",
+    "indicator": "Manufacturing PMI",
+    "previous": "50.9",
     "unit": "",
     "worse": false
   },
@@ -1029,6 +1062,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|Manufacturing PMI|2026-09-01": {
+    "actual": "54.3",
+    "better": true,
+    "consensus": "54.1",
+    "country": "DE",
+    "date": "2026-09-01",
+    "indicator": "Manufacturing PMI",
+    "previous": "54.1",
+    "unit": "",
+    "worse": false
+  },
   "DE|PPI|2026-07-20": {
     "actual": "1.8",
     "better": false,
@@ -1059,6 +1103,17 @@
     "date": "2026-08-03",
     "indicator": "Retail Sales",
     "previous": "1.1",
+    "unit": "%",
+    "worse": true
+  },
+  "DE|Retail Sales|2026-09-01": {
+    "actual": "-3.4",
+    "better": false,
+    "consensus": "0.4",
+    "country": "DE",
+    "date": "2026-09-01",
+    "indicator": "Retail Sales",
+    "previous": "-1.1",
     "unit": "%",
     "worse": true
   },
@@ -1406,6 +1461,17 @@
     "unit": "%",
     "worse": false
   },
+  "EMU|Inflation|2026-09-01": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-09-01",
+    "indicator": "Inflation",
+    "previous": "0",
+    "unit": "%",
+    "worse": true
+  },
   "EMU|Manufacturing PMI|2026-07-24": {
     "actual": "52",
     "better": true,
@@ -1494,6 +1560,17 @@
     "unit": "%",
     "worse": true
   },
+  "EMU|Unemployment Rate|2026-09-01": {
+    "actual": "6.4",
+    "better": false,
+    "consensus": "6.3",
+    "country": "EMU",
+    "date": "2026-09-01",
+    "indicator": "Unemployment Rate",
+    "previous": "6.3",
+    "unit": "%",
+    "worse": true
+  },
   "EMU|ZEW Sentiment|2026-07-21": {
     "actual": "23.4",
     "better": true,
@@ -1577,6 +1654,17 @@
     "date": "2026-08-03",
     "indicator": "Manufacturing PMI",
     "previous": "49.7",
+    "unit": "",
+    "worse": true
+  },
+  "ES|Manufacturing PMI|2026-09-01": {
+    "actual": "49.5",
+    "better": false,
+    "consensus": "50.1",
+    "country": "ES",
+    "date": "2026-09-01",
+    "indicator": "Manufacturing PMI",
+    "previous": "50.2",
     "unit": "",
     "worse": true
   },
@@ -1798,6 +1886,17 @@
     "unit": "",
     "worse": false
   },
+  "IN|Manufacturing PMI|2026-09-01": {
+    "actual": "52.8",
+    "better": false,
+    "consensus": "52.9",
+    "country": "IN",
+    "date": "2026-09-01",
+    "indicator": "Manufacturing PMI",
+    "previous": "52.9",
+    "unit": "",
+    "worse": true
+  },
   "IN|Rate Decision|2026-08-05": {
     "actual": "5.25",
     "better": false,
@@ -1875,6 +1974,17 @@
     "unit": "%",
     "worse": false
   },
+  "IT|CPI|2026-09-01": {
+    "actual": "3.2",
+    "better": false,
+    "consensus": "3.2",
+    "country": "IT",
+    "date": "2026-09-01",
+    "indicator": "CPI",
+    "previous": "2.9",
+    "unit": "%",
+    "worse": false
+  },
   "IT|GDP|2026-07-30": {
     "actual": "0.2",
     "better": true,
@@ -1886,6 +1996,17 @@
     "unit": "%",
     "worse": false
   },
+  "IT|GDP|2026-09-01": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "0.2",
+    "country": "IT",
+    "date": "2026-09-01",
+    "indicator": "GDP",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
   "IT|Manufacturing PMI|2026-08-03": {
     "actual": "51.3",
     "better": false,
@@ -1894,6 +2015,17 @@
     "date": "2026-08-03",
     "indicator": "Manufacturing PMI",
     "previous": "52.2",
+    "unit": "",
+    "worse": true
+  },
+  "IT|Manufacturing PMI|2026-09-01": {
+    "actual": "49.6",
+    "better": false,
+    "consensus": "51.5",
+    "country": "IT",
+    "date": "2026-09-01",
+    "indicator": "Manufacturing PMI",
+    "previous": "51.3",
     "unit": "",
     "worse": true
   },
@@ -2220,6 +2352,17 @@
     "date": "2026-07-30",
     "indicator": "ANZ \u2013 Roy Morgan Consumer Confidence",
     "previous": "91.3",
+    "unit": "",
+    "worse": false
+  },
+  "NZ|ANZ \u2013 Roy Morgan Consumer Confidence|2026-08-27": {
+    "actual": "98",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-08-27",
+    "indicator": "ANZ \u2013 Roy Morgan Consumer Confidence",
+    "previous": "99.3",
     "unit": "",
     "worse": false
   },
