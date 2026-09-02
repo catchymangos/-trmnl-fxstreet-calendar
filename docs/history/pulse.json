@@ -566,9 +566,9 @@
       "AU": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 0.824,
-        "weight": 9.1
+        "n": 6,
+        "tone": 0.874,
+        "weight": 12.7
       },
       "CA": {
         "driver": "Gross Domestic Product Annualized",
