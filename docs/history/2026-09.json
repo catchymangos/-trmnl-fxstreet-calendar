@@ -21,6 +21,17 @@
     "unit": "%",
     "worse": false
   },
+  "AU|GDP|2026-09-02": {
+    "actual": "0.4",
+    "better": true,
+    "consensus": "0.3",
+    "country": "AU",
+    "date": "2026-09-02",
+    "indicator": "GDP",
+    "previous": "0.3",
+    "unit": "%",
+    "worse": false
+  },
   "CA|Manufacturing PMI|2026-09-01": {
     "actual": "53",
     "better": false,
@@ -161,6 +172,17 @@
     "date": "2026-09-01",
     "indicator": "Building Permits s.a.",
     "previous": "-3.6",
+    "unit": "%",
+    "worse": false
+  },
+  "NZ|Rate Decision|2026-09-02": {
+    "actual": "2.75",
+    "better": false,
+    "consensus": "2.75",
+    "country": "NZ",
+    "date": "2026-09-02",
+    "indicator": "Rate Decision",
+    "previous": "2.5",
     "unit": "%",
     "worse": false
   },
