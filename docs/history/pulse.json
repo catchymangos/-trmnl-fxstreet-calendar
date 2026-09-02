@@ -634,11 +634,11 @@
         "weight": 6.0
       },
       "US": {
-        "driver": "ISM Manufacturing PMI",
+        "driver": "ADP Employment Change",
         "driver_dir": -1,
-        "n": 8,
-        "tone": -0.484,
-        "weight": 9.3
+        "n": 10,
+        "tone": -0.562,
+        "weight": 14.6
       }
     },
     "trends": {

@@ -478,6 +478,17 @@
     "previous": "2.25",
     "unit": "%"
   },
+  "CA|Rate Decision|2026-09-02": {
+    "actual": "2.25",
+    "better": false,
+    "consensus": "2.25",
+    "country": "CA",
+    "date": "2026-09-02",
+    "indicator": "Rate Decision",
+    "previous": "2.25",
+    "unit": "%",
+    "worse": false
+  },
   "CA|Retail Sales|2026-07-23": {
     "actual": "1.2",
     "better": false,
@@ -3176,6 +3187,17 @@
     "unit": "",
     "worse": false
   },
+  "US|ADP Jobs|2026-09-02": {
+    "actual": "38",
+    "better": false,
+    "consensus": "47",
+    "country": "US",
+    "date": "2026-09-02",
+    "indicator": "ADP Jobs",
+    "previous": "44",
+    "unit": "",
+    "worse": true
+  },
   "US|Average Hourly Earnings|2026-08-07": {
     "actual": "0.1",
     "better": false,
@@ -3426,6 +3448,17 @@
     "previous": "-1.3",
     "unit": "%",
     "worse": true
+  },
+  "US|Factory Orders|2026-09-02": {
+    "actual": "0.9",
+    "better": true,
+    "consensus": "0.6",
+    "country": "US",
+    "date": "2026-09-02",
+    "indicator": "Factory Orders",
+    "previous": "-0.3",
+    "unit": "%",
+    "worse": false
   },
   "US|GDP|2026-07-30": {
     "actual": "1.5",
