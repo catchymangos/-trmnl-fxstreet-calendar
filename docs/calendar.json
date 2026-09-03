@@ -8685,7 +8685,7 @@
     "country": "KR",
     "date_utc": "2026-09-03T23:00:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "42.08",
     "consensus": "",
     "previous": "49.73",
     "unit": "",
@@ -8699,13 +8699,13 @@
     "country": "JP",
     "date_utc": "2026-09-03T23:30:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "-3.6",
     "consensus": "-1.6",
     "previous": "-3.3",
     "unit": "%",
     "currency": "JPY",
     "better": false,
-    "worse": false
+    "worse": true
   },
   {
     "id": "bacec9d9-47d5-42b6-b46d-ba31bcac38fb",
