@@ -439,6 +439,50 @@
     "unit": "",
     "worse": true
   },
+  "US|ISM Services Employment Index|2026-09-03": {
+    "actual": "47.8",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-03",
+    "indicator": "ISM Services Employment Index",
+    "previous": "47.4",
+    "unit": "",
+    "worse": false
+  },
+  "US|ISM Services New Orders Index|2026-09-03": {
+    "actual": "60.9",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-03",
+    "indicator": "ISM Services New Orders Index",
+    "previous": "57.2",
+    "unit": "",
+    "worse": false
+  },
+  "US|ISM Services Prices Paid|2026-09-03": {
+    "actual": "72.6",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-03",
+    "indicator": "ISM Services Prices Paid",
+    "previous": "70.3",
+    "unit": "",
+    "worse": false
+  },
+  "US|Initial Jobless Claims|2026-09-03": {
+    "actual": "206",
+    "better": false,
+    "consensus": "205",
+    "country": "US",
+    "date": "2026-09-03",
+    "indicator": "Initial Jobless Claims",
+    "previous": "203",
+    "unit": "",
+    "worse": true
+  },
   "US|JOLTS Job Openings|2026-09-01": {
     "actual": "7.271",
     "better": false,
@@ -459,6 +503,50 @@
     "indicator": "Manufacturing PMI",
     "previous": "55.6",
     "unit": "",
+    "worse": true
+  },
+  "US|Nonfarm Productivity|2026-09-03": {
+    "actual": "1.4",
+    "better": false,
+    "consensus": "1.4",
+    "country": "US",
+    "date": "2026-09-03",
+    "indicator": "Nonfarm Productivity",
+    "previous": "1.4",
+    "unit": "%",
+    "worse": false
+  },
+  "US|S&P Global Composite PMI|2026-09-03": {
+    "actual": "56",
+    "better": false,
+    "consensus": "56",
+    "country": "US",
+    "date": "2026-09-03",
+    "indicator": "S&P Global Composite PMI",
+    "previous": "56",
+    "unit": "",
+    "worse": false
+  },
+  "US|Services PMI|2026-09-03": {
+    "actual": "55.4",
+    "better": true,
+    "consensus": "54.3",
+    "country": "US",
+    "date": "2026-09-03",
+    "indicator": "Services PMI",
+    "previous": "54.1",
+    "unit": "",
+    "worse": false
+  },
+  "US|Unit Labor Costs|2026-09-03": {
+    "actual": "1.2",
+    "better": false,
+    "consensus": "1.3",
+    "country": "US",
+    "date": "2026-09-03",
+    "indicator": "Unit Labor Costs",
+    "previous": "1.3",
+    "unit": "%",
     "worse": true
   }
 }
