@@ -561,63 +561,63 @@
     "week": "2026-W35"
   },
   "2026-W36": {
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "rows": {
       "AU": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
         "n": 6,
-        "tone": 0.874,
-        "weight": 12.7
+        "tone": 1.0,
+        "weight": 14.6
       },
       "CA": {
         "driver": "Gross Domestic Product Annualized",
         "driver_dir": -1,
-        "n": 3,
-        "tone": -0.084,
-        "weight": 8.3
+        "n": 2,
+        "tone": -0.2,
+        "weight": 7.5
       },
       "CH": {
-        "driver": "Real Retail Sales (YoY)",
+        "driver": "Consumer Price Index (YoY)",
         "driver_dir": 1,
-        "n": 1,
+        "n": 4,
         "tone": 1.0,
-        "weight": 1.8
+        "weight": 13.8
       },
       "CN": {
         "driver": "NBS Manufacturing PMI",
         "driver_dir": 1,
-        "n": 2,
+        "n": 3,
         "tone": 1.0,
-        "weight": 5.4
+        "weight": 8.1
       },
       "DE": {
         "driver": "Consumer Price Index (MoM)",
         "driver_dir": -1,
-        "n": 7,
-        "tone": -0.423,
-        "weight": 19.4
+        "n": 8,
+        "tone": -0.243,
+        "weight": 22.2
       },
       "EMU": {
         "driver": "Core Harmonized Index of Consumer Prices (YoY)",
         "driver_dir": -1,
-        "n": 3,
-        "tone": -0.807,
-        "weight": 8.3
+        "n": 5,
+        "tone": -0.563,
+        "weight": 11.9
       },
       "ES": {
         "driver": "Harmonized Index of Consumer Prices (YoY)",
         "driver_dir": -1,
-        "n": 2,
+        "n": 3,
         "tone": -1.0,
-        "weight": 4.8
+        "weight": 6.6
       },
       "IN": {
         "driver": "Gross Domestic Product Quarterly (YoY)",
         "driver_dir": 1,
-        "n": 2,
-        "tone": 0.25,
-        "weight": 4.8
+        "n": 4,
+        "tone": -0.286,
+        "weight": 8.4
       },
       "IT": {
         "driver": "HCOB Manufacturing PMI",
@@ -626,19 +626,19 @@
         "tone": -1.0,
         "weight": 1.8
       },
-      "JP": {
-        "driver": "Tokyo CPI ex Fresh Food (YoY)",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 1.0,
-        "weight": 6.0
+      "TR": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 3.0
       },
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": -1,
-        "n": 10,
-        "tone": -0.562,
-        "weight": 14.6
+        "n": 9,
+        "tone": -0.652,
+        "weight": 13.8
       }
     },
     "trends": {
@@ -647,8 +647,8 @@
         "streak": 2
       },
       "CA": {
-        "dir": 0,
-        "streak": 0
+        "dir": -1,
+        "streak": 1
       },
       "CH": {
         "dir": 1,
@@ -671,16 +671,16 @@
         "streak": 2
       },
       "IN": {
-        "dir": 1,
+        "dir": -1,
         "streak": 1
       },
       "IT": {
         "dir": -1,
         "streak": 1
       },
-      "JP": {
-        "dir": 1,
-        "streak": 3
+      "TR": {
+        "dir": -1,
+        "streak": 1
       },
       "US": {
         "dir": -1,
