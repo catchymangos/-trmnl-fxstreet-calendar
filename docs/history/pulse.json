@@ -570,6 +570,13 @@
         "tone": 1.0,
         "weight": 14.6
       },
+      "CA": {
+        "driver": "Net Change in Employment",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -0.429,
+        "weight": 6.3
+      },
       "CH": {
         "driver": "Consumer Price Index (YoY)",
         "driver_dir": 1,
@@ -629,15 +636,19 @@
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": -1,
-        "n": 8,
-        "tone": -0.53,
-        "weight": 14.9
+        "n": 10,
+        "tone": -0.032,
+        "weight": 22.1
       }
     },
     "trends": {
       "AU": {
         "dir": 1,
         "streak": 2
+      },
+      "CA": {
+        "dir": -1,
+        "streak": 1
       },
       "CH": {
         "dir": 1,
@@ -672,8 +683,8 @@
         "streak": 1
       },
       "US": {
-        "dir": -1,
-        "streak": 1
+        "dir": 0,
+        "streak": 0
       }
     },
     "week": "2026-W36"

@@ -87,6 +87,39 @@
     "unit": "",
     "worse": false
   },
+  "CA|Employment Change|2026-09-04": {
+    "actual": "-41.7",
+    "better": false,
+    "consensus": "15",
+    "country": "CA",
+    "date": "2026-09-04",
+    "indicator": "Employment Change",
+    "previous": "75.1",
+    "unit": "",
+    "worse": true
+  },
+  "CA|Ivey Purchasing Managers Index s.a|2026-09-04": {
+    "actual": "64.3",
+    "better": true,
+    "consensus": "56.2",
+    "country": "CA",
+    "date": "2026-09-04",
+    "indicator": "Ivey Purchasing Managers Index s.a",
+    "previous": "55.1",
+    "unit": "",
+    "worse": false
+  },
+  "CA|Ivey Purchasing Managers Index|2026-09-04": {
+    "actual": "62.7",
+    "better": false,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-09-04",
+    "indicator": "Ivey Purchasing Managers Index",
+    "previous": "54.1",
+    "unit": "",
+    "worse": false
+  },
   "CA|Manufacturing PMI|2026-09-01": {
     "actual": "53",
     "better": false,
@@ -106,6 +139,28 @@
     "date": "2026-09-02",
     "indicator": "Rate Decision",
     "previous": "2.25",
+    "unit": "%",
+    "worse": false
+  },
+  "CA|Unemployment Rate|2026-09-04": {
+    "actual": "6.4",
+    "better": false,
+    "consensus": "6.4",
+    "country": "CA",
+    "date": "2026-09-04",
+    "indicator": "Unemployment Rate",
+    "previous": "6.4",
+    "unit": "%",
+    "worse": false
+  },
+  "CA|Wage Growth|2026-09-04": {
+    "actual": "2",
+    "better": false,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-09-04",
+    "indicator": "Wage Growth",
+    "previous": "3",
     "unit": "%",
     "worse": false
   },
@@ -417,6 +472,17 @@
     "unit": "",
     "worse": true
   },
+  "US|Average Hourly Earnings|2026-09-04": {
+    "actual": "0.3",
+    "better": true,
+    "consensus": "0.3",
+    "country": "US",
+    "date": "2026-09-04",
+    "indicator": "Average Hourly Earnings",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": false
+  },
   "US|Challenger Job Cuts|2026-09-03": {
     "actual": "52.881",
     "better": false,
@@ -426,6 +492,17 @@
     "indicator": "Challenger Job Cuts",
     "previous": "33.429",
     "unit": "",
+    "worse": false
+  },
+  "US|Employment Change|2026-09-04": {
+    "actual": "61.6",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-04",
+    "indicator": "Employment Change",
+    "previous": "61.4",
+    "unit": "%",
     "worse": false
   },
   "US|Factory Orders|2026-09-02": {
@@ -538,6 +615,17 @@
     "unit": "",
     "worse": true
   },
+  "US|Nonfarm Payrolls|2026-09-04": {
+    "actual": "162",
+    "better": true,
+    "consensus": "56",
+    "country": "US",
+    "date": "2026-09-04",
+    "indicator": "Nonfarm Payrolls",
+    "previous": "-23",
+    "unit": "",
+    "worse": false
+  },
   "US|Nonfarm Productivity|2026-09-03": {
     "actual": "1.4",
     "better": false,
@@ -569,6 +657,28 @@
     "indicator": "Services PMI",
     "previous": "54.1",
     "unit": "",
+    "worse": false
+  },
+  "US|U6 Underemployment Rate|2026-09-04": {
+    "actual": "7.7",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-04",
+    "indicator": "U6 Underemployment Rate",
+    "previous": "7.9",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Unemployment Rate|2026-09-04": {
+    "actual": "4.1",
+    "better": false,
+    "consensus": "4.1",
+    "country": "US",
+    "date": "2026-09-04",
+    "indicator": "Unemployment Rate",
+    "previous": "4.1",
+    "unit": "%",
     "worse": false
   },
   "US|Unit Labor Costs|2026-09-03": {
