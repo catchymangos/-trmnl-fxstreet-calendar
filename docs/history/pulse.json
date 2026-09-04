@@ -561,7 +561,7 @@
     "week": "2026-W35"
   },
   "2026-W36": {
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "rows": {
       "AU": {
         "driver": "Gross Domestic Product (QoQ)",
@@ -569,13 +569,6 @@
         "n": 6,
         "tone": 1.0,
         "weight": 14.6
-      },
-      "CA": {
-        "driver": "Gross Domestic Product Annualized",
-        "driver_dir": -1,
-        "n": 2,
-        "tone": -0.2,
-        "weight": 7.5
       },
       "CH": {
         "driver": "Consumer Price Index (YoY)",
@@ -595,22 +588,22 @@
         "driver": "Consumer Price Index (MoM)",
         "driver_dir": -1,
         "n": 8,
-        "tone": -0.243,
-        "weight": 22.2
+        "tone": -0.38,
+        "weight": 20.0
       },
       "EMU": {
         "driver": "Core Harmonized Index of Consumer Prices (YoY)",
         "driver_dir": -1,
-        "n": 5,
-        "tone": -0.563,
-        "weight": 11.9
+        "n": 6,
+        "tone": -0.769,
+        "weight": 15.6
       },
       "ES": {
-        "driver": "Harmonized Index of Consumer Prices (YoY)",
+        "driver": "HCOB Manufacturing PMI",
         "driver_dir": -1,
-        "n": 3,
+        "n": 2,
         "tone": -1.0,
-        "weight": 6.6
+        "weight": 3.6
       },
       "IN": {
         "driver": "Gross Domestic Product Quarterly (YoY)",
@@ -636,19 +629,15 @@
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": -1,
-        "n": 12,
-        "tone": -0.436,
-        "weight": 18.1
+        "n": 8,
+        "tone": -0.53,
+        "weight": 14.9
       }
     },
     "trends": {
       "AU": {
         "dir": 1,
         "streak": 2
-      },
-      "CA": {
-        "dir": -1,
-        "streak": 1
       },
       "CH": {
         "dir": 1,

@@ -998,6 +998,17 @@
     "unit": "%",
     "worse": false
   },
+  "DE|Factory Orders n.s.a.|2026-09-04": {
+    "actual": "13.1",
+    "better": false,
+    "consensus": "",
+    "country": "DE",
+    "date": "2026-09-04",
+    "indicator": "Factory Orders n.s.a.",
+    "previous": "6.5",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Factory Orders s.a.|2026-08-06": {
     "actual": "3.1",
     "better": true,
@@ -1006,6 +1017,17 @@
     "date": "2026-08-06",
     "indicator": "Factory Orders s.a.",
     "previous": "1.9",
+    "unit": "%",
+    "worse": false
+  },
+  "DE|Factory Orders s.a.|2026-09-04": {
+    "actual": "2.5",
+    "better": true,
+    "consensus": "0.3",
+    "country": "DE",
+    "date": "2026-09-04",
+    "indicator": "Factory Orders s.a.",
+    "previous": "3.1",
     "unit": "%",
     "worse": false
   },
@@ -1689,6 +1711,17 @@
     "date": "2026-08-06",
     "indicator": "Retail Sales",
     "previous": "0.2",
+    "unit": "%",
+    "worse": true
+  },
+  "EMU|Retail Sales|2026-09-04": {
+    "actual": "-0.6",
+    "better": false,
+    "consensus": "0.3",
+    "country": "EMU",
+    "date": "2026-09-04",
+    "indicator": "Retail Sales",
+    "previous": "-0.3",
     "unit": "%",
     "worse": true
   },
