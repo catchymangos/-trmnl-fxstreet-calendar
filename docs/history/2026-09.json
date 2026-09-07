@@ -252,6 +252,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|Industrial Production|2026-09-07": {
+    "actual": "-1.6",
+    "better": false,
+    "consensus": "",
+    "country": "DE",
+    "date": "2026-09-07",
+    "indicator": "Industrial Production",
+    "previous": "-0.1",
+    "unit": "%",
+    "worse": true
+  },
   "DE|Manufacturing PMI|2026-09-01": {
     "actual": "54.3",
     "better": true,
@@ -283,6 +294,28 @@
     "indicator": "Services PMI",
     "previous": "48.5",
     "unit": "",
+    "worse": false
+  },
+  "EMU|Employment Change|2026-09-07": {
+    "actual": "0.1",
+    "better": false,
+    "consensus": "0.1",
+    "country": "EMU",
+    "date": "2026-09-07",
+    "indicator": "Employment Change",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": false
+  },
+  "EMU|GDP|2026-09-07": {
+    "actual": "0.6",
+    "better": true,
+    "consensus": "0.4",
+    "country": "EMU",
+    "date": "2026-09-07",
+    "indicator": "GDP",
+    "previous": "0.4",
+    "unit": "%",
     "worse": false
   },
   "EMU|HCOB Composite PMI|2026-09-03": {
@@ -328,6 +361,17 @@
     "previous": "-0.3",
     "unit": "%",
     "worse": true
+  },
+  "EMU|Sentix Investor Confidence|2026-09-07": {
+    "actual": "5.1",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-09-07",
+    "indicator": "Sentix Investor Confidence",
+    "previous": "0.9",
+    "unit": "",
+    "worse": false
   },
   "EMU|Unemployment Rate|2026-09-01": {
     "actual": "6.4",

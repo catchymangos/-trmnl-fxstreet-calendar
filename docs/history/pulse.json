@@ -688,5 +688,134 @@
       }
     },
     "week": "2026-W36"
+  },
+  "2026-W37": {
+    "date": "2026-09-07",
+    "rows": {
+      "AU": {
+        "driver": "Gross Domestic Product (QoQ)",
+        "driver_dir": 1,
+        "n": 6,
+        "tone": 1.0,
+        "weight": 14.6
+      },
+      "CA": {
+        "driver": "Net Change in Employment",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -0.429,
+        "weight": 6.3
+      },
+      "CH": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 4,
+        "tone": 1.0,
+        "weight": 13.8
+      },
+      "CN": {
+        "driver": "RatingDog Manufacturing PMI",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 5.4
+      },
+      "DE": {
+        "driver": "Retail Sales (MoM)",
+        "driver_dir": -1,
+        "n": 6,
+        "tone": 0.265,
+        "weight": 9.8
+      },
+      "EMU": {
+        "driver": "Core Harmonized Index of Consumer Prices (YoY)",
+        "driver_dir": -1,
+        "n": 8,
+        "tone": -0.278,
+        "weight": 21.6
+      },
+      "ES": {
+        "driver": "HCOB Manufacturing PMI",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 3.6
+      },
+      "IN": {
+        "driver": "HSBC Manufacturing PMI",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -1.0,
+        "weight": 5.4
+      },
+      "IT": {
+        "driver": "HCOB Manufacturing PMI",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 1.8
+      },
+      "TR": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 3.0
+      },
+      "US": {
+        "driver": "ADP Employment Change",
+        "driver_dir": -1,
+        "n": 10,
+        "tone": -0.032,
+        "weight": 22.1
+      }
+    },
+    "trends": {
+      "AU": {
+        "dir": 1,
+        "streak": 3
+      },
+      "CA": {
+        "dir": -1,
+        "streak": 2
+      },
+      "CH": {
+        "dir": 1,
+        "streak": 2
+      },
+      "CN": {
+        "dir": 1,
+        "streak": 2
+      },
+      "DE": {
+        "dir": 1,
+        "streak": 1
+      },
+      "EMU": {
+        "dir": -1,
+        "streak": 2
+      },
+      "ES": {
+        "dir": -1,
+        "streak": 3
+      },
+      "IN": {
+        "dir": -1,
+        "streak": 2
+      },
+      "IT": {
+        "dir": -1,
+        "streak": 2
+      },
+      "TR": {
+        "dir": -1,
+        "streak": 2
+      },
+      "US": {
+        "dir": 0,
+        "streak": 0
+      }
+    },
+    "week": "2026-W37"
   }
 }
