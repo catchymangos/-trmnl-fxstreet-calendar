@@ -8797,7 +8797,7 @@
     "country": "AR",
     "date_utc": "2026-09-08T19:00:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "-4.9",
     "consensus": "",
     "previous": "2",
     "unit": "%",
@@ -8811,12 +8811,12 @@
     "country": "US",
     "date_utc": "2026-09-08T19:00:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "18.06",
     "consensus": "11.7",
     "previous": "14.17",
     "unit": "$",
     "currency": "USD",
-    "better": false,
+    "better": true,
     "worse": false
   },
   {
