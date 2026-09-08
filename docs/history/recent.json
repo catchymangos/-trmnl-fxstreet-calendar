@@ -394,6 +394,17 @@
     "unit": "%",
     "worse": false
   },
+  "AU|Westpac Consumer Confidence|2026-09-08": {
+    "actual": "-5.2",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-09-08",
+    "indicator": "Westpac Consumer Confidence",
+    "previous": "6",
+    "unit": "%",
+    "worse": false
+  },
   "CA|CPI|2026-07-20": {
     "actual": "2.8",
     "better": false,
@@ -793,6 +804,17 @@
     "unit": "%",
     "worse": false
   },
+  "CN|Exports|2026-09-08": {
+    "actual": "25",
+    "better": false,
+    "consensus": "25",
+    "country": "CN",
+    "date": "2026-09-08",
+    "indicator": "Exports",
+    "previous": "23.9",
+    "unit": "%",
+    "worse": false
+  },
   "CN|GDP|2026-07-15": {
     "actual": "4.3",
     "better": false,
@@ -823,6 +845,17 @@
     "date": "2026-08-07",
     "indicator": "Imports",
     "previous": "36",
+    "unit": "%",
+    "worse": true
+  },
+  "CN|Imports|2026-09-08": {
+    "actual": "28.2",
+    "better": false,
+    "consensus": "30",
+    "country": "CN",
+    "date": "2026-09-08",
+    "indicator": "Imports",
+    "previous": "27.5",
     "unit": "%",
     "worse": true
   },
@@ -995,6 +1028,17 @@
     "date": "2026-08-07",
     "indicator": "Trade Balance",
     "previous": "859.05",
+    "unit": "",
+    "worse": false
+  },
+  "CN|Trade Balance|2026-09-08": {
+    "actual": "809.3",
+    "better": true,
+    "consensus": "795",
+    "country": "CN",
+    "date": "2026-09-08",
+    "indicator": "Trade Balance",
+    "previous": "767.07",
     "unit": "",
     "worse": false
   },
@@ -1411,6 +1455,17 @@
     "previous": "19.1",
     "unit": "\u20ac",
     "worse": true
+  },
+  "DE|Trade Balance|2026-09-08": {
+    "actual": "21.3",
+    "better": true,
+    "consensus": "16",
+    "country": "DE",
+    "date": "2026-09-08",
+    "indicator": "Trade Balance",
+    "previous": "15.4",
+    "unit": "\u20ac",
+    "worse": false
   },
   "DE|Unemployment Rate|2026-07-31": {
     "actual": "6.4",

@@ -716,16 +716,16 @@
       "CN": {
         "driver": "RatingDog Services PMI",
         "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 2.7
+        "n": 4,
+        "tone": 0.268,
+        "weight": 7.1
       },
       "DE": {
         "driver": "HCOB Composite PMI",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 0.419,
-        "weight": 6.2
+        "n": 5,
+        "tone": 0.55,
+        "weight": 8.0
       },
       "EMU": {
         "driver": "Gross Domestic Product s.a. (QoQ)",
