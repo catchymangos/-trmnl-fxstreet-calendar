@@ -2784,6 +2784,17 @@
     "unit": "%",
     "worse": false
   },
+  "MX|Headline Inflation|2026-09-09": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "0.25",
+    "country": "MX",
+    "date": "2026-09-09",
+    "indicator": "Headline Inflation",
+    "previous": "0.03",
+    "unit": "%",
+    "worse": true
+  },
   "MX|Rate Decision|2026-08-06": {
     "actual": "6.5",
     "better": false,
@@ -3637,6 +3648,17 @@
     "previous": "44",
     "unit": "",
     "worse": true
+  },
+  "US|ADP Jobs|2026-09-09": {
+    "actual": "12",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-09",
+    "indicator": "ADP Jobs",
+    "previous": "11.75",
+    "unit": "",
+    "worse": false
   },
   "US|Average Hourly Earnings|2026-08-07": {
     "actual": "0.1",

@@ -755,6 +755,13 @@
         "tone": 1.0,
         "weight": 4.6
       },
+      "MX": {
+        "driver": "Headline Inflation",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 0.8
+      },
       "TR": {
         "driver": "Consumer Price Index (YoY)",
         "driver_dir": -1,
@@ -812,6 +819,10 @@
       },
       "JP": {
         "dir": 1,
+        "streak": 1
+      },
+      "MX": {
+        "dir": -1,
         "streak": 1
       },
       "TR": {
