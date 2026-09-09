@@ -8783,13 +8783,13 @@
     "country": "US",
     "date_utc": "2026-09-09T20:30:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "-0.3",
     "consensus": "-1.3",
     "previous": "-2.6",
     "unit": "",
     "currency": "USD",
     "better": false,
-    "worse": false
+    "worse": true
   },
   {
     "id": "44435e1b-dd93-4487-85ba-2764748817c0",
@@ -8811,7 +8811,7 @@
     "country": "JP",
     "date_utc": "2026-09-09T23:50:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "5.4",
     "consensus": "",
     "previous": "5.4",
     "unit": "%",
@@ -11641,7 +11641,7 @@
     "impact": "Low",
     "actual": "",
     "consensus": "",
-    "previous": "",
+    "previous": "-0.3",
     "unit": "",
     "currency": "USD",
     "better": false,
