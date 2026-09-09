@@ -208,6 +208,17 @@
     "unit": "%",
     "worse": false
   },
+  "CN|CPI|2026-09-09": {
+    "actual": "0.4",
+    "better": true,
+    "consensus": "0.3",
+    "country": "CN",
+    "date": "2026-09-09",
+    "indicator": "CPI",
+    "previous": "-0.1",
+    "unit": "%",
+    "worse": false
+  },
   "CN|Exports|2026-09-08": {
     "actual": "25",
     "better": false,
@@ -239,6 +250,17 @@
     "indicator": "Manufacturing PMI",
     "previous": "50.9",
     "unit": "",
+    "worse": false
+  },
+  "CN|PPI|2026-09-09": {
+    "actual": "3.8",
+    "better": true,
+    "consensus": "3.7",
+    "country": "CN",
+    "date": "2026-09-09",
+    "indicator": "PPI",
+    "previous": "3.5",
+    "unit": "%",
     "worse": false
   },
   "CN|Services PMI|2026-09-03": {

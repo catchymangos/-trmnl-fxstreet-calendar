@@ -690,14 +690,14 @@
     "week": "2026-W36"
   },
   "2026-W37": {
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "rows": {
       "AU": {
-        "driver": "Gross Domestic Product (QoQ)",
+        "driver": "Trade Balance (MoM)",
         "driver_dir": 1,
-        "n": 5,
+        "n": 1,
         "tone": 1.0,
-        "weight": 13.8
+        "weight": 2.7
       },
       "CA": {
         "driver": "Net Change in Employment",
@@ -714,11 +714,11 @@
         "weight": 12.0
       },
       "CN": {
-        "driver": "RatingDog Services PMI",
+        "driver": "Consumer Price Index (MoM)",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 0.268,
-        "weight": 7.1
+        "n": 6,
+        "tone": 0.563,
+        "weight": 11.9
       },
       "DE": {
         "driver": "HCOB Composite PMI",
@@ -770,11 +770,11 @@
         "weight": 1.8
       },
       "US": {
-        "driver": "ADP Employment Change",
-        "driver_dir": -1,
-        "n": 7,
-        "tone": 0.274,
-        "weight": 16.8
+        "driver": "Nonfarm Payrolls",
+        "driver_dir": 1,
+        "n": 5,
+        "tone": 0.722,
+        "weight": 11.5
       }
     },
     "trends": {
