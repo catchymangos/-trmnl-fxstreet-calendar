@@ -2927,6 +2927,17 @@
     "unit": "",
     "worse": false
   },
+  "NZ|Business NZ PMI|2026-09-10": {
+    "actual": "53.1",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-09-10",
+    "indicator": "Business NZ PMI",
+    "previous": "54.3",
+    "unit": "",
+    "worse": false
+  },
   "NZ|Business NZ PSI|2026-07-12": {
     "actual": "50.6",
     "consensus": "",
