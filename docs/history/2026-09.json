@@ -395,6 +395,28 @@
     "unit": "\u20ac",
     "worse": false
   },
+  "EMU|ECB Main Refinancing Operations Rate|2026-09-10": {
+    "actual": "2.65",
+    "better": false,
+    "consensus": "2.65",
+    "country": "EMU",
+    "date": "2026-09-10",
+    "indicator": "ECB Main Refinancing Operations Rate",
+    "previous": "2.4",
+    "unit": "%",
+    "worse": false
+  },
+  "EMU|ECB Rate On Deposit Facility|2026-09-10": {
+    "actual": "2.5",
+    "better": false,
+    "consensus": "2.5",
+    "country": "EMU",
+    "date": "2026-09-10",
+    "indicator": "ECB Rate On Deposit Facility",
+    "previous": "2.25",
+    "unit": "%",
+    "worse": false
+  },
   "EMU|Employment Change|2026-09-07": {
     "actual": "0.1",
     "better": false,
@@ -670,6 +692,17 @@
     "unit": "%",
     "worse": true
   },
+  "TR|Rate Decision|2026-09-10": {
+    "actual": "37",
+    "better": false,
+    "consensus": "37",
+    "country": "TR",
+    "date": "2026-09-10",
+    "indicator": "Rate Decision",
+    "previous": "37",
+    "unit": "%",
+    "worse": false
+  },
   "UK|Retail Sales|2026-09-07": {
     "actual": "0.5",
     "better": false,
@@ -733,6 +766,17 @@
     "date": "2026-09-04",
     "indicator": "Employment Change",
     "previous": "61.4",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Existing Home Sales Change|2026-09-10": {
+    "actual": "-2",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-10",
+    "indicator": "Existing Home Sales Change",
+    "previous": "-1.7",
     "unit": "%",
     "worse": false
   },
@@ -824,6 +868,17 @@
     "unit": "",
     "worse": true
   },
+  "US|Initial Jobless Claims|2026-09-10": {
+    "actual": "206",
+    "better": false,
+    "consensus": "205",
+    "country": "US",
+    "date": "2026-09-10",
+    "indicator": "Initial Jobless Claims",
+    "previous": "206",
+    "unit": "",
+    "worse": true
+  },
   "US|JOLTS Job Openings|2026-09-01": {
     "actual": "7.271",
     "better": false,
@@ -865,6 +920,17 @@
     "date": "2026-09-03",
     "indicator": "Nonfarm Productivity",
     "previous": "1.4",
+    "unit": "%",
+    "worse": false
+  },
+  "US|PPI|2026-09-10": {
+    "actual": "0.4",
+    "better": true,
+    "consensus": "0.4",
+    "country": "US",
+    "date": "2026-09-10",
+    "indicator": "PPI",
+    "previous": "0",
     "unit": "%",
     "worse": false
   },
