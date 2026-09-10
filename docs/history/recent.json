@@ -85,6 +85,17 @@
     "unit": "%",
     "worse": false
   },
+  "AU|Consumer Inflation Expectations|2026-09-10": {
+    "actual": "4.9",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-09-10",
+    "indicator": "Consumer Inflation Expectations",
+    "previous": "4.9",
+    "unit": "%",
+    "worse": false
+  },
   "AU|Employment Change|2026-07-23": {
     "actual": "67",
     "better": true,
@@ -1326,6 +1337,17 @@
     "unit": "%",
     "worse": true
   },
+  "DE|Inflation|2026-09-10": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "0.2",
+    "country": "DE",
+    "date": "2026-09-10",
+    "indicator": "Inflation",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Manufacturing PMI|2026-07-24": {
     "actual": "52.2",
     "better": true,
@@ -2202,6 +2224,17 @@
     "date": "2026-08-10",
     "indicator": "Consumer Confidence",
     "previous": "117.8",
+    "unit": "",
+    "worse": false
+  },
+  "ID|Consumer Confidence|2026-09-10": {
+    "actual": "118.5",
+    "better": false,
+    "consensus": "",
+    "country": "ID",
+    "date": "2026-09-10",
+    "indicator": "Consumer Confidence",
+    "previous": "116.8",
     "unit": "",
     "worse": false
   },

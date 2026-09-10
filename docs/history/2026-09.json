@@ -21,6 +21,17 @@
     "unit": "%",
     "worse": false
   },
+  "AU|Consumer Inflation Expectations|2026-09-10": {
+    "actual": "4.9",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-09-10",
+    "indicator": "Consumer Inflation Expectations",
+    "previous": "4.9",
+    "unit": "%",
+    "worse": false
+  },
   "AU|Exports|2026-09-03": {
     "actual": "-3.3",
     "better": false,
@@ -329,6 +340,17 @@
     "unit": "%",
     "worse": true
   },
+  "DE|Inflation|2026-09-10": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "0.2",
+    "country": "DE",
+    "date": "2026-09-10",
+    "indicator": "Inflation",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Manufacturing PMI|2026-09-01": {
     "actual": "54.3",
     "better": true,
@@ -482,6 +504,17 @@
     "previous": "58.3",
     "unit": "",
     "worse": true
+  },
+  "ID|Consumer Confidence|2026-09-10": {
+    "actual": "118.5",
+    "better": false,
+    "consensus": "",
+    "country": "ID",
+    "date": "2026-09-10",
+    "indicator": "Consumer Confidence",
+    "previous": "116.8",
+    "unit": "",
+    "worse": false
   },
   "IN|HSBC Composite PMI|2026-09-03": {
     "actual": "54.3",

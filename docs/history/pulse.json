@@ -690,15 +690,8 @@
     "week": "2026-W36"
   },
   "2026-W37": {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "rows": {
-      "AU": {
-        "driver": "Trade Balance (MoM)",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 2.7
-      },
       "CA": {
         "driver": "Net Change in Employment",
         "driver_dir": -1,
@@ -706,47 +699,26 @@
         "tone": -0.429,
         "weight": 6.3
       },
-      "CH": {
-        "driver": "Consumer Price Index (YoY)",
-        "driver_dir": 1,
-        "n": 3,
-        "tone": 1.0,
-        "weight": 12.0
-      },
       "CN": {
         "driver": "Consumer Price Index (MoM)",
         "driver_dir": 1,
-        "n": 6,
-        "tone": 0.563,
-        "weight": 11.9
+        "n": 5,
+        "tone": 0.435,
+        "weight": 9.2
       },
       "DE": {
-        "driver": "HCOB Composite PMI",
-        "driver_dir": 1,
-        "n": 5,
-        "tone": 0.55,
-        "weight": 8.0
+        "driver": "Industrial Production s.a. (MoM)",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": 0.182,
+        "weight": 4.4
       },
       "EMU": {
         "driver": "Gross Domestic Product s.a. (QoQ)",
         "driver_dir": 1,
-        "n": 6,
-        "tone": 0.106,
-        "weight": 14.1
-      },
-      "ES": {
-        "driver": "HCOB Services PMI",
-        "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 1.8
-      },
-      "IN": {
-        "driver": "HSBC Composite PMI",
-        "driver_dir": -1,
-        "n": 2,
-        "tone": -1.0,
-        "weight": 3.6
+        "n": 4,
+        "tone": 0.143,
+        "weight": 10.5
       },
       "JP": {
         "driver": "Gross Domestic Product Annualized",
@@ -762,13 +734,6 @@
         "tone": -1.0,
         "weight": 0.8
       },
-      "TR": {
-        "driver": "Consumer Price Index (YoY)",
-        "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 3.0
-      },
       "UK": {
         "driver": "BRC Like-For-Like Retail Sales (YoY)",
         "driver_dir": -1,
@@ -779,22 +744,14 @@
       "US": {
         "driver": "Nonfarm Payrolls",
         "driver_dir": 1,
-        "n": 5,
-        "tone": 0.722,
-        "weight": 11.5
+        "n": 2,
+        "tone": 1.0,
+        "weight": 7.2
       }
     },
     "trends": {
-      "AU": {
-        "dir": 1,
-        "streak": 3
-      },
       "CA": {
         "dir": -1,
-        "streak": 2
-      },
-      "CH": {
-        "dir": 1,
         "streak": 2
       },
       "CN": {
@@ -809,14 +766,6 @@
         "dir": 0,
         "streak": 0
       },
-      "ES": {
-        "dir": -1,
-        "streak": 3
-      },
-      "IN": {
-        "dir": -1,
-        "streak": 2
-      },
       "JP": {
         "dir": 1,
         "streak": 1
@@ -824,10 +773,6 @@
       "MX": {
         "dir": -1,
         "streak": 1
-      },
-      "TR": {
-        "dir": -1,
-        "streak": 2
       },
       "UK": {
         "dir": -1,
