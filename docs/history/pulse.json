@@ -690,15 +690,8 @@
     "week": "2026-W36"
   },
   "2026-W37": {
-    "date": "2026-09-10",
+    "date": "2026-09-11",
     "rows": {
-      "CA": {
-        "driver": "Net Change in Employment",
-        "driver_dir": -1,
-        "n": 2,
-        "tone": -0.429,
-        "weight": 6.3
-      },
       "CN": {
         "driver": "Consumer Price Index (MoM)",
         "driver_dir": 1,
@@ -709,16 +702,16 @@
       "DE": {
         "driver": "Industrial Production s.a. (MoM)",
         "driver_dir": -1,
-        "n": 3,
-        "tone": 0.182,
-        "weight": 4.4
+        "n": 2,
+        "tone": 0.0,
+        "weight": 3.6
       },
       "EMU": {
         "driver": "Gross Domestic Product s.a. (QoQ)",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 0.143,
-        "weight": 10.5
+        "n": 2,
+        "tone": 1.0,
+        "weight": 6.0
       },
       "JP": {
         "driver": "Gross Domestic Product Annualized",
@@ -735,36 +728,32 @@
         "weight": 0.8
       },
       "UK": {
-        "driver": "BRC Like-For-Like Retail Sales (YoY)",
-        "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 1.8
+        "driver": "Gross Domestic Product (MoM)",
+        "driver_dir": 1,
+        "n": 4,
+        "tone": 0.514,
+        "weight": 7.4
       },
       "US": {
-        "driver": "Nonfarm Payrolls",
+        "driver": "Producer Price Index (YoY)",
         "driver_dir": 1,
-        "n": 5,
-        "tone": 0.552,
-        "weight": 11.6
+        "n": 3,
+        "tone": -0.182,
+        "weight": 4.4
       }
     },
     "trends": {
-      "CA": {
-        "dir": -1,
-        "streak": 2
-      },
       "CN": {
         "dir": 1,
         "streak": 2
       },
       "DE": {
-        "dir": 1,
-        "streak": 1
-      },
-      "EMU": {
         "dir": 0,
         "streak": 0
+      },
+      "EMU": {
+        "dir": 1,
+        "streak": 1
       },
       "JP": {
         "dir": 1,
@@ -775,11 +764,11 @@
         "streak": 1
       },
       "UK": {
-        "dir": -1,
+        "dir": 1,
         "streak": 1
       },
       "US": {
-        "dir": 1,
+        "dir": -1,
         "streak": 1
       }
     },
