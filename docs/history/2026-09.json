@@ -1000,6 +1000,17 @@
     "unit": "",
     "worse": true
   },
+  "US|Monthly Budget Statement|2026-09-11": {
+    "actual": "-166.8",
+    "better": true,
+    "consensus": "-404",
+    "country": "US",
+    "date": "2026-09-11",
+    "indicator": "Monthly Budget Statement",
+    "previous": "-432",
+    "unit": "$",
+    "worse": false
+  },
   "US|Nonfarm Payrolls|2026-09-04": {
     "actual": "162",
     "better": true,
