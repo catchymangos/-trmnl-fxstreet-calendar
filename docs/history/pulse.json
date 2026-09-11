@@ -735,11 +735,11 @@
         "weight": 7.4
       },
       "US": {
-        "driver": "Producer Price Index (YoY)",
+        "driver": "Consumer Price Index ex Food & Energy (MoM)",
         "driver_dir": 1,
-        "n": 3,
-        "tone": -0.182,
-        "weight": 4.4
+        "n": 5,
+        "tone": 0.248,
+        "weight": 10.1
       }
     },
     "trends": {
@@ -768,7 +768,7 @@
         "streak": 1
       },
       "US": {
-        "dir": -1,
+        "dir": 1,
         "streak": 1
       }
     },
