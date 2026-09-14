@@ -681,6 +681,17 @@
     "unit": "",
     "worse": false
   },
+  "NZ|Business NZ PSI|2026-09-13": {
+    "actual": "51.2",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-09-13",
+    "indicator": "Business NZ PSI",
+    "previous": "50.6",
+    "unit": "",
+    "worse": false
+  },
   "NZ|Rate Decision|2026-09-02": {
     "actual": "2.75",
     "better": false,

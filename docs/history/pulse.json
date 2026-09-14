@@ -773,5 +773,68 @@
       }
     },
     "week": "2026-W37"
+  },
+  "2026-W38": {
+    "date": "2026-09-14",
+    "rows": {
+      "CN": {
+        "driver": "Consumer Price Index (MoM)",
+        "driver_dir": 1,
+        "n": 5,
+        "tone": 0.435,
+        "weight": 9.2
+      },
+      "DE": {
+        "driver": "Trade Balance s.a.",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.8
+      },
+      "MX": {
+        "driver": "Headline Inflation",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 0.8
+      },
+      "UK": {
+        "driver": "Gross Domestic Product (MoM)",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 1.0,
+        "weight": 5.6
+      },
+      "US": {
+        "driver": "Consumer Price Index ex Food & Energy (MoM)",
+        "driver_dir": 1,
+        "n": 6,
+        "tone": 0.303,
+        "weight": 10.9
+      }
+    },
+    "trends": {
+      "CN": {
+        "dir": 1,
+        "streak": 3
+      },
+      "DE": {
+        "dir": 1,
+        "streak": 1
+      },
+      "MX": {
+        "dir": -1,
+        "streak": 2
+      },
+      "UK": {
+        "dir": 1,
+        "streak": 2
+      },
+      "US": {
+        "dir": 1,
+        "streak": 2
+      }
+    },
+    "week": "2026-W38"
   }
 }
