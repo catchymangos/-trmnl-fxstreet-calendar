@@ -777,6 +777,13 @@
   "2026-W38": {
     "date": "2026-09-14",
     "rows": {
+      "CA": {
+        "driver": "BoC Consumer Price Index Core (MoM)",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 6.0
+      },
       "CN": {
         "driver": "Consumer Price Index (MoM)",
         "driver_dir": 1,
@@ -814,6 +821,10 @@
       }
     },
     "trends": {
+      "CA": {
+        "dir": -1,
+        "streak": 1
+      },
       "CN": {
         "dir": 1,
         "streak": 3
