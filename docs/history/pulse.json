@@ -819,6 +819,13 @@
         "tone": -1.0,
         "weight": 3.0
       },
+      "JP": {
+        "driver": "Exports (YoY)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 1.6
+      },
       "MX": {
         "driver": "Headline Inflation",
         "driver_dir": -1,
@@ -865,6 +872,10 @@
       "FR": {
         "dir": -1,
         "streak": 1
+      },
+      "JP": {
+        "dir": 1,
+        "streak": 2
       },
       "MX": {
         "dir": -1,

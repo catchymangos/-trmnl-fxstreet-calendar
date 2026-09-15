@@ -8097,7 +8097,7 @@
     "country": "NZ",
     "date_utc": "2026-09-15T22:45:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "-3.2",
     "consensus": "",
     "previous": "-3.6",
     "unit": "%",
@@ -8111,7 +8111,7 @@
     "country": "NZ",
     "date_utc": "2026-09-15T22:45:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "-1.67",
     "consensus": "-2.57",
     "previous": "-1.01",
     "unit": "$",
@@ -8139,12 +8139,12 @@
     "country": "JP",
     "date_utc": "2026-09-15T23:50:00Z",
     "impact": "Medium",
-    "actual": "",
+    "actual": "19.3",
     "consensus": "18.2",
     "previous": "23.2",
     "unit": "%",
     "currency": "JPY",
-    "better": false,
+    "better": true,
     "worse": false
   },
   {
@@ -8153,12 +8153,12 @@
     "country": "JP",
     "date_utc": "2026-09-15T23:50:00Z",
     "impact": "Medium",
-    "actual": "",
+    "actual": "28",
     "consensus": "26.3",
     "previous": "27.8",
     "unit": "%",
     "currency": "JPY",
-    "better": false,
+    "better": true,
     "worse": false
   },
   {
@@ -8167,13 +8167,13 @@
     "country": "JP",
     "date_utc": "2026-09-15T23:50:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "-3.7",
     "consensus": "-2.8",
     "previous": "9.7",
     "unit": "%",
     "currency": "JPY",
     "better": false,
-    "worse": false
+    "worse": true
   },
   {
     "id": "c11d6657-e98b-48f0-8a40-a8e45092f302",
@@ -8181,13 +8181,13 @@
     "country": "JP",
     "date_utc": "2026-09-15T23:50:00Z",
     "impact": "Low",
-    "actual": "",
+    "actual": "11.2",
     "consensus": "15.3",
     "previous": "16.9",
     "unit": "%",
     "currency": "JPY",
     "better": false,
-    "worse": false
+    "worse": true
   },
   {
     "id": "070bd7a3-37bd-4ecc-adcb-50052aeba3ae",
