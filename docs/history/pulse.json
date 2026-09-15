@@ -787,9 +787,37 @@
       "CN": {
         "driver": "Consumer Price Index (MoM)",
         "driver_dir": 1,
+        "n": 4,
+        "tone": 0.471,
+        "weight": 10.2
+      },
+      "DE": {
+        "driver": "ZEW Survey \u2013 Current Situation",
+        "driver_dir": 1,
         "n": 2,
+        "tone": 0.0,
+        "weight": 1.6
+      },
+      "EMU": {
+        "driver": "ZEW Survey \u2013 Economic Sentiment",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 0.8
+      },
+      "ES": {
+        "driver": "Harmonized Index of Consumer Prices (YoY)",
+        "driver_dir": 1,
+        "n": 1,
         "tone": 1.0,
-        "weight": 4.8
+        "weight": 3.0
+      },
+      "FR": {
+        "driver": "Consumer Price Index (EU norm) (YoY)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 3.0
       },
       "MX": {
         "driver": "Headline Inflation",
@@ -799,11 +827,11 @@
         "weight": 0.8
       },
       "UK": {
-        "driver": "Gross Domestic Product (MoM)",
+        "driver": "ILO Unemployment Rate (3M)",
         "driver_dir": 1,
-        "n": 3,
-        "tone": 1.0,
-        "weight": 5.6
+        "n": 5,
+        "tone": 0.788,
+        "weight": 11.3
       },
       "US": {
         "driver": "Consumer Price Index ex Food & Energy (MoM)",
@@ -821,6 +849,22 @@
       "CN": {
         "dir": 1,
         "streak": 3
+      },
+      "DE": {
+        "dir": 0,
+        "streak": 0
+      },
+      "EMU": {
+        "dir": -1,
+        "streak": 1
+      },
+      "ES": {
+        "dir": 1,
+        "streak": 1
+      },
+      "FR": {
+        "dir": -1,
+        "streak": 1
       },
       "MX": {
         "dir": -1,

@@ -914,6 +914,17 @@
     "unit": "%",
     "worse": true
   },
+  "CN|Industrial Production|2026-09-15": {
+    "actual": "5.2",
+    "better": true,
+    "consensus": "4.8",
+    "country": "CN",
+    "date": "2026-09-15",
+    "indicator": "Industrial Production",
+    "previous": "4.5",
+    "unit": "%",
+    "worse": false
+  },
   "CN|Manufacturing PMI|2026-07-31": {
     "actual": "49.2",
     "better": false,
@@ -1028,6 +1039,17 @@
     "date": "2026-08-17",
     "indicator": "Retail Sales",
     "previous": "1",
+    "unit": "%",
+    "worse": true
+  },
+  "CN|Retail Sales|2026-09-15": {
+    "actual": "0.4",
+    "better": false,
+    "consensus": "0.8",
+    "country": "CN",
+    "date": "2026-09-15",
+    "indicator": "Retail Sales",
+    "previous": "0.6",
     "unit": "%",
     "worse": true
   },
@@ -1566,6 +1588,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|ZEW Current Conditions|2026-09-15": {
+    "actual": "-47.1",
+    "better": true,
+    "consensus": "-52.2",
+    "country": "DE",
+    "date": "2026-09-15",
+    "indicator": "ZEW Current Conditions",
+    "previous": "-61.1",
+    "unit": "",
+    "worse": false
+  },
   "DE|ZEW Sentiment|2026-07-21": {
     "actual": "26.3",
     "better": true,
@@ -1587,6 +1620,17 @@
     "previous": "26.3",
     "unit": "",
     "worse": false
+  },
+  "DE|ZEW Sentiment|2026-09-15": {
+    "actual": "34.7",
+    "better": false,
+    "consensus": "37",
+    "country": "DE",
+    "date": "2026-09-15",
+    "indicator": "ZEW Sentiment",
+    "previous": "34.2",
+    "unit": "",
+    "worse": true
   },
   "EMU|Business Climate|2026-07-30": {
     "actual": "-0.19",
@@ -2033,6 +2077,17 @@
     "unit": "",
     "worse": false
   },
+  "EMU|ZEW Sentiment|2026-09-15": {
+    "actual": "25.8",
+    "better": false,
+    "consensus": "39.9",
+    "country": "EMU",
+    "date": "2026-09-15",
+    "indicator": "ZEW Sentiment",
+    "previous": "31.4",
+    "unit": "",
+    "worse": true
+  },
   "ES|GDP|2026-07-30": {
     "actual": "0.7",
     "better": true,
@@ -2085,6 +2140,17 @@
     "previous": "3.9",
     "unit": "%",
     "worse": true
+  },
+  "ES|Inflation|2026-09-15": {
+    "actual": "4.6",
+    "better": true,
+    "consensus": "4.5",
+    "country": "ES",
+    "date": "2026-09-15",
+    "indicator": "Inflation",
+    "previous": "4.5",
+    "unit": "%",
+    "worse": false
   },
   "ES|Manufacturing PMI|2026-08-03": {
     "actual": "50.2",
@@ -2171,6 +2237,17 @@
     "previous": "2.4",
     "unit": "%",
     "worse": false
+  },
+  "FR|CPI|2026-09-15": {
+    "actual": "2.6",
+    "better": false,
+    "consensus": "2.7",
+    "country": "FR",
+    "date": "2026-09-15",
+    "indicator": "CPI",
+    "previous": "2.7",
+    "unit": "%",
+    "worse": true
   },
   "FR|GDP|2026-07-30": {
     "actual": "0.2",
@@ -3289,6 +3366,17 @@
     "unit": "",
     "worse": false
   },
+  "UK|Claimant Count Change|2026-09-15": {
+    "actual": "27.8",
+    "better": false,
+    "consensus": "8.3",
+    "country": "UK",
+    "date": "2026-09-15",
+    "indicator": "Claimant Count Change",
+    "previous": "-11",
+    "unit": "",
+    "worse": true
+  },
   "UK|Claimant Count Rate|2026-07-21": {
     "actual": "4.4",
     "consensus": "",
@@ -3306,6 +3394,17 @@
     "date": "2026-08-18",
     "indicator": "Claimant Count Rate",
     "previous": "4.4",
+    "unit": "%",
+    "worse": false
+  },
+  "UK|Claimant Count Rate|2026-09-15": {
+    "actual": "4.4",
+    "better": false,
+    "consensus": "",
+    "country": "UK",
+    "date": "2026-09-15",
+    "indicator": "Claimant Count Rate",
+    "previous": "4.3",
     "unit": "%",
     "worse": false
   },
@@ -3379,6 +3478,17 @@
     "date": "2026-08-18",
     "indicator": "Employment Change",
     "previous": "147",
+    "unit": "",
+    "worse": false
+  },
+  "UK|Employment Change|2026-09-15": {
+    "actual": "67",
+    "better": false,
+    "consensus": "",
+    "country": "UK",
+    "date": "2026-09-15",
+    "indicator": "Employment Change",
+    "previous": "83",
     "unit": "",
     "worse": false
   },
@@ -3697,6 +3807,17 @@
     "unit": "%",
     "worse": true
   },
+  "UK|Unemployment Rate|2026-09-15": {
+    "actual": "4.9",
+    "better": true,
+    "consensus": "5",
+    "country": "UK",
+    "date": "2026-09-15",
+    "indicator": "Unemployment Rate",
+    "previous": "4.9",
+    "unit": "%",
+    "worse": false
+  },
   "UK|Wage Growth|2026-07-21": {
     "actual": "4.3",
     "better": false,
@@ -3716,6 +3837,17 @@
     "date": "2026-08-18",
     "indicator": "Wage Growth",
     "previous": "3.4",
+    "unit": "%",
+    "worse": false
+  },
+  "UK|Wage Growth|2026-09-15": {
+    "actual": "3.5",
+    "better": false,
+    "consensus": "3.5",
+    "country": "UK",
+    "date": "2026-09-15",
+    "indicator": "Wage Growth",
+    "previous": "3.5",
     "unit": "%",
     "worse": false
   },
