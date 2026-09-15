@@ -836,9 +836,9 @@
       "US": {
         "driver": "Consumer Price Index ex Food & Energy (MoM)",
         "driver_dir": 1,
-        "n": 6,
-        "tone": 0.303,
-        "weight": 10.9
+        "n": 7,
+        "tone": 0.214,
+        "weight": 11.7
       }
     },
     "trends": {

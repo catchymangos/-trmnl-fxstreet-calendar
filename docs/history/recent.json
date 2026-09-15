@@ -3946,6 +3946,17 @@
     "unit": "",
     "worse": false
   },
+  "US|ADP Jobs|2026-09-15": {
+    "actual": "16.25",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-15",
+    "indicator": "ADP Jobs",
+    "previous": "12",
+    "unit": "",
+    "worse": false
+  },
   "US|Average Hourly Earnings|2026-08-07": {
     "actual": "0.1",
     "better": false,
@@ -4819,6 +4830,17 @@
     "previous": "15.6",
     "unit": "",
     "worse": false
+  },
+  "US|NY Empire State Manufacturing Index|2026-09-15": {
+    "actual": "7.6",
+    "better": false,
+    "consensus": "14.75",
+    "country": "US",
+    "date": "2026-09-15",
+    "indicator": "NY Empire State Manufacturing Index",
+    "previous": "20.6",
+    "unit": "",
+    "worse": true
   },
   "US|New Home Sales Change|2026-07-24": {
     "actual": "1.6",
