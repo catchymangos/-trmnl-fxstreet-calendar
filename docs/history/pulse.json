@@ -775,7 +775,7 @@
     "week": "2026-W37"
   },
   "2026-W38": {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "rows": {
       "CA": {
         "driver": "BoC Consumer Price Index Core (MoM)",
@@ -787,16 +787,9 @@
       "CN": {
         "driver": "Consumer Price Index (MoM)",
         "driver_dir": 1,
-        "n": 5,
-        "tone": 0.435,
-        "weight": 9.2
-      },
-      "DE": {
-        "driver": "Trade Balance s.a.",
-        "driver_dir": 1,
-        "n": 1,
+        "n": 2,
         "tone": 1.0,
-        "weight": 1.8
+        "weight": 4.8
       },
       "MX": {
         "driver": "Headline Inflation",
@@ -828,10 +821,6 @@
       "CN": {
         "dir": 1,
         "streak": 3
-      },
-      "DE": {
-        "dir": 1,
-        "streak": 1
       },
       "MX": {
         "dir": -1,
