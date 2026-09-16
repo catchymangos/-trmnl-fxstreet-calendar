@@ -775,7 +775,7 @@
     "week": "2026-W37"
   },
   "2026-W38": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "rows": {
       "CA": {
         "driver": "BoC Consumer Price Index Core (MoM)",
@@ -785,11 +785,11 @@
         "weight": 6.0
       },
       "CN": {
-        "driver": "Consumer Price Index (MoM)",
+        "driver": "Industrial Production (YoY)",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 0.471,
-        "weight": 10.2
+        "n": 2,
+        "tone": 0.0,
+        "weight": 5.4
       },
       "DE": {
         "driver": "ZEW Survey \u2013 Current Situation",
@@ -799,11 +799,11 @@
         "weight": 1.6
       },
       "EMU": {
-        "driver": "ZEW Survey \u2013 Economic Sentiment",
-        "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 0.8
+        "driver": "Industrial Production s.a. (MoM)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 0.385,
+        "weight": 2.6
       },
       "ES": {
         "driver": "Harmonized Index of Consumer Prices (YoY)",
@@ -820,25 +820,18 @@
         "weight": 3.0
       },
       "JP": {
-        "driver": "Exports (YoY)",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 1.0,
-        "weight": 1.6
-      },
-      "MX": {
-        "driver": "Headline Inflation",
+        "driver": "Merchandise Trade Balance Total",
         "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 0.8
+        "n": 3,
+        "tone": -0.059,
+        "weight": 3.4
       },
       "UK": {
         "driver": "ILO Unemployment Rate (3M)",
         "driver_dir": 1,
-        "n": 5,
-        "tone": 0.788,
-        "weight": 11.3
+        "n": 8,
+        "tone": 0.745,
+        "weight": 15.7
       },
       "US": {
         "driver": "Consumer Price Index ex Food & Energy (MoM)",
@@ -854,16 +847,16 @@
         "streak": 1
       },
       "CN": {
-        "dir": 1,
-        "streak": 3
+        "dir": 0,
+        "streak": 0
       },
       "DE": {
         "dir": 0,
         "streak": 0
       },
       "EMU": {
-        "dir": -1,
-        "streak": 1
+        "dir": 1,
+        "streak": 2
       },
       "ES": {
         "dir": 1,
@@ -874,12 +867,8 @@
         "streak": 1
       },
       "JP": {
-        "dir": 1,
-        "streak": 2
-      },
-      "MX": {
-        "dir": -1,
-        "streak": 2
+        "dir": 0,
+        "streak": 0
       },
       "UK": {
         "dir": 1,
