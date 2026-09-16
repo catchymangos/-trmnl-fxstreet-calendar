@@ -1231,6 +1231,61 @@
     "unit": "",
     "worse": true
   },
+  "US|Interest Rate Projections - 1st year|2026-09-16": {
+    "actual": "4.1",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-16",
+    "indicator": "Interest Rate Projections - 1st year",
+    "previous": "3.6",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Interest Rate Projections - 2nd year|2026-09-16": {
+    "actual": "3.9",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-16",
+    "indicator": "Interest Rate Projections - 2nd year",
+    "previous": "3.4",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Interest Rate Projections - 3rd year|2026-09-16": {
+    "actual": "3.6",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-16",
+    "indicator": "Interest Rate Projections - 3rd year",
+    "previous": "3.1",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Interest Rate Projections - Current|2026-09-16": {
+    "actual": "4.1",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-16",
+    "indicator": "Interest Rate Projections - Current",
+    "previous": "3.8",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Interest Rate Projections - Longer|2026-09-16": {
+    "actual": "3.2",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-16",
+    "indicator": "Interest Rate Projections - Longer",
+    "previous": "3.1",
+    "unit": "%",
+    "worse": false
+  },
   "US|JOLTS Job Openings|2026-09-01": {
     "actual": "7.271",
     "better": false,
@@ -1327,6 +1382,17 @@
     "date": "2026-09-10",
     "indicator": "PPI",
     "previous": "0",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Rate Decision|2026-09-16": {
+    "actual": "4",
+    "better": false,
+    "consensus": "4",
+    "country": "US",
+    "date": "2026-09-16",
+    "indicator": "Rate Decision",
+    "previous": "3.75",
     "unit": "%",
     "worse": false
   },
