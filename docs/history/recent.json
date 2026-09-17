@@ -4177,6 +4177,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Building Permits|2026-09-17": {
+    "actual": "1.394",
+    "better": false,
+    "consensus": "1.41",
+    "country": "US",
+    "date": "2026-09-17",
+    "indicator": "Building Permits",
+    "previous": "1.443",
+    "unit": "",
+    "worse": true
+  },
   "US|CPI|2026-07-14": {
     "actual": "2.6",
     "better": false,
@@ -4516,6 +4527,17 @@
     "unit": "",
     "worse": true
   },
+  "US|Housing Starts|2026-09-17": {
+    "actual": "1.275",
+    "better": false,
+    "consensus": "1.31",
+    "country": "US",
+    "date": "2026-09-17",
+    "indicator": "Housing Starts",
+    "previous": "1.239",
+    "unit": "",
+    "worse": true
+  },
   "US|ISM Manufacturing Employment Index|2026-08-03": {
     "actual": "52.8",
     "better": false,
@@ -4777,6 +4799,17 @@
     "previous": "206",
     "unit": "",
     "worse": true
+  },
+  "US|Initial Jobless Claims|2026-09-17": {
+    "actual": "196",
+    "better": true,
+    "consensus": "208",
+    "country": "US",
+    "date": "2026-09-17",
+    "indicator": "Initial Jobless Claims",
+    "previous": "206",
+    "unit": "",
+    "worse": false
   },
   "US|Interest Rate Projections - 1st year|2026-09-16": {
     "actual": "4.1",
@@ -5216,6 +5249,17 @@
     "unit": "%",
     "worse": true
   },
+  "US|Pending Home Sales|2026-09-17": {
+    "actual": "0.3",
+    "better": false,
+    "consensus": "2",
+    "country": "US",
+    "date": "2026-09-17",
+    "indicator": "Pending Home Sales",
+    "previous": "-2.3",
+    "unit": "%",
+    "worse": true
+  },
   "US|Personal Consumption Expenditures - Price Index|2026-07-30": {
     "actual": "-0.1",
     "better": false,
@@ -5323,6 +5367,17 @@
     "date": "2026-08-20",
     "indicator": "Philadelphia Fed Manufacturing Survey",
     "previous": "41.4",
+    "unit": "",
+    "worse": false
+  },
+  "US|Philadelphia Fed Manufacturing Survey|2026-09-17": {
+    "actual": "37.8",
+    "better": true,
+    "consensus": "30.5",
+    "country": "US",
+    "date": "2026-09-17",
+    "indicator": "Philadelphia Fed Manufacturing Survey",
+    "previous": "47.4",
     "unit": "",
     "worse": false
   },
