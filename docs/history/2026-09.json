@@ -527,6 +527,17 @@
     "unit": "%",
     "worse": true
   },
+  "EMU|Inflation|2026-09-17": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-09-17",
+    "indicator": "Inflation",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
   "EMU|PPI|2026-09-03": {
     "actual": "1.6",
     "better": true,
@@ -890,6 +901,39 @@
     "unit": "%",
     "worse": false
   },
+  "UK|BoE MPC Vote Rate Cut|2026-09-17": {
+    "actual": "0",
+    "better": false,
+    "consensus": "0",
+    "country": "UK",
+    "date": "2026-09-17",
+    "indicator": "BoE MPC Vote Rate Cut",
+    "previous": "0",
+    "unit": "",
+    "worse": false
+  },
+  "UK|BoE MPC Vote Rate Hike|2026-09-17": {
+    "actual": "3",
+    "better": false,
+    "consensus": "3",
+    "country": "UK",
+    "date": "2026-09-17",
+    "indicator": "BoE MPC Vote Rate Hike",
+    "previous": "3",
+    "unit": "",
+    "worse": false
+  },
+  "UK|BoE MPC Vote Rate Unchanged|2026-09-17": {
+    "actual": "6",
+    "better": false,
+    "consensus": "6",
+    "country": "UK",
+    "date": "2026-09-17",
+    "indicator": "BoE MPC Vote Rate Unchanged",
+    "previous": "6",
+    "unit": "",
+    "worse": false
+  },
   "UK|CPI|2026-09-16": {
     "actual": "0.5",
     "better": false,
@@ -1021,6 +1065,17 @@
     "previous": "0.6",
     "unit": "%",
     "worse": true
+  },
+  "UK|Rate Decision|2026-09-17": {
+    "actual": "3.75",
+    "better": false,
+    "consensus": "3.75",
+    "country": "UK",
+    "date": "2026-09-17",
+    "indicator": "Rate Decision",
+    "previous": "3.75",
+    "unit": "%",
+    "worse": false
   },
   "UK|Retail Sales|2026-09-07": {
     "actual": "0.5",
