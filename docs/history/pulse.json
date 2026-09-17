@@ -820,11 +820,11 @@
         "weight": 3.0
       },
       "JP": {
-        "driver": "Merchandise Trade Balance Total",
-        "driver_dir": -1,
-        "n": 3,
-        "tone": -0.059,
-        "weight": 3.4
+        "driver": "National CPI ex Fresh Food (YoY)",
+        "driver_dir": 1,
+        "n": 4,
+        "tone": 0.437,
+        "weight": 6.4
       },
       "NZ": {
         "driver": "Gross Domestic Product (QoQ)",
@@ -874,8 +874,8 @@
         "streak": 1
       },
       "JP": {
-        "dir": 0,
-        "streak": 0
+        "dir": 1,
+        "streak": 2
       },
       "NZ": {
         "dir": 1,

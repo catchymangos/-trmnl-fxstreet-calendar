@@ -725,6 +725,17 @@
     "unit": "",
     "worse": true
   },
+  "JP|CPI|2026-09-17": {
+    "actual": "1.9",
+    "better": true,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-09-17",
+    "indicator": "CPI",
+    "previous": "1.9",
+    "unit": "%",
+    "worse": false
+  },
   "JP|Current Account n.s.a.|2026-09-07": {
     "actual": "2988",
     "better": true,
@@ -846,6 +857,17 @@
     "unit": "",
     "worse": false
   },
+  "NZ|Exports|2026-09-17": {
+    "actual": "6.66",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-09-17",
+    "indicator": "Exports",
+    "previous": "7.39",
+    "unit": "$",
+    "worse": false
+  },
   "NZ|GDP|2026-09-16": {
     "actual": "0.2",
     "better": true,
@@ -857,6 +879,17 @@
     "unit": "%",
     "worse": false
   },
+  "NZ|Imports|2026-09-17": {
+    "actual": "8",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-09-17",
+    "indicator": "Imports",
+    "previous": "9.34",
+    "unit": "$",
+    "worse": false
+  },
   "NZ|Rate Decision|2026-09-02": {
     "actual": "2.75",
     "better": false,
@@ -866,6 +899,17 @@
     "indicator": "Rate Decision",
     "previous": "2.5",
     "unit": "%",
+    "worse": false
+  },
+  "NZ|Trade Balance|2026-09-17": {
+    "actual": "-5.44",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-09-17",
+    "indicator": "Trade Balance",
+    "previous": "-5.23",
+    "unit": "$",
     "worse": false
   },
   "RU|Rate Decision|2026-09-11": {
