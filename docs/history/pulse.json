@@ -775,7 +775,7 @@
     "week": "2026-W37"
   },
   "2026-W38": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "rows": {
       "CA": {
         "driver": "BoC Consumer Price Index Core (MoM)",
@@ -826,6 +826,13 @@
         "tone": -0.059,
         "weight": 3.4
       },
+      "NZ": {
+        "driver": "Gross Domestic Product (QoQ)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 9.0
+      },
       "UK": {
         "driver": "ILO Unemployment Rate (3M)",
         "driver_dir": 1,
@@ -836,9 +843,9 @@
       "US": {
         "driver": "Consumer Price Index ex Food & Energy (MoM)",
         "driver_dir": 1,
-        "n": 9,
-        "tone": 0.432,
-        "weight": 16.2
+        "n": 6,
+        "tone": 0.661,
+        "weight": 11.8
       }
     },
     "trends": {
@@ -869,6 +876,10 @@
       "JP": {
         "dir": 0,
         "streak": 0
+      },
+      "NZ": {
+        "dir": 1,
+        "streak": 1
       },
       "UK": {
         "dir": 1,
