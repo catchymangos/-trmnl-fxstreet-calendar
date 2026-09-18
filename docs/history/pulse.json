@@ -775,7 +775,7 @@
     "week": "2026-W37"
   },
   "2026-W38": {
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "rows": {
       "CA": {
         "driver": "BoC Consumer Price Index Core (MoM)",
@@ -792,11 +792,11 @@
         "weight": 5.4
       },
       "DE": {
-        "driver": "ZEW Survey \u2013 Current Situation",
+        "driver": "Producer Price Index (MoM)",
         "driver_dir": 1,
-        "n": 2,
-        "tone": 0.0,
-        "weight": 1.6
+        "n": 4,
+        "tone": 0.692,
+        "weight": 5.2
       },
       "EMU": {
         "driver": "Industrial Production s.a. (MoM)",
@@ -821,9 +821,9 @@
       },
       "JP": {
         "driver": "National CPI ex Fresh Food (YoY)",
-        "driver_dir": 1,
+        "driver_dir": -1,
         "n": 4,
-        "tone": 0.437,
+        "tone": -0.5,
         "weight": 6.4
       },
       "NZ": {
@@ -836,16 +836,16 @@
       "UK": {
         "driver": "ILO Unemployment Rate (3M)",
         "driver_dir": 1,
-        "n": 8,
-        "tone": 0.745,
-        "weight": 15.7
+        "n": 9,
+        "tone": 0.78,
+        "weight": 18.2
       },
       "US": {
-        "driver": "Consumer Price Index ex Food & Energy (MoM)",
+        "driver": "Retail Sales (MoM)",
         "driver_dir": 1,
-        "n": 11,
-        "tone": 0.443,
-        "weight": 15.8
+        "n": 8,
+        "tone": 0.312,
+        "weight": 9.3
       }
     },
     "trends": {
@@ -858,8 +858,8 @@
         "streak": 0
       },
       "DE": {
-        "dir": 0,
-        "streak": 0
+        "dir": 1,
+        "streak": 1
       },
       "EMU": {
         "dir": 1,
@@ -874,8 +874,8 @@
         "streak": 1
       },
       "JP": {
-        "dir": 1,
-        "streak": 2
+        "dir": -1,
+        "streak": 1
       },
       "NZ": {
         "dir": 1,

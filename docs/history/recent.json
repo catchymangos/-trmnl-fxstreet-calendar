@@ -1447,6 +1447,17 @@
     "unit": "%",
     "worse": false
   },
+  "DE|PPI|2026-09-18": {
+    "actual": "1.1",
+    "better": true,
+    "consensus": "0.4",
+    "country": "DE",
+    "date": "2026-09-18",
+    "indicator": "PPI",
+    "previous": "1.1",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Retail Sales|2026-08-03": {
     "actual": "-1.1",
     "better": false,
@@ -2843,6 +2854,17 @@
     "unit": "%",
     "worse": false
   },
+  "JP|Rate Decision|2026-09-18": {
+    "actual": "1.25",
+    "better": false,
+    "consensus": "1.25",
+    "country": "JP",
+    "date": "2026-09-18",
+    "indicator": "Rate Decision",
+    "previous": "1",
+    "unit": "%",
+    "worse": false
+  },
   "JP|Retail Trade s.a|2026-07-30": {
     "actual": "-4.1",
     "better": false,
@@ -3960,6 +3982,17 @@
     "previous": "1",
     "unit": "%",
     "worse": true
+  },
+  "UK|Retail Sales|2026-09-18": {
+    "actual": "0.5",
+    "better": true,
+    "consensus": "-0.2",
+    "country": "UK",
+    "date": "2026-09-18",
+    "indicator": "Retail Sales",
+    "previous": "-0.5",
+    "unit": "%",
+    "worse": false
   },
   "UK|S&P Global Composite PMI|2026-07-24": {
     "actual": "52.1",
