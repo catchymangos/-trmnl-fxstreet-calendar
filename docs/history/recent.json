@@ -4769,6 +4769,17 @@
     "unit": "%",
     "worse": true
   },
+  "US|Industrial Production|2026-09-18": {
+    "actual": "0",
+    "better": false,
+    "consensus": "0.3",
+    "country": "US",
+    "date": "2026-09-18",
+    "indicator": "Industrial Production",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": true
+  },
   "US|Initial Jobless Claims|2026-07-09": {
     "actual": "215",
     "consensus": "218",

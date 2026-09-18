@@ -843,9 +843,9 @@
       "US": {
         "driver": "Retail Sales (MoM)",
         "driver_dir": 1,
-        "n": 8,
-        "tone": 0.312,
-        "weight": 9.3
+        "n": 9,
+        "tone": 0.099,
+        "weight": 11.1
       }
     },
     "trends": {
@@ -886,8 +886,8 @@
         "streak": 2
       },
       "US": {
-        "dir": 1,
-        "streak": 2
+        "dir": 0,
+        "streak": 0
       }
     },
     "week": "2026-W38"
