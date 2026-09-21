@@ -891,5 +891,112 @@
       }
     },
     "week": "2026-W38"
+  },
+  "2026-W39": {
+    "date": "2026-09-21",
+    "rows": {
+      "CN": {
+        "driver": "Industrial Production (YoY)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 0.0,
+        "weight": 5.4
+      },
+      "DE": {
+        "driver": "Producer Price Index (MoM)",
+        "driver_dir": 1,
+        "n": 4,
+        "tone": 0.692,
+        "weight": 5.2
+      },
+      "EMU": {
+        "driver": "Industrial Production s.a. (MoM)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 0.385,
+        "weight": 2.6
+      },
+      "ES": {
+        "driver": "Harmonized Index of Consumer Prices (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 3.0
+      },
+      "FR": {
+        "driver": "Consumer Price Index (EU norm) (YoY)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 3.0
+      },
+      "JP": {
+        "driver": "National CPI ex Fresh Food (YoY)",
+        "driver_dir": -1,
+        "n": 4,
+        "tone": -0.5,
+        "weight": 6.4
+      },
+      "NZ": {
+        "driver": "Gross Domestic Product (QoQ)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 9.0
+      },
+      "UK": {
+        "driver": "ILO Unemployment Rate (3M)",
+        "driver_dir": 1,
+        "n": 9,
+        "tone": 0.78,
+        "weight": 18.2
+      },
+      "US": {
+        "driver": "Retail Sales (MoM)",
+        "driver_dir": 1,
+        "n": 9,
+        "tone": 0.099,
+        "weight": 11.1
+      }
+    },
+    "trends": {
+      "CN": {
+        "dir": 0,
+        "streak": 0
+      },
+      "DE": {
+        "dir": 1,
+        "streak": 2
+      },
+      "EMU": {
+        "dir": 1,
+        "streak": 3
+      },
+      "ES": {
+        "dir": 1,
+        "streak": 2
+      },
+      "FR": {
+        "dir": -1,
+        "streak": 2
+      },
+      "JP": {
+        "dir": -1,
+        "streak": 2
+      },
+      "NZ": {
+        "dir": 1,
+        "streak": 2
+      },
+      "UK": {
+        "dir": 1,
+        "streak": 3
+      },
+      "US": {
+        "dir": 0,
+        "streak": 0
+      }
+    },
+    "week": "2026-W39"
   }
 }

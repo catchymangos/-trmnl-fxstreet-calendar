@@ -296,6 +296,17 @@
     "unit": "%",
     "worse": false
   },
+  "CN|Rate Decision|2026-09-21": {
+    "actual": "3",
+    "better": false,
+    "consensus": "3",
+    "country": "CN",
+    "date": "2026-09-21",
+    "indicator": "Rate Decision",
+    "previous": "3",
+    "unit": "%",
+    "worse": false
+  },
   "CN|Retail Sales|2026-09-15": {
     "actual": "0.4",
     "better": false,
