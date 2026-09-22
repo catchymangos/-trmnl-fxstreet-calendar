@@ -472,6 +472,17 @@
     "unit": "",
     "worse": true
   },
+  "EMU|Consumer Confidence|2026-09-22": {
+    "actual": "-16.5",
+    "better": false,
+    "consensus": "-16",
+    "country": "EMU",
+    "date": "2026-09-22",
+    "indicator": "Consumer Confidence",
+    "previous": "-15.5",
+    "unit": "",
+    "worse": true
+  },
   "EMU|ECB Main Refinancing Operations Rate|2026-09-10": {
     "actual": "2.65",
     "better": false,
@@ -1239,6 +1250,17 @@
     "date": "2026-09-15",
     "indicator": "ADP Jobs",
     "previous": "12",
+    "unit": "",
+    "worse": false
+  },
+  "US|ADP Jobs|2026-09-22": {
+    "actual": "20",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-22",
+    "indicator": "ADP Jobs",
+    "previous": "16.25",
     "unit": "",
     "worse": false
   },
