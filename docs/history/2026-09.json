@@ -945,6 +945,17 @@
     "unit": "$",
     "worse": false
   },
+  "NZ|Westpac Consumer Survey|2026-09-15": {
+    "actual": "89.5",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-09-15",
+    "indicator": "Westpac Consumer Survey",
+    "previous": "80.4",
+    "unit": "",
+    "worse": false
+  },
   "RU|Rate Decision|2026-09-11": {
     "actual": "14",
     "better": false,
