@@ -896,18 +896,25 @@
     "date": "2026-09-23",
     "rows": {
       "DE": {
-        "driver": "Producer Price Index (MoM)",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 1.0,
-        "weight": 3.6
+        "driver": "HCOB Manufacturing PMI",
+        "driver_dir": -1,
+        "n": 4,
+        "tone": 0.4,
+        "weight": 9.0
       },
       "EMU": {
-        "driver": "Consumer Confidence",
+        "driver": "HCOB Composite PMI",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 0.742,
+        "weight": 6.2
+      },
+      "FR": {
+        "driver": "HCOB Manufacturing PMI",
         "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 0.8
+        "n": 2,
+        "tone": 0.0,
+        "weight": 3.6
       },
       "JP": {
         "driver": "National CPI ex Fresh Food (YoY)",
@@ -919,9 +926,9 @@
       "UK": {
         "driver": "Retail Sales (MoM)",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 1.0,
-        "weight": 8.1
+        "n": 6,
+        "tone": 0.6,
+        "weight": 13.5
       },
       "US": {
         "driver": "Industrial Production (MoM)",
@@ -937,8 +944,12 @@
         "streak": 2
       },
       "EMU": {
-        "dir": -1,
-        "streak": 1
+        "dir": 1,
+        "streak": 3
+      },
+      "FR": {
+        "dir": 0,
+        "streak": 0
       },
       "JP": {
         "dir": -1,
