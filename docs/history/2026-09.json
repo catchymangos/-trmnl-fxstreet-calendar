@@ -65,6 +65,17 @@
     "unit": "%",
     "worse": false
   },
+  "AU|Manufacturing PMI|2026-09-22": {
+    "actual": "49.3",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-09-22",
+    "indicator": "Manufacturing PMI",
+    "previous": "52",
+    "unit": "",
+    "worse": false
+  },
   "AU|S&P Global Composite PMI|2026-09-02": {
     "actual": "52.7",
     "better": true,
@@ -76,6 +87,17 @@
     "unit": "",
     "worse": false
   },
+  "AU|S&P Global Composite PMI|2026-09-22": {
+    "actual": "50.8",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-09-22",
+    "indicator": "S&P Global Composite PMI",
+    "previous": "52.7",
+    "unit": "",
+    "worse": false
+  },
   "AU|Services PMI|2026-09-02": {
     "actual": "53.2",
     "better": true,
@@ -84,6 +106,17 @@
     "date": "2026-09-02",
     "indicator": "Services PMI",
     "previous": "52.9",
+    "unit": "",
+    "worse": false
+  },
+  "AU|Services PMI|2026-09-22": {
+    "actual": "51.4",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-09-22",
+    "indicator": "Services PMI",
+    "previous": "53.2",
     "unit": "",
     "worse": false
   },

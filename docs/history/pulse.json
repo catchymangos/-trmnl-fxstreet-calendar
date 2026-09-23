@@ -893,7 +893,7 @@
     "week": "2026-W38"
   },
   "2026-W39": {
-    "date": "2026-09-22",
+    "date": "2026-09-23",
     "rows": {
       "DE": {
         "driver": "Producer Price Index (MoM)",
@@ -903,11 +903,11 @@
         "weight": 3.6
       },
       "EMU": {
-        "driver": "Industrial Production s.a. (MoM)",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 0.385,
-        "weight": 2.6
+        "driver": "Consumer Confidence",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 0.8
       },
       "JP": {
         "driver": "National CPI ex Fresh Food (YoY)",
@@ -916,26 +916,19 @@
         "tone": -1.0,
         "weight": 3.0
       },
-      "NZ": {
-        "driver": "Gross Domestic Product (QoQ)",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 1.0,
-        "weight": 9.0
-      },
       "UK": {
         "driver": "Retail Sales (MoM)",
         "driver_dir": 1,
-        "n": 7,
-        "tone": 0.872,
-        "weight": 12.5
+        "n": 4,
+        "tone": 1.0,
+        "weight": 8.1
       },
       "US": {
-        "driver": "Retail Sales (MoM)",
-        "driver_dir": 1,
-        "n": 8,
-        "tone": 0.184,
-        "weight": 10.3
+        "driver": "Industrial Production (MoM)",
+        "driver_dir": -1,
+        "n": 6,
+        "tone": -0.448,
+        "weight": 5.8
       }
     },
     "trends": {
@@ -944,15 +937,11 @@
         "streak": 2
       },
       "EMU": {
-        "dir": 1,
-        "streak": 3
+        "dir": -1,
+        "streak": 1
       },
       "JP": {
         "dir": -1,
-        "streak": 2
-      },
-      "NZ": {
-        "dir": 1,
         "streak": 2
       },
       "UK": {
@@ -960,7 +949,7 @@
         "streak": 3
       },
       "US": {
-        "dir": 1,
+        "dir": -1,
         "streak": 1
       }
     },
