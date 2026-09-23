@@ -931,11 +931,11 @@
         "weight": 13.5
       },
       "US": {
-        "driver": "Industrial Production (MoM)",
-        "driver_dir": -1,
-        "n": 6,
-        "tone": -0.448,
-        "weight": 5.8
+        "driver": "S&P Global Manufacturing PMI",
+        "driver_dir": 1,
+        "n": 8,
+        "tone": 0.25,
+        "weight": 11.2
       }
     },
     "trends": {
@@ -960,7 +960,7 @@
         "streak": 3
       },
       "US": {
-        "dir": -1,
+        "dir": 1,
         "streak": 1
       }
     },

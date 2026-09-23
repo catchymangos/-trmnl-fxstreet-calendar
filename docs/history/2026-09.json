@@ -1737,6 +1737,17 @@
     "unit": "",
     "worse": true
   },
+  "US|Manufacturing PMI|2026-09-23": {
+    "actual": "57",
+    "better": true,
+    "consensus": "53.5",
+    "country": "US",
+    "date": "2026-09-23",
+    "indicator": "Manufacturing PMI",
+    "previous": "53.9",
+    "unit": "",
+    "worse": false
+  },
   "US|Michigan Consumer Expectations Index|2026-09-11": {
     "actual": "45.8",
     "better": false,
@@ -1869,6 +1880,17 @@
     "unit": "",
     "worse": false
   },
+  "US|S&P Global Composite PMI|2026-09-23": {
+    "actual": "58.4",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-23",
+    "indicator": "S&P Global Composite PMI",
+    "previous": "56",
+    "unit": "",
+    "worse": false
+  },
   "US|Services PMI|2026-09-03": {
     "actual": "55.4",
     "better": true,
@@ -1877,6 +1899,17 @@
     "date": "2026-09-03",
     "indicator": "Services PMI",
     "previous": "54.1",
+    "unit": "",
+    "worse": false
+  },
+  "US|Services PMI|2026-09-23": {
+    "actual": "58.7",
+    "better": true,
+    "consensus": "56",
+    "country": "US",
+    "date": "2026-09-23",
+    "indicator": "Services PMI",
+    "previous": "56.5",
     "unit": "",
     "worse": false
   },
