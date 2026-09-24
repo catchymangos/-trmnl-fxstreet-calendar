@@ -895,12 +895,19 @@
   "2026-W39": {
     "date": "2026-09-24",
     "rows": {
+      "AU": {
+        "driver": "Employment Change s.a.",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 0.082,
+        "weight": 9.8
+      },
       "DE": {
         "driver": "HCOB Manufacturing PMI",
         "driver_dir": -1,
-        "n": 4,
-        "tone": 0.4,
-        "weight": 9.0
+        "n": 7,
+        "tone": 0.526,
+        "weight": 11.4
       },
       "EMU": {
         "driver": "HCOB Composite PMI",
@@ -932,6 +939,10 @@
       }
     },
     "trends": {
+      "AU": {
+        "dir": 0,
+        "streak": 0
+      },
       "DE": {
         "dir": 1,
         "streak": 2
