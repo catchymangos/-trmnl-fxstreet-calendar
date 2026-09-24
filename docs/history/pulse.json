@@ -893,7 +893,7 @@
     "week": "2026-W38"
   },
   "2026-W39": {
-    "date": "2026-09-23",
+    "date": "2026-09-24",
     "rows": {
       "DE": {
         "driver": "HCOB Manufacturing PMI",
@@ -916,13 +916,6 @@
         "tone": 0.0,
         "weight": 3.6
       },
-      "JP": {
-        "driver": "National CPI ex Fresh Food (YoY)",
-        "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 3.0
-      },
       "UK": {
         "driver": "Retail Sales (MoM)",
         "driver_dir": 1,
@@ -933,9 +926,9 @@
       "US": {
         "driver": "S&P Global Manufacturing PMI",
         "driver_dir": 1,
-        "n": 8,
-        "tone": 0.25,
-        "weight": 11.2
+        "n": 3,
+        "tone": 0.5,
+        "weight": 7.2
       }
     },
     "trends": {
@@ -950,10 +943,6 @@
       "FR": {
         "dir": 0,
         "streak": 0
-      },
-      "JP": {
-        "dir": -1,
-        "streak": 2
       },
       "UK": {
         "dir": 1,
