@@ -902,6 +902,13 @@
         "tone": 0.082,
         "weight": 9.8
       },
+      "CA": {
+        "driver": "Retail Sales (MoM)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 0.0,
+        "weight": 3.6
+      },
       "DE": {
         "driver": "HCOB Manufacturing PMI",
         "driver_dir": -1,
@@ -933,13 +940,17 @@
       "US": {
         "driver": "S&P Global Manufacturing PMI",
         "driver_dir": 1,
-        "n": 3,
-        "tone": 0.5,
-        "weight": 7.2
+        "n": 4,
+        "tone": 0.55,
+        "weight": 8.0
       }
     },
     "trends": {
       "AU": {
+        "dir": 0,
+        "streak": 0
+      },
+      "CA": {
         "dir": 0,
         "streak": 0
       },

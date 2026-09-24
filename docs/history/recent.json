@@ -687,6 +687,17 @@
     "unit": "%",
     "worse": false
   },
+  "CA|Retail Sales|2026-09-24": {
+    "actual": "-0.7",
+    "better": true,
+    "consensus": "-0.8",
+    "country": "CA",
+    "date": "2026-09-24",
+    "indicator": "Retail Sales",
+    "previous": "0.6",
+    "unit": "%",
+    "worse": false
+  },
   "CA|Unemployment Rate|2026-07-10": {
     "actual": "6.5",
     "better": true,
@@ -5207,6 +5218,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Initial Jobless Claims|2026-09-24": {
+    "actual": "197",
+    "better": true,
+    "consensus": "201",
+    "country": "US",
+    "date": "2026-09-24",
+    "indicator": "Initial Jobless Claims",
+    "previous": "196",
+    "unit": "",
+    "worse": false
+  },
   "US|Interest Rate Projections - 1st year|2026-09-16": {
     "actual": "4.1",
     "better": false,
@@ -5532,6 +5554,17 @@
     "date": "2026-08-25",
     "indicator": "New Home Sales Change",
     "previous": "1.6",
+    "unit": "%",
+    "worse": false
+  },
+  "US|New Home Sales Change|2026-09-24": {
+    "actual": "6.4",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-24",
+    "indicator": "New Home Sales Change",
+    "previous": "-10.5",
     "unit": "%",
     "worse": false
   },
