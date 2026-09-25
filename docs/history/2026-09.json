@@ -439,6 +439,17 @@
     "unit": "%",
     "worse": false
   },
+  "DE|GfK Consumer Confidence Survey|2026-09-25": {
+    "actual": "-30.6",
+    "better": false,
+    "consensus": "-27.4",
+    "country": "DE",
+    "date": "2026-09-25",
+    "indicator": "GfK Consumer Confidence Survey",
+    "previous": "-26.6",
+    "unit": "",
+    "worse": true
+  },
   "DE|HCOB Composite PMI|2026-09-03": {
     "actual": "51.8",
     "better": true,
@@ -779,6 +790,17 @@
     "previous": "31.4",
     "unit": "",
     "worse": true
+  },
+  "ES|GDP|2026-09-25": {
+    "actual": "0.7",
+    "better": false,
+    "consensus": "0.7",
+    "country": "ES",
+    "date": "2026-09-25",
+    "indicator": "GDP",
+    "previous": "0.6",
+    "unit": "%",
+    "worse": false
   },
   "ES|Inflation|2026-09-15": {
     "actual": "4.6",
