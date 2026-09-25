@@ -1088,6 +1088,17 @@
     "unit": "%",
     "worse": true
   },
+  "MX|Rate Decision|2026-09-24": {
+    "actual": "6.5",
+    "better": false,
+    "consensus": "6.5",
+    "country": "MX",
+    "date": "2026-09-24",
+    "indicator": "Rate Decision",
+    "previous": "6.5",
+    "unit": "%",
+    "worse": false
+  },
   "NO|Rate Decision|2026-09-24": {
     "actual": "4.5",
     "better": false,
@@ -1361,6 +1372,17 @@
     "indicator": "GDP",
     "previous": "0.3",
     "unit": "%",
+    "worse": false
+  },
+  "UK|GfK Consumer Confidence|2026-09-24": {
+    "actual": "-13",
+    "better": true,
+    "consensus": "-16",
+    "country": "UK",
+    "date": "2026-09-24",
+    "indicator": "GfK Consumer Confidence",
+    "previous": "-14",
+    "unit": "",
     "worse": false
   },
   "UK|Industrial Production|2026-09-11": {

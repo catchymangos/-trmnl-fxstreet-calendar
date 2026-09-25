@@ -893,7 +893,7 @@
     "week": "2026-W38"
   },
   "2026-W39": {
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "rows": {
       "AU": {
         "driver": "Employment Change s.a.",
@@ -912,9 +912,9 @@
       "DE": {
         "driver": "HCOB Manufacturing PMI",
         "driver_dir": -1,
-        "n": 7,
-        "tone": 0.526,
-        "weight": 11.4
+        "n": 5,
+        "tone": 0.308,
+        "weight": 7.8
       },
       "EMU": {
         "driver": "HCOB Composite PMI",
@@ -931,18 +931,18 @@
         "weight": 3.6
       },
       "UK": {
-        "driver": "Retail Sales (MoM)",
+        "driver": "S&P Global Manufacturing PMI",
         "driver_dir": 1,
-        "n": 6,
-        "tone": 0.6,
-        "weight": 13.5
+        "n": 3,
+        "tone": 0.129,
+        "weight": 6.2
       },
       "US": {
         "driver": "S&P Global Manufacturing PMI",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 0.55,
-        "weight": 8.0
+        "n": 3,
+        "tone": 1.0,
+        "weight": 6.2
       }
     },
     "trends": {
@@ -967,8 +967,8 @@
         "streak": 0
       },
       "UK": {
-        "dir": 1,
-        "streak": 3
+        "dir": 0,
+        "streak": 0
       },
       "US": {
         "dir": 1,
