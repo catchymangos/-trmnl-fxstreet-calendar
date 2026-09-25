@@ -4771,6 +4771,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|Durable Goods Orders ex Defense|2026-09-25": {
+    "actual": "0.1",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-25",
+    "indicator": "Durable Goods Orders ex Defense",
+    "previous": "1.3",
+    "unit": "%",
+    "worse": false
+  },
   "US|Durable Goods Orders ex Transportation|2026-07-27": {
     "actual": "0.6",
     "better": false,
@@ -4793,6 +4804,17 @@
     "unit": "%",
     "worse": true
   },
+  "US|Durable Goods Orders ex Transportation|2026-09-25": {
+    "actual": "0.3",
+    "better": false,
+    "consensus": "0.6",
+    "country": "US",
+    "date": "2026-09-25",
+    "indicator": "Durable Goods Orders ex Transportation",
+    "previous": "0.4",
+    "unit": "%",
+    "worse": true
+  },
   "US|Durable Goods Orders|2026-07-27": {
     "actual": "0.3",
     "better": false,
@@ -4812,6 +4834,17 @@
     "date": "2026-08-26",
     "indicator": "Durable Goods Orders",
     "previous": "0.3",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Durable Goods Orders|2026-09-25": {
+    "actual": "0",
+    "better": true,
+    "consensus": "-0.4",
+    "country": "US",
+    "date": "2026-09-25",
+    "indicator": "Durable Goods Orders",
+    "previous": "1.1",
     "unit": "%",
     "worse": false
   },
@@ -5458,6 +5491,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Michigan Consumer Expectations Index|2026-09-25": {
+    "actual": "46.3",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-09-25",
+    "indicator": "Michigan Consumer Expectations Index",
+    "previous": "45.8",
+    "unit": "",
+    "worse": false
+  },
   "US|Michigan Consumer Sentiment Index|2026-07-17": {
     "actual": "54.4",
     "better": true,
@@ -5512,6 +5556,17 @@
     "previous": "51.7",
     "unit": "",
     "worse": true
+  },
+  "US|Michigan Consumer Sentiment Index|2026-09-25": {
+    "actual": "48.1",
+    "better": true,
+    "consensus": "47.6",
+    "country": "US",
+    "date": "2026-09-25",
+    "indicator": "Michigan Consumer Sentiment Index",
+    "previous": "47.8",
+    "unit": "",
+    "worse": false
   },
   "US|Monthly Budget Statement|2026-07-13": {
     "actual": "-120",
@@ -5631,6 +5686,17 @@
     "date": "2026-08-26",
     "indicator": "Nondefense Capital Goods Orders ex Aircraft",
     "previous": "0.9",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Nondefense Capital Goods Orders ex Aircraft|2026-09-25": {
+    "actual": "1.6",
+    "better": true,
+    "consensus": "0.5",
+    "country": "US",
+    "date": "2026-09-25",
+    "indicator": "Nondefense Capital Goods Orders ex Aircraft",
+    "previous": "0.2",
     "unit": "%",
     "worse": false
   },
@@ -6149,6 +6215,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|UoM 1-year Consumer Inflation Expectations|2026-09-25": {
+    "actual": "4.6",
+    "better": false,
+    "consensus": "4.6",
+    "country": "US",
+    "date": "2026-09-25",
+    "indicator": "UoM 1-year Consumer Inflation Expectations",
+    "previous": "4.6",
+    "unit": "%",
+    "worse": false
+  },
   "US|UoM 5-year Consumer Inflation Expectation|2026-07-17": {
     "actual": "3.3",
     "consensus": "",
@@ -6199,6 +6276,17 @@
     "date": "2026-09-11",
     "indicator": "UoM 5-year Consumer Inflation Expectation",
     "previous": "3.3",
+    "unit": "%",
+    "worse": false
+  },
+  "US|UoM 5-year Consumer Inflation Expectation|2026-09-25": {
+    "actual": "3.4",
+    "better": false,
+    "consensus": "3.4",
+    "country": "US",
+    "date": "2026-09-25",
+    "indicator": "UoM 5-year Consumer Inflation Expectation",
+    "previous": "3.4",
     "unit": "%",
     "worse": false
   }

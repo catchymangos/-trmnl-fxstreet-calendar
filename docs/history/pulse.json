@@ -940,9 +940,9 @@
       "US": {
         "driver": "S&P Global Manufacturing PMI",
         "driver_dir": 1,
-        "n": 3,
-        "tone": 1.0,
-        "weight": 6.2
+        "n": 7,
+        "tone": 0.83,
+        "weight": 9.4
       }
     },
     "trends": {
