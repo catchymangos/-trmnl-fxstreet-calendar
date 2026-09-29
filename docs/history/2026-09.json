@@ -87,6 +87,17 @@
     "unit": "",
     "worse": false
   },
+  "AU|Rate Decision|2026-09-29": {
+    "actual": "4.6",
+    "better": false,
+    "consensus": "4.6",
+    "country": "AU",
+    "date": "2026-09-29",
+    "indicator": "Rate Decision",
+    "previous": "4.35",
+    "unit": "%",
+    "worse": false
+  },
   "AU|S&P Global Composite PMI|2026-09-02": {
     "actual": "52.7",
     "better": true,
@@ -604,6 +615,17 @@
     "unit": "",
     "worse": true
   },
+  "EMU|Business Climate|2026-09-29": {
+    "actual": "-0.06",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-09-29",
+    "indicator": "Business Climate",
+    "previous": "-0.23",
+    "unit": "",
+    "worse": false
+  },
   "EMU|Consumer Confidence|2026-09-22": {
     "actual": "-16.5",
     "better": false,
@@ -614,6 +636,17 @@
     "previous": "-15.5",
     "unit": "",
     "worse": true
+  },
+  "EMU|Consumer Confidence|2026-09-29": {
+    "actual": "-16.5",
+    "better": false,
+    "consensus": "-16.5",
+    "country": "EMU",
+    "date": "2026-09-29",
+    "indicator": "Consumer Confidence",
+    "previous": "-16.5",
+    "unit": "",
+    "worse": false
   },
   "EMU|ECB Main Refinancing Operations Rate|2026-09-10": {
     "actual": "2.65",
@@ -636,6 +669,17 @@
     "previous": "2.25",
     "unit": "%",
     "worse": false
+  },
+  "EMU|Economic Sentiment Indicator|2026-09-29": {
+    "actual": "97.9",
+    "better": false,
+    "consensus": "99",
+    "country": "EMU",
+    "date": "2026-09-29",
+    "indicator": "Economic Sentiment Indicator",
+    "previous": "98.4",
+    "unit": "",
+    "worse": true
   },
   "EMU|Employment Change|2026-09-07": {
     "actual": "0.1",
@@ -810,6 +854,17 @@
     "date": "2026-09-15",
     "indicator": "Inflation",
     "previous": "4.5",
+    "unit": "%",
+    "worse": false
+  },
+  "ES|Inflation|2026-09-29": {
+    "actual": "5",
+    "better": false,
+    "consensus": "",
+    "country": "ES",
+    "date": "2026-09-29",
+    "indicator": "Inflation",
+    "previous": "4.6",
     "unit": "%",
     "worse": false
   },
