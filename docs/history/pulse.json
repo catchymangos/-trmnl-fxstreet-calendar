@@ -978,7 +978,7 @@
     "week": "2026-W39"
   },
   "2026-W40": {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "rows": {
       "AU": {
         "driver": "Employment Change s.a.",
@@ -995,39 +995,39 @@
         "weight": 3.6
       },
       "DE": {
-        "driver": "HCOB Manufacturing PMI",
-        "driver_dir": -1,
-        "n": 6,
-        "tone": 0.186,
-        "weight": 8.6
+        "driver": "IFO \u2013 Business Climate",
+        "driver_dir": 1,
+        "n": 4,
+        "tone": 0.5,
+        "weight": 3.2
       },
       "EMU": {
-        "driver": "HCOB Composite PMI",
-        "driver_dir": 1,
-        "n": 3,
-        "tone": 0.742,
-        "weight": 6.2
-      },
-      "FR": {
-        "driver": "HCOB Manufacturing PMI",
+        "driver": "Economic Sentiment Indicator",
         "driver_dir": -1,
-        "n": 2,
-        "tone": 0.0,
-        "weight": 3.6
+        "n": 1,
+        "tone": -1.0,
+        "weight": 0.8
+      },
+      "JP": {
+        "driver": "Retail Trade (YoY)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 0.8
       },
       "UK": {
-        "driver": "S&P Global Manufacturing PMI",
+        "driver": "GfK Consumer Confidence",
         "driver_dir": 1,
-        "n": 3,
-        "tone": 0.129,
-        "weight": 6.2
+        "n": 1,
+        "tone": 1.0,
+        "weight": 0.8
       },
       "US": {
-        "driver": "S&P Global Manufacturing PMI",
+        "driver": "Initial Jobless Claims",
         "driver_dir": 1,
-        "n": 9,
-        "tone": 0.709,
-        "weight": 11.0
+        "n": 7,
+        "tone": 0.429,
+        "weight": 5.6
       }
     },
     "trends": {
@@ -1044,16 +1044,16 @@
         "streak": 3
       },
       "EMU": {
-        "dir": 1,
-        "streak": 4
+        "dir": -1,
+        "streak": 1
       },
-      "FR": {
-        "dir": 0,
-        "streak": 0
+      "JP": {
+        "dir": -1,
+        "streak": 1
       },
       "UK": {
-        "dir": 0,
-        "streak": 0
+        "dir": 1,
+        "streak": 1
       },
       "US": {
         "dir": 1,

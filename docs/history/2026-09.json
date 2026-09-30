@@ -1132,6 +1132,17 @@
     "unit": "%",
     "worse": false
   },
+  "JP|Large Retailer Sales|2026-09-29": {
+    "actual": "1",
+    "better": false,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-09-29",
+    "indicator": "Large Retailer Sales",
+    "previous": "1.4",
+    "unit": "%",
+    "worse": false
+  },
   "JP|Rate Decision|2026-09-18": {
     "actual": "1.25",
     "better": false,
@@ -1142,6 +1153,28 @@
     "previous": "1",
     "unit": "%",
     "worse": false
+  },
+  "JP|Retail Trade s.a|2026-09-29": {
+    "actual": "-1.2",
+    "better": false,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-09-29",
+    "indicator": "Retail Trade s.a",
+    "previous": "2.4",
+    "unit": "%",
+    "worse": false
+  },
+  "JP|Retail Trade|2026-09-29": {
+    "actual": "2.7",
+    "better": false,
+    "consensus": "3.3",
+    "country": "JP",
+    "date": "2026-09-29",
+    "indicator": "Retail Trade",
+    "previous": "4",
+    "unit": "%",
+    "worse": true
   },
   "JP|Trade Balance|2026-09-15": {
     "actual": "-840.6",
