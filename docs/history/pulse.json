@@ -983,9 +983,9 @@
       "AU": {
         "driver": "Employment Change s.a.",
         "driver_dir": 1,
-        "n": 3,
-        "tone": 0.082,
-        "weight": 9.8
+        "n": 5,
+        "tone": -0.221,
+        "weight": 13.6
       },
       "CA": {
         "driver": "Retail Sales (MoM)",
@@ -994,12 +994,19 @@
         "tone": 0.0,
         "weight": 3.6
       },
-      "DE": {
-        "driver": "IFO \u2013 Business Climate",
+      "CN": {
+        "driver": "NBS Non-Manufacturing PMI",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 0.5,
-        "weight": 3.2
+        "n": 3,
+        "tone": 1.0,
+        "weight": 8.1
+      },
+      "DE": {
+        "driver": "Unemployment Change",
+        "driver_dir": -1,
+        "n": 6,
+        "tone": -0.4,
+        "weight": 8.0
       },
       "EMU": {
         "driver": "Economic Sentiment Indicator",
@@ -1007,6 +1014,20 @@
         "n": 1,
         "tone": -1.0,
         "weight": 0.8
+      },
+      "FR": {
+        "driver": "Consumer Price Index (EU norm) (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 3.0
+      },
+      "IT": {
+        "driver": "Consumer Price Index (EU Norm) (YoY)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 6.0
       },
       "JP": {
         "driver": "Retail Trade (YoY)",
@@ -1016,11 +1037,11 @@
         "weight": 0.8
       },
       "UK": {
-        "driver": "GfK Consumer Confidence",
+        "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 1,
+        "n": 3,
         "tone": 1.0,
-        "weight": 0.8
+        "weight": 9.8
       },
       "US": {
         "driver": "Initial Jobless Claims",
@@ -1032,19 +1053,31 @@
     },
     "trends": {
       "AU": {
-        "dir": 0,
-        "streak": 0
+        "dir": -1,
+        "streak": 1
       },
       "CA": {
         "dir": 0,
         "streak": 0
       },
-      "DE": {
+      "CN": {
         "dir": 1,
-        "streak": 3
+        "streak": 1
+      },
+      "DE": {
+        "dir": -1,
+        "streak": 1
       },
       "EMU": {
         "dir": -1,
+        "streak": 1
+      },
+      "FR": {
+        "dir": 1,
+        "streak": 1
+      },
+      "IT": {
+        "dir": 1,
         "streak": 1
       },
       "JP": {
