@@ -1295,6 +1295,17 @@
     "unit": "%",
     "worse": true
   },
+  "DE|CPI|2026-09-30": {
+    "actual": "0.6",
+    "better": true,
+    "consensus": "0.5",
+    "country": "DE",
+    "date": "2026-09-30",
+    "indicator": "CPI",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Employment Change|2026-07-31": {
     "actual": "6",
     "better": false,
@@ -1585,6 +1596,17 @@
     "consensus": "0.2",
     "country": "DE",
     "date": "2026-09-10",
+    "indicator": "Inflation",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
+  "DE|Inflation|2026-09-30": {
+    "actual": "0.6",
+    "better": true,
+    "consensus": "0.5",
+    "country": "DE",
+    "date": "2026-09-30",
     "indicator": "Inflation",
     "previous": "0.2",
     "unit": "%",
@@ -4793,6 +4815,17 @@
     "unit": "",
     "worse": false
   },
+  "US|ADP Jobs|2026-09-30": {
+    "actual": "90",
+    "better": true,
+    "consensus": "70",
+    "country": "US",
+    "date": "2026-09-30",
+    "indicator": "ADP Jobs",
+    "previous": "38",
+    "unit": "",
+    "worse": false
+  },
   "US|Average Hourly Earnings|2026-08-07": {
     "actual": "0.1",
     "better": false,
@@ -4925,6 +4958,17 @@
     "unit": "",
     "worse": true
   },
+  "US|Chicago PMI|2026-09-30": {
+    "actual": "58.8",
+    "better": true,
+    "consensus": "51.2",
+    "country": "US",
+    "date": "2026-09-30",
+    "indicator": "Chicago PMI",
+    "previous": "47.1",
+    "unit": "",
+    "worse": false
+  },
   "US|Core Personal Consumption Expenditures - Price Index|2026-07-30": {
     "actual": "0.1",
     "better": false,
@@ -4947,6 +4991,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|Core Personal Consumption Expenditures - Price Index|2026-09-30": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "0.3",
+    "country": "US",
+    "date": "2026-09-30",
+    "indicator": "Core Personal Consumption Expenditures - Price Index",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": true
+  },
   "US|Core Personal Consumption Expenditures|2026-07-30": {
     "actual": "3.4",
     "better": false,
@@ -4968,6 +5023,17 @@
     "previous": "3.4",
     "unit": "%",
     "worse": false
+  },
+  "US|Core Personal Consumption Expenditures|2026-09-30": {
+    "actual": "3.3",
+    "better": false,
+    "consensus": "3.6",
+    "country": "US",
+    "date": "2026-09-30",
+    "indicator": "Core Personal Consumption Expenditures",
+    "previous": "3.6",
+    "unit": "%",
+    "worse": true
   },
   "US|Durable Goods Orders ex Defense|2026-07-27": {
     "actual": "0.3",
@@ -5171,6 +5237,17 @@
     "consensus": "1.5",
     "country": "US",
     "date": "2026-08-26",
+    "indicator": "GDP",
+    "previous": "1.5",
+    "unit": "%",
+    "worse": false
+  },
+  "US|GDP|2026-09-30": {
+    "actual": "2.2",
+    "better": true,
+    "consensus": "1.5",
+    "country": "US",
+    "date": "2026-09-30",
     "indicator": "GDP",
     "previous": "1.5",
     "unit": "%",
@@ -6074,6 +6151,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|Personal Consumption Expenditures - Price Index|2026-09-30": {
+    "actual": "0.3",
+    "better": false,
+    "consensus": "0.4",
+    "country": "US",
+    "date": "2026-09-30",
+    "indicator": "Personal Consumption Expenditures - Price Index",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": true
+  },
   "US|Personal Consumption Expenditures Prices|2026-07-30": {
     "actual": "5.1",
     "better": false,
@@ -6095,6 +6183,17 @@
     "previous": "5.1",
     "unit": "%",
     "worse": false
+  },
+  "US|Personal Consumption Expenditures Prices|2026-09-30": {
+    "actual": "5",
+    "better": false,
+    "consensus": "5.3",
+    "country": "US",
+    "date": "2026-09-30",
+    "indicator": "Personal Consumption Expenditures Prices",
+    "previous": "5.3",
+    "unit": "%",
+    "worse": true
   },
   "US|Personal Income|2026-07-30": {
     "actual": "0.2",
@@ -6118,6 +6217,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|Personal Income|2026-09-30": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "0.4",
+    "country": "US",
+    "date": "2026-09-30",
+    "indicator": "Personal Income",
+    "previous": "0.4",
+    "unit": "%",
+    "worse": true
+  },
   "US|Personal Spending|2026-07-30": {
     "actual": "0.3",
     "better": false,
@@ -6137,6 +6247,17 @@
     "date": "2026-08-26",
     "indicator": "Personal Spending",
     "previous": "0.3",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Personal Spending|2026-09-30": {
+    "actual": "0.9",
+    "better": true,
+    "consensus": "0.8",
+    "country": "US",
+    "date": "2026-09-30",
+    "indicator": "Personal Spending",
+    "previous": "0.2",
     "unit": "%",
     "worse": false
   },

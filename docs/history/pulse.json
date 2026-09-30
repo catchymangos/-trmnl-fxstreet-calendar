@@ -1002,11 +1002,11 @@
         "weight": 8.1
       },
       "DE": {
-        "driver": "Unemployment Change",
-        "driver_dir": -1,
-        "n": 6,
-        "tone": -0.4,
-        "weight": 8.0
+        "driver": "Consumer Price Index (MoM)",
+        "driver_dir": 1,
+        "n": 9,
+        "tone": 0.44,
+        "weight": 20.0
       },
       "EMU": {
         "driver": "Economic Sentiment Indicator",
@@ -1044,11 +1044,11 @@
         "weight": 9.8
       },
       "US": {
-        "driver": "Initial Jobless Claims",
+        "driver": "ADP Employment Change",
         "driver_dir": 1,
-        "n": 7,
-        "tone": 0.429,
-        "weight": 5.6
+        "n": 18,
+        "tone": -0.124,
+        "weight": 29.9
       }
     },
     "trends": {
@@ -1065,8 +1065,8 @@
         "streak": 1
       },
       "DE": {
-        "dir": -1,
-        "streak": 1
+        "dir": 1,
+        "streak": 3
       },
       "EMU": {
         "dir": -1,
@@ -1089,8 +1089,8 @@
         "streak": 1
       },
       "US": {
-        "dir": 1,
-        "streak": 2
+        "dir": 0,
+        "streak": 0
       }
     },
     "week": "2026-W40"
