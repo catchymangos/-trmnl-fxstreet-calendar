@@ -1,0 +1,134 @@
+{
+  "AU|Exports|2026-10-01": {
+    "actual": "3.7",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-10-01",
+    "indicator": "Exports",
+    "previous": "-3.3",
+    "unit": "%",
+    "worse": false
+  },
+  "AU|Imports|2026-10-01": {
+    "actual": "5.8",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-10-01",
+    "indicator": "Imports",
+    "previous": "-2.5",
+    "unit": "%",
+    "worse": false
+  },
+  "AU|Trade Balance|2026-10-01": {
+    "actual": "495",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-10-01",
+    "indicator": "Trade Balance",
+    "previous": "1923",
+    "unit": "",
+    "worse": false
+  },
+  "CH|CPI|2026-10-01": {
+    "actual": "0",
+    "better": false,
+    "consensus": "0",
+    "country": "CH",
+    "date": "2026-10-01",
+    "indicator": "CPI",
+    "previous": "0.4",
+    "unit": "%",
+    "worse": false
+  },
+  "CH|Retail Sales|2026-10-01": {
+    "actual": "3.2",
+    "better": true,
+    "consensus": "2.2",
+    "country": "CH",
+    "date": "2026-10-01",
+    "indicator": "Retail Sales",
+    "previous": "2.3",
+    "unit": "%",
+    "worse": false
+  },
+  "DE|Manufacturing PMI|2026-10-01": {
+    "actual": "53.9",
+    "better": true,
+    "consensus": "53.8",
+    "country": "DE",
+    "date": "2026-10-01",
+    "indicator": "Manufacturing PMI",
+    "previous": "53.8",
+    "unit": "",
+    "worse": false
+  },
+  "EMU|Unemployment Rate|2026-10-01": {
+    "actual": "6.4",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-10-01",
+    "indicator": "Unemployment Rate",
+    "previous": "6.4",
+    "unit": "%",
+    "worse": false
+  },
+  "ES|Manufacturing PMI|2026-10-01": {
+    "actual": "51",
+    "better": true,
+    "consensus": "50.2",
+    "country": "ES",
+    "date": "2026-10-01",
+    "indicator": "Manufacturing PMI",
+    "previous": "49.5",
+    "unit": "",
+    "worse": false
+  },
+  "IN|Manufacturing PMI|2026-10-01": {
+    "actual": "55.1",
+    "better": false,
+    "consensus": "55.7",
+    "country": "IN",
+    "date": "2026-10-01",
+    "indicator": "Manufacturing PMI",
+    "previous": "55.7",
+    "unit": "",
+    "worse": true
+  },
+  "IT|Manufacturing PMI|2026-10-01": {
+    "actual": "50.4",
+    "better": true,
+    "consensus": "49.9",
+    "country": "IT",
+    "date": "2026-10-01",
+    "indicator": "Manufacturing PMI",
+    "previous": "49.6",
+    "unit": "",
+    "worse": false
+  },
+  "US|Challenger Job Cuts|2026-10-01": {
+    "actual": "43.281",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-01",
+    "indicator": "Challenger Job Cuts",
+    "previous": "52.881",
+    "unit": "",
+    "worse": false
+  },
+  "US|Initial Jobless Claims|2026-10-01": {
+    "actual": "197",
+    "better": true,
+    "consensus": "200",
+    "country": "US",
+    "date": "2026-10-01",
+    "indicator": "Initial Jobless Claims",
+    "previous": "197",
+    "unit": "",
+    "worse": false
+  }
+}

@@ -987,6 +987,13 @@
         "tone": -1.0,
         "weight": 3.8
       },
+      "CH": {
+        "driver": "Real Retail Sales (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.8
+      },
       "CN": {
         "driver": "NBS Non-Manufacturing PMI",
         "driver_dir": 1,
@@ -997,9 +1004,9 @@
       "DE": {
         "driver": "Consumer Price Index (MoM)",
         "driver_dir": 1,
-        "n": 6,
-        "tone": 0.364,
-        "weight": 17.6
+        "n": 7,
+        "tone": 0.423,
+        "weight": 19.4
       },
       "EMU": {
         "driver": "Economic Sentiment Indicator",
@@ -1008,6 +1015,13 @@
         "tone": -1.0,
         "weight": 0.8
       },
+      "ES": {
+        "driver": "HCOB Manufacturing PMI",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.8
+      },
       "FR": {
         "driver": "Consumer Price Index (EU norm) (YoY)",
         "driver_dir": 1,
@@ -1015,12 +1029,19 @@
         "tone": 1.0,
         "weight": 3.0
       },
+      "IN": {
+        "driver": "HSBC Manufacturing PMI",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 1.8
+      },
       "IT": {
         "driver": "Consumer Price Index (EU Norm) (YoY)",
         "driver_dir": 1,
-        "n": 2,
+        "n": 3,
         "tone": 1.0,
-        "weight": 6.0
+        "weight": 7.8
       },
       "JP": {
         "driver": "Tankan Large Manufacturing Index",
@@ -1039,14 +1060,18 @@
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": 1,
-        "n": 17,
-        "tone": -0.155,
-        "weight": 29.1
+        "n": 18,
+        "tone": -0.124,
+        "weight": 29.9
       }
     },
     "trends": {
       "AU": {
         "dir": -1,
+        "streak": 1
+      },
+      "CH": {
+        "dir": 1,
         "streak": 1
       },
       "CN": {
@@ -1061,8 +1086,16 @@
         "dir": -1,
         "streak": 1
       },
+      "ES": {
+        "dir": 1,
+        "streak": 1
+      },
       "FR": {
         "dir": 1,
+        "streak": 1
+      },
+      "IN": {
+        "dir": -1,
         "streak": 1
       },
       "IT": {
@@ -1078,8 +1111,8 @@
         "streak": 1
       },
       "US": {
-        "dir": -1,
-        "streak": 1
+        "dir": 0,
+        "streak": 0
       }
     },
     "week": "2026-W40"
