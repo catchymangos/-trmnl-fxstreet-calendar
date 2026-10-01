@@ -978,21 +978,14 @@
     "week": "2026-W39"
   },
   "2026-W40": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "rows": {
       "AU": {
-        "driver": "Employment Change s.a.",
-        "driver_dir": 1,
-        "n": 5,
-        "tone": -0.221,
-        "weight": 13.6
-      },
-      "CA": {
-        "driver": "Retail Sales (MoM)",
-        "driver_dir": 1,
+        "driver": "Trimmed Mean CPI (MoM)",
+        "driver_dir": -1,
         "n": 2,
-        "tone": 0.0,
-        "weight": 3.6
+        "tone": -1.0,
+        "weight": 3.8
       },
       "CN": {
         "driver": "NBS Non-Manufacturing PMI",
@@ -1004,9 +997,9 @@
       "DE": {
         "driver": "Consumer Price Index (MoM)",
         "driver_dir": 1,
-        "n": 9,
-        "tone": 0.44,
-        "weight": 20.0
+        "n": 6,
+        "tone": 0.364,
+        "weight": 17.6
       },
       "EMU": {
         "driver": "Economic Sentiment Indicator",
@@ -1030,35 +1023,31 @@
         "weight": 6.0
       },
       "JP": {
-        "driver": "Retail Trade (YoY)",
+        "driver": "Tankan Large Manufacturing Index",
         "driver_dir": -1,
-        "n": 1,
+        "n": 4,
         "tone": -1.0,
-        "weight": 0.8
+        "weight": 3.6
       },
       "UK": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 3,
+        "n": 2,
         "tone": 1.0,
-        "weight": 9.8
+        "weight": 9.0
       },
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": 1,
-        "n": 18,
-        "tone": -0.124,
-        "weight": 29.9
+        "n": 17,
+        "tone": -0.155,
+        "weight": 29.1
       }
     },
     "trends": {
       "AU": {
         "dir": -1,
         "streak": 1
-      },
-      "CA": {
-        "dir": 0,
-        "streak": 0
       },
       "CN": {
         "dir": 1,
@@ -1089,8 +1078,8 @@
         "streak": 1
       },
       "US": {
-        "dir": 0,
-        "streak": 0
+        "dir": -1,
+        "streak": 1
       }
     },
     "week": "2026-W40"

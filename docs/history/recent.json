@@ -3404,6 +3404,17 @@
     "unit": "%",
     "worse": true
   },
+  "JP|Tankan Survey|2026-09-30": {
+    "actual": "11.3",
+    "better": false,
+    "consensus": "12.3",
+    "country": "JP",
+    "date": "2026-09-30",
+    "indicator": "Tankan Survey",
+    "previous": "11.5",
+    "unit": "%",
+    "worse": true
+  },
   "JP|Trade Balance|2026-07-21": {
     "actual": "-406.9",
     "better": false,
@@ -3617,6 +3628,17 @@
     "date": "2026-09-01",
     "indicator": "Building Permits s.a.",
     "previous": "-3.6",
+    "unit": "%",
+    "worse": false
+  },
+  "NZ|Building Permits s.a.|2026-09-30": {
+    "actual": "5.6",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-09-30",
+    "indicator": "Building Permits s.a.",
+    "previous": "-4.3",
     "unit": "%",
     "worse": false
   },
