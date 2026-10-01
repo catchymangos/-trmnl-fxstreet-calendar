@@ -713,6 +713,17 @@
     "unit": "",
     "worse": false
   },
+  "CA|Manufacturing PMI|2026-10-01": {
+    "actual": "51.5",
+    "better": false,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-10-01",
+    "indicator": "Manufacturing PMI",
+    "previous": "53",
+    "unit": "",
+    "worse": false
+  },
   "CA|Net Change in Employment|2026-07-10": {
     "actual": "18.2",
     "consensus": "10",
@@ -5484,6 +5495,17 @@
     "unit": "",
     "worse": false
   },
+  "US|ISM Manufacturing Employment Index|2026-10-01": {
+    "actual": "52.7",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-01",
+    "indicator": "ISM Manufacturing Employment Index",
+    "previous": "51.2",
+    "unit": "",
+    "worse": false
+  },
   "US|ISM Manufacturing New Orders Index|2026-08-03": {
     "actual": "56.7",
     "better": false,
@@ -5503,6 +5525,17 @@
     "date": "2026-09-01",
     "indicator": "ISM Manufacturing New Orders Index",
     "previous": "56.7",
+    "unit": "",
+    "worse": false
+  },
+  "US|ISM Manufacturing New Orders Index|2026-10-01": {
+    "actual": "55.3",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-01",
+    "indicator": "ISM Manufacturing New Orders Index",
+    "previous": "53.7",
     "unit": "",
     "worse": false
   },
@@ -5527,6 +5560,17 @@
     "previous": "71.1",
     "unit": "",
     "worse": true
+  },
+  "US|ISM Manufacturing Prices Paid|2026-10-01": {
+    "actual": "77.9",
+    "better": true,
+    "consensus": "72.3",
+    "country": "US",
+    "date": "2026-10-01",
+    "indicator": "ISM Manufacturing Prices Paid",
+    "previous": "71.1",
+    "unit": "",
+    "worse": false
   },
   "US|ISM Services Employment Index|2026-08-05": {
     "actual": "47.4",
@@ -5910,6 +5954,17 @@
     "previous": "53.9",
     "unit": "",
     "worse": false
+  },
+  "US|Manufacturing PMI|2026-10-01": {
+    "actual": "54.5",
+    "better": false,
+    "consensus": "55",
+    "country": "US",
+    "date": "2026-10-01",
+    "indicator": "Manufacturing PMI",
+    "previous": "54.6",
+    "unit": "",
+    "worse": true
   },
   "US|Michigan Consumer Expectations Index|2026-07-17": {
     "actual": "54",

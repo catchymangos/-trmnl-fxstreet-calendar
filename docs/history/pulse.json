@@ -1060,9 +1060,9 @@
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": 1,
-        "n": 18,
-        "tone": -0.124,
-        "weight": 29.9
+        "n": 20,
+        "tone": -0.134,
+        "weight": 34.4
       }
     },
     "trends": {
