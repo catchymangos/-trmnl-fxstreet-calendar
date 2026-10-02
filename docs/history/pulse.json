@@ -1009,11 +1009,11 @@
         "weight": 18.6
       },
       "EMU": {
-        "driver": "Economic Sentiment Indicator",
-        "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 0.8
+        "driver": "Harmonized Index of Consumer Prices (YoY)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 0.698,
+        "weight": 5.3
       },
       "ES": {
         "driver": "HCOB Manufacturing PMI",
@@ -1083,8 +1083,8 @@
         "streak": 3
       },
       "EMU": {
-        "dir": -1,
-        "streak": 1
+        "dir": 1,
+        "streak": 4
       },
       "ES": {
         "dir": 1,

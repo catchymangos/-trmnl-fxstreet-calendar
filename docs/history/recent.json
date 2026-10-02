@@ -2363,6 +2363,17 @@
     "unit": "%",
     "worse": false
   },
+  "EMU|Inflation|2026-10-02": {
+    "actual": "0.2",
+    "better": true,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-10-02",
+    "indicator": "Inflation",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
   "EMU|Manufacturing PMI|2026-07-24": {
     "actual": "52",
     "better": true,
