@@ -164,6 +164,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Average Hourly Earnings|2026-10-02": {
+    "actual": "0.1",
+    "better": false,
+    "consensus": "0.3",
+    "country": "US",
+    "date": "2026-10-02",
+    "indicator": "Average Hourly Earnings",
+    "previous": "0.3",
+    "unit": "%",
+    "worse": true
+  },
   "US|Challenger Job Cuts|2026-10-01": {
     "actual": "43.281",
     "better": false,
@@ -173,6 +184,28 @@
     "indicator": "Challenger Job Cuts",
     "previous": "52.881",
     "unit": "",
+    "worse": false
+  },
+  "US|Employment Change|2026-10-02": {
+    "actual": "61.8",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-02",
+    "indicator": "Employment Change",
+    "previous": "61.6",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Factory Orders|2026-10-02": {
+    "actual": "0.1",
+    "better": false,
+    "consensus": "0.1",
+    "country": "US",
+    "date": "2026-10-02",
+    "indicator": "Factory Orders",
+    "previous": "0.9",
+    "unit": "%",
     "worse": false
   },
   "US|ISM Manufacturing Employment Index|2026-10-01": {
@@ -228,6 +261,39 @@
     "indicator": "Manufacturing PMI",
     "previous": "54.6",
     "unit": "",
+    "worse": true
+  },
+  "US|Nonfarm Payrolls|2026-10-02": {
+    "actual": "29",
+    "better": false,
+    "consensus": "90",
+    "country": "US",
+    "date": "2026-10-02",
+    "indicator": "Nonfarm Payrolls",
+    "previous": "162",
+    "unit": "",
+    "worse": true
+  },
+  "US|U6 Underemployment Rate|2026-10-02": {
+    "actual": "7.6",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-02",
+    "indicator": "U6 Underemployment Rate",
+    "previous": "7.7",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Unemployment Rate|2026-10-02": {
+    "actual": "4.2",
+    "better": false,
+    "consensus": "4.1",
+    "country": "US",
+    "date": "2026-10-02",
+    "indicator": "Unemployment Rate",
+    "previous": "4.1",
+    "unit": "%",
     "worse": true
   }
 }
