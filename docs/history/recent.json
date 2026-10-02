@@ -3272,6 +3272,17 @@
     "unit": "%",
     "worse": false
   },
+  "JP|CPI|2026-10-01": {
+    "actual": "2.7",
+    "better": true,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-10-01",
+    "indicator": "CPI",
+    "previous": "1.9",
+    "unit": "%",
+    "worse": false
+  },
   "JP|Current Account n.s.a.|2026-08-09": {
     "actual": "-92.3",
     "better": false,
@@ -3591,6 +3602,17 @@
     "unit": "%",
     "worse": false
   },
+  "JP|Unemployment Rate|2026-10-01": {
+    "actual": "2.5",
+    "better": false,
+    "consensus": "2.4",
+    "country": "JP",
+    "date": "2026-10-01",
+    "indicator": "Unemployment Rate",
+    "previous": "2.4",
+    "unit": "%",
+    "worse": true
+  },
   "KR|GDP|2026-07-22": {
     "actual": "0.6",
     "better": true,
@@ -3727,6 +3749,17 @@
     "date": "2026-08-27",
     "indicator": "ANZ \u2013 Roy Morgan Consumer Confidence",
     "previous": "99.3",
+    "unit": "",
+    "worse": false
+  },
+  "NZ|ANZ \u2013 Roy Morgan Consumer Confidence|2026-10-01": {
+    "actual": "97.6",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-10-01",
+    "indicator": "ANZ \u2013 Roy Morgan Consumer Confidence",
+    "previous": "98",
     "unit": "",
     "worse": false
   },

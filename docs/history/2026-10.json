@@ -120,6 +120,39 @@
     "unit": "",
     "worse": false
   },
+  "JP|CPI|2026-10-01": {
+    "actual": "2.7",
+    "better": true,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-10-01",
+    "indicator": "CPI",
+    "previous": "1.9",
+    "unit": "%",
+    "worse": false
+  },
+  "JP|Unemployment Rate|2026-10-01": {
+    "actual": "2.5",
+    "better": false,
+    "consensus": "2.4",
+    "country": "JP",
+    "date": "2026-10-01",
+    "indicator": "Unemployment Rate",
+    "previous": "2.4",
+    "unit": "%",
+    "worse": true
+  },
+  "NZ|ANZ \u2013 Roy Morgan Consumer Confidence|2026-10-01": {
+    "actual": "97.6",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-10-01",
+    "indicator": "ANZ \u2013 Roy Morgan Consumer Confidence",
+    "previous": "98",
+    "unit": "",
+    "worse": false
+  },
   "US|Challenger Job Cuts|2026-10-01": {
     "actual": "43.281",
     "better": false,
