@@ -356,6 +356,17 @@
     "unit": "",
     "worse": false
   },
+  "AU|S&P Global Composite PMI|2026-10-04": {
+    "actual": "51.3",
+    "better": true,
+    "consensus": "50.8",
+    "country": "AU",
+    "date": "2026-10-04",
+    "indicator": "S&P Global Composite PMI",
+    "previous": "50.8",
+    "unit": "",
+    "worse": false
+  },
   "AU|Services PMI|2026-07-23": {
     "actual": "53",
     "consensus": "",
@@ -409,6 +420,17 @@
     "unit": "",
     "worse": false
   },
+  "AU|Services PMI|2026-10-04": {
+    "actual": "51.9",
+    "better": true,
+    "consensus": "51.4",
+    "country": "AU",
+    "date": "2026-10-04",
+    "indicator": "Services PMI",
+    "previous": "51.4",
+    "unit": "",
+    "worse": false
+  },
   "AU|TD-MI Inflation Gauge|2026-08-03": {
     "actual": "4",
     "better": false,
@@ -428,6 +450,17 @@
     "date": "2026-08-31",
     "indicator": "TD-MI Inflation Gauge",
     "previous": "4",
+    "unit": "%",
+    "worse": false
+  },
+  "AU|TD-MI Inflation Gauge|2026-10-05": {
+    "actual": "2.8",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-10-05",
+    "indicator": "TD-MI Inflation Gauge",
+    "previous": "4.8",
     "unit": "%",
     "worse": false
   },
@@ -1559,6 +1592,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|HCOB Composite PMI|2026-10-05": {
+    "actual": "53.8",
+    "better": false,
+    "consensus": "53.8",
+    "country": "DE",
+    "date": "2026-10-05",
+    "indicator": "HCOB Composite PMI",
+    "previous": "53.8",
+    "unit": "",
+    "worse": false
+  },
   "DE|IFO Business Climate|2026-07-27": {
     "actual": "86.6",
     "better": true,
@@ -1862,6 +1906,17 @@
     "date": "2026-09-23",
     "indicator": "Services PMI",
     "previous": "49.7",
+    "unit": "",
+    "worse": false
+  },
+  "DE|Services PMI|2026-10-05": {
+    "actual": "52.9",
+    "better": false,
+    "consensus": "52.9",
+    "country": "DE",
+    "date": "2026-10-05",
+    "indicator": "Services PMI",
+    "previous": "52.9",
     "unit": "",
     "worse": false
   },
@@ -2277,6 +2332,17 @@
     "unit": "",
     "worse": false
   },
+  "EMU|HCOB Composite PMI|2026-10-05": {
+    "actual": "53.1",
+    "better": false,
+    "consensus": "53.1",
+    "country": "EMU",
+    "date": "2026-10-05",
+    "indicator": "HCOB Composite PMI",
+    "previous": "53.1",
+    "unit": "",
+    "worse": false
+  },
   "EMU|Industrial Production|2026-07-15": {
     "actual": "-0.2",
     "better": false,
@@ -2429,6 +2495,17 @@
     "unit": "%",
     "worse": false
   },
+  "EMU|PPI|2026-10-05": {
+    "actual": "1.9",
+    "better": false,
+    "consensus": "1.9",
+    "country": "EMU",
+    "date": "2026-10-05",
+    "indicator": "PPI",
+    "previous": "1.6",
+    "unit": "%",
+    "worse": false
+  },
   "EMU|Retail Sales|2026-08-06": {
     "actual": "-0.3",
     "better": false,
@@ -2470,6 +2547,17 @@
     "date": "2026-09-07",
     "indicator": "Sentix Investor Confidence",
     "previous": "0.9",
+    "unit": "",
+    "worse": false
+  },
+  "EMU|Sentix Investor Confidence|2026-10-05": {
+    "actual": "2.7",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-10-05",
+    "indicator": "Sentix Investor Confidence",
+    "previous": "5.1",
     "unit": "",
     "worse": false
   },
@@ -2712,6 +2800,17 @@
     "previous": "58.3",
     "unit": "",
     "worse": true
+  },
+  "ES|Services PMI|2026-10-05": {
+    "actual": "58.3",
+    "better": false,
+    "consensus": "",
+    "country": "ES",
+    "date": "2026-10-05",
+    "indicator": "Services PMI",
+    "previous": "57.8",
+    "unit": "",
+    "worse": false
   },
   "FR|CPI|2026-07-10": {
     "actual": "2",
@@ -4135,6 +4234,17 @@
     "date": "2026-09-03",
     "indicator": "CPI",
     "previous": "31.75",
+    "unit": "%",
+    "worse": true
+  },
+  "TR|CPI|2026-10-05": {
+    "actual": "29.73",
+    "better": false,
+    "consensus": "30.3",
+    "country": "TR",
+    "date": "2026-10-05",
+    "indicator": "CPI",
+    "previous": "31.51",
     "unit": "%",
     "worse": true
   },

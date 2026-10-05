@@ -1116,5 +1116,156 @@
       }
     },
     "week": "2026-W40"
+  },
+  "2026-W41": {
+    "date": "2026-10-05",
+    "rows": {
+      "AU": {
+        "driver": "Trimmed Mean CPI (MoM)",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 3.8
+      },
+      "CH": {
+        "driver": "Real Retail Sales (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.8
+      },
+      "CN": {
+        "driver": "NBS Non-Manufacturing PMI",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 1.0,
+        "weight": 8.1
+      },
+      "DE": {
+        "driver": "Consumer Price Index (MoM)",
+        "driver_dir": 1,
+        "n": 6,
+        "tone": 0.484,
+        "weight": 18.6
+      },
+      "EMU": {
+        "driver": "Harmonized Index of Consumer Prices (YoY)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 0.698,
+        "weight": 5.3
+      },
+      "ES": {
+        "driver": "HCOB Manufacturing PMI",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.8
+      },
+      "FR": {
+        "driver": "Consumer Price Index (EU norm) (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 3.0
+      },
+      "IN": {
+        "driver": "HSBC Manufacturing PMI",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 1.8
+      },
+      "IT": {
+        "driver": "Consumer Price Index (EU Norm) (YoY)",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 1.0,
+        "weight": 7.8
+      },
+      "JP": {
+        "driver": "Tokyo CPI ex Fresh Food (YoY)",
+        "driver_dir": 1,
+        "n": 6,
+        "tone": -0.375,
+        "weight": 9.6
+      },
+      "TR": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 3.0
+      },
+      "UK": {
+        "driver": "Gross Domestic Product (QoQ)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 9.0
+      },
+      "US": {
+        "driver": "ADP Employment Change",
+        "driver_dir": 1,
+        "n": 20,
+        "tone": -0.433,
+        "weight": 44.1
+      }
+    },
+    "trends": {
+      "AU": {
+        "dir": -1,
+        "streak": 2
+      },
+      "CH": {
+        "dir": 1,
+        "streak": 2
+      },
+      "CN": {
+        "dir": 1,
+        "streak": 2
+      },
+      "DE": {
+        "dir": 1,
+        "streak": 4
+      },
+      "EMU": {
+        "dir": 1,
+        "streak": 5
+      },
+      "ES": {
+        "dir": 1,
+        "streak": 2
+      },
+      "FR": {
+        "dir": 1,
+        "streak": 2
+      },
+      "IN": {
+        "dir": -1,
+        "streak": 2
+      },
+      "IT": {
+        "dir": 1,
+        "streak": 2
+      },
+      "JP": {
+        "dir": -1,
+        "streak": 2
+      },
+      "TR": {
+        "dir": -1,
+        "streak": 1
+      },
+      "UK": {
+        "dir": 1,
+        "streak": 2
+      },
+      "US": {
+        "dir": -1,
+        "streak": 2
+      }
+    },
+    "week": "2026-W41"
   }
 }
