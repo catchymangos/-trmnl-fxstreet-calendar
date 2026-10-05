@@ -263,6 +263,17 @@
     "unit": "",
     "worse": false
   },
+  "NZ|NZIER Business Confidence|2026-10-05": {
+    "actual": "43",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-10-05",
+    "indicator": "NZIER Business Confidence",
+    "previous": "8",
+    "unit": "%",
+    "worse": false
+  },
   "TR|CPI|2026-10-05": {
     "actual": "29.73",
     "better": false,
@@ -351,6 +362,39 @@
     "unit": "",
     "worse": false
   },
+  "US|ISM Services Employment Index|2026-10-05": {
+    "actual": "50.1",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-05",
+    "indicator": "ISM Services Employment Index",
+    "previous": "47.8",
+    "unit": "",
+    "worse": false
+  },
+  "US|ISM Services New Orders Index|2026-10-05": {
+    "actual": "59.8",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-05",
+    "indicator": "ISM Services New Orders Index",
+    "previous": "60.9",
+    "unit": "",
+    "worse": false
+  },
+  "US|ISM Services Prices Paid|2026-10-05": {
+    "actual": "74",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-05",
+    "indicator": "ISM Services Prices Paid",
+    "previous": "72.6",
+    "unit": "",
+    "worse": false
+  },
   "US|Initial Jobless Claims|2026-10-01": {
     "actual": "197",
     "better": true,
@@ -381,6 +425,28 @@
     "date": "2026-10-02",
     "indicator": "Nonfarm Payrolls",
     "previous": "162",
+    "unit": "",
+    "worse": true
+  },
+  "US|S&P Global Composite PMI|2026-10-05": {
+    "actual": "58.4",
+    "better": false,
+    "consensus": "58.4",
+    "country": "US",
+    "date": "2026-10-05",
+    "indicator": "S&P Global Composite PMI",
+    "previous": "58.4",
+    "unit": "",
+    "worse": false
+  },
+  "US|Services PMI|2026-10-05": {
+    "actual": "54.9",
+    "better": false,
+    "consensus": "55",
+    "country": "US",
+    "date": "2026-10-05",
+    "indicator": "Services PMI",
+    "previous": "55.4",
     "unit": "",
     "worse": true
   },
