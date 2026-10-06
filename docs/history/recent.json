@@ -1460,6 +1460,17 @@
     "unit": "%",
     "worse": false
   },
+  "DE|Factory Orders n.s.a.|2026-10-06": {
+    "actual": "2.7",
+    "better": false,
+    "consensus": "",
+    "country": "DE",
+    "date": "2026-10-06",
+    "indicator": "Factory Orders n.s.a.",
+    "previous": "13.1",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Factory Orders s.a.|2026-08-06": {
     "actual": "3.1",
     "better": true,
@@ -1481,6 +1492,17 @@
     "previous": "3.1",
     "unit": "%",
     "worse": false
+  },
+  "DE|Factory Orders s.a.|2026-10-06": {
+    "actual": "-10.6",
+    "better": false,
+    "consensus": "-1",
+    "country": "DE",
+    "date": "2026-10-06",
+    "indicator": "Factory Orders s.a.",
+    "previous": "2.5",
+    "unit": "%",
+    "worse": true
   },
   "DE|GDP|2026-07-30": {
     "actual": "0.2",
@@ -2528,6 +2550,17 @@
     "unit": "%",
     "worse": true
   },
+  "EMU|Retail Sales|2026-10-06": {
+    "actual": "0.1",
+    "better": false,
+    "consensus": "0.2",
+    "country": "EMU",
+    "date": "2026-10-06",
+    "indicator": "Retail Sales",
+    "previous": "-0.6",
+    "unit": "%",
+    "worse": true
+  },
   "EMU|Sentix Investor Confidence|2026-08-10": {
     "actual": "0.9",
     "better": false,
@@ -3074,6 +3107,17 @@
     "unit": "",
     "worse": false
   },
+  "IN|HSBC Composite PMI|2026-10-06": {
+    "actual": "55.9",
+    "better": false,
+    "consensus": "",
+    "country": "IN",
+    "date": "2026-10-06",
+    "indicator": "HSBC Composite PMI",
+    "previous": "56.5",
+    "unit": "",
+    "worse": false
+  },
   "IN|Manufacturing PMI|2026-07-24": {
     "actual": "53.9",
     "better": false,
@@ -3205,6 +3249,17 @@
     "previous": "54.1",
     "unit": "",
     "worse": false
+  },
+  "IN|Services PMI|2026-10-06": {
+    "actual": "55.2",
+    "better": false,
+    "consensus": "56.2",
+    "country": "IN",
+    "date": "2026-10-06",
+    "indicator": "Services PMI",
+    "previous": "55.8",
+    "unit": "",
+    "worse": true
   },
   "IT|CPI|2026-07-16": {
     "actual": "3",
@@ -5131,6 +5186,17 @@
     "date": "2026-09-30",
     "indicator": "ADP Jobs",
     "previous": "38",
+    "unit": "",
+    "worse": false
+  },
+  "US|ADP Jobs|2026-10-06": {
+    "actual": "23.75",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-06",
+    "indicator": "ADP Jobs",
+    "previous": "20",
     "unit": "",
     "worse": false
   },

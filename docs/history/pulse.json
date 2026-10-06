@@ -1144,16 +1144,16 @@
       "DE": {
         "driver": "Consumer Price Index (MoM)",
         "driver_dir": 1,
-        "n": 6,
-        "tone": 0.484,
-        "weight": 18.6
+        "n": 7,
+        "tone": 0.423,
+        "weight": 19.4
       },
       "EMU": {
         "driver": "Harmonized Index of Consumer Prices (YoY)",
         "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 4.5
+        "n": 3,
+        "tone": 0.0,
+        "weight": 9.0
       },
       "ES": {
         "driver": "HCOB Manufacturing PMI",
@@ -1172,9 +1172,9 @@
       "IN": {
         "driver": "HSBC Manufacturing PMI",
         "driver_dir": -1,
-        "n": 1,
+        "n": 2,
         "tone": -1.0,
-        "weight": 1.8
+        "weight": 3.6
       },
       "IT": {
         "driver": "Consumer Price Index (EU Norm) (YoY)",
@@ -1230,8 +1230,8 @@
         "streak": 4
       },
       "EMU": {
-        "dir": 1,
-        "streak": 5
+        "dir": 0,
+        "streak": 0
       },
       "ES": {
         "dir": 1,
