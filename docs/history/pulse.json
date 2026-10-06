@@ -1118,7 +1118,7 @@
     "week": "2026-W40"
   },
   "2026-W41": {
-    "date": "2026-10-05",
+    "date": "2026-10-06",
     "rows": {
       "AU": {
         "driver": "Trimmed Mean CPI (MoM)",
@@ -1151,9 +1151,9 @@
       "EMU": {
         "driver": "Harmonized Index of Consumer Prices (YoY)",
         "driver_dir": 1,
-        "n": 2,
-        "tone": 0.698,
-        "weight": 5.3
+        "n": 1,
+        "tone": 1.0,
+        "weight": 4.5
       },
       "ES": {
         "driver": "HCOB Manufacturing PMI",
@@ -1186,9 +1186,9 @@
       "JP": {
         "driver": "Tokyo CPI ex Fresh Food (YoY)",
         "driver_dir": 1,
-        "n": 6,
-        "tone": -0.375,
-        "weight": 9.6
+        "n": 5,
+        "tone": -0.318,
+        "weight": 8.8
       },
       "TR": {
         "driver": "Consumer Price Index (YoY)",
@@ -1207,9 +1207,9 @@
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": 1,
-        "n": 21,
-        "tone": -0.466,
-        "weight": 46.8
+        "n": 19,
+        "tone": -0.482,
+        "weight": 45.2
       }
     },
     "trends": {
