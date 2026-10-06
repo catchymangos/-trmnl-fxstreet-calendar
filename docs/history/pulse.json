@@ -1127,6 +1127,13 @@
         "tone": -1.0,
         "weight": 3.8
       },
+      "CA": {
+        "driver": "Ivey Purchasing Managers Index s.a",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 1.8
+      },
       "CH": {
         "driver": "Real Retail Sales (YoY)",
         "driver_dir": 1,
@@ -1216,6 +1223,10 @@
       "AU": {
         "dir": -1,
         "streak": 2
+      },
+      "CA": {
+        "dir": -1,
+        "streak": 1
       },
       "CH": {
         "dir": 1,

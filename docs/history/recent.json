@@ -702,6 +702,17 @@
     "unit": "",
     "worse": false
   },
+  "CA|Ivey Purchasing Managers Index s.a|2026-10-06": {
+    "actual": "58.2",
+    "better": false,
+    "consensus": "65.2",
+    "country": "CA",
+    "date": "2026-10-06",
+    "indicator": "Ivey Purchasing Managers Index s.a",
+    "previous": "64.3",
+    "unit": "",
+    "worse": true
+  },
   "CA|Ivey Purchasing Managers Index|2026-08-07": {
     "actual": "54.1",
     "better": false,
@@ -721,6 +732,17 @@
     "date": "2026-09-04",
     "indicator": "Ivey Purchasing Managers Index",
     "previous": "54.1",
+    "unit": "",
+    "worse": false
+  },
+  "CA|Ivey Purchasing Managers Index|2026-10-06": {
+    "actual": "61.9",
+    "better": false,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-10-06",
+    "indicator": "Ivey Purchasing Managers Index",
+    "previous": "62.7",
     "unit": "",
     "worse": false
   },
