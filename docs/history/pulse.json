@@ -1137,9 +1137,9 @@
       "DE": {
         "driver": "HCOB Manufacturing PMI",
         "driver_dir": 1,
-        "n": 2,
-        "tone": 0.385,
-        "weight": 2.6
+        "n": 3,
+        "tone": 0.636,
+        "weight": 4.4
       },
       "EMU": {
         "driver": "Harmonized Index of Consumer Prices (YoY)",

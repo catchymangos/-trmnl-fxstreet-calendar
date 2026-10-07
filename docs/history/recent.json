@@ -1713,6 +1713,17 @@
     "unit": "%",
     "worse": true
   },
+  "DE|Industrial Production|2026-10-07": {
+    "actual": "2.3",
+    "better": true,
+    "consensus": "",
+    "country": "DE",
+    "date": "2026-10-07",
+    "indicator": "Industrial Production",
+    "previous": "-1.6",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Inflation|2026-07-10": {
     "actual": "2.4",
     "consensus": "2.4",
@@ -3223,6 +3234,17 @@
     "consensus": "5.25",
     "country": "IN",
     "date": "2026-08-05",
+    "indicator": "Rate Decision",
+    "previous": "5.25",
+    "unit": "%",
+    "worse": false
+  },
+  "IN|Rate Decision|2026-10-07": {
+    "actual": "5.5",
+    "better": false,
+    "consensus": "5.5",
+    "country": "IN",
+    "date": "2026-10-07",
     "indicator": "Rate Decision",
     "previous": "5.25",
     "unit": "%",

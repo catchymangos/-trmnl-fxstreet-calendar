@@ -164,6 +164,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|Industrial Production|2026-10-07": {
+    "actual": "2.3",
+    "better": true,
+    "consensus": "",
+    "country": "DE",
+    "date": "2026-10-07",
+    "indicator": "Industrial Production",
+    "previous": "-1.6",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Manufacturing PMI|2026-10-01": {
     "actual": "53.9",
     "better": true,
@@ -295,6 +306,17 @@
     "previous": "55.7",
     "unit": "",
     "worse": true
+  },
+  "IN|Rate Decision|2026-10-07": {
+    "actual": "5.5",
+    "better": false,
+    "consensus": "5.5",
+    "country": "IN",
+    "date": "2026-10-07",
+    "indicator": "Rate Decision",
+    "previous": "5.25",
+    "unit": "%",
+    "worse": false
   },
   "IN|Services PMI|2026-10-06": {
     "actual": "55.2",
