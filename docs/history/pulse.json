@@ -1118,15 +1118,8 @@
     "week": "2026-W40"
   },
   "2026-W41": {
-    "date": "2026-10-06",
+    "date": "2026-10-07",
     "rows": {
-      "AU": {
-        "driver": "Trimmed Mean CPI (MoM)",
-        "driver_dir": -1,
-        "n": 2,
-        "tone": -1.0,
-        "weight": 3.8
-      },
       "CA": {
         "driver": "Ivey Purchasing Managers Index s.a",
         "driver_dir": -1,
@@ -1141,19 +1134,12 @@
         "tone": 1.0,
         "weight": 1.8
       },
-      "CN": {
-        "driver": "NBS Non-Manufacturing PMI",
-        "driver_dir": 1,
-        "n": 3,
-        "tone": 1.0,
-        "weight": 8.1
-      },
       "DE": {
-        "driver": "Consumer Price Index (MoM)",
+        "driver": "HCOB Manufacturing PMI",
         "driver_dir": 1,
-        "n": 7,
-        "tone": 0.423,
-        "weight": 19.4
+        "n": 2,
+        "tone": 0.385,
+        "weight": 2.6
       },
       "EMU": {
         "driver": "Harmonized Index of Consumer Prices (YoY)",
@@ -1169,13 +1155,6 @@
         "tone": 1.0,
         "weight": 1.8
       },
-      "FR": {
-        "driver": "Consumer Price Index (EU norm) (YoY)",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 3.0
-      },
       "IN": {
         "driver": "HSBC Manufacturing PMI",
         "driver_dir": -1,
@@ -1184,18 +1163,18 @@
         "weight": 3.6
       },
       "IT": {
-        "driver": "Consumer Price Index (EU Norm) (YoY)",
+        "driver": "HCOB Manufacturing PMI",
         "driver_dir": 1,
-        "n": 3,
+        "n": 1,
         "tone": 1.0,
-        "weight": 7.8
+        "weight": 1.8
       },
       "JP": {
         "driver": "Tokyo CPI ex Fresh Food (YoY)",
         "driver_dir": 1,
-        "n": 5,
-        "tone": -0.318,
-        "weight": 8.8
+        "n": 3,
+        "tone": 0.118,
+        "weight": 6.8
       },
       "TR": {
         "driver": "Consumer Price Index (YoY)",
@@ -1204,35 +1183,20 @@
         "tone": -1.0,
         "weight": 3.0
       },
-      "UK": {
-        "driver": "Gross Domestic Product (QoQ)",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 1.0,
-        "weight": 9.0
-      },
       "US": {
-        "driver": "ADP Employment Change",
-        "driver_dir": 1,
-        "n": 19,
-        "tone": -0.482,
-        "weight": 45.2
+        "driver": "Nonfarm Payrolls",
+        "driver_dir": -1,
+        "n": 8,
+        "tone": -0.751,
+        "weight": 20.9
       }
     },
     "trends": {
-      "AU": {
-        "dir": -1,
-        "streak": 2
-      },
       "CA": {
         "dir": -1,
         "streak": 1
       },
       "CH": {
-        "dir": 1,
-        "streak": 2
-      },
-      "CN": {
         "dir": 1,
         "streak": 2
       },
@@ -1248,10 +1212,6 @@
         "dir": 1,
         "streak": 2
       },
-      "FR": {
-        "dir": 1,
-        "streak": 2
-      },
       "IN": {
         "dir": -1,
         "streak": 2
@@ -1261,16 +1221,12 @@
         "streak": 2
       },
       "JP": {
-        "dir": -1,
-        "streak": 2
+        "dir": 0,
+        "streak": 0
       },
       "TR": {
         "dir": -1,
         "streak": 1
-      },
-      "UK": {
-        "dir": 1,
-        "streak": 2
       },
       "US": {
         "dir": -1,

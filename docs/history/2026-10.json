@@ -1,4 +1,15 @@
 {
+  "AU|AiG Industry Index|2026-10-06": {
+    "actual": "-24.2",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-10-06",
+    "indicator": "AiG Industry Index",
+    "previous": "-3.5",
+    "unit": "",
+    "worse": false
+  },
   "AU|Exports|2026-10-01": {
     "actual": "3.7",
     "better": false,
@@ -315,6 +326,17 @@
     "date": "2026-10-01",
     "indicator": "CPI",
     "previous": "1.9",
+    "unit": "%",
+    "worse": false
+  },
+  "JP|Labor Cash Earnings|2026-10-06": {
+    "actual": "3.8",
+    "better": true,
+    "consensus": "3.7",
+    "country": "JP",
+    "date": "2026-10-06",
+    "indicator": "Labor Cash Earnings",
+    "previous": "4.7",
     "unit": "%",
     "worse": false
   },
