@@ -1118,7 +1118,7 @@
     "week": "2026-W40"
   },
   "2026-W41": {
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "rows": {
       "CA": {
         "driver": "Ivey Purchasing Managers Index s.a",
@@ -1127,19 +1127,12 @@
         "tone": -1.0,
         "weight": 1.8
       },
-      "CH": {
-        "driver": "Real Retail Sales (YoY)",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 1.8
-      },
       "DE": {
-        "driver": "HCOB Manufacturing PMI",
+        "driver": "Industrial Production s.a. (MoM)",
         "driver_dir": 1,
-        "n": 3,
-        "tone": 0.636,
-        "weight": 4.4
+        "n": 2,
+        "tone": 0.385,
+        "weight": 2.6
       },
       "EMU": {
         "driver": "Harmonized Index of Consumer Prices (YoY)",
@@ -1148,33 +1141,19 @@
         "tone": 0.0,
         "weight": 9.0
       },
-      "ES": {
-        "driver": "HCOB Manufacturing PMI",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 1.8
-      },
       "IN": {
-        "driver": "HSBC Manufacturing PMI",
+        "driver": "HSBC Services PMI",
         "driver_dir": -1,
-        "n": 2,
-        "tone": -1.0,
-        "weight": 3.6
-      },
-      "IT": {
-        "driver": "HCOB Manufacturing PMI",
-        "driver_dir": 1,
         "n": 1,
-        "tone": 1.0,
+        "tone": -1.0,
         "weight": 1.8
       },
       "JP": {
-        "driver": "Tokyo CPI ex Fresh Food (YoY)",
+        "driver": "Labor Cash Earnings (YoY)",
         "driver_dir": 1,
-        "n": 3,
-        "tone": 0.118,
-        "weight": 6.8
+        "n": 2,
+        "tone": 1.0,
+        "weight": 1.6
       },
       "TR": {
         "driver": "Consumer Price Index (YoY)",
@@ -1186,19 +1165,15 @@
       "US": {
         "driver": "Nonfarm Payrolls",
         "driver_dir": -1,
-        "n": 8,
-        "tone": -0.751,
-        "weight": 20.9
+        "n": 5,
+        "tone": -1.0,
+        "weight": 15.6
       }
     },
     "trends": {
       "CA": {
         "dir": -1,
         "streak": 1
-      },
-      "CH": {
-        "dir": 1,
-        "streak": 2
       },
       "DE": {
         "dir": 1,
@@ -1208,21 +1183,13 @@
         "dir": 0,
         "streak": 0
       },
-      "ES": {
-        "dir": 1,
-        "streak": 2
-      },
       "IN": {
         "dir": -1,
         "streak": 2
       },
-      "IT": {
-        "dir": 1,
-        "streak": 2
-      },
       "JP": {
-        "dir": 0,
-        "streak": 0
+        "dir": 1,
+        "streak": 1
       },
       "TR": {
         "dir": -1,

@@ -10,6 +10,17 @@
     "unit": "",
     "worse": false
   },
+  "AU|Consumer Inflation Expectations|2026-10-08": {
+    "actual": "5.3",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-10-08",
+    "indicator": "Consumer Inflation Expectations",
+    "previous": "4.9",
+    "unit": "%",
+    "worse": false
+  },
   "AU|Exports|2026-10-01": {
     "actual": "3.7",
     "better": false,
@@ -349,6 +360,17 @@
     "indicator": "CPI",
     "previous": "1.9",
     "unit": "%",
+    "worse": false
+  },
+  "JP|Current Account n.s.a.|2026-10-07": {
+    "actual": "4062",
+    "better": true,
+    "consensus": "3194.6",
+    "country": "JP",
+    "date": "2026-10-07",
+    "indicator": "Current Account n.s.a.",
+    "previous": "2988",
+    "unit": "\u00a5",
     "worse": false
   },
   "JP|Labor Cash Earnings|2026-10-06": {
