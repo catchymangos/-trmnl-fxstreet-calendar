@@ -1130,9 +1130,9 @@
       "DE": {
         "driver": "Industrial Production s.a. (MoM)",
         "driver_dir": 1,
-        "n": 2,
-        "tone": 0.385,
-        "weight": 2.6
+        "n": 3,
+        "tone": 0.636,
+        "weight": 4.4
       },
       "EMU": {
         "driver": "Harmonized Index of Consumer Prices (YoY)",
@@ -1155,6 +1155,13 @@
         "tone": 1.0,
         "weight": 1.6
       },
+      "MX": {
+        "driver": "Headline Inflation",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 0.8
+      },
       "TR": {
         "driver": "Consumer Price Index (YoY)",
         "driver_dir": -1,
@@ -1165,9 +1172,9 @@
       "US": {
         "driver": "Nonfarm Payrolls",
         "driver_dir": -1,
-        "n": 5,
-        "tone": -1.0,
-        "weight": 15.6
+        "n": 6,
+        "tone": -0.902,
+        "weight": 16.4
       }
     },
     "trends": {
@@ -1189,6 +1196,10 @@
       },
       "JP": {
         "dir": 1,
+        "streak": 1
+      },
+      "MX": {
+        "dir": -1,
         "streak": 1
       },
       "TR": {

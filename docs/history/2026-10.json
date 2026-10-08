@@ -87,6 +87,17 @@
     "unit": "",
     "worse": false
   },
+  "AU|Westpac Consumer Confidence|2026-10-05": {
+    "actual": "-4.7",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-10-05",
+    "indicator": "Westpac Consumer Confidence",
+    "previous": "-5.2",
+    "unit": "%",
+    "worse": false
+  },
   "CA|Ivey Purchasing Managers Index s.a|2026-10-06": {
     "actual": "58.2",
     "better": false,
@@ -206,6 +217,17 @@
     "indicator": "Services PMI",
     "previous": "52.9",
     "unit": "",
+    "worse": false
+  },
+  "DE|Trade Balance|2026-10-08": {
+    "actual": "19.5",
+    "better": true,
+    "consensus": "19",
+    "country": "DE",
+    "date": "2026-10-08",
+    "indicator": "Trade Balance",
+    "previous": "21.3",
+    "unit": "\u20ac",
     "worse": false
   },
   "EMU|HCOB Composite PMI|2026-10-05": {
@@ -395,6 +417,17 @@
     "unit": "%",
     "worse": true
   },
+  "MX|Headline Inflation|2026-10-08": {
+    "actual": "0.42",
+    "better": false,
+    "consensus": "0.43",
+    "country": "MX",
+    "date": "2026-10-08",
+    "indicator": "Headline Inflation",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": true
+  },
   "NZ|ANZ \u2013 Roy Morgan Consumer Confidence|2026-10-01": {
     "actual": "97.6",
     "better": false,
@@ -555,6 +588,17 @@
     "consensus": "200",
     "country": "US",
     "date": "2026-10-01",
+    "indicator": "Initial Jobless Claims",
+    "previous": "197",
+    "unit": "",
+    "worse": false
+  },
+  "US|Initial Jobless Claims|2026-10-08": {
+    "actual": "197",
+    "better": true,
+    "consensus": "200",
+    "country": "US",
+    "date": "2026-10-08",
     "indicator": "Initial Jobless Claims",
     "previous": "197",
     "unit": "",

@@ -592,6 +592,17 @@
     "unit": "%",
     "worse": false
   },
+  "AU|Westpac Consumer Confidence|2026-10-05": {
+    "actual": "-4.7",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-10-05",
+    "indicator": "Westpac Consumer Confidence",
+    "previous": "-5.2",
+    "unit": "%",
+    "worse": false
+  },
   "CA|CPI|2026-07-20": {
     "actual": "2.8",
     "better": false,
@@ -1998,6 +2009,17 @@
     "date": "2026-09-08",
     "indicator": "Trade Balance",
     "previous": "15.4",
+    "unit": "\u20ac",
+    "worse": false
+  },
+  "DE|Trade Balance|2026-10-08": {
+    "actual": "19.5",
+    "better": true,
+    "consensus": "19",
+    "country": "DE",
+    "date": "2026-10-08",
+    "indicator": "Trade Balance",
+    "previous": "21.3",
     "unit": "\u20ac",
     "worse": false
   },
@@ -3900,6 +3922,17 @@
     "date": "2026-09-09",
     "indicator": "Headline Inflation",
     "previous": "0.03",
+    "unit": "%",
+    "worse": true
+  },
+  "MX|Headline Inflation|2026-10-08": {
+    "actual": "0.42",
+    "better": false,
+    "consensus": "0.43",
+    "country": "MX",
+    "date": "2026-10-08",
+    "indicator": "Headline Inflation",
+    "previous": "0.2",
     "unit": "%",
     "worse": true
   },
@@ -6138,6 +6171,17 @@
     "consensus": "200",
     "country": "US",
     "date": "2026-10-01",
+    "indicator": "Initial Jobless Claims",
+    "previous": "197",
+    "unit": "",
+    "worse": false
+  },
+  "US|Initial Jobless Claims|2026-10-08": {
+    "actual": "197",
+    "better": true,
+    "consensus": "200",
+    "country": "US",
+    "date": "2026-10-08",
     "indicator": "Initial Jobless Claims",
     "previous": "197",
     "unit": "",
