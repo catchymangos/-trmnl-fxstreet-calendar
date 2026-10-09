@@ -1118,7 +1118,7 @@
     "week": "2026-W40"
   },
   "2026-W41": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "rows": {
       "CA": {
         "driver": "Ivey Purchasing Managers Index s.a",
@@ -1135,11 +1135,11 @@
         "weight": 4.4
       },
       "EMU": {
-        "driver": "Harmonized Index of Consumer Prices (YoY)",
-        "driver_dir": 1,
-        "n": 3,
-        "tone": 0.0,
-        "weight": 9.0
+        "driver": "Retail Sales (YoY)",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 4.5
       },
       "IN": {
         "driver": "HSBC Services PMI",
@@ -1170,11 +1170,11 @@
         "weight": 3.0
       },
       "US": {
-        "driver": "Nonfarm Payrolls",
+        "driver": "ISM Services PMI",
         "driver_dir": -1,
-        "n": 6,
-        "tone": -0.902,
-        "weight": 16.4
+        "n": 2,
+        "tone": -0.543,
+        "weight": 3.5
       }
     },
     "trends": {
@@ -1187,8 +1187,8 @@
         "streak": 4
       },
       "EMU": {
-        "dir": 0,
-        "streak": 0
+        "dir": -1,
+        "streak": 1
       },
       "IN": {
         "dir": -1,
