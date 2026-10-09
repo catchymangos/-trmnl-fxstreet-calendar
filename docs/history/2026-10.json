@@ -98,6 +98,17 @@
     "unit": "%",
     "worse": false
   },
+  "CA|Employment Change|2026-10-09": {
+    "actual": "-68.3",
+    "better": false,
+    "consensus": "7",
+    "country": "CA",
+    "date": "2026-10-09",
+    "indicator": "Employment Change",
+    "previous": "-41.7",
+    "unit": "",
+    "worse": true
+  },
   "CA|Ivey Purchasing Managers Index s.a|2026-10-06": {
     "actual": "58.2",
     "better": false,
@@ -129,6 +140,28 @@
     "indicator": "Manufacturing PMI",
     "previous": "53",
     "unit": "",
+    "worse": false
+  },
+  "CA|Unemployment Rate|2026-10-09": {
+    "actual": "6.5",
+    "better": false,
+    "consensus": "6.5",
+    "country": "CA",
+    "date": "2026-10-09",
+    "indicator": "Unemployment Rate",
+    "previous": "6.4",
+    "unit": "%",
+    "worse": false
+  },
+  "CA|Wage Growth|2026-10-09": {
+    "actual": "2.3",
+    "better": false,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-10-09",
+    "indicator": "Wage Growth",
+    "previous": "2",
+    "unit": "%",
     "worse": false
   },
   "CH|CPI|2026-10-01": {

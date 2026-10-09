@@ -669,6 +669,17 @@
     "unit": "",
     "worse": true
   },
+  "CA|Employment Change|2026-10-09": {
+    "actual": "-68.3",
+    "better": false,
+    "consensus": "7",
+    "country": "CA",
+    "date": "2026-10-09",
+    "indicator": "Employment Change",
+    "previous": "-41.7",
+    "unit": "",
+    "worse": true
+  },
   "CA|GDP|2026-07-31": {
     "actual": "0.3",
     "better": true,
@@ -876,6 +887,17 @@
     "unit": "%",
     "worse": false
   },
+  "CA|Unemployment Rate|2026-10-09": {
+    "actual": "6.5",
+    "better": false,
+    "consensus": "6.5",
+    "country": "CA",
+    "date": "2026-10-09",
+    "indicator": "Unemployment Rate",
+    "previous": "6.4",
+    "unit": "%",
+    "worse": false
+  },
   "CA|Wage Growth|2026-08-07": {
     "actual": "3",
     "better": false,
@@ -895,6 +917,17 @@
     "date": "2026-09-04",
     "indicator": "Wage Growth",
     "previous": "3",
+    "unit": "%",
+    "worse": false
+  },
+  "CA|Wage Growth|2026-10-09": {
+    "actual": "2.3",
+    "better": false,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-10-09",
+    "indicator": "Wage Growth",
+    "previous": "2",
     "unit": "%",
     "worse": false
   },
