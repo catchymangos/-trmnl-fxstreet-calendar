@@ -1172,9 +1172,9 @@
       "US": {
         "driver": "ISM Services PMI",
         "driver_dir": -1,
-        "n": 2,
-        "tone": -0.543,
-        "weight": 3.5
+        "n": 3,
+        "tone": -0.66,
+        "weight": 4.7
       }
     },
     "trends": {

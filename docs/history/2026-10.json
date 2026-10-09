@@ -648,6 +648,28 @@
     "unit": "",
     "worse": true
   },
+  "US|Michigan Consumer Expectations Index|2026-10-09": {
+    "actual": "47.3",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-09",
+    "indicator": "Michigan Consumer Expectations Index",
+    "previous": "46.3",
+    "unit": "",
+    "worse": false
+  },
+  "US|Michigan Consumer Sentiment Index|2026-10-09": {
+    "actual": "46.3",
+    "better": false,
+    "consensus": "47.6",
+    "country": "US",
+    "date": "2026-10-09",
+    "indicator": "Michigan Consumer Sentiment Index",
+    "previous": "48.1",
+    "unit": "",
+    "worse": true
+  },
   "US|Nonfarm Payrolls|2026-10-02": {
     "actual": "29",
     "better": false,
@@ -702,5 +724,27 @@
     "previous": "4.1",
     "unit": "%",
     "worse": true
+  },
+  "US|UoM 1-year Consumer Inflation Expectations|2026-10-09": {
+    "actual": "4.7",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-09",
+    "indicator": "UoM 1-year Consumer Inflation Expectations",
+    "previous": "4.6",
+    "unit": "%",
+    "worse": false
+  },
+  "US|UoM 5-year Consumer Inflation Expectation|2026-10-09": {
+    "actual": "3.5",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-09",
+    "indicator": "UoM 5-year Consumer Inflation Expectation",
+    "previous": "3.4",
+    "unit": "%",
+    "worse": false
   }
 }
