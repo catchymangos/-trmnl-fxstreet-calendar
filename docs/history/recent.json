@@ -4043,15 +4043,6 @@
     "unit": "",
     "worse": false
   },
-  "NZ|Business NZ PSI|2026-07-12": {
-    "actual": "50.6",
-    "consensus": "",
-    "country": "NZ",
-    "date": "2026-07-12",
-    "indicator": "Business NZ PSI",
-    "previous": "47.5",
-    "unit": ""
-  },
   "NZ|Business NZ PSI|2026-08-16": {
     "actual": "50.6",
     "better": false,
