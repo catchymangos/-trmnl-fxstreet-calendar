@@ -1212,5 +1212,90 @@
       }
     },
     "week": "2026-W41"
+  },
+  "2026-W42": {
+    "date": "2026-10-12",
+    "rows": {
+      "CA": {
+        "driver": "Net Change in Employment",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 4.8
+      },
+      "DE": {
+        "driver": "Industrial Production s.a. (MoM)",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 0.636,
+        "weight": 4.4
+      },
+      "EMU": {
+        "driver": "Retail Sales (YoY)",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 4.5
+      },
+      "IN": {
+        "driver": "HSBC Services PMI",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 1.8
+      },
+      "JP": {
+        "driver": "Labor Cash Earnings (YoY)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 1.6
+      },
+      "MX": {
+        "driver": "Headline Inflation",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 0.8
+      },
+      "US": {
+        "driver": "Michigan Consumer Sentiment Index",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -0.2,
+        "weight": 2.0
+      }
+    },
+    "trends": {
+      "CA": {
+        "dir": -1,
+        "streak": 2
+      },
+      "DE": {
+        "dir": 1,
+        "streak": 5
+      },
+      "EMU": {
+        "dir": -1,
+        "streak": 2
+      },
+      "IN": {
+        "dir": -1,
+        "streak": 3
+      },
+      "JP": {
+        "dir": 1,
+        "streak": 2
+      },
+      "MX": {
+        "dir": -1,
+        "streak": 2
+      },
+      "US": {
+        "dir": -1,
+        "streak": 3
+      }
+    },
+    "week": "2026-W42"
   }
 }

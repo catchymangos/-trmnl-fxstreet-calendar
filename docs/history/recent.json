@@ -3066,6 +3066,17 @@
     "unit": "",
     "worse": false
   },
+  "ID|Consumer Confidence|2026-10-08": {
+    "actual": "118.1",
+    "better": false,
+    "consensus": "",
+    "country": "ID",
+    "date": "2026-10-08",
+    "indicator": "Consumer Confidence",
+    "previous": "118.5",
+    "unit": "",
+    "worse": false
+  },
   "IN|GDP|2026-08-31": {
     "actual": "7.8",
     "better": true,
@@ -4171,15 +4182,6 @@
     "unit": "%",
     "worse": false
   },
-  "NZ|NZIER Business Confidence|2026-07-13": {
-    "actual": "8",
-    "consensus": "",
-    "country": "NZ",
-    "date": "2026-07-13",
-    "indicator": "NZIER Business Confidence",
-    "previous": "-4",
-    "unit": "%"
-  },
   "NZ|NZIER Business Confidence|2026-10-05": {
     "actual": "43",
     "better": false,
@@ -4913,17 +4915,6 @@
     "previous": "3.75",
     "unit": "%",
     "worse": false
-  },
-  "UK|Retail Sales|2026-07-13": {
-    "actual": "1.7",
-    "better": false,
-    "consensus": "2.9",
-    "country": "UK",
-    "date": "2026-07-13",
-    "indicator": "Retail Sales",
-    "previous": "3.4",
-    "unit": "%",
-    "worse": true
   },
   "UK|Retail Sales|2026-07-24": {
     "actual": "1",
@@ -6458,17 +6449,6 @@
     "previous": "48.1",
     "unit": "",
     "worse": true
-  },
-  "US|Monthly Budget Statement|2026-07-13": {
-    "actual": "-120",
-    "better": true,
-    "consensus": "-132.8",
-    "country": "US",
-    "date": "2026-07-13",
-    "indicator": "Monthly Budget Statement",
-    "previous": "-293",
-    "unit": "$",
-    "worse": false
   },
   "US|Monthly Budget Statement|2026-08-12": {
     "actual": "-432",

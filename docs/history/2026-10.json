@@ -351,6 +351,17 @@
     "unit": "",
     "worse": false
   },
+  "ID|Consumer Confidence|2026-10-08": {
+    "actual": "118.1",
+    "better": false,
+    "consensus": "",
+    "country": "ID",
+    "date": "2026-10-08",
+    "indicator": "Consumer Confidence",
+    "previous": "118.5",
+    "unit": "",
+    "worse": false
+  },
   "IN|HSBC Composite PMI|2026-10-06": {
     "actual": "55.9",
     "better": false,
