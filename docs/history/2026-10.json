@@ -582,6 +582,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|Existing Home Sales Change|2026-10-13": {
+    "actual": "1.5",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-13",
+    "indicator": "Existing Home Sales Change",
+    "previous": "-2",
+    "unit": "%",
+    "worse": false
+  },
   "US|Factory Orders|2026-10-02": {
     "actual": "0.1",
     "better": false,
