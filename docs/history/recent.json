@@ -561,15 +561,6 @@
     "unit": "%",
     "worse": false
   },
-  "AU|Westpac Consumer Confidence|2026-07-14": {
-    "actual": "4.1",
-    "consensus": "",
-    "country": "AU",
-    "date": "2026-07-14",
-    "indicator": "Westpac Consumer Confidence",
-    "previous": "-2.9",
-    "unit": "%"
-  },
   "AU|Westpac Consumer Confidence|2026-08-18": {
     "actual": "6",
     "better": false,
@@ -1085,17 +1076,6 @@
     "unit": "%",
     "worse": false
   },
-  "CN|Exports|2026-07-14": {
-    "actual": "20.8",
-    "better": true,
-    "consensus": "",
-    "country": "CN",
-    "date": "2026-07-14",
-    "indicator": "Exports",
-    "previous": "13.8",
-    "unit": "%",
-    "worse": false
-  },
   "CN|Exports|2026-08-07": {
     "actual": "23.9",
     "better": true,
@@ -1128,17 +1108,6 @@
     "previous": "5",
     "unit": "%",
     "worse": true
-  },
-  "CN|Imports|2026-07-14": {
-    "actual": "29.4",
-    "better": true,
-    "consensus": "",
-    "country": "CN",
-    "date": "2026-07-14",
-    "indicator": "Imports",
-    "previous": "21.5",
-    "unit": "%",
-    "worse": false
   },
   "CN|Imports|2026-08-07": {
     "actual": "27.5",
@@ -1367,17 +1336,6 @@
     "indicator": "Services PMI",
     "previous": "51.4",
     "unit": "",
-    "worse": false
-  },
-  "CN|Trade Balance|2026-07-14": {
-    "actual": "125.62",
-    "better": true,
-    "consensus": "121",
-    "country": "CN",
-    "date": "2026-07-14",
-    "indicator": "Trade Balance",
-    "previous": "105.43",
-    "unit": "$",
     "worse": false
   },
   "CN|Trade Balance|2026-08-07": {
@@ -4971,6 +4929,17 @@
     "unit": "%",
     "worse": false
   },
+  "UK|Retail Sales|2026-10-12": {
+    "actual": "1",
+    "better": true,
+    "consensus": "0.7",
+    "country": "UK",
+    "date": "2026-10-12",
+    "indicator": "Retail Sales",
+    "previous": "0.5",
+    "unit": "%",
+    "worse": false
+  },
   "UK|S&P Global Composite PMI|2026-07-24": {
     "actual": "52.1",
     "better": true,
@@ -5102,15 +5071,6 @@
     "previous": "3.5",
     "unit": "%",
     "worse": false
-  },
-  "US|ADP Jobs|2026-07-14": {
-    "actual": "19.75",
-    "consensus": "",
-    "country": "US",
-    "date": "2026-07-14",
-    "indicator": "ADP Jobs",
-    "previous": "21",
-    "unit": ""
   },
   "US|ADP Jobs|2026-07-21": {
     "actual": "16.5",
@@ -5306,17 +5266,6 @@
     "indicator": "Building Permits",
     "previous": "1.443",
     "unit": "",
-    "worse": true
-  },
-  "US|CPI|2026-07-14": {
-    "actual": "2.6",
-    "better": false,
-    "consensus": "2.8",
-    "country": "US",
-    "date": "2026-07-14",
-    "indicator": "CPI",
-    "previous": "2.9",
-    "unit": "%",
     "worse": true
   },
   "US|CPI|2026-08-12": {

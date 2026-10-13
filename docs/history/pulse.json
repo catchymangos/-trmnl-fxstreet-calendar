@@ -1214,42 +1214,28 @@
     "week": "2026-W41"
   },
   "2026-W42": {
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "rows": {
       "CA": {
         "driver": "Net Change in Employment",
         "driver_dir": -1,
-        "n": 2,
+        "n": 1,
         "tone": -1.0,
-        "weight": 4.8
+        "weight": 3.0
       },
       "DE": {
         "driver": "Industrial Production s.a. (MoM)",
         "driver_dir": 1,
-        "n": 3,
-        "tone": 0.636,
-        "weight": 4.4
-      },
-      "EMU": {
-        "driver": "Retail Sales (YoY)",
-        "driver_dir": -1,
-        "n": 2,
-        "tone": -1.0,
-        "weight": 4.5
-      },
-      "IN": {
-        "driver": "HSBC Services PMI",
-        "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 1.8
-      },
-      "JP": {
-        "driver": "Labor Cash Earnings (YoY)",
-        "driver_dir": 1,
         "n": 2,
         "tone": 1.0,
-        "weight": 1.6
+        "weight": 3.6
+      },
+      "JP": {
+        "driver": "Current Account n.s.a.",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 0.8
       },
       "MX": {
         "driver": "Headline Inflation",
@@ -1257,6 +1243,13 @@
         "n": 1,
         "tone": -1.0,
         "weight": 0.8
+      },
+      "UK": {
+        "driver": "BRC Like-For-Like Retail Sales (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.8
       },
       "US": {
         "driver": "Michigan Consumer Sentiment Index",
@@ -1275,14 +1268,6 @@
         "dir": 1,
         "streak": 5
       },
-      "EMU": {
-        "dir": -1,
-        "streak": 2
-      },
-      "IN": {
-        "dir": -1,
-        "streak": 3
-      },
       "JP": {
         "dir": 1,
         "streak": 2
@@ -1290,6 +1275,10 @@
       "MX": {
         "dir": -1,
         "streak": 2
+      },
+      "UK": {
+        "dir": 1,
+        "streak": 1
       },
       "US": {
         "dir": -1,
