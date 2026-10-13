@@ -1734,6 +1734,17 @@
     "unit": "%",
     "worse": false
   },
+  "DE|Inflation|2026-10-13": {
+    "actual": "0.6",
+    "better": false,
+    "consensus": "0.6",
+    "country": "DE",
+    "date": "2026-10-13",
+    "indicator": "Inflation",
+    "previous": "0.6",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Manufacturing PMI|2026-07-24": {
     "actual": "52.2",
     "better": true,
@@ -5199,6 +5210,17 @@
     "date": "2026-10-06",
     "indicator": "ADP Jobs",
     "previous": "20",
+    "unit": "",
+    "worse": false
+  },
+  "US|ADP Jobs|2026-10-13": {
+    "actual": "24.75",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-13",
+    "indicator": "ADP Jobs",
+    "previous": "23.75",
     "unit": "",
     "worse": false
   },
