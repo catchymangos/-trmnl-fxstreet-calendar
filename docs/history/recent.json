@@ -803,15 +803,6 @@
     "unit": "",
     "worse": false
   },
-  "CA|Rate Decision|2026-07-15": {
-    "actual": "2.25",
-    "consensus": "2.25",
-    "country": "CA",
-    "date": "2026-07-15",
-    "indicator": "Rate Decision",
-    "previous": "2.25",
-    "unit": "%"
-  },
   "CA|Rate Decision|2026-09-02": {
     "actual": "2.25",
     "better": false,
@@ -1098,17 +1089,6 @@
     "unit": "%",
     "worse": false
   },
-  "CN|GDP|2026-07-15": {
-    "actual": "4.3",
-    "better": false,
-    "consensus": "4.5",
-    "country": "CN",
-    "date": "2026-07-15",
-    "indicator": "GDP",
-    "previous": "5",
-    "unit": "%",
-    "worse": true
-  },
   "CN|Imports|2026-08-07": {
     "actual": "27.5",
     "better": false,
@@ -1130,17 +1110,6 @@
     "previous": "27.5",
     "unit": "%",
     "worse": true
-  },
-  "CN|Industrial Production|2026-07-15": {
-    "actual": "5.3",
-    "better": true,
-    "consensus": "4.6",
-    "country": "CN",
-    "date": "2026-07-15",
-    "indicator": "Industrial Production",
-    "previous": "4.5",
-    "unit": "%",
-    "worse": false
   },
   "CN|Industrial Production|2026-08-17": {
     "actual": "4.5",
@@ -1269,17 +1238,6 @@
     "date": "2026-09-21",
     "indicator": "Rate Decision",
     "previous": "3",
-    "unit": "%",
-    "worse": false
-  },
-  "CN|Retail Sales|2026-07-15": {
-    "actual": "1",
-    "better": true,
-    "consensus": "-0.1",
-    "country": "CN",
-    "date": "2026-07-15",
-    "indicator": "Retail Sales",
-    "previous": "-0.6",
     "unit": "%",
     "worse": false
   },
@@ -2368,17 +2326,6 @@
     "unit": "",
     "worse": false
   },
-  "EMU|Industrial Production|2026-07-15": {
-    "actual": "-0.2",
-    "better": false,
-    "consensus": "0.2",
-    "country": "EMU",
-    "date": "2026-07-15",
-    "indicator": "Industrial Production",
-    "previous": "0.1",
-    "unit": "%",
-    "worse": true
-  },
   "EMU|Industrial Production|2026-08-13": {
     "actual": "0",
     "better": true,
@@ -2717,15 +2664,6 @@
     "previous": "0.6",
     "unit": "%",
     "worse": false
-  },
-  "ES|Inflation|2026-07-15": {
-    "actual": "3.6",
-    "consensus": "3.6",
-    "country": "ES",
-    "date": "2026-07-15",
-    "indicator": "Inflation",
-    "previous": "3.6",
-    "unit": "%"
   },
   "ES|Inflation|2026-07-30": {
     "actual": "3.8",
@@ -6454,17 +6392,6 @@
     "unit": "$",
     "worse": false
   },
-  "US|NY Empire State Manufacturing Index|2026-07-15": {
-    "actual": "15.6",
-    "better": true,
-    "consensus": "8.8",
-    "country": "US",
-    "date": "2026-07-15",
-    "indicator": "NY Empire State Manufacturing Index",
-    "previous": "5.7",
-    "unit": "",
-    "worse": false
-  },
   "US|NY Empire State Manufacturing Index|2026-08-17": {
     "actual": "20.6",
     "better": true,
@@ -6607,17 +6534,6 @@
     "previous": "1.4",
     "unit": "%",
     "worse": false
-  },
-  "US|PPI|2026-07-15": {
-    "actual": "4.7",
-    "better": false,
-    "consensus": "5.2",
-    "country": "US",
-    "date": "2026-07-15",
-    "indicator": "PPI",
-    "previous": "4.9",
-    "unit": "%",
-    "worse": true
   },
   "US|PPI|2026-08-13": {
     "actual": "0",

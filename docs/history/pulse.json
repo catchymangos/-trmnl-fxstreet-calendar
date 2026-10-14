@@ -1214,7 +1214,7 @@
     "week": "2026-W41"
   },
   "2026-W42": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "rows": {
       "CA": {
         "driver": "Net Change in Employment",
@@ -1224,18 +1224,11 @@
         "weight": 3.0
       },
       "DE": {
-        "driver": "Industrial Production s.a. (MoM)",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 1.0,
-        "weight": 3.6
-      },
-      "JP": {
-        "driver": "Current Account n.s.a.",
+        "driver": "Trade Balance s.a.",
         "driver_dir": 1,
         "n": 1,
         "tone": 1.0,
-        "weight": 0.8
+        "weight": 1.8
       },
       "MX": {
         "driver": "Headline Inflation",
@@ -1267,10 +1260,6 @@
       "DE": {
         "dir": 1,
         "streak": 5
-      },
-      "JP": {
-        "dir": 1,
-        "streak": 2
       },
       "MX": {
         "dir": -1,
