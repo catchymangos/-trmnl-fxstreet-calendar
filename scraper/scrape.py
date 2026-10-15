@@ -1,1 +1,115 @@
-aW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHVybGxpYi5yZXF1ZXN0CmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lLCB0aW1lZGVsdGEsIHRpbWV6b25lCmZyb20gcGxheXdyaWdodC5zeW5jX2FwaSBpbXBvcnQgc3luY19wbGF5d3JpZ2h0CgpST09UID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKRE9DU19ESVIgPSBvcy5wYXRoLmpvaW4oUk9PVCwgImRvY3MiKQpPVVRQVVQgPSBvcy5wYXRoLmpvaW4oRE9DU19ESVIsICJjYWxlbmRhci5qc29uIikKCgpkZWYgc2NyYXBlKCk6CiAgICB3aXRoIHN5bmNfcGxheXdyaWdodCgpIGFzIHB3OgogICAgICAgIGJyb3dzZXIgPSBwdy5jaHJvbWl1bS5sYXVuY2goaGVhZGxlc3M9VHJ1ZSkKICAgICAgICBjdHggPSBicm93c2VyLm5ld19jb250ZXh0KAogICAgICAgICAgICB2aWV3cG9ydD17IndpZHRoIjogMTI4MCwgImhlaWdodCI6IDkwMH0sCiAgICAgICAgICAgIHVzZXJfYWdlbnQ9Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiIsCiAgICAgICAgKQogICAgICAgIHBhZ2UgPSBjdHgubmV3X3BhZ2UoKQoKICAgICAgICBwcmludCgiTG9hZGluZyBGWFN0cmVldCBmb3IgYXV0aCBjb29raWVzLi4uIikKICAgICAgICBwYWdlLmdvdG8oImh0dHBzOi8vd3d3LmZ4c3RyZWV0LmNvbS9lY29ub21pYy1jYWxlbmRhciIsIHdhaXRfdW50aWw9ImRvbWNvbnRlbnRsb2FkZWQiLCB0aW1lb3V0PTYwMDAwKQogICAgICAgIHBhZ2Uud2FpdF9mb3JfdGltZW91dCgxMDAwMCkKCiAgICAgICAgIyBFeHRyYWN0IGNvb2tpZXMgZnJvbSB0aGUgYnJvd3NlciBjb250ZXh0IGZvciB1c2UgaW4gUHl0aG9uLgogICAgICAgICMgVGhpcyBhdm9pZHMgQ09SUyBpc3N1ZXMgd2l0aCBwYWdlLmV2YWx1YXRlKGZldGNoKCkpLgogICAgICAgIGNvb2tpZXMgPSBjdHguY29va2llcygpCiAgICAgICAgY29va2llX2hlYWRlciA9ICI7ICIuam9pbihbZiJ7Y1snbmFtZSddfT17Y1sndmFsdWUnXX0iIGZvciBjIGluIGNvb2tpZXNdKQogICAgICAgIHByaW50KGYiR290IHtsZW4oY29va2llcyl9IGNvb2tpZXMgZnJvbSBicm93c2VyIGNvbnRleHQuIikKCiAgICAgICAgYnJvd3Nlci5jbG9zZSgpCgogICAgIyBGZXRjaCB0aGUgQVBJIGZyb20gUHl0aG9uIChubyBDT1JTIHJlc3RyaWN0aW9ucykuCiAgICBub3cgPSBkYXRldGltZS5ub3codGltZXpvbmUudXRjKQogICAgc3RhcnQgPSAobm93IC0gdGltZWRlbHRhKGRheXM9MTQpKS5zdHJmdGltZSgiJVktJW0tJWRUMDA6MDA6MDBaIikKICAgIGVuZCA9IChub3cgKyB0aW1lZGVsdGEoZGF5cz0xMCkpLnN0cmZ0aW1lKCIlWS0lbS0lZFQyMzo1OTo1OVoiKQogICAgYXBpX3VybCA9ICgKICAgICAgICBmImh0dHBzOi8vY2FsZW5kYXItYXBpLmZ4c3N0YXRpYy5jb20vZW4vYXBpL3YyL2V2ZW50RGF0ZXMve3N0YXJ0fS97ZW5kfSIKICAgICAgICBmIj8mdm9sYXRpbGl0aWVzPU5PTkUmdm9sYXRpbGl0aWVzPUxPVyZ2b2xhdGlsaXRpZXM9TUVESVVNJnZvbGF0aWxpdGllcz1ISUdIIgogICAgKQoKICAgIHByaW50KGYiRmV0Y2hpbmcgMy13ZWVrIHJhbmdlIHZpYSBQeXRob246IHthcGlfdXJsWzoxMDBdfS4uLiIpCiAgICByZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KGFwaV91cmwsIGhlYWRlcnM9ewogICAgICAgICJVc2VyLUFnZW50IjogIk1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiIsCiAgICAgICAgIkNvb2tpZSI6IGNvb2tpZV9oZWFkZXIsCiAgICAgICAgIkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwKICAgICAgICAiUmVmZXJlciI6ICJodHRwczovL3d3dy5meHN0cmVldC5jb20vZWNvbm9taWMtY2FsZW5kYXIiLAogICAgfSkKICAgIHRyeToKICAgICAgICB3aXRoIHVybGxpYi5yZXF1ZXN0LnVybG9wZW4ocmVxLCB0aW1lb3V0PTYwKSBhcyByZXM6CiAgICAgICAgICAgIHByaW50KGYiQVBJIHN0YXR1czoge3Jlcy5zdGF0dXN9IikKICAgICAgICAgICAgZXZlbnRzID0ganNvbi5sb2FkcyhyZXMucmVhZCgpKQogICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZToKICAgICAgICBwcmludChmIkFQSSBIVFRQIGVycm9yOiB7ZS5jb2RlfSB7ZS5yZWFzb259IikKICAgICAgICB0cnk6CiAgICAgICAgICAgIGJvZHkgPSBlLnJlYWQoKS5kZWNvZGUoJ3V0Zi04JywgZXJyb3JzPSdpZ25vcmUnKVs6NTAwXQogICAgICAgICAgICBwcmludChmIlJlc3BvbnNlIGJvZHk6IHtib2R5fSIpCiAgICAgICAgZXhjZXB0OgogICAgICAgICAgICBwYXNzCiAgICAgICAgcmFpc2UgU3lzdGVtRXhpdChmIkFib3J0aW5nOiBBUEkgcmV0dXJuZWQgSFRUUCB7ZS5jb2RlfS4iKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoZiJBYm9ydGluZzogZmV0Y2ggZmFpbGVkOiB7dHlwZShlKS5fX25hbWVfX306IHtlfSIpCgogICAgIyBWYWxpZGF0ZSB0aGUgcmVzcG9uc2UgYmVmb3JlIHRydXN0aW5nIGl0IOKAlCBhIGJhZC9lbXB0eSBmZXRjaCBtdXN0IG5vdAogICAgIyBiZSBhbGxvd2VkIHRvIG92ZXJ3cml0ZSBhIGdvb2QgY2FsZW5kYXIuanNvbi4KICAgIGlmIG5vdCBpc2luc3RhbmNlKGV2ZW50cywgbGlzdCk6CiAgICAgICAgcmFpc2UgU3lzdGVtRXhpdChmIkFib3J0aW5nOiBBUEkgcmV0dXJuZWQge3R5cGUoZXZlbnRzKS5fX25hbWVfX30sIGV4cGVjdGVkIGEgbGlzdC4iKQogICAgaWYgbGVuKGV2ZW50cykgPT0gMDoKICAgICAgICByYWlzZSBTeXN0ZW1FeGl0KCJBYm9ydGluZzogQVBJIHJldHVybmVkIGFuIGVtcHR5IGxpc3Q7IGtlZXBpbmcgZXhpc3RpbmcgY2FsZW5kYXIuanNvbi4iKQoKICAgIHByaW50KGYiRmV0Y2hlZCB7bGVuKGV2ZW50cyl9IGV2ZW50cyIpCiAgICByZXR1cm4gbm9ybWFsaXplKGV2ZW50cykKCgpkZWYgbm9ybWFsaXplKHJhdyk6CiAgICBvdXQgPSBbXQogICAgdm9sX21hcCA9IHsiaGlnaCI6ICJIaWdoIiwgIm1lZGl1bSI6ICJNZWRpdW0iLCAibG93IjogIkxvdyIsICJub25lIjogIkxvdyJ9CiAgICBmb3IgZXYgaW4gcmF3OgogICAgICAgIHRyeToKICAgICAgICAgICAgZGF0ZV91dGMgPSBldi5nZXQoImRhdGVVdGMiKSBvciAiIgogICAgICAgICAgICB2b2wgPSBldi5nZXQoInZvbGF0aWxpdHkiKSBvciAiIgogICAgICAgICAgICBpbXBhY3QgPSB2b2xfbWFwLmdldChzdHIodm9sKS5zdHJpcCgpLmxvd2VyKCksICJMb3ciKSBpZiB2b2wgZWxzZSAiTG93IgogICAgICAgICAgICBpc19iZXR0ZXIgPSBldi5nZXQoImlzQmV0dGVyVGhhbkV4cGVjdGVkIikKICAgICAgICAgICAgYWN0dWFsID0gZXYuZ2V0KCJhY3R1YWwiKQogICAgICAgICAgICBjb25zZW5zdXMgPSBldi5nZXQoImNvbnNlbnN1cyIpCiAgICAgICAgICAgIG5hbWUgPSAoZXYuZ2V0KCJuYW1lIikgb3IgIiIpLnN0cmlwKCkKICAgICAgICAgICAgaWYgbm90IG5hbWU6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBvdXQuYXBwZW5kKHsKICAgICAgICAgICAgICAgICJpZCI6IGV2LmdldCgiaWQiKSBvciAiIiwKICAgICAgICAgICAgICAgICJuYW1lIjogbmFtZSwKICAgICAgICAgICAgICAgICJjb3VudHJ5IjogKGV2LmdldCgiY291bnRyeUNvZGUiKSBvciAiIikuc3RyaXAoKSwKICAgICAgICAgICAgICAgICJkYXRlX3V0YyI6IGRhdGVfdXRjLAogICAgICAgICAgICAgICAgImltcGFjdCI6IGltcGFjdCwKICAgICAgICAgICAgICAgICJhY3R1YWwiOiBzdHIoYWN0dWFsKS5zdHJpcCgpIGlmIGFjdHVhbCBpcyBub3QgTm9uZSBlbHNlICIiLAogICAgICAgICAgICAgICAgImNvbnNlbnN1cyI6IHN0cihjb25zZW5zdXMpLnN0cmlwKCkgaWYgY29uc2Vuc3VzIGlzIG5vdCBOb25lIGVsc2UgIiIsCiAgICAgICAgICAgICAgICAicHJldmlvdXMiOiBzdHIoZXZbInByZXZpb3VzIl0pLnN0cmlwKCkgaWYgZXYuZ2V0KCJwcmV2aW91cyIpIGlzIG5vdCBOb25lIGVsc2UgIiIsCiAgICAgICAgICAgICAgICAidW5pdCI6IGV2LmdldCgidW5pdCIpIG9yICIiLAogICAgICAgICAgICAgICAgImN1cnJlbmN5IjogZXYuZ2V0KCJjdXJyZW5jeUNvZGUiKSBvciAiIiwKICAgICAgICAgICAgICAgICJiZXR0ZXIiOiBpc19iZXR0ZXIgaXMgVHJ1ZSwKICAgICAgICAgICAgICAgICJ3b3JzZSI6IGlzX2JldHRlciBpcyBGYWxzZSBhbmQgYWN0dWFsIGlzIG5vdCBOb25lIGFuZCBjb25zZW5zdXMgaXMgbm90IE5vbmUsCiAgICAgICAgICAgIH0pCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludChmIldhcm5pbmc6IHNraXBwaW5nIGV2ZW50IGR1ZSB0byBlcnJvcjoge2V9IiwgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgICAgICBjb250aW51ZQogICAgcmV0dXJuIG91dAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBldmVudHMgPSBzY3JhcGUoKQogICAgb3MubWFrZWRpcnMoRE9DU19ESVIsIGV4aXN0X29rPVRydWUpCiAgICB3aXRoIG9wZW4oT1VUUFVULCAidyIpIGFzIGY6CiAgICAgICAganNvbi5kdW1wKGV2ZW50cywgZiwgaW5kZW50PTIpCiAgICBwcmludChmIldyb3RlIHtsZW4oZXZlbnRzKX0gZXZlbnRzIHRvIHtPVVRQVVR9IikK
+import json
+import os
+import sys
+import urllib.request
+from datetime import datetime, timedelta, timezone
+from playwright.sync_api import sync_playwright
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DOCS_DIR = os.path.join(ROOT, "docs")
+OUTPUT = os.path.join(DOCS_DIR, "calendar.json")
+
+
+def scrape():
+    with sync_playwright() as pw:
+        browser = pw.chromium.launch(headless=True)
+        ctx = browser.new_context(
+            viewport={"width": 1280, "height": 900},
+            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+        )
+        page = ctx.new_page()
+
+        print("Loading FXStreet for auth cookies...")
+        page.goto("https://www.fxstreet.com/economic-calendar", wait_until="domcontentloaded", timeout=60000)
+        page.wait_for_timeout(10000)
+
+        # Extract cookies from the browser context for use in Python.
+        # This avoids CORS issues with page.evaluate(fetch()).
+        cookies = ctx.cookies()
+        cookie_header = "; ".join([f"{c['name']}={c['value']}" for c in cookies])
+        print(f"Got {len(cookies)} cookies from browser context.")
+
+        browser.close()
+
+    # Fetch the API from Python (no CORS restrictions).
+    now = datetime.now(timezone.utc)
+    start = (now - timedelta(days=14)).strftime("%Y-%m-%dT00:00:00Z")
+    end = (now + timedelta(days=10)).strftime("%Y-%m-%dT23:59:59Z")
+    api_url = (
+        f"https://calendar-api.fxsstatic.com/en/api/v2/eventDates/{start}/{end}"
+        f"?&volatilities=NONE&volatilities=LOW&volatilities=MEDIUM&volatilities=HIGH"
+    )
+
+    print(f"Fetching 3-week range via Python: {api_url[:100]}...")
+    req = urllib.request.Request(api_url, headers={
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+        "Cookie": cookie_header,
+        "Accept": "application/json",
+        "Referer": "https://www.fxstreet.com/economic-calendar",
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=60) as res:
+            print(f"API status: {res.status}")
+            events = json.loads(res.read())
+    except urllib.error.HTTPError as e:
+        print(f"API HTTP error: {e.code} {e.reason}")
+        try:
+            body = e.read().decode('utf-8', errors='ignore')[:500]
+            print(f"Response body: {body}")
+        except:
+            pass
+        raise SystemExit(f"Aborting: API returned HTTP {e.code}.")
+    except Exception as e:
+        raise SystemExit(f"Aborting: fetch failed: {type(e).__name__}: {e}")
+
+    # Validate the response before trusting it — a bad/empty fetch must not
+    # be allowed to overwrite a good calendar.json.
+    if not isinstance(events, list):
+        raise SystemExit(f"Aborting: API returned {type(events).__name__}, expected a list.")
+    if len(events) == 0:
+        raise SystemExit("Aborting: API returned an empty list; keeping existing calendar.json.")
+
+    print(f"Fetched {len(events)} events")
+    return normalize(events)
+
+
+def normalize(raw):
+    out = []
+    vol_map = {"high": "High", "medium": "Medium", "low": "Low", "none": "Low"}
+    for ev in raw:
+        try:
+            date_utc = ev.get("dateUtc") or ""
+            vol = ev.get("volatility") or ""
+            impact = vol_map.get(str(vol).strip().lower(), "Low") if vol else "Low"
+            is_better = ev.get("isBetterThanExpected")
+            actual = ev.get("actual")
+            consensus = ev.get("consensus")
+            name = (ev.get("name") or "").strip()
+            if not name:
+                continue
+            out.append({
+                "id": ev.get("id") or "",
+                "name": name,
+                "country": (ev.get("countryCode") or "").strip(),
+                "date_utc": date_utc,
+                "impact": impact,
+                "actual": str(actual).strip() if actual is not None else "",
+                "consensus": str(consensus).strip() if consensus is not None else "",
+                "previous": str(ev["previous"]).strip() if ev.get("previous") is not None else "",
+                "unit": ev.get("unit") or "",
+                "currency": ev.get("currencyCode") or "",
+                "better": is_better is True,
+                "worse": is_better is False and actual is not None and consensus is not None,
+            })
+        except Exception as e:
+            print(f"Warning: skipping event due to error: {e}", file=sys.stderr)
+            continue
+    return out
+
+
+if __name__ == "__main__":
+    events = scrape()
+    os.makedirs(DOCS_DIR, exist_ok=True)
+    with open(OUTPUT, "w") as f:
+        json.dump(events, f, indent=2)
+    print(f"Wrote {len(events)} events to {OUTPUT}")
