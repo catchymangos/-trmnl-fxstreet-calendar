@@ -1214,8 +1214,15 @@
     "week": "2026-W41"
   },
   "2026-W42": {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "rows": {
+      "AU": {
+        "driver": "Employment Change s.a.",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -1.0,
+        "weight": 9.8
+      },
       "CA": {
         "driver": "Net Change in Employment",
         "driver_dir": -1,
@@ -1223,45 +1230,49 @@
         "tone": -1.0,
         "weight": 3.0
       },
-      "DE": {
-        "driver": "Trade Balance s.a.",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 1.8
+      "CN": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": -1,
+        "n": 7,
+        "tone": -0.034,
+        "weight": 14.5
       },
-      "MX": {
-        "driver": "Headline Inflation",
+      "EMU": {
+        "driver": "Industrial Production s.a. (MoM)",
         "driver_dir": -1,
         "n": 1,
         "tone": -1.0,
-        "weight": 0.8
-      },
-      "UK": {
-        "driver": "BRC Like-For-Like Retail Sales (YoY)",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
         "weight": 1.8
       },
+      "UK": {
+        "driver": "Gross Domestic Product (MoM)",
+        "driver_dir": 1,
+        "n": 4,
+        "tone": 1.0,
+        "weight": 7.4
+      },
       "US": {
-        "driver": "Michigan Consumer Sentiment Index",
-        "driver_dir": -1,
-        "n": 2,
-        "tone": -0.2,
-        "weight": 2.0
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 13,
+        "tone": 0.865,
+        "weight": 29.7
       }
     },
     "trends": {
+      "AU": {
+        "dir": -1,
+        "streak": 1
+      },
       "CA": {
         "dir": -1,
         "streak": 2
       },
-      "DE": {
-        "dir": 1,
-        "streak": 5
+      "CN": {
+        "dir": 0,
+        "streak": 0
       },
-      "MX": {
+      "EMU": {
         "dir": -1,
         "streak": 2
       },
@@ -1270,8 +1281,8 @@
         "streak": 1
       },
       "US": {
-        "dir": -1,
-        "streak": 3
+        "dir": 1,
+        "streak": 1
       }
     },
     "week": "2026-W42"
