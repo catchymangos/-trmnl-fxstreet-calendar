@@ -1214,7 +1214,7 @@
     "week": "2026-W41"
   },
   "2026-W42": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "rows": {
       "AU": {
         "driver": "Employment Change s.a.",
@@ -1222,13 +1222,6 @@
         "n": 3,
         "tone": -1.0,
         "weight": 9.8
-      },
-      "CA": {
-        "driver": "Net Change in Employment",
-        "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 3.0
       },
       "CN": {
         "driver": "Consumer Price Index (YoY)",
@@ -1254,19 +1247,15 @@
       "US": {
         "driver": "Consumer Price Index (YoY)",
         "driver_dir": 1,
-        "n": 13,
-        "tone": 0.865,
-        "weight": 29.7
+        "n": 12,
+        "tone": 0.944,
+        "weight": 28.5
       }
     },
     "trends": {
       "AU": {
         "dir": -1,
         "streak": 1
-      },
-      "CA": {
-        "dir": -1,
-        "streak": 2
       },
       "CN": {
         "dir": 0,

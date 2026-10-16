@@ -2427,15 +2427,6 @@
     "unit": "%",
     "worse": true
   },
-  "EMU|Inflation|2026-07-17": {
-    "actual": "-0.1",
-    "consensus": "-0.1",
-    "country": "EMU",
-    "date": "2026-07-17",
-    "indicator": "Inflation",
-    "previous": "-0.1",
-    "unit": "%"
-  },
   "EMU|Inflation|2026-07-31": {
     "actual": "0",
     "better": true,
@@ -4042,6 +4033,17 @@
     "unit": "",
     "worse": false
   },
+  "NZ|Business NZ PMI|2026-10-15": {
+    "actual": "56.5",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-10-15",
+    "indicator": "Business NZ PMI",
+    "previous": "53.1",
+    "unit": "",
+    "worse": false
+  },
   "NZ|Business NZ PSI|2026-08-16": {
     "actual": "50.6",
     "better": false,
@@ -5278,17 +5280,6 @@
     "unit": "%",
     "worse": true
   },
-  "US|Building Permits|2026-07-17": {
-    "actual": "1.367",
-    "better": false,
-    "consensus": "1.4",
-    "country": "US",
-    "date": "2026-07-17",
-    "indicator": "Building Permits",
-    "previous": "1.413",
-    "unit": "",
-    "worse": true
-  },
   "US|Building Permits|2026-08-18": {
     "actual": "1.443",
     "better": true,
@@ -5751,17 +5742,6 @@
     "unit": "%",
     "worse": false
   },
-  "US|Housing Starts|2026-07-17": {
-    "actual": "1.427",
-    "better": true,
-    "consensus": "1.31",
-    "country": "US",
-    "date": "2026-07-17",
-    "indicator": "Housing Starts",
-    "previous": "1.177",
-    "unit": "",
-    "worse": false
-  },
   "US|Housing Starts|2026-08-18": {
     "actual": "1.239",
     "better": false,
@@ -5981,17 +5961,6 @@
     "previous": "72.6",
     "unit": "",
     "worse": false
-  },
-  "US|Industrial Production|2026-07-17": {
-    "actual": "0.1",
-    "better": false,
-    "consensus": "0.2",
-    "country": "US",
-    "date": "2026-07-17",
-    "indicator": "Industrial Production",
-    "previous": "0.1",
-    "unit": "%",
-    "worse": true
   },
   "US|Industrial Production|2026-08-18": {
     "actual": "0.2",
@@ -6312,15 +6281,6 @@
     "unit": "",
     "worse": true
   },
-  "US|Michigan Consumer Expectations Index|2026-07-17": {
-    "actual": "54",
-    "consensus": "",
-    "country": "US",
-    "date": "2026-07-17",
-    "indicator": "Michigan Consumer Expectations Index",
-    "previous": "50.7",
-    "unit": ""
-  },
   "US|Michigan Consumer Expectations Index|2026-07-31": {
     "actual": "55.4",
     "better": true,
@@ -6384,17 +6344,6 @@
     "date": "2026-10-09",
     "indicator": "Michigan Consumer Expectations Index",
     "previous": "46.3",
-    "unit": "",
-    "worse": false
-  },
-  "US|Michigan Consumer Sentiment Index|2026-07-17": {
-    "actual": "54.4",
-    "better": true,
-    "consensus": "51",
-    "country": "US",
-    "date": "2026-07-17",
-    "indicator": "Michigan Consumer Sentiment Index",
-    "previous": "49.5",
     "unit": "",
     "worse": false
   },
@@ -7135,15 +7084,6 @@
     "unit": "%",
     "worse": true
   },
-  "US|UoM 1-year Consumer Inflation Expectations|2026-07-17": {
-    "actual": "4.2",
-    "consensus": "",
-    "country": "US",
-    "date": "2026-07-17",
-    "indicator": "UoM 1-year Consumer Inflation Expectations",
-    "previous": "4.6",
-    "unit": "%"
-  },
   "US|UoM 1-year Consumer Inflation Expectations|2026-07-31": {
     "actual": "4.2",
     "better": false,
@@ -7209,15 +7149,6 @@
     "previous": "4.6",
     "unit": "%",
     "worse": false
-  },
-  "US|UoM 5-year Consumer Inflation Expectation|2026-07-17": {
-    "actual": "3.3",
-    "consensus": "",
-    "country": "US",
-    "date": "2026-07-17",
-    "indicator": "UoM 5-year Consumer Inflation Expectation",
-    "previous": "3.3",
-    "unit": "%"
   },
   "US|UoM 5-year Consumer Inflation Expectation|2026-07-31": {
     "actual": "3.3",

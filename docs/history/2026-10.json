@@ -604,6 +604,17 @@
     "unit": "",
     "worse": false
   },
+  "NZ|Business NZ PMI|2026-10-15": {
+    "actual": "56.5",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-10-15",
+    "indicator": "Business NZ PMI",
+    "previous": "53.1",
+    "unit": "",
+    "worse": false
+  },
   "NZ|NZIER Business Confidence|2026-10-05": {
     "actual": "43",
     "better": false,
