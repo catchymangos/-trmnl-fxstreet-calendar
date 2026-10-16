@@ -6468,6 +6468,17 @@
     "unit": "$",
     "worse": false
   },
+  "US|Monthly Budget Statement|2026-10-16": {
+    "actual": "-27.0",
+    "better": true,
+    "consensus": "-29.0",
+    "country": "US",
+    "date": "2026-10-16",
+    "indicator": "Monthly Budget Statement",
+    "previous": "-166.8",
+    "unit": "$",
+    "worse": false
+  },
   "US|NY Empire State Manufacturing Index|2026-08-17": {
     "actual": "20.6",
     "better": true,
