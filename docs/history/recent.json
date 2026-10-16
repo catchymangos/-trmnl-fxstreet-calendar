@@ -2482,6 +2482,17 @@
     "unit": "%",
     "worse": false
   },
+  "EMU|Inflation|2026-10-16": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-10-16",
+    "indicator": "Inflation",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
   "EMU|Manufacturing PMI|2026-07-24": {
     "actual": "52",
     "better": true,
@@ -3359,6 +3370,17 @@
     "date": "2026-09-30",
     "indicator": "CPI",
     "previous": "3.2",
+    "unit": "%",
+    "worse": false
+  },
+  "IT|CPI|2026-10-16": {
+    "actual": "4.2",
+    "better": true,
+    "consensus": "4.1",
+    "country": "IT",
+    "date": "2026-10-16",
+    "indicator": "CPI",
+    "previous": "4.1",
     "unit": "%",
     "worse": false
   },

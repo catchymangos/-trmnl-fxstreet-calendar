@@ -1237,6 +1237,13 @@
         "tone": -1.0,
         "weight": 1.8
       },
+      "IT": {
+        "driver": "Consumer Price Index (EU Norm) (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 3.0
+      },
       "UK": {
         "driver": "Gross Domestic Product (MoM)",
         "driver_dir": 1,
@@ -1264,6 +1271,10 @@
       "EMU": {
         "dir": -1,
         "streak": 2
+      },
+      "IT": {
+        "dir": 1,
+        "streak": 1
       },
       "UK": {
         "dir": 1,
