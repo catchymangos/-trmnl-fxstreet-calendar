@@ -120,6 +120,17 @@
     "unit": "%",
     "worse": false
   },
+  "CA|CPI|2026-10-19": {
+    "actual": "0.0",
+    "better": false,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-10-19",
+    "indicator": "CPI",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": true
+  },
   "CA|Employment Change|2026-10-09": {
     "actual": "-68.3",
     "better": false,

@@ -1297,6 +1297,13 @@
         "tone": -1.0,
         "weight": 9.8
       },
+      "CA": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 7.5
+      },
       "CN": {
         "driver": "Consumer Price Index (YoY)",
         "driver_dir": -1,
@@ -1337,6 +1344,10 @@
       "AU": {
         "dir": -1,
         "streak": 2
+      },
+      "CA": {
+        "dir": -1,
+        "streak": 1
       },
       "CN": {
         "dir": 1,

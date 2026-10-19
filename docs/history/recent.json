@@ -629,6 +629,17 @@
     "unit": "%",
     "worse": true
   },
+  "CA|CPI|2026-10-19": {
+    "actual": "0.0",
+    "better": false,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-10-19",
+    "indicator": "CPI",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": true
+  },
   "CA|Current Account|2026-08-27": {
     "actual": "8.84",
     "better": true,
