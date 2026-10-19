@@ -607,17 +607,6 @@
     "unit": "%",
     "worse": false
   },
-  "CA|CPI|2026-07-20": {
-    "actual": "2.8",
-    "better": false,
-    "consensus": "2.9",
-    "country": "CA",
-    "date": "2026-07-20",
-    "indicator": "CPI",
-    "previous": "3.2",
-    "unit": "%",
-    "worse": true
-  },
   "CA|CPI|2026-08-17": {
     "actual": "0.2",
     "better": true,
@@ -1124,6 +1113,17 @@
     "unit": "%",
     "worse": false
   },
+  "CN|GDP|2026-10-19": {
+    "actual": "1.2",
+    "better": true,
+    "consensus": "1.1",
+    "country": "CN",
+    "date": "2026-10-19",
+    "indicator": "GDP",
+    "previous": "0.9",
+    "unit": "%",
+    "worse": false
+  },
   "CN|Imports|2026-08-07": {
     "actual": "27.5",
     "better": false,
@@ -1176,6 +1176,17 @@
     "date": "2026-09-15",
     "indicator": "Industrial Production",
     "previous": "4.5",
+    "unit": "%",
+    "worse": false
+  },
+  "CN|Industrial Production|2026-10-19": {
+    "actual": "5.5",
+    "better": true,
+    "consensus": "5.4",
+    "country": "CN",
+    "date": "2026-10-19",
+    "indicator": "Industrial Production",
+    "previous": "5.2",
     "unit": "%",
     "worse": false
   },
@@ -1267,15 +1278,6 @@
     "unit": "%",
     "worse": false
   },
-  "CN|Rate Decision|2026-07-20": {
-    "actual": "3",
-    "consensus": "3",
-    "country": "CN",
-    "date": "2026-07-20",
-    "indicator": "Rate Decision",
-    "previous": "3",
-    "unit": "%"
-  },
   "CN|Rate Decision|2026-08-20": {
     "actual": "3",
     "better": false,
@@ -1319,6 +1321,17 @@
     "previous": "0.6",
     "unit": "%",
     "worse": true
+  },
+  "CN|Retail Sales|2026-10-19": {
+    "actual": "1.1",
+    "better": true,
+    "consensus": "0.5",
+    "country": "CN",
+    "date": "2026-10-19",
+    "indicator": "Retail Sales",
+    "previous": "0.4",
+    "unit": "%",
+    "worse": false
   },
   "CN|Services PMI|2026-08-05": {
     "actual": "50.4",
@@ -1836,17 +1849,6 @@
     "previous": "53.8",
     "unit": "",
     "worse": false
-  },
-  "DE|PPI|2026-07-20": {
-    "actual": "1.8",
-    "better": false,
-    "consensus": "",
-    "country": "DE",
-    "date": "2026-07-20",
-    "indicator": "PPI",
-    "previous": "2.2",
-    "unit": "%",
-    "worse": true
   },
   "DE|PPI|2026-08-20": {
     "actual": "1.1",
@@ -4088,15 +4090,15 @@
     "unit": "",
     "worse": false
   },
-  "NZ|CPI|2026-07-20": {
-    "actual": "4.1",
-    "better": true,
-    "consensus": "4",
+  "NZ|Business NZ PSI|2026-10-18": {
+    "actual": "50.9",
+    "better": false,
+    "consensus": "",
     "country": "NZ",
-    "date": "2026-07-20",
-    "indicator": "CPI",
-    "previous": "3.1",
-    "unit": "%",
+    "date": "2026-10-18",
+    "indicator": "Business NZ PSI",
+    "previous": "51.2",
+    "unit": "",
     "worse": false
   },
   "NZ|Employment Change|2026-08-04": {
@@ -4132,6 +4134,17 @@
     "unit": "$",
     "worse": false
   },
+  "NZ|Exports|2026-10-18": {
+    "actual": "6.47",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-10-18",
+    "indicator": "Exports",
+    "previous": "6.66",
+    "unit": "$",
+    "worse": false
+  },
   "NZ|GDP|2026-09-16": {
     "actual": "0.2",
     "better": true,
@@ -4162,6 +4175,17 @@
     "date": "2026-09-17",
     "indicator": "Imports",
     "previous": "9.34",
+    "unit": "$",
+    "worse": false
+  },
+  "NZ|Imports|2026-10-18": {
+    "actual": "8.44",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-10-18",
+    "indicator": "Imports",
+    "previous": "8.0",
     "unit": "$",
     "worse": false
   },
@@ -4250,6 +4274,17 @@
     "date": "2026-09-17",
     "indicator": "Trade Balance",
     "previous": "-5.23",
+    "unit": "$",
+    "worse": false
+  },
+  "NZ|Trade Balance|2026-10-18": {
+    "actual": "-6.18",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-10-18",
+    "indicator": "Trade Balance",
+    "previous": "-5.44",
     "unit": "$",
     "worse": false
   },

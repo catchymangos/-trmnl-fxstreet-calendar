@@ -1286,5 +1286,79 @@
       }
     },
     "week": "2026-W42"
+  },
+  "2026-W43": {
+    "date": "2026-10-19",
+    "rows": {
+      "AU": {
+        "driver": "Employment Change s.a.",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -1.0,
+        "weight": 9.8
+      },
+      "CN": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": -1,
+        "n": 11,
+        "tone": 0.481,
+        "weight": 28.9
+      },
+      "EMU": {
+        "driver": "Industrial Production s.a. (MoM)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 1.8
+      },
+      "IT": {
+        "driver": "Consumer Price Index (EU Norm) (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 3.0
+      },
+      "UK": {
+        "driver": "Gross Domestic Product (MoM)",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 1.0,
+        "weight": 5.6
+      },
+      "US": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 14,
+        "tone": 0.949,
+        "weight": 31.1
+      }
+    },
+    "trends": {
+      "AU": {
+        "dir": -1,
+        "streak": 2
+      },
+      "CN": {
+        "dir": 1,
+        "streak": 1
+      },
+      "EMU": {
+        "dir": -1,
+        "streak": 3
+      },
+      "IT": {
+        "dir": 1,
+        "streak": 2
+      },
+      "UK": {
+        "dir": 1,
+        "streak": 2
+      },
+      "US": {
+        "dir": 1,
+        "streak": 2
+      }
+    },
+    "week": "2026-W43"
   }
 }
