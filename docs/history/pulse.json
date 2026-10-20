@@ -1342,9 +1342,9 @@
       "US": {
         "driver": "Consumer Price Index (YoY)",
         "driver_dir": 1,
-        "n": 14,
-        "tone": 0.949,
-        "weight": 31.1
+        "n": 17,
+        "tone": 0.857,
+        "weight": 33.5
       }
     },
     "trends": {
