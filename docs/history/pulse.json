@@ -1311,12 +1311,19 @@
         "tone": 0.481,
         "weight": 28.9
       },
+      "DE": {
+        "driver": "Producer Price Index (MoM)",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 0.529,
+        "weight": 3.4
+      },
       "EMU": {
         "driver": "Industrial Production s.a. (MoM)",
         "driver_dir": -1,
-        "n": 1,
+        "n": 2,
         "tone": -1.0,
-        "weight": 1.8
+        "weight": 2.6
       },
       "IT": {
         "driver": "Consumer Price Index (EU Norm) (YoY)",
@@ -1326,11 +1333,11 @@
         "weight": 3.0
       },
       "UK": {
-        "driver": "Gross Domestic Product (MoM)",
+        "driver": "ILO Unemployment Rate (3M)",
         "driver_dir": 1,
-        "n": 3,
-        "tone": 1.0,
-        "weight": 5.6
+        "n": 7,
+        "tone": 0.597,
+        "weight": 14.9
       },
       "US": {
         "driver": "Consumer Price Index (YoY)",
@@ -1350,6 +1357,10 @@
         "streak": 1
       },
       "CN": {
+        "dir": 1,
+        "streak": 1
+      },
+      "DE": {
         "dir": 1,
         "streak": 1
       },

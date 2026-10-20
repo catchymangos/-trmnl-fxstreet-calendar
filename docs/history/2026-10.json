@@ -285,6 +285,17 @@
     "unit": "%",
     "worse": false
   },
+  "CN|Rate Decision|2026-10-20": {
+    "actual": "3.0",
+    "better": false,
+    "consensus": "3.0",
+    "country": "CN",
+    "date": "2026-10-20",
+    "indicator": "Rate Decision",
+    "previous": "3.0",
+    "unit": "%",
+    "worse": false
+  },
   "CN|Retail Sales|2026-10-19": {
     "actual": "1.1",
     "better": true,
@@ -373,6 +384,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|PPI|2026-10-20": {
+    "actual": "1.9",
+    "better": true,
+    "consensus": "0.8",
+    "country": "DE",
+    "date": "2026-10-20",
+    "indicator": "PPI",
+    "previous": "1.1",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Services PMI|2026-10-05": {
     "actual": "52.9",
     "better": false,
@@ -394,6 +416,28 @@
     "previous": "21.3",
     "unit": "\u20ac",
     "worse": false
+  },
+  "DE|ZEW Current Conditions|2026-10-20": {
+    "actual": "-35.9",
+    "better": true,
+    "consensus": "-45.0",
+    "country": "DE",
+    "date": "2026-10-20",
+    "indicator": "ZEW Current Conditions",
+    "previous": "-47.1",
+    "unit": "",
+    "worse": false
+  },
+  "DE|ZEW Sentiment|2026-10-20": {
+    "actual": "28.1",
+    "better": false,
+    "consensus": "32.0",
+    "country": "DE",
+    "date": "2026-10-20",
+    "indicator": "ZEW Sentiment",
+    "previous": "34.7",
+    "unit": "",
+    "worse": true
   },
   "EMU|HCOB Composite PMI|2026-10-05": {
     "actual": "53.1",
@@ -482,6 +526,17 @@
     "previous": "6.4",
     "unit": "%",
     "worse": false
+  },
+  "EMU|ZEW Sentiment|2026-10-20": {
+    "actual": "18.5",
+    "better": false,
+    "consensus": "24.2",
+    "country": "EMU",
+    "date": "2026-10-20",
+    "indicator": "ZEW Sentiment",
+    "previous": "25.8",
+    "unit": "",
+    "worse": true
   },
   "ES|Inflation|2026-10-14": {
     "actual": "5.0",
@@ -747,6 +802,39 @@
     "unit": "%",
     "worse": true
   },
+  "UK|Claimant Count Change|2026-10-20": {
+    "actual": "30.3",
+    "better": false,
+    "consensus": "19.4",
+    "country": "UK",
+    "date": "2026-10-20",
+    "indicator": "Claimant Count Change",
+    "previous": "27.8",
+    "unit": "",
+    "worse": true
+  },
+  "UK|Claimant Count Rate|2026-10-20": {
+    "actual": "4.4",
+    "better": false,
+    "consensus": "",
+    "country": "UK",
+    "date": "2026-10-20",
+    "indicator": "Claimant Count Rate",
+    "previous": "4.4",
+    "unit": "%",
+    "worse": false
+  },
+  "UK|Employment Change|2026-10-20": {
+    "actual": "102.0",
+    "better": false,
+    "consensus": "",
+    "country": "UK",
+    "date": "2026-10-20",
+    "indicator": "Employment Change",
+    "previous": "67.0",
+    "unit": "",
+    "worse": false
+  },
   "UK|GDP|2026-10-15": {
     "actual": "0.1",
     "better": true,
@@ -788,6 +876,28 @@
     "date": "2026-10-12",
     "indicator": "Retail Sales",
     "previous": "0.5",
+    "unit": "%",
+    "worse": false
+  },
+  "UK|Unemployment Rate|2026-10-20": {
+    "actual": "4.7",
+    "better": true,
+    "consensus": "4.9",
+    "country": "UK",
+    "date": "2026-10-20",
+    "indicator": "Unemployment Rate",
+    "previous": "4.9",
+    "unit": "%",
+    "worse": false
+  },
+  "UK|Wage Growth|2026-10-20": {
+    "actual": "3.7",
+    "better": true,
+    "consensus": "3.6",
+    "country": "UK",
+    "date": "2026-10-20",
+    "indicator": "Wage Growth",
+    "previous": "3.5",
     "unit": "%",
     "worse": false
   },
