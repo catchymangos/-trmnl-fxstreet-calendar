@@ -2048,17 +2048,6 @@
     "unit": "%",
     "worse": false
   },
-  "DE|ZEW Current Conditions|2026-07-21": {
-    "actual": "-77.6",
-    "better": true,
-    "consensus": "-77.8",
-    "country": "DE",
-    "date": "2026-07-21",
-    "indicator": "ZEW Current Conditions",
-    "previous": "-81",
-    "unit": "",
-    "worse": false
-  },
   "DE|ZEW Current Conditions|2026-08-18": {
     "actual": "-61.1",
     "better": true,
@@ -2078,17 +2067,6 @@
     "date": "2026-09-15",
     "indicator": "ZEW Current Conditions",
     "previous": "-61.1",
-    "unit": "",
-    "worse": false
-  },
-  "DE|ZEW Sentiment|2026-07-21": {
-    "actual": "26.3",
-    "better": true,
-    "consensus": "18",
-    "country": "DE",
-    "date": "2026-07-21",
-    "indicator": "ZEW Sentiment",
-    "previous": "10.5",
     "unit": "",
     "worse": false
   },
@@ -2702,17 +2680,6 @@
     "indicator": "Unemployment Rate",
     "previous": "6.4",
     "unit": "%",
-    "worse": false
-  },
-  "EMU|ZEW Sentiment|2026-07-21": {
-    "actual": "23.4",
-    "better": true,
-    "consensus": "11.2",
-    "country": "EMU",
-    "date": "2026-07-21",
-    "indicator": "ZEW Sentiment",
-    "previous": "9.5",
-    "unit": "",
     "worse": false
   },
   "EMU|ZEW Sentiment|2026-08-18": {
@@ -3551,17 +3518,6 @@
     "unit": "\u00a5",
     "worse": false
   },
-  "JP|Exports|2026-07-21": {
-    "actual": "19.3",
-    "better": true,
-    "consensus": "18.6",
-    "country": "JP",
-    "date": "2026-07-21",
-    "indicator": "Exports",
-    "previous": "17",
-    "unit": "%",
-    "worse": false
-  },
   "JP|Exports|2026-08-19": {
     "actual": "23.2",
     "better": true,
@@ -3603,17 +3559,6 @@
     "date": "2026-09-07",
     "indicator": "GDP",
     "previous": "0.3",
-    "unit": "%",
-    "worse": false
-  },
-  "JP|Imports|2026-07-21": {
-    "actual": "25.4",
-    "better": true,
-    "consensus": "21",
-    "country": "JP",
-    "date": "2026-07-21",
-    "indicator": "Imports",
-    "previous": "12.5",
     "unit": "%",
     "worse": false
   },
@@ -3802,17 +3747,6 @@
     "indicator": "Tankan Survey",
     "previous": "11.5",
     "unit": "%",
-    "worse": true
-  },
-  "JP|Trade Balance|2026-07-21": {
-    "actual": "-406.9",
-    "better": false,
-    "consensus": "-120",
-    "country": "JP",
-    "date": "2026-07-21",
-    "indicator": "Trade Balance",
-    "previous": "-378.7",
-    "unit": "\u00a5",
     "worse": true
   },
   "JP|Trade Balance|2026-08-19": {
@@ -4517,17 +4451,6 @@
     "unit": "%",
     "worse": false
   },
-  "UK|Claimant Count Change|2026-07-21": {
-    "actual": "6.7",
-    "better": true,
-    "consensus": "28.3",
-    "country": "UK",
-    "date": "2026-07-21",
-    "indicator": "Claimant Count Change",
-    "previous": "31.2",
-    "unit": "",
-    "worse": false
-  },
   "UK|Claimant Count Change|2026-08-18": {
     "actual": "-11",
     "better": true,
@@ -4549,15 +4472,6 @@
     "previous": "-11",
     "unit": "",
     "worse": true
-  },
-  "UK|Claimant Count Rate|2026-07-21": {
-    "actual": "4.4",
-    "consensus": "",
-    "country": "UK",
-    "date": "2026-07-21",
-    "indicator": "Claimant Count Rate",
-    "previous": "4.5",
-    "unit": "%"
   },
   "UK|Claimant Count Rate|2026-08-18": {
     "actual": "4.3",
@@ -4655,15 +4569,6 @@
     "previous": "0.6",
     "unit": "%",
     "worse": false
-  },
-  "UK|Employment Change|2026-07-21": {
-    "actual": "147",
-    "consensus": "",
-    "country": "UK",
-    "date": "2026-07-21",
-    "indicator": "Employment Change",
-    "previous": "100",
-    "unit": ""
   },
   "UK|Employment Change|2026-08-18": {
     "actual": "83",
@@ -5081,17 +4986,6 @@
     "unit": "",
     "worse": true
   },
-  "UK|Unemployment Rate|2026-07-21": {
-    "actual": "4.9",
-    "better": true,
-    "consensus": "5",
-    "country": "UK",
-    "date": "2026-07-21",
-    "indicator": "Unemployment Rate",
-    "previous": "4.9",
-    "unit": "%",
-    "worse": false
-  },
   "UK|Unemployment Rate|2026-08-18": {
     "actual": "4.9",
     "better": false,
@@ -5114,17 +5008,6 @@
     "unit": "%",
     "worse": false
   },
-  "UK|Wage Growth|2026-07-21": {
-    "actual": "4.3",
-    "better": false,
-    "consensus": "4.5",
-    "country": "UK",
-    "date": "2026-07-21",
-    "indicator": "Wage Growth",
-    "previous": "4.4",
-    "unit": "%",
-    "worse": true
-  },
   "UK|Wage Growth|2026-08-18": {
     "actual": "3.5",
     "better": true,
@@ -5146,15 +5029,6 @@
     "previous": "3.5",
     "unit": "%",
     "worse": false
-  },
-  "US|ADP Jobs|2026-07-21": {
-    "actual": "16.5",
-    "consensus": "",
-    "country": "US",
-    "date": "2026-07-21",
-    "indicator": "ADP Jobs",
-    "previous": "19.75",
-    "unit": ""
   },
   "US|ADP Jobs|2026-07-28": {
     "actual": "15",
