@@ -1288,7 +1288,7 @@
     "week": "2026-W42"
   },
   "2026-W43": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "rows": {
       "AU": {
         "driver": "Employment Change s.a.",
@@ -1305,11 +1305,11 @@
         "weight": 7.5
       },
       "CN": {
-        "driver": "Consumer Price Index (YoY)",
-        "driver_dir": -1,
-        "n": 11,
-        "tone": 0.481,
-        "weight": 28.9
+        "driver": "Gross Domestic Product (QoQ)",
+        "driver_dir": 1,
+        "n": 4,
+        "tone": 1.0,
+        "weight": 14.4
       },
       "DE": {
         "driver": "Producer Price Index (MoM)",
@@ -1332,6 +1332,13 @@
         "tone": 1.0,
         "weight": 3.0
       },
+      "JP": {
+        "driver": "Merchandise Trade Balance Total",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -1.0,
+        "weight": 3.4
+      },
       "UK": {
         "driver": "ILO Unemployment Rate (3M)",
         "driver_dir": 1,
@@ -1340,11 +1347,11 @@
         "weight": 14.9
       },
       "US": {
-        "driver": "Consumer Price Index (YoY)",
+        "driver": "Producer Price Index ex Food & Energy (YoY)",
         "driver_dir": 1,
-        "n": 17,
-        "tone": 0.857,
-        "weight": 33.5
+        "n": 14,
+        "tone": 0.76,
+        "weight": 20.0
       }
     },
     "trends": {
@@ -1371,6 +1378,10 @@
       "IT": {
         "dir": 1,
         "streak": 2
+      },
+      "JP": {
+        "dir": -1,
+        "streak": 1
       },
       "UK": {
         "dir": 1,

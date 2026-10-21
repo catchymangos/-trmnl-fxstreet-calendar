@@ -681,6 +681,28 @@
     "unit": "\u00a5",
     "worse": false
   },
+  "JP|Exports|2026-10-20": {
+    "actual": "16.7",
+    "better": false,
+    "consensus": "20.1",
+    "country": "JP",
+    "date": "2026-10-20",
+    "indicator": "Exports",
+    "previous": "19.3",
+    "unit": "%",
+    "worse": true
+  },
+  "JP|Imports|2026-10-20": {
+    "actual": "18.9",
+    "better": false,
+    "consensus": "19.6",
+    "country": "JP",
+    "date": "2026-10-20",
+    "indicator": "Imports",
+    "previous": "28.0",
+    "unit": "%",
+    "worse": true
+  },
   "JP|Labor Cash Earnings|2026-10-06": {
     "actual": "3.8",
     "better": true,
@@ -691,6 +713,17 @@
     "previous": "4.7",
     "unit": "%",
     "worse": false
+  },
+  "JP|Trade Balance|2026-10-20": {
+    "actual": "-704.0",
+    "better": false,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-10-20",
+    "indicator": "Trade Balance",
+    "previous": "-840.6",
+    "unit": "\u00a5",
+    "worse": true
   },
   "JP|Unemployment Rate|2026-10-01": {
     "actual": "2.5",
