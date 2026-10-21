@@ -1342,9 +1342,9 @@
       "UK": {
         "driver": "ILO Unemployment Rate (3M)",
         "driver_dir": 1,
-        "n": 7,
-        "tone": 0.597,
-        "weight": 14.9
+        "n": 11,
+        "tone": 0.801,
+        "weight": 30.2
       },
       "US": {
         "driver": "Producer Price Index ex Food & Energy (YoY)",
