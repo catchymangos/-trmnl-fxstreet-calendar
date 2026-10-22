@@ -736,6 +736,17 @@
     "unit": "%",
     "worse": true
   },
+  "KR|Rate Decision|2026-10-22": {
+    "actual": "3.0",
+    "better": false,
+    "consensus": "3.0",
+    "country": "KR",
+    "date": "2026-10-22",
+    "indicator": "Rate Decision",
+    "previous": "3.0",
+    "unit": "%",
+    "worse": false
+  },
   "MX|Headline Inflation|2026-10-08": {
     "actual": "0.42",
     "better": false,
@@ -845,6 +856,17 @@
     "previous": "31.51",
     "unit": "%",
     "worse": true
+  },
+  "TR|Rate Decision|2026-10-22": {
+    "actual": "36.0",
+    "better": false,
+    "consensus": "36.0",
+    "country": "TR",
+    "date": "2026-10-22",
+    "indicator": "Rate Decision",
+    "previous": "37.0",
+    "unit": "%",
+    "worse": false
   },
   "UK|CPI|2026-10-21": {
     "actual": "0.4",
