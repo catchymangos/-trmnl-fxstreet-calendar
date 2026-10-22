@@ -439,6 +439,17 @@
     "unit": "",
     "worse": true
   },
+  "EMU|Consumer Confidence|2026-10-22": {
+    "actual": "-17.9",
+    "better": false,
+    "consensus": "-17.0",
+    "country": "EMU",
+    "date": "2026-10-22",
+    "indicator": "Consumer Confidence",
+    "previous": "-16.5",
+    "unit": "",
+    "worse": true
+  },
   "EMU|HCOB Composite PMI|2026-10-05": {
     "actual": "53.1",
     "better": false,
@@ -1250,6 +1261,17 @@
     "date": "2026-10-15",
     "indicator": "Initial Jobless Claims",
     "previous": "197.0",
+    "unit": "",
+    "worse": false
+  },
+  "US|Initial Jobless Claims|2026-10-22": {
+    "actual": "194.0",
+    "better": true,
+    "consensus": "200.0",
+    "country": "US",
+    "date": "2026-10-22",
+    "indicator": "Initial Jobless Claims",
+    "previous": "199.0",
     "unit": "",
     "worse": false
   },

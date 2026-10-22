@@ -1314,9 +1314,9 @@
       "EMU": {
         "driver": "ZEW Survey \u2013 Economic Sentiment",
         "driver_dir": -1,
-        "n": 1,
+        "n": 2,
         "tone": -1.0,
-        "weight": 0.8
+        "weight": 1.6
       },
       "IT": {
         "driver": "Consumer Price Index (EU Norm) (YoY)",
@@ -1349,9 +1349,9 @@
       "US": {
         "driver": "Industrial Production (MoM)",
         "driver_dir": 1,
-        "n": 5,
-        "tone": 0.36,
-        "weight": 5.0
+        "n": 6,
+        "tone": 0.448,
+        "weight": 5.8
       }
     },
     "trends": {
