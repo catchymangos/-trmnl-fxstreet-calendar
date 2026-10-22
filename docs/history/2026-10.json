@@ -780,6 +780,17 @@
     "unit": "",
     "worse": false
   },
+  "NZ|CPI|2026-10-21": {
+    "actual": "0.7",
+    "better": false,
+    "consensus": "0.8",
+    "country": "NZ",
+    "date": "2026-10-21",
+    "indicator": "CPI",
+    "previous": "1.5",
+    "unit": "%",
+    "worse": true
+  },
   "NZ|Exports|2026-10-18": {
     "actual": "6.47",
     "better": false,

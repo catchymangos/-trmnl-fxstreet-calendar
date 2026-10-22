@@ -131,17 +131,6 @@
     "unit": "%",
     "worse": false
   },
-  "AU|Employment Change|2026-07-23": {
-    "actual": "67",
-    "better": true,
-    "consensus": "66.7",
-    "country": "AU",
-    "date": "2026-07-23",
-    "indicator": "Employment Change",
-    "previous": "66.7",
-    "unit": "%",
-    "worse": false
-  },
   "AU|Employment Change|2026-08-20": {
     "actual": "-15.8",
     "better": false,
@@ -252,15 +241,6 @@
     "unit": "%",
     "worse": false
   },
-  "AU|Manufacturing PMI|2026-07-23": {
-    "actual": "51.7",
-    "consensus": "",
-    "country": "AU",
-    "date": "2026-07-23",
-    "indicator": "Manufacturing PMI",
-    "previous": "51.5",
-    "unit": ""
-  },
   "AU|Manufacturing PMI|2026-08-20": {
     "actual": "52",
     "better": false,
@@ -327,15 +307,6 @@
     "unit": "%",
     "worse": false
   },
-  "AU|S&P Global Composite PMI|2026-07-23": {
-    "actual": "52.6",
-    "consensus": "",
-    "country": "AU",
-    "date": "2026-07-23",
-    "indicator": "S&P Global Composite PMI",
-    "previous": "50.4",
-    "unit": ""
-  },
   "AU|S&P Global Composite PMI|2026-08-04": {
     "actual": "53.2",
     "better": true,
@@ -390,15 +361,6 @@
     "previous": "50.8",
     "unit": "",
     "worse": false
-  },
-  "AU|Services PMI|2026-07-23": {
-    "actual": "53",
-    "consensus": "",
-    "country": "AU",
-    "date": "2026-07-23",
-    "indicator": "Services PMI",
-    "previous": "50.5",
-    "unit": ""
   },
   "AU|Services PMI|2026-08-04": {
     "actual": "53.6",
@@ -520,15 +482,6 @@
     "previous": "1923",
     "unit": "",
     "worse": false
-  },
-  "AU|Unemployment Rate|2026-07-23": {
-    "actual": "4.4",
-    "consensus": "4.4",
-    "country": "AU",
-    "date": "2026-07-23",
-    "indicator": "Unemployment Rate",
-    "previous": "4.4",
-    "unit": "%"
   },
   "AU|Unemployment Rate|2026-08-20": {
     "actual": "4.5",
@@ -826,17 +779,6 @@
     "previous": "2.25",
     "unit": "%",
     "worse": false
-  },
-  "CA|Retail Sales|2026-07-23": {
-    "actual": "1.2",
-    "better": false,
-    "consensus": "1.4",
-    "country": "CA",
-    "date": "2026-07-23",
-    "indicator": "Retail Sales",
-    "previous": "0.1",
-    "unit": "%",
-    "worse": true
   },
   "CA|Retail Sales|2026-08-21": {
     "actual": "0.6",
@@ -2169,17 +2111,6 @@
     "unit": "",
     "worse": false
   },
-  "EMU|Consumer Confidence|2026-07-23": {
-    "actual": "-15.9",
-    "better": true,
-    "consensus": "-16.8",
-    "country": "EMU",
-    "date": "2026-07-23",
-    "indicator": "Consumer Confidence",
-    "previous": "-17.7",
-    "unit": "",
-    "worse": false
-  },
   "EMU|Consumer Confidence|2026-07-30": {
     "actual": "-15.9",
     "better": false,
@@ -2235,15 +2166,6 @@
     "unit": "",
     "worse": false
   },
-  "EMU|ECB Main Refinancing Operations Rate|2026-07-23": {
-    "actual": "2.4",
-    "consensus": "2.4",
-    "country": "EMU",
-    "date": "2026-07-23",
-    "indicator": "ECB Main Refinancing Operations Rate",
-    "previous": "2.4",
-    "unit": "%"
-  },
   "EMU|ECB Main Refinancing Operations Rate|2026-09-10": {
     "actual": "2.65",
     "better": false,
@@ -2254,15 +2176,6 @@
     "previous": "2.4",
     "unit": "%",
     "worse": false
-  },
-  "EMU|ECB Rate On Deposit Facility|2026-07-23": {
-    "actual": "2.25",
-    "consensus": "2.25",
-    "country": "EMU",
-    "date": "2026-07-23",
-    "indicator": "ECB Rate On Deposit Facility",
-    "previous": "2.25",
-    "unit": "%"
   },
   "EMU|ECB Rate On Deposit Facility|2026-09-10": {
     "actual": "2.5",
@@ -3474,17 +3387,6 @@
     "unit": "",
     "worse": false
   },
-  "JP|CPI|2026-07-23": {
-    "actual": "1.7",
-    "better": false,
-    "consensus": "",
-    "country": "JP",
-    "date": "2026-07-23",
-    "indicator": "CPI",
-    "previous": "1.5",
-    "unit": "%",
-    "worse": false
-  },
   "JP|CPI|2026-07-30": {
     "actual": "2",
     "better": true,
@@ -4123,6 +4025,17 @@
     "unit": "",
     "worse": false
   },
+  "NZ|CPI|2026-10-21": {
+    "actual": "0.7",
+    "better": false,
+    "consensus": "0.8",
+    "country": "NZ",
+    "date": "2026-10-21",
+    "indicator": "CPI",
+    "previous": "1.5",
+    "unit": "%",
+    "worse": true
+  },
   "NZ|Employment Change|2026-08-04": {
     "actual": "0.5",
     "better": true,
@@ -4408,15 +4321,6 @@
     "previous": "31.51",
     "unit": "%",
     "worse": true
-  },
-  "TR|Rate Decision|2026-07-23": {
-    "actual": "37",
-    "consensus": "37",
-    "country": "TR",
-    "date": "2026-07-23",
-    "indicator": "Rate Decision",
-    "previous": "37",
-    "unit": "%"
   },
   "TR|Rate Decision|2026-09-10": {
     "actual": "37",
@@ -4746,17 +4650,6 @@
     "indicator": "GDP",
     "previous": "0.4",
     "unit": "%",
-    "worse": false
-  },
-  "UK|GfK Consumer Confidence|2026-07-23": {
-    "actual": "-17",
-    "better": true,
-    "consensus": "-21",
-    "country": "UK",
-    "date": "2026-07-23",
-    "indicator": "GfK Consumer Confidence",
-    "previous": "-23",
-    "unit": "",
     "worse": false
   },
   "UK|GfK Consumer Confidence|2026-08-20": {
@@ -6077,17 +5970,6 @@
     "indicator": "Industrial Production",
     "previous": "0.0",
     "unit": "%",
-    "worse": false
-  },
-  "US|Initial Jobless Claims|2026-07-23": {
-    "actual": "187",
-    "better": true,
-    "consensus": "212",
-    "country": "US",
-    "date": "2026-07-23",
-    "indicator": "Initial Jobless Claims",
-    "previous": "208",
-    "unit": "",
     "worse": false
   },
   "US|Initial Jobless Claims|2026-07-30": {
