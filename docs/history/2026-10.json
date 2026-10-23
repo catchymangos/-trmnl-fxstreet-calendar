@@ -208,6 +208,17 @@
     "unit": "",
     "worse": false
   },
+  "CA|Retail Sales|2026-10-23": {
+    "actual": "1.2",
+    "better": false,
+    "consensus": "1.3",
+    "country": "CA",
+    "date": "2026-10-23",
+    "indicator": "Retail Sales",
+    "previous": "-0.7",
+    "unit": "%",
+    "worse": true
+  },
   "CA|Unemployment Rate|2026-10-09": {
     "actual": "6.5",
     "better": false,
@@ -1495,6 +1506,17 @@
     "unit": "",
     "worse": true
   },
+  "US|Manufacturing PMI|2026-10-23": {
+    "actual": "56.0",
+    "better": true,
+    "consensus": "55.6",
+    "country": "US",
+    "date": "2026-10-23",
+    "indicator": "Manufacturing PMI",
+    "previous": "55.9",
+    "unit": "",
+    "worse": false
+  },
   "US|Michigan Consumer Expectations Index|2026-10-09": {
     "actual": "47.3",
     "better": false,
@@ -1503,6 +1525,17 @@
     "date": "2026-10-09",
     "indicator": "Michigan Consumer Expectations Index",
     "previous": "46.3",
+    "unit": "",
+    "worse": false
+  },
+  "US|Michigan Consumer Expectations Index|2026-10-23": {
+    "actual": "48.8",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-23",
+    "indicator": "Michigan Consumer Expectations Index",
+    "previous": "47.3",
     "unit": "",
     "worse": false
   },
@@ -1516,6 +1549,17 @@
     "previous": "48.1",
     "unit": "",
     "worse": true
+  },
+  "US|Michigan Consumer Sentiment Index|2026-10-23": {
+    "actual": "48.0",
+    "better": true,
+    "consensus": "46.3",
+    "country": "US",
+    "date": "2026-10-23",
+    "indicator": "Michigan Consumer Sentiment Index",
+    "previous": "46.3",
+    "unit": "",
+    "worse": false
   },
   "US|Monthly Budget Statement|2026-10-16": {
     "actual": "-27.0",
@@ -1605,6 +1649,17 @@
     "unit": "",
     "worse": false
   },
+  "US|S&P Global Composite PMI|2026-10-23": {
+    "actual": "57.6",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-23",
+    "indicator": "S&P Global Composite PMI",
+    "previous": "58.4",
+    "unit": "",
+    "worse": false
+  },
   "US|Services PMI|2026-10-05": {
     "actual": "54.9",
     "better": false,
@@ -1615,6 +1670,17 @@
     "previous": "55.4",
     "unit": "",
     "worse": true
+  },
+  "US|Services PMI|2026-10-23": {
+    "actual": "57.9",
+    "better": false,
+    "consensus": "57.9",
+    "country": "US",
+    "date": "2026-10-23",
+    "indicator": "Services PMI",
+    "previous": "58.8",
+    "unit": "",
+    "worse": false
   },
   "US|U6 Underemployment Rate|2026-10-02": {
     "actual": "7.6",
@@ -1649,6 +1715,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|UoM 1-year Consumer Inflation Expectations|2026-10-23": {
+    "actual": "4.7",
+    "better": false,
+    "consensus": "4.7",
+    "country": "US",
+    "date": "2026-10-23",
+    "indicator": "UoM 1-year Consumer Inflation Expectations",
+    "previous": "4.7",
+    "unit": "%",
+    "worse": false
+  },
   "US|UoM 5-year Consumer Inflation Expectation|2026-10-09": {
     "actual": "3.5",
     "better": false,
@@ -1657,6 +1734,17 @@
     "date": "2026-10-09",
     "indicator": "UoM 5-year Consumer Inflation Expectation",
     "previous": "3.4",
+    "unit": "%",
+    "worse": false
+  },
+  "US|UoM 5-year Consumer Inflation Expectation|2026-10-23": {
+    "actual": "3.5",
+    "better": false,
+    "consensus": "3.5",
+    "country": "US",
+    "date": "2026-10-23",
+    "indicator": "UoM 5-year Consumer Inflation Expectation",
+    "previous": "3.5",
     "unit": "%",
     "worse": false
   }
