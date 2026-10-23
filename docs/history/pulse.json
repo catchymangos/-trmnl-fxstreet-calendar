@@ -1288,7 +1288,7 @@
     "week": "2026-W42"
   },
   "2026-W43": {
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "rows": {
       "CA": {
         "driver": "Consumer Price Index (YoY)",
@@ -1318,13 +1318,6 @@
         "tone": -1.0,
         "weight": 1.6
       },
-      "IT": {
-        "driver": "Consumer Price Index (EU Norm) (YoY)",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 3.0
-      },
       "JP": {
         "driver": "Merchandise Trade Balance Total",
         "driver_dir": -1,
@@ -1342,16 +1335,16 @@
       "UK": {
         "driver": "ILO Unemployment Rate (3M)",
         "driver_dir": 1,
-        "n": 8,
-        "tone": 0.756,
-        "weight": 24.6
+        "n": 9,
+        "tone": 0.701,
+        "weight": 25.4
       },
       "US": {
-        "driver": "Industrial Production (MoM)",
+        "driver": "Building Permits (MoM)",
         "driver_dir": 1,
-        "n": 6,
-        "tone": 0.448,
-        "weight": 5.8
+        "n": 4,
+        "tone": 0.0,
+        "weight": 3.2
       }
     },
     "trends": {
@@ -1371,10 +1364,6 @@
         "dir": -1,
         "streak": 3
       },
-      "IT": {
-        "dir": 1,
-        "streak": 2
-      },
       "JP": {
         "dir": -1,
         "streak": 1
@@ -1388,8 +1377,8 @@
         "streak": 2
       },
       "US": {
-        "dir": 1,
-        "streak": 2
+        "dir": 0,
+        "streak": 0
       }
     },
     "week": "2026-W43"
