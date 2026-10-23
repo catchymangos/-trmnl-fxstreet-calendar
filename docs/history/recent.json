@@ -1627,6 +1627,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|HCOB Composite PMI|2026-10-23": {
+    "actual": "52.8",
+    "better": false,
+    "consensus": "53.3",
+    "country": "DE",
+    "date": "2026-10-23",
+    "indicator": "HCOB Composite PMI",
+    "previous": "53.8",
+    "unit": "",
+    "worse": true
+  },
   "DE|IFO Business Climate|2026-07-27": {
     "actual": "86.6",
     "better": true,
@@ -1814,6 +1825,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|Manufacturing PMI|2026-10-23": {
+    "actual": "54.2",
+    "better": true,
+    "consensus": "54.0",
+    "country": "DE",
+    "date": "2026-10-23",
+    "indicator": "Manufacturing PMI",
+    "previous": "53.9",
+    "unit": "",
+    "worse": false
+  },
   "DE|PPI|2026-08-20": {
     "actual": "1.1",
     "better": true,
@@ -1934,6 +1956,17 @@
     "previous": "52.9",
     "unit": "",
     "worse": false
+  },
+  "DE|Services PMI|2026-10-23": {
+    "actual": "51.7",
+    "better": false,
+    "consensus": "53.1",
+    "country": "DE",
+    "date": "2026-10-23",
+    "indicator": "Services PMI",
+    "previous": "52.9",
+    "unit": "",
+    "worse": true
   },
   "DE|Trade Balance|2026-08-07": {
     "actual": "15.4",
@@ -2331,6 +2364,17 @@
     "unit": "",
     "worse": false
   },
+  "EMU|HCOB Composite PMI|2026-10-23": {
+    "actual": "51.9",
+    "better": false,
+    "consensus": "52.7",
+    "country": "EMU",
+    "date": "2026-10-23",
+    "indicator": "HCOB Composite PMI",
+    "previous": "53.1",
+    "unit": "",
+    "worse": true
+  },
   "EMU|Industrial Production|2026-08-13": {
     "actual": "0",
     "better": true,
@@ -2452,6 +2496,17 @@
     "unit": "",
     "worse": false
   },
+  "EMU|Manufacturing PMI|2026-10-23": {
+    "actual": "52.4",
+    "better": false,
+    "consensus": "52.8",
+    "country": "EMU",
+    "date": "2026-10-23",
+    "indicator": "Manufacturing PMI",
+    "previous": "52.9",
+    "unit": "",
+    "worse": true
+  },
   "EMU|PPI|2026-08-05": {
     "actual": "-0.3",
     "better": false,
@@ -2572,6 +2627,17 @@
     "previous": "51.6",
     "unit": "",
     "worse": false
+  },
+  "EMU|Services PMI|2026-10-23": {
+    "actual": "51.7",
+    "better": false,
+    "consensus": "52.8",
+    "country": "EMU",
+    "date": "2026-10-23",
+    "indicator": "Services PMI",
+    "previous": "53.0",
+    "unit": "",
+    "worse": true
   },
   "EMU|Unemployment Rate|2026-07-30": {
     "actual": "6.3",
@@ -2892,6 +2958,17 @@
     "unit": "",
     "worse": false
   },
+  "FR|HCOB Composite PMI|2026-10-23": {
+    "actual": "48.4",
+    "better": false,
+    "consensus": "50.5",
+    "country": "FR",
+    "date": "2026-10-23",
+    "indicator": "HCOB Composite PMI",
+    "previous": "51.1",
+    "unit": "",
+    "worse": true
+  },
   "FR|Manufacturing PMI|2026-08-21": {
     "actual": "51.5",
     "better": true,
@@ -2911,6 +2988,17 @@
     "date": "2026-09-23",
     "indicator": "Manufacturing PMI",
     "previous": "51.1",
+    "unit": "",
+    "worse": true
+  },
+  "FR|Manufacturing PMI|2026-10-23": {
+    "actual": "49.3",
+    "better": false,
+    "consensus": "50.6",
+    "country": "FR",
+    "date": "2026-10-23",
+    "indicator": "Manufacturing PMI",
+    "previous": "50.6",
     "unit": "",
     "worse": true
   },
@@ -2935,6 +3023,17 @@
     "previous": "48",
     "unit": "",
     "worse": false
+  },
+  "FR|Services PMI|2026-10-23": {
+    "actual": "48.4",
+    "better": false,
+    "consensus": "50.8",
+    "country": "FR",
+    "date": "2026-10-23",
+    "indicator": "Services PMI",
+    "previous": "51.2",
+    "unit": "",
+    "worse": true
   },
   "ID|Consumer Confidence|2026-08-10": {
     "actual": "116.8",
@@ -4179,6 +4278,17 @@
     "unit": "%",
     "worse": false
   },
+  "RU|Rate Decision|2026-10-23": {
+    "actual": "14.0",
+    "better": false,
+    "consensus": "14.0",
+    "country": "RU",
+    "date": "2026-10-23",
+    "indicator": "Rate Decision",
+    "previous": "14.0",
+    "unit": "%",
+    "worse": false
+  },
   "SE|Rate Decision|2026-08-20": {
     "actual": "1.75",
     "better": false,
@@ -4663,6 +4773,17 @@
     "unit": "",
     "worse": false
   },
+  "UK|Manufacturing PMI|2026-10-23": {
+    "actual": "52.8",
+    "better": true,
+    "consensus": "51.8",
+    "country": "UK",
+    "date": "2026-10-23",
+    "indicator": "Manufacturing PMI",
+    "previous": "51.9",
+    "unit": "",
+    "worse": false
+  },
   "UK|Manufacturing Production|2026-08-13": {
     "actual": "-0.5",
     "better": false,
@@ -4839,6 +4960,17 @@
     "unit": "%",
     "worse": false
   },
+  "UK|Retail Sales|2026-10-23": {
+    "actual": "-0.4",
+    "better": false,
+    "consensus": "-0.1",
+    "country": "UK",
+    "date": "2026-10-23",
+    "indicator": "Retail Sales",
+    "previous": "0.5",
+    "unit": "%",
+    "worse": true
+  },
   "UK|S&P Global Composite PMI|2026-08-21": {
     "actual": "52.5",
     "better": true,
@@ -4858,6 +4990,17 @@
     "date": "2026-09-23",
     "indicator": "S&P Global Composite PMI",
     "previous": "52.5",
+    "unit": "",
+    "worse": false
+  },
+  "UK|S&P Global Composite PMI|2026-10-23": {
+    "actual": "53.1",
+    "better": true,
+    "consensus": "51.8",
+    "country": "UK",
+    "date": "2026-10-23",
+    "indicator": "S&P Global Composite PMI",
+    "previous": "52.0",
     "unit": "",
     "worse": false
   },
@@ -4882,6 +5025,17 @@
     "previous": "52.5",
     "unit": "",
     "worse": true
+  },
+  "UK|Services PMI|2026-10-23": {
+    "actual": "53.1",
+    "better": true,
+    "consensus": "51.8",
+    "country": "UK",
+    "date": "2026-10-23",
+    "indicator": "Services PMI",
+    "previous": "52.1",
+    "unit": "",
+    "worse": false
   },
   "UK|Unemployment Rate|2026-08-18": {
     "actual": "4.9",
