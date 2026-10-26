@@ -406,6 +406,17 @@
     "unit": "",
     "worse": true
   },
+  "DE|IFO Business Climate|2026-10-26": {
+    "actual": "90.2",
+    "better": true,
+    "consensus": "89.8",
+    "country": "DE",
+    "date": "2026-10-26",
+    "indicator": "IFO Business Climate",
+    "previous": "89.9",
+    "unit": "",
+    "worse": false
+  },
   "DE|Industrial Production|2026-10-07": {
     "actual": "2.3",
     "better": true,

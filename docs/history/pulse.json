@@ -1393,5 +1393,101 @@
       }
     },
     "week": "2026-W43"
+  },
+  "2026-W44": {
+    "date": "2026-10-26",
+    "rows": {
+      "CA": {
+        "driver": "Retail Sales (MoM)",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": 0.0,
+        "weight": 3.6
+      },
+      "DE": {
+        "driver": "HCOB Composite PMI",
+        "driver_dir": -1,
+        "n": 7,
+        "tone": -0.008,
+        "weight": 12.3
+      },
+      "EMU": {
+        "driver": "HCOB Composite PMI",
+        "driver_dir": -1,
+        "n": 5,
+        "tone": -1.0,
+        "weight": 9.7
+      },
+      "FR": {
+        "driver": "HCOB Composite PMI",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -1.0,
+        "weight": 5.4
+      },
+      "JP": {
+        "driver": "Merchandise Trade Balance Total",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -1.0,
+        "weight": 3.4
+      },
+      "NZ": {
+        "driver": "Consumer Price Index (QoQ)",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 9.0
+      },
+      "UK": {
+        "driver": "ILO Unemployment Rate (3M)",
+        "driver_dir": 1,
+        "n": 16,
+        "tone": 0.428,
+        "weight": 41.6
+      },
+      "US": {
+        "driver": "S&P Global Manufacturing PMI",
+        "driver_dir": 1,
+        "n": 6,
+        "tone": 0.522,
+        "weight": 6.7
+      }
+    },
+    "trends": {
+      "CA": {
+        "dir": 0,
+        "streak": 0
+      },
+      "DE": {
+        "dir": 0,
+        "streak": 0
+      },
+      "EMU": {
+        "dir": -1,
+        "streak": 4
+      },
+      "FR": {
+        "dir": -1,
+        "streak": 2
+      },
+      "JP": {
+        "dir": -1,
+        "streak": 2
+      },
+      "NZ": {
+        "dir": -1,
+        "streak": 2
+      },
+      "UK": {
+        "dir": 1,
+        "streak": 3
+      },
+      "US": {
+        "dir": 1,
+        "streak": 3
+      }
+    },
+    "week": "2026-W44"
   }
 }
