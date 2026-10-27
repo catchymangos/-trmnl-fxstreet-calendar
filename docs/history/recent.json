@@ -5257,6 +5257,17 @@
     "unit": "",
     "worse": false
   },
+  "US|ADP Jobs|2026-10-27": {
+    "actual": "16.8",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-27",
+    "indicator": "ADP Jobs",
+    "previous": "18.5",
+    "unit": "",
+    "worse": false
+  },
   "US|Average Hourly Earnings|2026-08-07": {
     "actual": "0.1",
     "better": false,
@@ -5510,6 +5521,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|Durable Goods Orders ex Defense|2026-10-27": {
+    "actual": "2.2",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-27",
+    "indicator": "Durable Goods Orders ex Defense",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": false
+  },
   "US|Durable Goods Orders ex Transportation|2026-08-26": {
     "actual": "0.4",
     "better": false,
@@ -5532,6 +5554,17 @@
     "unit": "%",
     "worse": true
   },
+  "US|Durable Goods Orders ex Transportation|2026-10-27": {
+    "actual": "0.5",
+    "better": false,
+    "consensus": "0.6",
+    "country": "US",
+    "date": "2026-10-27",
+    "indicator": "Durable Goods Orders ex Transportation",
+    "previous": "0.3",
+    "unit": "%",
+    "worse": true
+  },
   "US|Durable Goods Orders|2026-08-26": {
     "actual": "1.1",
     "better": true,
@@ -5551,6 +5584,17 @@
     "date": "2026-09-25",
     "indicator": "Durable Goods Orders",
     "previous": "1.1",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Durable Goods Orders|2026-10-27": {
+    "actual": "1.8",
+    "better": true,
+    "consensus": "0.6",
+    "country": "US",
+    "date": "2026-10-27",
+    "indicator": "Durable Goods Orders",
+    "previous": "0.0",
     "unit": "%",
     "worse": false
   },
@@ -5716,6 +5760,17 @@
     "date": "2026-09-29",
     "indicator": "Housing Price Index",
     "previous": "0",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Housing Price Index|2026-10-27": {
+    "actual": "0.3",
+    "better": true,
+    "consensus": "0.1",
+    "country": "US",
+    "date": "2026-10-27",
+    "indicator": "Housing Price Index",
+    "previous": "0.3",
     "unit": "%",
     "worse": false
   },
@@ -6522,6 +6577,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|New Home Sales Change|2026-10-27": {
+    "actual": "-0.6",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-27",
+    "indicator": "New Home Sales Change",
+    "previous": "6.4",
+    "unit": "%",
+    "worse": false
+  },
   "US|Nondefense Capital Goods Orders ex Aircraft|2026-08-26": {
     "actual": "0.2",
     "better": false,
@@ -6541,6 +6607,17 @@
     "date": "2026-09-25",
     "indicator": "Nondefense Capital Goods Orders ex Aircraft",
     "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Nondefense Capital Goods Orders ex Aircraft|2026-10-27": {
+    "actual": "0.5",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-10-27",
+    "indicator": "Nondefense Capital Goods Orders ex Aircraft",
+    "previous": "1.6",
     "unit": "%",
     "worse": false
   },
