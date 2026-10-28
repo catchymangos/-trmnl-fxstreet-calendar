@@ -1414,9 +1414,9 @@
       "DE": {
         "driver": "HCOB Composite PMI",
         "driver_dir": -1,
-        "n": 4,
-        "tone": -0.213,
-        "weight": 8.9
+        "n": 5,
+        "tone": -0.113,
+        "weight": 9.7
       },
       "EMU": {
         "driver": "HCOB Composite PMI",
@@ -1438,6 +1438,13 @@
         "n": 1,
         "tone": 1.0,
         "weight": 3.0
+      },
+      "NZ": {
+        "driver": "RBNZ Interest Rate Decision",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 4.5
       },
       "UK": {
         "driver": "Retail Sales (MoM)",
@@ -1464,8 +1471,8 @@
         "streak": 0
       },
       "DE": {
-        "dir": -1,
-        "streak": 1
+        "dir": 0,
+        "streak": 0
       },
       "EMU": {
         "dir": -1,
@@ -1478,6 +1485,10 @@
       "KR": {
         "dir": 1,
         "streak": 1
+      },
+      "NZ": {
+        "dir": -1,
+        "streak": 2
       },
       "UK": {
         "dir": 0,
