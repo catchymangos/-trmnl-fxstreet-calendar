@@ -813,6 +813,17 @@
     "unit": "%",
     "worse": false
   },
+  "CA|Rate Decision|2026-10-28": {
+    "actual": "2.5",
+    "better": false,
+    "consensus": "2.5",
+    "country": "CA",
+    "date": "2026-10-28",
+    "indicator": "Rate Decision",
+    "previous": "2.25",
+    "unit": "%",
+    "worse": false
+  },
   "CA|Retail Sales|2026-08-21": {
     "actual": "0.6",
     "better": true,
@@ -6937,6 +6948,17 @@
     "date": "2026-09-16",
     "indicator": "Rate Decision",
     "previous": "3.75",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Rate Decision|2026-10-28": {
+    "actual": "4.0",
+    "better": false,
+    "consensus": "4.0",
+    "country": "US",
+    "date": "2026-10-28",
+    "indicator": "Rate Decision",
+    "previous": "4.0",
     "unit": "%",
     "worse": false
   },
