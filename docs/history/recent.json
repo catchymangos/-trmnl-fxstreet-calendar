@@ -32,17 +32,6 @@
     "unit": "",
     "worse": false
   },
-  "AU|Building Permits|2026-07-30": {
-    "actual": "7.2",
-    "better": true,
-    "consensus": "-1.5",
-    "country": "AU",
-    "date": "2026-07-30",
-    "indicator": "Building Permits",
-    "previous": "-1.1",
-    "unit": "%",
-    "worse": false
-  },
   "AU|Building Permits|2026-09-01": {
     "actual": "-3.6",
     "better": true,
@@ -1418,17 +1407,6 @@
     "unit": "",
     "worse": false
   },
-  "DE|CPI|2026-07-30": {
-    "actual": "0.8",
-    "better": true,
-    "consensus": "0.7",
-    "country": "DE",
-    "date": "2026-07-30",
-    "indicator": "CPI",
-    "previous": "-0.3",
-    "unit": "%",
-    "worse": false
-  },
   "DE|CPI|2026-08-31": {
     "actual": "0.2",
     "better": false,
@@ -1549,17 +1527,6 @@
     "previous": "2.5",
     "unit": "%",
     "worse": true
-  },
-  "DE|GDP|2026-07-30": {
-    "actual": "0.2",
-    "better": true,
-    "consensus": "0.1",
-    "country": "DE",
-    "date": "2026-07-30",
-    "indicator": "GDP",
-    "previous": "0.3",
-    "unit": "%",
-    "worse": false
   },
   "DE|GDP|2026-08-25": {
     "actual": "0.3",
@@ -1734,17 +1701,6 @@
     "date": "2026-10-07",
     "indicator": "Industrial Production",
     "previous": "-1.6",
-    "unit": "%",
-    "worse": false
-  },
-  "DE|Inflation|2026-07-30": {
-    "actual": "0.9",
-    "better": true,
-    "consensus": "0.8",
-    "country": "DE",
-    "date": "2026-07-30",
-    "indicator": "Inflation",
-    "previous": "-0.2",
     "unit": "%",
     "worse": false
   },
@@ -2133,17 +2089,6 @@
     "unit": "",
     "worse": true
   },
-  "EMU|Business Climate|2026-07-30": {
-    "actual": "-0.19",
-    "better": false,
-    "consensus": "",
-    "country": "EMU",
-    "date": "2026-07-30",
-    "indicator": "Business Climate",
-    "previous": "-0.38",
-    "unit": "",
-    "worse": false
-  },
   "EMU|Business Climate|2026-08-28": {
     "actual": "-0.23",
     "better": false,
@@ -2163,17 +2108,6 @@
     "date": "2026-09-29",
     "indicator": "Business Climate",
     "previous": "-0.23",
-    "unit": "",
-    "worse": false
-  },
-  "EMU|Consumer Confidence|2026-07-30": {
-    "actual": "-15.9",
-    "better": false,
-    "consensus": "-15.9",
-    "country": "EMU",
-    "date": "2026-07-30",
-    "indicator": "Consumer Confidence",
-    "previous": "-15.9",
     "unit": "",
     "worse": false
   },
@@ -2254,17 +2188,6 @@
     "unit": "%",
     "worse": false
   },
-  "EMU|Economic Sentiment Indicator|2026-07-30": {
-    "actual": "96.9",
-    "better": true,
-    "consensus": "96",
-    "country": "EMU",
-    "date": "2026-07-30",
-    "indicator": "Economic Sentiment Indicator",
-    "previous": "95",
-    "unit": "",
-    "worse": false
-  },
   "EMU|Economic Sentiment Indicator|2026-08-28": {
     "actual": "98.4",
     "better": true,
@@ -2306,17 +2229,6 @@
     "date": "2026-09-07",
     "indicator": "Employment Change",
     "previous": "0.1",
-    "unit": "%",
-    "worse": false
-  },
-  "EMU|GDP|2026-07-30": {
-    "actual": "0.4",
-    "better": true,
-    "consensus": "0.2",
-    "country": "EMU",
-    "date": "2026-07-30",
-    "indicator": "GDP",
-    "previous": "-0.2",
     "unit": "%",
     "worse": false
   },
@@ -2672,17 +2584,6 @@
     "unit": "",
     "worse": true
   },
-  "EMU|Unemployment Rate|2026-07-30": {
-    "actual": "6.3",
-    "better": false,
-    "consensus": "6.2",
-    "country": "EMU",
-    "date": "2026-07-30",
-    "indicator": "Unemployment Rate",
-    "previous": "6.2",
-    "unit": "%",
-    "worse": true
-  },
   "EMU|Unemployment Rate|2026-09-01": {
     "actual": "6.4",
     "better": false,
@@ -2738,17 +2639,6 @@
     "unit": "",
     "worse": true
   },
-  "ES|GDP|2026-07-30": {
-    "actual": "0.7",
-    "better": true,
-    "consensus": "0.6",
-    "country": "ES",
-    "date": "2026-07-30",
-    "indicator": "GDP",
-    "previous": "0.6",
-    "unit": "%",
-    "worse": false
-  },
   "ES|GDP|2026-09-25": {
     "actual": "0.7",
     "better": false,
@@ -2757,17 +2647,6 @@
     "date": "2026-09-25",
     "indicator": "GDP",
     "previous": "0.6",
-    "unit": "%",
-    "worse": false
-  },
-  "ES|Inflation|2026-07-30": {
-    "actual": "3.8",
-    "better": true,
-    "consensus": "3.7",
-    "country": "ES",
-    "date": "2026-07-30",
-    "indicator": "Inflation",
-    "previous": "3.6",
     "unit": "%",
     "worse": false
   },
@@ -2955,17 +2834,6 @@
     "date": "2026-10-15",
     "indicator": "CPI",
     "previous": "3.4",
-    "unit": "%",
-    "worse": false
-  },
-  "FR|GDP|2026-07-30": {
-    "actual": "0.2",
-    "better": false,
-    "consensus": "0.2",
-    "country": "FR",
-    "date": "2026-07-30",
-    "indicator": "GDP",
-    "previous": "-0.1",
     "unit": "%",
     "worse": false
   },
@@ -3365,17 +3233,6 @@
     "unit": "%",
     "worse": false
   },
-  "IT|GDP|2026-07-30": {
-    "actual": "0.2",
-    "better": true,
-    "consensus": "0.1",
-    "country": "IT",
-    "date": "2026-07-30",
-    "indicator": "GDP",
-    "previous": "0.3",
-    "unit": "%",
-    "worse": false
-  },
   "IT|GDP|2026-09-01": {
     "actual": "0.2",
     "better": false,
@@ -3418,17 +3275,6 @@
     "indicator": "Manufacturing PMI",
     "previous": "49.6",
     "unit": "",
-    "worse": false
-  },
-  "JP|CPI|2026-07-30": {
-    "actual": "2",
-    "better": true,
-    "consensus": "",
-    "country": "JP",
-    "date": "2026-07-30",
-    "indicator": "CPI",
-    "previous": "1.7",
-    "unit": "%",
     "worse": false
   },
   "JP|CPI|2026-08-20": {
@@ -3640,17 +3486,6 @@
     "unit": "%",
     "worse": false
   },
-  "JP|Large Retailer Sales|2026-07-30": {
-    "actual": "-1",
-    "better": false,
-    "consensus": "",
-    "country": "JP",
-    "date": "2026-07-30",
-    "indicator": "Large Retailer Sales",
-    "previous": "5",
-    "unit": "%",
-    "worse": false
-  },
   "JP|Large Retailer Sales|2026-08-30": {
     "actual": "1.4",
     "better": false,
@@ -3695,17 +3530,6 @@
     "unit": "%",
     "worse": false
   },
-  "JP|Retail Trade s.a|2026-07-30": {
-    "actual": "-4.1",
-    "better": false,
-    "consensus": "",
-    "country": "JP",
-    "date": "2026-07-30",
-    "indicator": "Retail Trade s.a",
-    "previous": "1.9",
-    "unit": "%",
-    "worse": false
-  },
   "JP|Retail Trade s.a|2026-08-30": {
     "actual": "2.4",
     "better": false,
@@ -3727,17 +3551,6 @@
     "previous": "2.4",
     "unit": "%",
     "worse": false
-  },
-  "JP|Retail Trade|2026-07-30": {
-    "actual": "0.5",
-    "better": false,
-    "consensus": "3.1",
-    "country": "JP",
-    "date": "2026-07-30",
-    "indicator": "Retail Trade",
-    "previous": "5.3",
-    "unit": "%",
-    "worse": true
   },
   "JP|Retail Trade|2026-08-30": {
     "actual": "4",
@@ -3804,17 +3617,6 @@
     "previous": "-840.6",
     "unit": "\u00a5",
     "worse": true
-  },
-  "JP|Unemployment Rate|2026-07-30": {
-    "actual": "2.5",
-    "better": false,
-    "consensus": "2.5",
-    "country": "JP",
-    "date": "2026-07-30",
-    "indicator": "Unemployment Rate",
-    "previous": "2.5",
-    "unit": "%",
-    "worse": false
   },
   "JP|Unemployment Rate|2026-08-27": {
     "actual": "2.4",
@@ -3957,17 +3759,6 @@
     "indicator": "Rate Decision",
     "previous": "4.25",
     "unit": "%",
-    "worse": false
-  },
-  "NZ|ANZ \u2013 Roy Morgan Consumer Confidence|2026-07-30": {
-    "actual": "99.3",
-    "better": false,
-    "consensus": "",
-    "country": "NZ",
-    "date": "2026-07-30",
-    "indicator": "ANZ \u2013 Roy Morgan Consumer Confidence",
-    "previous": "91.3",
-    "unit": "",
     "worse": false
   },
   "NZ|ANZ \u2013 Roy Morgan Consumer Confidence|2026-08-27": {
@@ -4421,17 +4212,6 @@
     "unit": "%",
     "worse": false
   },
-  "UK|BoE MPC Vote Rate Cut|2026-07-30": {
-    "actual": "0",
-    "better": false,
-    "consensus": "0",
-    "country": "UK",
-    "date": "2026-07-30",
-    "indicator": "BoE MPC Vote Rate Cut",
-    "previous": "0",
-    "unit": "",
-    "worse": false
-  },
   "UK|BoE MPC Vote Rate Cut|2026-09-17": {
     "actual": "0",
     "better": false,
@@ -4443,17 +4223,6 @@
     "unit": "",
     "worse": false
   },
-  "UK|BoE MPC Vote Rate Hike|2026-07-30": {
-    "actual": "3",
-    "better": true,
-    "consensus": "2",
-    "country": "UK",
-    "date": "2026-07-30",
-    "indicator": "BoE MPC Vote Rate Hike",
-    "previous": "2",
-    "unit": "",
-    "worse": false
-  },
   "UK|BoE MPC Vote Rate Hike|2026-09-17": {
     "actual": "3",
     "better": false,
@@ -4462,17 +4231,6 @@
     "date": "2026-09-17",
     "indicator": "BoE MPC Vote Rate Hike",
     "previous": "3",
-    "unit": "",
-    "worse": false
-  },
-  "UK|BoE MPC Vote Rate Unchanged|2026-07-30": {
-    "actual": "6",
-    "better": false,
-    "consensus": "7",
-    "country": "UK",
-    "date": "2026-07-30",
-    "indicator": "BoE MPC Vote Rate Unchanged",
-    "previous": "7",
     "unit": "",
     "worse": false
   },
@@ -4935,17 +4693,6 @@
     "date": "2026-10-21",
     "indicator": "RPI",
     "previous": "0.6",
-    "unit": "%",
-    "worse": false
-  },
-  "UK|Rate Decision|2026-07-30": {
-    "actual": "3.75",
-    "better": false,
-    "consensus": "3.75",
-    "country": "UK",
-    "date": "2026-07-30",
-    "indicator": "Rate Decision",
-    "previous": "3.75",
     "unit": "%",
     "worse": false
   },
@@ -5466,17 +5213,6 @@
     "unit": "",
     "worse": false
   },
-  "US|Core Personal Consumption Expenditures - Price Index|2026-07-30": {
-    "actual": "0.1",
-    "better": false,
-    "consensus": "0.2",
-    "country": "US",
-    "date": "2026-07-30",
-    "indicator": "Core Personal Consumption Expenditures - Price Index",
-    "previous": "0.3",
-    "unit": "%",
-    "worse": true
-  },
   "US|Core Personal Consumption Expenditures - Price Index|2026-08-26": {
     "actual": "0.2",
     "better": false,
@@ -5496,17 +5232,6 @@
     "date": "2026-09-30",
     "indicator": "Core Personal Consumption Expenditures - Price Index",
     "previous": "0.2",
-    "unit": "%",
-    "worse": true
-  },
-  "US|Core Personal Consumption Expenditures|2026-07-30": {
-    "actual": "3.4",
-    "better": false,
-    "consensus": "3.5",
-    "country": "US",
-    "date": "2026-07-30",
-    "indicator": "Core Personal Consumption Expenditures",
-    "previous": "4.4",
     "unit": "%",
     "worse": true
   },
@@ -5740,17 +5465,6 @@
     "previous": "0.9",
     "unit": "%",
     "worse": false
-  },
-  "US|GDP|2026-07-30": {
-    "actual": "1.5",
-    "better": false,
-    "consensus": "2.1",
-    "country": "US",
-    "date": "2026-07-30",
-    "indicator": "GDP",
-    "previous": "2.1",
-    "unit": "%",
-    "worse": true
   },
   "US|GDP|2026-08-26": {
     "actual": "1.5",
@@ -6069,17 +5783,6 @@
     "indicator": "Industrial Production",
     "previous": "0.0",
     "unit": "%",
-    "worse": false
-  },
-  "US|Initial Jobless Claims|2026-07-30": {
-    "actual": "197",
-    "better": true,
-    "consensus": "200",
-    "country": "US",
-    "date": "2026-07-30",
-    "indicator": "Initial Jobless Claims",
-    "previous": "187",
-    "unit": "",
     "worse": false
   },
   "US|Initial Jobless Claims|2026-08-06": {
@@ -6775,17 +6478,6 @@
     "unit": "%",
     "worse": true
   },
-  "US|Personal Consumption Expenditures - Price Index|2026-07-30": {
-    "actual": "-0.1",
-    "better": false,
-    "consensus": "-0.1",
-    "country": "US",
-    "date": "2026-07-30",
-    "indicator": "Personal Consumption Expenditures - Price Index",
-    "previous": "0.4",
-    "unit": "%",
-    "worse": false
-  },
   "US|Personal Consumption Expenditures - Price Index|2026-08-26": {
     "actual": "0.2",
     "better": true,
@@ -6808,17 +6500,6 @@
     "unit": "%",
     "worse": true
   },
-  "US|Personal Consumption Expenditures Prices|2026-07-30": {
-    "actual": "5.1",
-    "better": false,
-    "consensus": "",
-    "country": "US",
-    "date": "2026-07-30",
-    "indicator": "Personal Consumption Expenditures Prices",
-    "previous": "4.6",
-    "unit": "%",
-    "worse": false
-  },
   "US|Personal Consumption Expenditures Prices|2026-08-26": {
     "actual": "5.3",
     "better": true,
@@ -6838,17 +6519,6 @@
     "date": "2026-09-30",
     "indicator": "Personal Consumption Expenditures Prices",
     "previous": "5.3",
-    "unit": "%",
-    "worse": true
-  },
-  "US|Personal Income|2026-07-30": {
-    "actual": "0.2",
-    "better": false,
-    "consensus": "0.3",
-    "country": "US",
-    "date": "2026-07-30",
-    "indicator": "Personal Income",
-    "previous": "0.7",
     "unit": "%",
     "worse": true
   },
@@ -6873,17 +6543,6 @@
     "previous": "0.4",
     "unit": "%",
     "worse": true
-  },
-  "US|Personal Spending|2026-07-30": {
-    "actual": "0.3",
-    "better": false,
-    "consensus": "0.3",
-    "country": "US",
-    "date": "2026-07-30",
-    "indicator": "Personal Spending",
-    "previous": "0.7",
-    "unit": "%",
-    "worse": false
   },
   "US|Personal Spending|2026-08-26": {
     "actual": "0.2",

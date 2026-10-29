@@ -1395,7 +1395,7 @@
     "week": "2026-W43"
   },
   "2026-W44": {
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "rows": {
       "AU": {
         "driver": "Consumer Price Index (YoY)",
@@ -1421,9 +1421,9 @@
       "EMU": {
         "driver": "HCOB Composite PMI",
         "driver_dir": -1,
-        "n": 4,
+        "n": 3,
         "tone": -1.0,
-        "weight": 8.9
+        "weight": 8.1
       },
       "FR": {
         "driver": "HCOB Composite PMI",
@@ -1449,16 +1449,16 @@
       "UK": {
         "driver": "Retail Sales (MoM)",
         "driver_dir": -1,
-        "n": 8,
-        "tone": -0.047,
-        "weight": 17.0
+        "n": 7,
+        "tone": 0.0,
+        "weight": 16.2
       },
       "US": {
         "driver": "S&P Global Manufacturing PMI",
         "driver_dir": 1,
-        "n": 6,
-        "tone": 0.761,
-        "weight": 6.7
+        "n": 5,
+        "tone": 0.729,
+        "weight": 5.9
       }
     },
     "trends": {
