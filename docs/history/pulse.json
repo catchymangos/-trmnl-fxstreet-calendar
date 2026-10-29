@@ -1421,9 +1421,9 @@
       "EMU": {
         "driver": "HCOB Composite PMI",
         "driver_dir": -1,
-        "n": 3,
+        "n": 4,
         "tone": -1.0,
-        "weight": 8.1
+        "weight": 8.9
       },
       "FR": {
         "driver": "HCOB Composite PMI",

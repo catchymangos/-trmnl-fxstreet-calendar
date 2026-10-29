@@ -571,6 +571,17 @@
     "unit": "",
     "worse": true
   },
+  "EMU|Business Climate|2026-10-29": {
+    "actual": "0.09",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-10-29",
+    "indicator": "Business Climate",
+    "previous": "-0.06",
+    "unit": "",
+    "worse": false
+  },
   "EMU|Consumer Confidence|2026-10-22": {
     "actual": "-17.9",
     "better": false,
@@ -579,6 +590,28 @@
     "date": "2026-10-22",
     "indicator": "Consumer Confidence",
     "previous": "-16.5",
+    "unit": "",
+    "worse": true
+  },
+  "EMU|Consumer Confidence|2026-10-29": {
+    "actual": "-17.9",
+    "better": false,
+    "consensus": "-17.9",
+    "country": "EMU",
+    "date": "2026-10-29",
+    "indicator": "Consumer Confidence",
+    "previous": "-17.9",
+    "unit": "",
+    "worse": false
+  },
+  "EMU|Economic Sentiment Indicator|2026-10-29": {
+    "actual": "96.9",
+    "better": false,
+    "consensus": "97.5",
+    "country": "EMU",
+    "date": "2026-10-29",
+    "indicator": "Economic Sentiment Indicator",
+    "previous": "97.9",
     "unit": "",
     "worse": true
   },

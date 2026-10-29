@@ -2111,6 +2111,17 @@
     "unit": "",
     "worse": false
   },
+  "EMU|Business Climate|2026-10-29": {
+    "actual": "0.09",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-10-29",
+    "indicator": "Business Climate",
+    "previous": "-0.06",
+    "unit": "",
+    "worse": false
+  },
   "EMU|Consumer Confidence|2026-08-21": {
     "actual": "-15.5",
     "better": true,
@@ -2166,6 +2177,17 @@
     "unit": "",
     "worse": true
   },
+  "EMU|Consumer Confidence|2026-10-29": {
+    "actual": "-17.9",
+    "better": false,
+    "consensus": "-17.9",
+    "country": "EMU",
+    "date": "2026-10-29",
+    "indicator": "Consumer Confidence",
+    "previous": "-17.9",
+    "unit": "",
+    "worse": false
+  },
   "EMU|ECB Main Refinancing Operations Rate|2026-09-10": {
     "actual": "2.65",
     "better": false,
@@ -2207,6 +2229,17 @@
     "date": "2026-09-29",
     "indicator": "Economic Sentiment Indicator",
     "previous": "98.4",
+    "unit": "",
+    "worse": true
+  },
+  "EMU|Economic Sentiment Indicator|2026-10-29": {
+    "actual": "96.9",
+    "better": false,
+    "consensus": "97.5",
+    "country": "EMU",
+    "date": "2026-10-29",
+    "indicator": "Economic Sentiment Indicator",
+    "previous": "97.9",
     "unit": "",
     "worse": true
   },
