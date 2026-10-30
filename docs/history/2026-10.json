@@ -406,6 +406,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|Employment Change|2026-10-30": {
+    "actual": "4.0",
+    "better": true,
+    "consensus": "5.0",
+    "country": "DE",
+    "date": "2026-10-30",
+    "indicator": "Employment Change",
+    "previous": "12.0",
+    "unit": "",
+    "worse": false
+  },
   "DE|Factory Orders n.s.a.|2026-10-06": {
     "actual": "2.7",
     "better": false,
@@ -427,6 +438,17 @@
     "previous": "2.5",
     "unit": "%",
     "worse": true
+  },
+  "DE|GDP|2026-10-30": {
+    "actual": "0.2",
+    "better": true,
+    "consensus": "0.1",
+    "country": "DE",
+    "date": "2026-10-30",
+    "indicator": "GDP",
+    "previous": "0.3",
+    "unit": "%",
+    "worse": false
   },
   "DE|GfK Consumer Confidence Survey|2026-10-28": {
     "actual": "-30.8",
@@ -560,6 +582,17 @@
     "unit": "\u20ac",
     "worse": false
   },
+  "DE|Unemployment Rate|2026-10-30": {
+    "actual": "6.4",
+    "better": false,
+    "consensus": "6.4",
+    "country": "DE",
+    "date": "2026-10-30",
+    "indicator": "Unemployment Rate",
+    "previous": "6.4",
+    "unit": "%",
+    "worse": false
+  },
   "DE|ZEW Current Conditions|2026-10-20": {
     "actual": "-35.9",
     "better": true,
@@ -647,6 +680,17 @@
     "previous": "97.9",
     "unit": "",
     "worse": true
+  },
+  "EMU|GDP|2026-10-30": {
+    "actual": "0.4",
+    "better": true,
+    "consensus": "0.2",
+    "country": "EMU",
+    "date": "2026-10-30",
+    "indicator": "GDP",
+    "previous": "0.6",
+    "unit": "%",
+    "worse": false
   },
   "EMU|HCOB Composite PMI|2026-10-05": {
     "actual": "53.1",
@@ -769,6 +813,17 @@
     "unit": "%",
     "worse": false
   },
+  "EMU|Unemployment Rate|2026-10-30": {
+    "actual": "6.5",
+    "better": false,
+    "consensus": "6.4",
+    "country": "EMU",
+    "date": "2026-10-30",
+    "indicator": "Unemployment Rate",
+    "previous": "6.4",
+    "unit": "%",
+    "worse": true
+  },
   "EMU|ZEW Sentiment|2026-10-20": {
     "actual": "18.5",
     "better": false,
@@ -780,12 +835,34 @@
     "unit": "",
     "worse": true
   },
+  "ES|GDP|2026-10-30": {
+    "actual": "0.6",
+    "better": false,
+    "consensus": "0.6",
+    "country": "ES",
+    "date": "2026-10-30",
+    "indicator": "GDP",
+    "previous": "0.7",
+    "unit": "%",
+    "worse": false
+  },
   "ES|Inflation|2026-10-14": {
     "actual": "5.0",
     "better": false,
     "consensus": "5.0",
     "country": "ES",
     "date": "2026-10-14",
+    "indicator": "Inflation",
+    "previous": "5.0",
+    "unit": "%",
+    "worse": false
+  },
+  "ES|Inflation|2026-10-30": {
+    "actual": "4.9",
+    "better": false,
+    "consensus": "4.9",
+    "country": "ES",
+    "date": "2026-10-30",
     "indicator": "Inflation",
     "previous": "5.0",
     "unit": "%",
@@ -823,6 +900,28 @@
     "previous": "3.4",
     "unit": "%",
     "worse": false
+  },
+  "FR|CPI|2026-10-30": {
+    "actual": "3.8",
+    "better": true,
+    "consensus": "3.6",
+    "country": "FR",
+    "date": "2026-10-30",
+    "indicator": "CPI",
+    "previous": "3.4",
+    "unit": "%",
+    "worse": false
+  },
+  "FR|GDP|2026-10-30": {
+    "actual": "-0.1",
+    "better": false,
+    "consensus": "0.1",
+    "country": "FR",
+    "date": "2026-10-30",
+    "indicator": "GDP",
+    "previous": "0.0",
+    "unit": "%",
+    "worse": true
   },
   "FR|HCOB Composite PMI|2026-10-23": {
     "actual": "48.4",
@@ -923,6 +1022,28 @@
     "unit": "%",
     "worse": false
   },
+  "IT|CPI|2026-10-30": {
+    "actual": "5.6",
+    "better": true,
+    "consensus": "4.6",
+    "country": "IT",
+    "date": "2026-10-30",
+    "indicator": "CPI",
+    "previous": "4.2",
+    "unit": "%",
+    "worse": false
+  },
+  "IT|GDP|2026-10-30": {
+    "actual": "0.0",
+    "better": false,
+    "consensus": "0.1",
+    "country": "IT",
+    "date": "2026-10-30",
+    "indicator": "GDP",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": true
+  },
   "IT|Manufacturing PMI|2026-10-01": {
     "actual": "50.4",
     "better": true,
@@ -1019,6 +1140,17 @@
     "date": "2026-10-29",
     "indicator": "Large Retailer Sales",
     "previous": "1.0",
+    "unit": "%",
+    "worse": false
+  },
+  "JP|Rate Decision|2026-10-30": {
+    "actual": "1.25",
+    "better": false,
+    "consensus": "1.25",
+    "country": "JP",
+    "date": "2026-10-30",
+    "indicator": "Rate Decision",
+    "previous": "1.25",
     "unit": "%",
     "worse": false
   },
