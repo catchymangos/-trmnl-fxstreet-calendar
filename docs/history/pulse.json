@@ -1395,7 +1395,7 @@
     "week": "2026-W43"
   },
   "2026-W44": {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "rows": {
       "AU": {
         "driver": "Consumer Price Index (YoY)",
@@ -1404,33 +1404,26 @@
         "tone": 1.0,
         "weight": 4.5
       },
-      "CA": {
-        "driver": "Retail Sales (MoM)",
-        "driver_dir": -1,
-        "n": 2,
-        "tone": 0.0,
-        "weight": 3.6
-      },
       "DE": {
-        "driver": "HCOB Composite PMI",
-        "driver_dir": -1,
-        "n": 5,
-        "tone": -0.113,
-        "weight": 9.7
+        "driver": "IFO \u2013 Business Climate",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 1.6
       },
       "EMU": {
-        "driver": "HCOB Composite PMI",
+        "driver": "Economic Sentiment Indicator",
         "driver_dir": -1,
-        "n": 4,
+        "n": 1,
         "tone": -1.0,
-        "weight": 8.9
+        "weight": 0.8
       },
-      "FR": {
-        "driver": "HCOB Composite PMI",
-        "driver_dir": -1,
-        "n": 3,
-        "tone": -1.0,
-        "weight": 5.4
+      "JP": {
+        "driver": "Unemployment Rate",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 0.579,
+        "weight": 3.8
       },
       "KR": {
         "driver": "Gross Domestic Product Growth (QoQ)",
@@ -1446,19 +1439,12 @@
         "tone": -1.0,
         "weight": 4.5
       },
-      "UK": {
-        "driver": "Retail Sales (MoM)",
-        "driver_dir": -1,
-        "n": 7,
-        "tone": 0.0,
-        "weight": 16.2
-      },
       "US": {
         "driver": "Gross Domestic Product Annualized",
         "driver_dir": 1,
-        "n": 12,
-        "tone": 0.27,
-        "weight": 21.1
+        "n": 10,
+        "tone": 0.125,
+        "weight": 17.6
       }
     },
     "trends": {
@@ -1466,21 +1452,17 @@
         "dir": 1,
         "streak": 1
       },
-      "CA": {
-        "dir": 0,
-        "streak": 0
-      },
       "DE": {
-        "dir": 0,
-        "streak": 0
+        "dir": 1,
+        "streak": 1
       },
       "EMU": {
         "dir": -1,
         "streak": 4
       },
-      "FR": {
-        "dir": -1,
-        "streak": 2
+      "JP": {
+        "dir": 1,
+        "streak": 1
       },
       "KR": {
         "dir": 1,
@@ -1490,13 +1472,9 @@
         "dir": -1,
         "streak": 2
       },
-      "UK": {
+      "US": {
         "dir": 0,
         "streak": 0
-      },
-      "US": {
-        "dir": 1,
-        "streak": 3
       }
     },
     "week": "2026-W44"
