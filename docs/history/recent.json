@@ -681,6 +681,17 @@
     "unit": "%",
     "worse": false
   },
+  "CA|GDP|2026-10-30": {
+    "actual": "0.0",
+    "better": false,
+    "consensus": "0.2",
+    "country": "CA",
+    "date": "2026-10-30",
+    "indicator": "GDP",
+    "previous": "0.0",
+    "unit": "%",
+    "worse": true
+  },
   "CA|Ivey Purchasing Managers Index s.a|2026-08-07": {
     "actual": "55.1",
     "better": false,
@@ -1396,6 +1407,17 @@
     "unit": "%",
     "worse": false
   },
+  "DE|CPI|2026-10-30": {
+    "actual": "-0.2",
+    "better": false,
+    "consensus": "0.1",
+    "country": "DE",
+    "date": "2026-10-30",
+    "indicator": "CPI",
+    "previous": "0.6",
+    "unit": "%",
+    "worse": true
+  },
   "DE|Employment Change|2026-08-28": {
     "actual": "4",
     "better": true,
@@ -1736,6 +1758,17 @@
     "previous": "0.6",
     "unit": "%",
     "worse": false
+  },
+  "DE|Inflation|2026-10-30": {
+    "actual": "-0.1",
+    "better": false,
+    "consensus": "0.1",
+    "country": "DE",
+    "date": "2026-10-30",
+    "indicator": "Inflation",
+    "previous": "0.6",
+    "unit": "%",
+    "worse": true
   },
   "DE|Manufacturing PMI|2026-08-03": {
     "actual": "52.2",
@@ -5356,6 +5389,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Chicago PMI|2026-10-30": {
+    "actual": "55.3",
+    "better": false,
+    "consensus": "56.1",
+    "country": "US",
+    "date": "2026-10-30",
+    "indicator": "Chicago PMI",
+    "previous": "58.8",
+    "unit": "",
+    "worse": true
+  },
   "US|Core Personal Consumption Expenditures - Price Index|2026-08-26": {
     "actual": "0.2",
     "better": false,
@@ -5551,6 +5595,17 @@
     "date": "2026-10-02",
     "indicator": "Employment Change",
     "previous": "61.6",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Employment Cost Index|2026-10-30": {
+    "actual": "0.8",
+    "better": false,
+    "consensus": "0.8",
+    "country": "US",
+    "date": "2026-10-30",
+    "indicator": "Employment Cost Index",
+    "previous": "0.9",
     "unit": "%",
     "worse": false
   },

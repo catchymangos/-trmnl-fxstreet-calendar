@@ -1404,12 +1404,19 @@
         "tone": 1.0,
         "weight": 4.5
       },
+      "CA": {
+        "driver": "Gross Domestic Product (MoM)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 3.0
+      },
       "DE": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 5,
-        "tone": 1.0,
-        "weight": 13.6
+        "n": 8,
+        "tone": 0.062,
+        "weight": 25.6
       },
       "EMU": {
         "driver": "Gross Domestic Product s.a. (QoQ)",
@@ -1456,9 +1463,9 @@
       "US": {
         "driver": "Gross Domestic Product Annualized",
         "driver_dir": 1,
-        "n": 10,
-        "tone": 0.125,
-        "weight": 17.6
+        "n": 11,
+        "tone": 0.076,
+        "weight": 18.4
       }
     },
     "trends": {
@@ -1466,9 +1473,13 @@
         "dir": 1,
         "streak": 1
       },
+      "CA": {
+        "dir": -1,
+        "streak": 2
+      },
       "DE": {
-        "dir": 1,
-        "streak": 1
+        "dir": 0,
+        "streak": 0
       },
       "EMU": {
         "dir": 1,
