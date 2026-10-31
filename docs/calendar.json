@@ -7425,13 +7425,13 @@
     "country": "CN",
     "date_utc": "2026-10-31T01:30:00Z",
     "impact": "High",
-    "actual": "",
+    "actual": "49.3",
     "consensus": "50.0",
     "previous": "50.1",
     "unit": "",
     "currency": "CNY",
     "better": false,
-    "worse": false
+    "worse": true
   },
   {
     "id": "08226880-3484-4b96-b134-723cc03e8231",
@@ -7439,13 +7439,13 @@
     "country": "CN",
     "date_utc": "2026-10-31T01:30:00Z",
     "impact": "High",
-    "actual": "",
+    "actual": "49.7",
     "consensus": "50.5",
     "previous": "50.2",
     "unit": "",
     "currency": "CNY",
     "better": false,
-    "worse": false
+    "worse": true
   },
   {
     "id": "baee560d-df06-4d5d-a171-fe323aaaec93",
