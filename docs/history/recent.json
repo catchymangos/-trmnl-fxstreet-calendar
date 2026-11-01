@@ -3981,17 +3981,6 @@
     "unit": "",
     "worse": false
   },
-  "NZ|Building Permits s.a.|2026-08-02": {
-    "actual": "-3.6",
-    "better": false,
-    "consensus": "",
-    "country": "NZ",
-    "date": "2026-08-02",
-    "indicator": "Building Permits s.a.",
-    "previous": "-4",
-    "unit": "%",
-    "worse": false
-  },
   "NZ|Building Permits s.a.|2026-09-01": {
     "actual": "-4.3",
     "better": false,
