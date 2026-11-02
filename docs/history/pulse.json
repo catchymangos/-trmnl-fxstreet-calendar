@@ -1511,5 +1511,145 @@
       }
     },
     "week": "2026-W44"
+  },
+  "2026-W45": {
+    "date": "2026-11-02",
+    "rows": {
+      "AU": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 5.3
+      },
+      "CA": {
+        "driver": "Gross Domestic Product (MoM)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 3.0
+      },
+      "CH": {
+        "driver": "Real Retail Sales (YoY)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 1.8
+      },
+      "CN": {
+        "driver": "RatingDog Manufacturing PMI",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 2.7
+      },
+      "DE": {
+        "driver": "Gross Domestic Product (QoQ)",
+        "driver_dir": 1,
+        "n": 8,
+        "tone": -0.038,
+        "weight": 26.6
+      },
+      "EMU": {
+        "driver": "Gross Domestic Product s.a. (QoQ)",
+        "driver_dir": 1,
+        "n": 4,
+        "tone": 0.406,
+        "weight": 12.8
+      },
+      "ES": {
+        "driver": "HCOB Manufacturing PMI",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.8
+      },
+      "FR": {
+        "driver": "Gross Domestic Product (QoQ)",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": 0.0,
+        "weight": 6.0
+      },
+      "IT": {
+        "driver": "Gross Domestic Product (QoQ)",
+        "driver_dir": -1,
+        "n": 5,
+        "tone": -0.13,
+        "weight": 13.8
+      },
+      "JP": {
+        "driver": "Unemployment Rate",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 0.579,
+        "weight": 3.8
+      },
+      "NZ": {
+        "driver": "RBNZ Interest Rate Decision",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 4.5
+      },
+      "US": {
+        "driver": "Gross Domestic Product Annualized",
+        "driver_dir": 1,
+        "n": 11,
+        "tone": 0.076,
+        "weight": 18.4
+      }
+    },
+    "trends": {
+      "AU": {
+        "dir": 1,
+        "streak": 2
+      },
+      "CA": {
+        "dir": -1,
+        "streak": 3
+      },
+      "CH": {
+        "dir": -1,
+        "streak": 1
+      },
+      "CN": {
+        "dir": 1,
+        "streak": 1
+      },
+      "DE": {
+        "dir": 0,
+        "streak": 0
+      },
+      "EMU": {
+        "dir": 1,
+        "streak": 2
+      },
+      "ES": {
+        "dir": 1,
+        "streak": 1
+      },
+      "FR": {
+        "dir": 0,
+        "streak": 0
+      },
+      "IT": {
+        "dir": 0,
+        "streak": 0
+      },
+      "JP": {
+        "dir": 1,
+        "streak": 2
+      },
+      "NZ": {
+        "dir": -1,
+        "streak": 3
+      },
+      "US": {
+        "dir": 0,
+        "streak": 0
+      }
+    },
+    "week": "2026-W45"
   }
 }
