@@ -1513,7 +1513,7 @@
     "week": "2026-W44"
   },
   "2026-W45": {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "rows": {
       "AU": {
         "driver": "Consumer Price Index (YoY)",
@@ -1595,9 +1595,9 @@
       "US": {
         "driver": "Gross Domestic Product Annualized",
         "driver_dir": 1,
-        "n": 11,
-        "tone": 0.076,
-        "weight": 18.4
+        "n": 10,
+        "tone": 0.073,
+        "weight": 20.5
       }
     },
     "trends": {
