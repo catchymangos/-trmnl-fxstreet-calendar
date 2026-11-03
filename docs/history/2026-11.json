@@ -153,6 +153,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|Factory Orders|2026-11-03": {
+    "actual": "1.8",
+    "better": true,
+    "consensus": "1.2",
+    "country": "US",
+    "date": "2026-11-03",
+    "indicator": "Factory Orders",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": false
+  },
   "US|ISM Manufacturing Employment Index|2026-11-02": {
     "actual": "52.4",
     "better": false,
@@ -185,6 +196,17 @@
     "previous": "77.9",
     "unit": "",
     "worse": true
+  },
+  "US|JOLTS Job Openings|2026-11-03": {
+    "actual": "7.523",
+    "better": true,
+    "consensus": "7.13",
+    "country": "US",
+    "date": "2026-11-03",
+    "indicator": "JOLTS Job Openings",
+    "previous": "7.079",
+    "unit": "",
+    "worse": false
   },
   "US|Manufacturing PMI|2026-11-02": {
     "actual": "55.5",

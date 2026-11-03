@@ -1602,9 +1602,9 @@
       "US": {
         "driver": "Gross Domestic Product Annualized",
         "driver_dir": 1,
-        "n": 10,
-        "tone": 0.073,
-        "weight": 20.5
+        "n": 12,
+        "tone": 0.14,
+        "weight": 22.1
       }
     },
     "trends": {
