@@ -1530,11 +1530,11 @@
         "weight": 3.0
       },
       "CH": {
-        "driver": "Real Retail Sales (YoY)",
-        "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 1.8
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 0.613,
+        "weight": 9.3
       },
       "CN": {
         "driver": "RatingDog Manufacturing PMI",
@@ -1592,6 +1592,13 @@
         "tone": -1.0,
         "weight": 4.5
       },
+      "TR": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 3.0
+      },
       "US": {
         "driver": "Gross Domestic Product Annualized",
         "driver_dir": 1,
@@ -1610,7 +1617,7 @@
         "streak": 3
       },
       "CH": {
-        "dir": -1,
+        "dir": 1,
         "streak": 1
       },
       "CN": {
@@ -1644,6 +1651,10 @@
       "NZ": {
         "dir": -1,
         "streak": 3
+      },
+      "TR": {
+        "dir": 1,
+        "streak": 1
       },
       "US": {
         "dir": 0,
