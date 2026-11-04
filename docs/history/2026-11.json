@@ -384,6 +384,39 @@
     "unit": "",
     "worse": true
   },
+  "US|ISM Services Employment Index|2026-11-04": {
+    "actual": "51.4",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-11-04",
+    "indicator": "ISM Services Employment Index",
+    "previous": "50.1",
+    "unit": "",
+    "worse": false
+  },
+  "US|ISM Services New Orders Index|2026-11-04": {
+    "actual": "55.9",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-11-04",
+    "indicator": "ISM Services New Orders Index",
+    "previous": "59.8",
+    "unit": "",
+    "worse": false
+  },
+  "US|ISM Services Prices Paid|2026-11-04": {
+    "actual": "73.0",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-11-04",
+    "indicator": "ISM Services Prices Paid",
+    "previous": "74.0",
+    "unit": "",
+    "worse": false
+  },
   "US|JOLTS Job Openings|2026-11-03": {
     "actual": "7.523",
     "better": true,
@@ -405,5 +438,27 @@
     "previous": "54.5",
     "unit": "",
     "worse": false
+  },
+  "US|S&P Global Composite PMI|2026-11-04": {
+    "actual": "55.9",
+    "better": false,
+    "consensus": "57.6",
+    "country": "US",
+    "date": "2026-11-04",
+    "indicator": "S&P Global Composite PMI",
+    "previous": "57.6",
+    "unit": "",
+    "worse": true
+  },
+  "US|Services PMI|2026-11-04": {
+    "actual": "54.5",
+    "better": false,
+    "consensus": "54.8",
+    "country": "US",
+    "date": "2026-11-04",
+    "indicator": "Services PMI",
+    "previous": "54.9",
+    "unit": "",
+    "worse": true
   }
 }

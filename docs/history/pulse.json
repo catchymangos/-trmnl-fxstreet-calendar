@@ -1609,9 +1609,9 @@
       "US": {
         "driver": "Gross Domestic Product Annualized",
         "driver_dir": 1,
-        "n": 13,
-        "tone": 0.286,
-        "weight": 26.6
+        "n": 15,
+        "tone": 0.1,
+        "weight": 31.1
       }
     },
     "trends": {
@@ -1668,8 +1668,8 @@
         "streak": 1
       },
       "US": {
-        "dir": 1,
-        "streak": 1
+        "dir": 0,
+        "streak": 0
       }
     },
     "week": "2026-W45"
