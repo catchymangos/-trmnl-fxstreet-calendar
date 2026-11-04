@@ -1546,16 +1546,16 @@
       "DE": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 7,
-        "tone": -0.07,
-        "weight": 25.8
+        "n": 9,
+        "tone": 0.061,
+        "weight": 29.4
       },
       "EMU": {
         "driver": "Gross Domestic Product s.a. (QoQ)",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 0.406,
-        "weight": 12.8
+        "n": 5,
+        "tone": 0.233,
+        "weight": 14.6
       },
       "ES": {
         "driver": "HCOB Manufacturing PMI",
@@ -1570,6 +1570,13 @@
         "n": 2,
         "tone": 0.0,
         "weight": 6.0
+      },
+      "IN": {
+        "driver": "HSBC Composite PMI",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 3.6
       },
       "IT": {
         "driver": "Gross Domestic Product (QoQ)",
@@ -1602,9 +1609,9 @@
       "US": {
         "driver": "Gross Domestic Product Annualized",
         "driver_dir": 1,
-        "n": 12,
-        "tone": 0.14,
-        "weight": 22.1
+        "n": 13,
+        "tone": 0.286,
+        "weight": 26.6
       }
     },
     "trends": {
@@ -1640,6 +1647,10 @@
         "dir": 0,
         "streak": 0
       },
+      "IN": {
+        "dir": -1,
+        "streak": 1
+      },
       "IT": {
         "dir": 0,
         "streak": 0
@@ -1657,8 +1668,8 @@
         "streak": 1
       },
       "US": {
-        "dir": 0,
-        "streak": 0
+        "dir": 1,
+        "streak": 1
       }
     },
     "week": "2026-W45"

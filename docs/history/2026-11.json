@@ -65,6 +65,17 @@
     "unit": "%",
     "worse": false
   },
+  "CA|BoC's Governor Macklem speech|2026-11-03": {
+    "actual": "0.0",
+    "better": false,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-11-03",
+    "indicator": "BoC's Governor Macklem speech",
+    "previous": "",
+    "unit": "",
+    "worse": false
+  },
   "CA|Manufacturing PMI|2026-11-02": {
     "actual": "49.6",
     "better": false,
@@ -120,6 +131,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|HCOB Composite PMI|2026-11-04": {
+    "actual": "53.4",
+    "better": true,
+    "consensus": "52.8",
+    "country": "DE",
+    "date": "2026-11-04",
+    "indicator": "HCOB Composite PMI",
+    "previous": "52.8",
+    "unit": "",
+    "worse": false
+  },
   "DE|Manufacturing PMI|2026-11-02": {
     "actual": "54.2",
     "better": false,
@@ -142,6 +164,39 @@
     "unit": "%",
     "worse": true
   },
+  "DE|Services PMI|2026-11-04": {
+    "actual": "52.5",
+    "better": true,
+    "consensus": "51.7",
+    "country": "DE",
+    "date": "2026-11-04",
+    "indicator": "Services PMI",
+    "previous": "51.7",
+    "unit": "",
+    "worse": false
+  },
+  "EMU|HCOB Composite PMI|2026-11-04": {
+    "actual": "51.7",
+    "better": false,
+    "consensus": "51.9",
+    "country": "EMU",
+    "date": "2026-11-04",
+    "indicator": "HCOB Composite PMI",
+    "previous": "51.9",
+    "unit": "",
+    "worse": true
+  },
+  "EMU|Inflation|2026-11-04": {
+    "actual": "0.3",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-11-04",
+    "indicator": "Inflation",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
   "ES|Manufacturing PMI|2026-11-02": {
     "actual": "52.2",
     "better": true,
@@ -153,6 +208,28 @@
     "unit": "",
     "worse": false
   },
+  "ES|Services PMI|2026-11-04": {
+    "actual": "57.2",
+    "better": false,
+    "consensus": "",
+    "country": "ES",
+    "date": "2026-11-04",
+    "indicator": "Services PMI",
+    "previous": "58.3",
+    "unit": "",
+    "worse": false
+  },
+  "IN|HSBC Composite PMI|2026-11-04": {
+    "actual": "56.2",
+    "better": false,
+    "consensus": "56.7",
+    "country": "IN",
+    "date": "2026-11-04",
+    "indicator": "HSBC Composite PMI",
+    "previous": "56.7",
+    "unit": "",
+    "worse": true
+  },
   "IN|Manufacturing PMI|2026-11-02": {
     "actual": "54.7",
     "better": false,
@@ -163,6 +240,17 @@
     "previous": "54.9",
     "unit": "",
     "worse": false
+  },
+  "IN|Services PMI|2026-11-04": {
+    "actual": "55.8",
+    "better": false,
+    "consensus": "56.2",
+    "country": "IN",
+    "date": "2026-11-04",
+    "indicator": "Services PMI",
+    "previous": "56.2",
+    "unit": "",
+    "worse": true
   },
   "IT|Manufacturing PMI|2026-11-02": {
     "actual": "49.4",
@@ -219,6 +307,17 @@
     "unit": "%",
     "worse": true
   },
+  "SE|Rate Decision|2026-11-04": {
+    "actual": "2.0",
+    "better": false,
+    "consensus": "2.0",
+    "country": "SE",
+    "date": "2026-11-04",
+    "indicator": "Rate Decision",
+    "previous": "1.75",
+    "unit": "%",
+    "worse": false
+  },
   "TR|CPI|2026-11-03": {
     "actual": "29.77",
     "better": true,
@@ -228,6 +327,17 @@
     "indicator": "CPI",
     "previous": "29.73",
     "unit": "%",
+    "worse": false
+  },
+  "US|ADP Jobs|2026-11-04": {
+    "actual": "86.0",
+    "better": true,
+    "consensus": "69.0",
+    "country": "US",
+    "date": "2026-11-04",
+    "indicator": "ADP Jobs",
+    "previous": "90.0",
+    "unit": "",
     "worse": false
   },
   "US|Factory Orders|2026-11-03": {
