@@ -1513,14 +1513,14 @@
     "week": "2026-W44"
   },
   "2026-W45": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "rows": {
       "AU": {
-        "driver": "Consumer Price Index (YoY)",
+        "driver": "S&P Global Composite PMI",
         "driver_dir": 1,
-        "n": 2,
+        "n": 3,
         "tone": 1.0,
-        "weight": 5.3
+        "weight": 4.4
       },
       "CA": {
         "driver": "Gross Domestic Product (MoM)",
@@ -1546,9 +1546,9 @@
       "DE": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 8,
-        "tone": -0.038,
-        "weight": 26.6
+        "n": 7,
+        "tone": -0.07,
+        "weight": 25.8
       },
       "EMU": {
         "driver": "Gross Domestic Product s.a. (QoQ)",
@@ -1586,11 +1586,11 @@
         "weight": 3.8
       },
       "NZ": {
-        "driver": "RBNZ Interest Rate Decision",
+        "driver": "Employment Change",
         "driver_dir": -1,
-        "n": 1,
+        "n": 4,
         "tone": -1.0,
-        "weight": 4.5
+        "weight": 10.6
       },
       "TR": {
         "driver": "Consumer Price Index (YoY)",

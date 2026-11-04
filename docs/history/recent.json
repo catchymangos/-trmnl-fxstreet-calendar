@@ -21,6 +21,17 @@
     "unit": "",
     "worse": false
   },
+  "AU|AiG Industry Index|2026-11-03": {
+    "actual": "-19.1",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-11-03",
+    "indicator": "AiG Industry Index",
+    "previous": "-24.2",
+    "unit": "",
+    "worse": false
+  },
   "AU|Building Permits|2026-09-01": {
     "actual": "-3.6",
     "better": true,
@@ -373,6 +384,17 @@
     "unit": "",
     "worse": false
   },
+  "AU|S&P Global Composite PMI|2026-11-03": {
+    "actual": "48.2",
+    "better": true,
+    "consensus": "47.7",
+    "country": "AU",
+    "date": "2026-11-03",
+    "indicator": "S&P Global Composite PMI",
+    "previous": "47.7",
+    "unit": "",
+    "worse": false
+  },
   "AU|Services PMI|2026-08-20": {
     "actual": "52.9",
     "better": false,
@@ -425,6 +447,17 @@
     "date": "2026-10-22",
     "indicator": "Services PMI",
     "previous": "51.9",
+    "unit": "",
+    "worse": false
+  },
+  "AU|Services PMI|2026-11-03": {
+    "actual": "48.5",
+    "better": true,
+    "consensus": "47.8",
+    "country": "AU",
+    "date": "2026-11-03",
+    "indicator": "Services PMI",
+    "previous": "47.8",
     "unit": "",
     "worse": false
   },
@@ -1330,17 +1363,6 @@
     "unit": "%",
     "worse": false
   },
-  "CN|Services PMI|2026-08-05": {
-    "actual": "50.4",
-    "better": false,
-    "consensus": "53.7",
-    "country": "CN",
-    "date": "2026-08-05",
-    "indicator": "Services PMI",
-    "previous": "54.1",
-    "unit": "",
-    "worse": true
-  },
   "CN|Services PMI|2026-09-03": {
     "actual": "51.4",
     "better": true,
@@ -1360,6 +1382,17 @@
     "date": "2026-09-30",
     "indicator": "Services PMI",
     "previous": "51.4",
+    "unit": "",
+    "worse": false
+  },
+  "CN|Services PMI|2026-11-04": {
+    "actual": "50.8",
+    "better": false,
+    "consensus": "",
+    "country": "CN",
+    "date": "2026-11-04",
+    "indicator": "Services PMI",
+    "previous": "51.6",
     "unit": "",
     "worse": false
   },
@@ -1580,17 +1613,6 @@
     "date": "2026-10-28",
     "indicator": "GfK Consumer Confidence Survey",
     "previous": "-30.6",
-    "unit": "",
-    "worse": false
-  },
-  "DE|HCOB Composite PMI|2026-08-05": {
-    "actual": "51.3",
-    "better": true,
-    "consensus": "51.2",
-    "country": "DE",
-    "date": "2026-08-05",
-    "indicator": "HCOB Composite PMI",
-    "previous": "51.2",
     "unit": "",
     "worse": false
   },
@@ -1912,17 +1934,6 @@
     "previous": "1.3",
     "unit": "%",
     "worse": true
-  },
-  "DE|Services PMI|2026-08-05": {
-    "actual": "49.8",
-    "better": true,
-    "consensus": "49.6",
-    "country": "DE",
-    "date": "2026-08-05",
-    "indicator": "Services PMI",
-    "previous": "49.6",
-    "unit": "",
-    "worse": false
   },
   "DE|Services PMI|2026-08-21": {
     "actual": "48.5",
@@ -2342,17 +2353,6 @@
     "unit": "%",
     "worse": false
   },
-  "EMU|HCOB Composite PMI|2026-08-05": {
-    "actual": "52",
-    "better": true,
-    "consensus": "51.9",
-    "country": "EMU",
-    "date": "2026-08-05",
-    "indicator": "HCOB Composite PMI",
-    "previous": "51.9",
-    "unit": "",
-    "worse": false
-  },
   "EMU|HCOB Composite PMI|2026-08-21": {
     "actual": "52.1",
     "better": true,
@@ -2528,17 +2528,6 @@
     "previous": "52.9",
     "unit": "",
     "worse": true
-  },
-  "EMU|PPI|2026-08-05": {
-    "actual": "-0.3",
-    "better": false,
-    "consensus": "-0.3",
-    "country": "EMU",
-    "date": "2026-08-05",
-    "indicator": "PPI",
-    "previous": "0.2",
-    "unit": "%",
-    "worse": false
   },
   "EMU|PPI|2026-09-03": {
     "actual": "1.6",
@@ -2848,17 +2837,6 @@
     "unit": "",
     "worse": false
   },
-  "ES|Services PMI|2026-08-05": {
-    "actual": "58.3",
-    "better": true,
-    "consensus": "55.3",
-    "country": "ES",
-    "date": "2026-08-05",
-    "indicator": "Services PMI",
-    "previous": "54.2",
-    "unit": "",
-    "worse": false
-  },
   "ES|Services PMI|2026-09-03": {
     "actual": "57.8",
     "better": false,
@@ -3101,17 +3079,6 @@
     "unit": "%",
     "worse": false
   },
-  "IN|HSBC Composite PMI|2026-08-05": {
-    "actual": "54.3",
-    "better": false,
-    "consensus": "54.3",
-    "country": "IN",
-    "date": "2026-08-05",
-    "indicator": "HSBC Composite PMI",
-    "previous": "54.3",
-    "unit": "",
-    "worse": false
-  },
   "IN|HSBC Composite PMI|2026-08-21": {
     "actual": "54.6",
     "better": false,
@@ -3211,17 +3178,6 @@
     "unit": "",
     "worse": false
   },
-  "IN|Rate Decision|2026-08-05": {
-    "actual": "5.25",
-    "better": false,
-    "consensus": "5.25",
-    "country": "IN",
-    "date": "2026-08-05",
-    "indicator": "Rate Decision",
-    "previous": "5.25",
-    "unit": "%",
-    "worse": false
-  },
   "IN|Rate Decision|2026-10-07": {
     "actual": "5.5",
     "better": false,
@@ -3231,17 +3187,6 @@
     "indicator": "Rate Decision",
     "previous": "5.25",
     "unit": "%",
-    "worse": false
-  },
-  "IN|Services PMI|2026-08-05": {
-    "actual": "53.3",
-    "better": true,
-    "consensus": "53.1",
-    "country": "IN",
-    "date": "2026-08-05",
-    "indicator": "Services PMI",
-    "previous": "53.1",
-    "unit": "",
     "worse": false
   },
   "IN|Services PMI|2026-08-21": {
@@ -4080,6 +4025,17 @@
     "unit": "%",
     "worse": true
   },
+  "NZ|Employment Change|2026-11-03": {
+    "actual": "-0.1",
+    "better": false,
+    "consensus": "0.4",
+    "country": "NZ",
+    "date": "2026-11-03",
+    "indicator": "Employment Change",
+    "previous": "0.5",
+    "unit": "%",
+    "worse": true
+  },
   "NZ|Exports|2026-08-20": {
     "actual": "7.39",
     "better": false,
@@ -4156,6 +4112,17 @@
     "previous": "8.0",
     "unit": "$",
     "worse": false
+  },
+  "NZ|Labour Cost Index|2026-11-03": {
+    "actual": "0.4",
+    "better": false,
+    "consensus": "0.5",
+    "country": "NZ",
+    "date": "2026-11-03",
+    "indicator": "Labour Cost Index",
+    "previous": "0.7",
+    "unit": "%",
+    "worse": true
   },
   "NZ|NZIER Business Confidence|2026-10-05": {
     "actual": "43",
@@ -4255,6 +4222,17 @@
     "previous": "-5.44",
     "unit": "$",
     "worse": false
+  },
+  "NZ|Unemployment Rate|2026-11-03": {
+    "actual": "5.7",
+    "better": false,
+    "consensus": "5.5",
+    "country": "NZ",
+    "date": "2026-11-03",
+    "indicator": "Unemployment Rate",
+    "previous": "5.6",
+    "unit": "%",
+    "worse": true
   },
   "NZ|Westpac Consumer Survey|2026-09-15": {
     "actual": "89.5",
@@ -5059,17 +5037,6 @@
     "unit": "%",
     "worse": false
   },
-  "US|ADP Jobs|2026-08-05": {
-    "actual": "44",
-    "better": false,
-    "consensus": "70",
-    "country": "US",
-    "date": "2026-08-05",
-    "indicator": "ADP Jobs",
-    "previous": "98",
-    "unit": "",
-    "worse": true
-  },
   "US|ADP Jobs|2026-08-11": {
     "actual": "8.25",
     "better": false,
@@ -5840,17 +5807,6 @@
     "unit": "",
     "worse": true
   },
-  "US|ISM Services Employment Index|2026-08-05": {
-    "actual": "47.4",
-    "better": false,
-    "consensus": "",
-    "country": "US",
-    "date": "2026-08-05",
-    "indicator": "ISM Services Employment Index",
-    "previous": "51.2",
-    "unit": "",
-    "worse": false
-  },
   "US|ISM Services Employment Index|2026-09-03": {
     "actual": "47.8",
     "better": false,
@@ -5873,17 +5829,6 @@
     "unit": "",
     "worse": false
   },
-  "US|ISM Services New Orders Index|2026-08-05": {
-    "actual": "57.2",
-    "better": false,
-    "consensus": "",
-    "country": "US",
-    "date": "2026-08-05",
-    "indicator": "ISM Services New Orders Index",
-    "previous": "55.1",
-    "unit": "",
-    "worse": false
-  },
   "US|ISM Services New Orders Index|2026-09-03": {
     "actual": "60.9",
     "better": false,
@@ -5903,17 +5848,6 @@
     "date": "2026-10-05",
     "indicator": "ISM Services New Orders Index",
     "previous": "60.9",
-    "unit": "",
-    "worse": false
-  },
-  "US|ISM Services Prices Paid|2026-08-05": {
-    "actual": "70.3",
-    "better": false,
-    "consensus": "",
-    "country": "US",
-    "date": "2026-08-05",
-    "indicator": "ISM Services Prices Paid",
-    "previous": "67.7",
     "unit": "",
     "worse": false
   },
@@ -6874,17 +6808,6 @@
     "unit": "%",
     "worse": false
   },
-  "US|S&P Global Composite PMI|2026-08-05": {
-    "actual": "54.5",
-    "better": true,
-    "consensus": "53.6",
-    "country": "US",
-    "date": "2026-08-05",
-    "indicator": "S&P Global Composite PMI",
-    "previous": "53.6",
-    "unit": "",
-    "worse": false
-  },
   "US|S&P Global Composite PMI|2026-08-21": {
     "actual": "56",
     "better": false,
@@ -6939,17 +6862,6 @@
     "previous": "58.4",
     "unit": "",
     "worse": false
-  },
-  "US|Services PMI|2026-08-05": {
-    "actual": "54.1",
-    "better": false,
-    "consensus": "54.5",
-    "country": "US",
-    "date": "2026-08-05",
-    "indicator": "Services PMI",
-    "previous": "54",
-    "unit": "",
-    "worse": true
   },
   "US|Services PMI|2026-08-21": {
     "actual": "56.8",
