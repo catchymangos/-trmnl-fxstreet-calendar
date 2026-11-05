@@ -1513,14 +1513,14 @@
     "week": "2026-W44"
   },
   "2026-W45": {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "rows": {
       "AU": {
-        "driver": "S&P Global Composite PMI",
+        "driver": "Trade Balance (MoM)",
         "driver_dir": 1,
-        "n": 3,
+        "n": 4,
         "tone": 1.0,
-        "weight": 4.4
+        "weight": 7.1
       },
       "CA": {
         "driver": "Gross Domestic Product (MoM)",
@@ -1553,9 +1553,9 @@
       "EMU": {
         "driver": "Gross Domestic Product s.a. (QoQ)",
         "driver_dir": 1,
-        "n": 5,
-        "tone": 0.233,
-        "weight": 14.6
+        "n": 4,
+        "tone": 0.304,
+        "weight": 13.8
       },
       "ES": {
         "driver": "HCOB Manufacturing PMI",
@@ -1585,13 +1585,6 @@
         "tone": -0.13,
         "weight": 13.8
       },
-      "JP": {
-        "driver": "Unemployment Rate",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 0.579,
-        "weight": 3.8
-      },
       "NZ": {
         "driver": "Employment Change",
         "driver_dir": -1,
@@ -1607,11 +1600,11 @@
         "weight": 3.0
       },
       "US": {
-        "driver": "Gross Domestic Product Annualized",
+        "driver": "ADP Employment Change",
         "driver_dir": 1,
-        "n": 15,
-        "tone": 0.1,
-        "weight": 31.1
+        "n": 8,
+        "tone": 0.107,
+        "weight": 15.9
       }
     },
     "trends": {
@@ -1654,10 +1647,6 @@
       "IT": {
         "dir": 0,
         "streak": 0
-      },
-      "JP": {
-        "dir": 1,
-        "streak": 2
       },
       "NZ": {
         "dir": -1,

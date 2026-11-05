@@ -164,17 +164,6 @@
     "unit": "",
     "worse": true
   },
-  "AU|Exports|2026-08-06": {
-    "actual": "9.6",
-    "better": false,
-    "consensus": "",
-    "country": "AU",
-    "date": "2026-08-06",
-    "indicator": "Exports",
-    "previous": "-6.9",
-    "unit": "%",
-    "worse": false
-  },
   "AU|Exports|2026-09-03": {
     "actual": "-3.3",
     "better": false,
@@ -197,6 +186,17 @@
     "unit": "%",
     "worse": false
   },
+  "AU|Exports|2026-11-05": {
+    "actual": "2.3",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-11-05",
+    "indicator": "Exports",
+    "previous": "3.7",
+    "unit": "%",
+    "worse": false
+  },
   "AU|GDP|2026-09-02": {
     "actual": "0.4",
     "better": true,
@@ -205,17 +205,6 @@
     "date": "2026-09-02",
     "indicator": "GDP",
     "previous": "0.3",
-    "unit": "%",
-    "worse": false
-  },
-  "AU|Imports|2026-08-06": {
-    "actual": "-0.2",
-    "better": false,
-    "consensus": "",
-    "country": "AU",
-    "date": "2026-08-06",
-    "indicator": "Imports",
-    "previous": "2.6",
     "unit": "%",
     "worse": false
   },
@@ -238,6 +227,17 @@
     "date": "2026-10-01",
     "indicator": "Imports",
     "previous": "-2.5",
+    "unit": "%",
+    "worse": false
+  },
+  "AU|Imports|2026-11-05": {
+    "actual": "-3.3",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-11-05",
+    "indicator": "Imports",
+    "previous": "5.8",
     "unit": "%",
     "worse": false
   },
@@ -494,17 +494,6 @@
     "unit": "%",
     "worse": false
   },
-  "AU|Trade Balance|2026-08-06": {
-    "actual": "1929",
-    "better": true,
-    "consensus": "-1100",
-    "country": "AU",
-    "date": "2026-08-06",
-    "indicator": "Trade Balance",
-    "previous": "-3018",
-    "unit": "",
-    "worse": false
-  },
   "AU|Trade Balance|2026-09-03": {
     "actual": "1923",
     "better": true,
@@ -524,6 +513,17 @@
     "date": "2026-10-01",
     "indicator": "Trade Balance",
     "previous": "1923",
+    "unit": "",
+    "worse": false
+  },
+  "AU|Trade Balance|2026-11-05": {
+    "actual": "2826.0",
+    "better": true,
+    "consensus": "1200.0",
+    "country": "AU",
+    "date": "2026-11-05",
+    "indicator": "Trade Balance",
+    "previous": "495.0",
     "unit": "",
     "worse": false
   },
@@ -1506,17 +1506,6 @@
     "unit": "",
     "worse": false
   },
-  "DE|Factory Orders n.s.a.|2026-08-06": {
-    "actual": "6.5",
-    "better": false,
-    "consensus": "",
-    "country": "DE",
-    "date": "2026-08-06",
-    "indicator": "Factory Orders n.s.a.",
-    "previous": "6.2",
-    "unit": "%",
-    "worse": false
-  },
   "DE|Factory Orders n.s.a.|2026-09-04": {
     "actual": "13.1",
     "better": false,
@@ -1536,17 +1525,6 @@
     "date": "2026-10-06",
     "indicator": "Factory Orders n.s.a.",
     "previous": "13.1",
-    "unit": "%",
-    "worse": false
-  },
-  "DE|Factory Orders s.a.|2026-08-06": {
-    "actual": "3.1",
-    "better": true,
-    "consensus": "0.3",
-    "country": "DE",
-    "date": "2026-08-06",
-    "indicator": "Factory Orders s.a.",
-    "previous": "1.9",
     "unit": "%",
     "worse": false
   },
@@ -2605,17 +2583,6 @@
     "previous": "1.6",
     "unit": "%",
     "worse": false
-  },
-  "EMU|Retail Sales|2026-08-06": {
-    "actual": "-0.3",
-    "better": false,
-    "consensus": "0.1",
-    "country": "EMU",
-    "date": "2026-08-06",
-    "indicator": "Retail Sales",
-    "previous": "0.2",
-    "unit": "%",
-    "worse": true
   },
   "EMU|Retail Sales|2026-09-04": {
     "actual": "-0.6",
@@ -3925,17 +3892,6 @@
     "previous": "0.2",
     "unit": "%",
     "worse": true
-  },
-  "MX|Rate Decision|2026-08-06": {
-    "actual": "6.5",
-    "better": false,
-    "consensus": "6.5",
-    "country": "MX",
-    "date": "2026-08-06",
-    "indicator": "Rate Decision",
-    "previous": "6.5",
-    "unit": "%",
-    "worse": false
   },
   "MX|Rate Decision|2026-09-24": {
     "actual": "6.5",
@@ -5378,17 +5334,6 @@
     "unit": "%",
     "worse": false
   },
-  "US|Challenger Job Cuts|2026-08-06": {
-    "actual": "33.429",
-    "better": false,
-    "consensus": "",
-    "country": "US",
-    "date": "2026-08-06",
-    "indicator": "Challenger Job Cuts",
-    "previous": "45.849",
-    "unit": "",
-    "worse": false
-  },
   "US|Challenger Job Cuts|2026-09-03": {
     "actual": "52.881",
     "better": false,
@@ -6049,17 +5994,6 @@
     "unit": "%",
     "worse": false
   },
-  "US|Initial Jobless Claims|2026-08-06": {
-    "actual": "199",
-    "better": true,
-    "consensus": "202",
-    "country": "US",
-    "date": "2026-08-06",
-    "indicator": "Initial Jobless Claims",
-    "previous": "197",
-    "unit": "",
-    "worse": false
-  },
   "US|Initial Jobless Claims|2026-08-13": {
     "actual": "209",
     "better": false,
@@ -6643,17 +6577,6 @@
     "unit": "",
     "worse": true
   },
-  "US|Nonfarm Productivity|2026-08-06": {
-    "actual": "1.4",
-    "better": true,
-    "consensus": "0.6",
-    "country": "US",
-    "date": "2026-08-06",
-    "indicator": "Nonfarm Productivity",
-    "previous": "0.3",
-    "unit": "%",
-    "worse": false
-  },
   "US|Nonfarm Productivity|2026-09-03": {
     "actual": "1.4",
     "better": false,
@@ -7146,17 +7069,6 @@
     "date": "2026-10-02",
     "indicator": "Unemployment Rate",
     "previous": "4.1",
-    "unit": "%",
-    "worse": true
-  },
-  "US|Unit Labor Costs|2026-08-06": {
-    "actual": "1.3",
-    "better": false,
-    "consensus": "2",
-    "country": "US",
-    "date": "2026-08-06",
-    "indicator": "Unit Labor Costs",
-    "previous": "1.8",
     "unit": "%",
     "worse": true
   },

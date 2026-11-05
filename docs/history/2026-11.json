@@ -21,6 +21,28 @@
     "unit": "%",
     "worse": false
   },
+  "AU|Exports|2026-11-05": {
+    "actual": "2.3",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-11-05",
+    "indicator": "Exports",
+    "previous": "3.7",
+    "unit": "%",
+    "worse": false
+  },
+  "AU|Imports|2026-11-05": {
+    "actual": "-3.3",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-11-05",
+    "indicator": "Imports",
+    "previous": "5.8",
+    "unit": "%",
+    "worse": false
+  },
   "AU|Rate Decision|2026-11-03": {
     "actual": "4.85",
     "better": false,
@@ -63,6 +85,17 @@
     "indicator": "TD-MI Inflation Gauge",
     "previous": "2.8",
     "unit": "%",
+    "worse": false
+  },
+  "AU|Trade Balance|2026-11-05": {
+    "actual": "2826.0",
+    "better": true,
+    "consensus": "1200.0",
+    "country": "AU",
+    "date": "2026-11-05",
+    "indicator": "Trade Balance",
+    "previous": "495.0",
+    "unit": "",
     "worse": false
   },
   "CA|BoC's Governor Macklem speech|2026-11-03": {
