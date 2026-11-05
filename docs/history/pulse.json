@@ -1546,16 +1546,16 @@
       "DE": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": 1,
-        "n": 9,
-        "tone": 0.061,
-        "weight": 29.4
+        "n": 10,
+        "tone": 0.033,
+        "weight": 30.2
       },
       "EMU": {
         "driver": "Gross Domestic Product s.a. (QoQ)",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 0.304,
-        "weight": 13.8
+        "n": 5,
+        "tone": 0.385,
+        "weight": 15.6
       },
       "ES": {
         "driver": "HCOB Manufacturing PMI",
@@ -1599,12 +1599,19 @@
         "tone": 1.0,
         "weight": 3.0
       },
+      "UK": {
+        "driver": "BoE MPC Vote Rate Hike",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.2
+      },
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": 1,
-        "n": 8,
-        "tone": 0.107,
-        "weight": 15.9
+        "n": 11,
+        "tone": 0.137,
+        "weight": 18.3
       }
     },
     "trends": {
@@ -1653,6 +1660,10 @@
         "streak": 3
       },
       "TR": {
+        "dir": 1,
+        "streak": 1
+      },
+      "UK": {
         "dir": 1,
         "streak": 1
       },

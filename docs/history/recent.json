@@ -1528,6 +1528,17 @@
     "unit": "%",
     "worse": false
   },
+  "DE|Factory Orders n.s.a.|2026-11-05": {
+    "actual": "3.3",
+    "better": false,
+    "consensus": "",
+    "country": "DE",
+    "date": "2026-11-05",
+    "indicator": "Factory Orders n.s.a.",
+    "previous": "2.7",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Factory Orders s.a.|2026-09-04": {
     "actual": "2.5",
     "better": true,
@@ -1547,6 +1558,17 @@
     "date": "2026-10-06",
     "indicator": "Factory Orders s.a.",
     "previous": "2.5",
+    "unit": "%",
+    "worse": true
+  },
+  "DE|Factory Orders s.a.|2026-11-05": {
+    "actual": "4.4",
+    "better": false,
+    "consensus": "4.8",
+    "country": "DE",
+    "date": "2026-11-05",
+    "indicator": "Factory Orders s.a.",
+    "previous": "-10.6",
     "unit": "%",
     "worse": true
   },
@@ -2581,6 +2603,17 @@
     "date": "2026-10-05",
     "indicator": "PPI",
     "previous": "1.6",
+    "unit": "%",
+    "worse": false
+  },
+  "EMU|PPI|2026-11-05": {
+    "actual": "2.5",
+    "better": true,
+    "consensus": "2.5",
+    "country": "EMU",
+    "date": "2026-11-05",
+    "indicator": "PPI",
+    "previous": "1.9",
     "unit": "%",
     "worse": false
   },
@@ -3926,6 +3959,17 @@
     "unit": "%",
     "worse": false
   },
+  "NO|Rate Decision|2026-11-05": {
+    "actual": "4.5",
+    "better": false,
+    "consensus": "4.5",
+    "country": "NO",
+    "date": "2026-11-05",
+    "indicator": "Rate Decision",
+    "previous": "4.5",
+    "unit": "%",
+    "worse": false
+  },
   "NZ|ANZ \u2013 Roy Morgan Consumer Confidence|2026-08-27": {
     "actual": "98",
     "better": false,
@@ -4410,6 +4454,17 @@
     "unit": "",
     "worse": false
   },
+  "UK|BoE MPC Vote Rate Cut|2026-11-05": {
+    "actual": "0.0",
+    "better": false,
+    "consensus": "0.0",
+    "country": "UK",
+    "date": "2026-11-05",
+    "indicator": "BoE MPC Vote Rate Cut",
+    "previous": "0.0",
+    "unit": "",
+    "worse": false
+  },
   "UK|BoE MPC Vote Rate Hike|2026-09-17": {
     "actual": "3",
     "better": false,
@@ -4421,6 +4476,17 @@
     "unit": "",
     "worse": false
   },
+  "UK|BoE MPC Vote Rate Hike|2026-11-05": {
+    "actual": "9.0",
+    "better": true,
+    "consensus": "7.0",
+    "country": "UK",
+    "date": "2026-11-05",
+    "indicator": "BoE MPC Vote Rate Hike",
+    "previous": "3.0",
+    "unit": "",
+    "worse": false
+  },
   "UK|BoE MPC Vote Rate Unchanged|2026-09-17": {
     "actual": "6",
     "better": false,
@@ -4429,6 +4495,17 @@
     "date": "2026-09-17",
     "indicator": "BoE MPC Vote Rate Unchanged",
     "previous": "6",
+    "unit": "",
+    "worse": false
+  },
+  "UK|BoE MPC Vote Rate Unchanged|2026-11-05": {
+    "actual": "0.0",
+    "better": false,
+    "consensus": "2.0",
+    "country": "UK",
+    "date": "2026-11-05",
+    "indicator": "BoE MPC Vote Rate Unchanged",
+    "previous": "6.0",
     "unit": "",
     "worse": false
   },
@@ -4894,6 +4971,17 @@
     "unit": "%",
     "worse": false
   },
+  "UK|Rate Decision|2026-11-05": {
+    "actual": "4.0",
+    "better": false,
+    "consensus": "4.0",
+    "country": "UK",
+    "date": "2026-11-05",
+    "indicator": "Rate Decision",
+    "previous": "3.75",
+    "unit": "%",
+    "worse": false
+  },
   "UK|Retail Sales|2026-08-10": {
     "actual": "1",
     "better": false,
@@ -5353,6 +5441,17 @@
     "date": "2026-10-01",
     "indicator": "Challenger Job Cuts",
     "previous": "52.881",
+    "unit": "",
+    "worse": false
+  },
+  "US|Challenger Job Cuts|2026-11-05": {
+    "actual": "43.994",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-11-05",
+    "indicator": "Challenger Job Cuts",
+    "previous": "43.281",
     "unit": "",
     "worse": false
   },
@@ -6126,6 +6225,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Initial Jobless Claims|2026-11-05": {
+    "actual": "189.0",
+    "better": true,
+    "consensus": "196.0",
+    "country": "US",
+    "date": "2026-11-05",
+    "indicator": "Initial Jobless Claims",
+    "previous": "194.0",
+    "unit": "",
+    "worse": false
+  },
   "US|Interest Rate Projections - 1st year|2026-09-16": {
     "actual": "4.1",
     "better": false,
@@ -6583,6 +6693,17 @@
     "consensus": "1.4",
     "country": "US",
     "date": "2026-09-03",
+    "indicator": "Nonfarm Productivity",
+    "previous": "1.4",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Nonfarm Productivity|2026-11-05": {
+    "actual": "3.6",
+    "better": true,
+    "consensus": "2.5",
+    "country": "US",
+    "date": "2026-11-05",
     "indicator": "Nonfarm Productivity",
     "previous": "1.4",
     "unit": "%",
@@ -7080,6 +7201,17 @@
     "date": "2026-09-03",
     "indicator": "Unit Labor Costs",
     "previous": "1.3",
+    "unit": "%",
+    "worse": true
+  },
+  "US|Unit Labor Costs|2026-11-05": {
+    "actual": "-0.7",
+    "better": false,
+    "consensus": "0.6",
+    "country": "US",
+    "date": "2026-11-05",
+    "indicator": "Unit Labor Costs",
+    "previous": "1.2",
     "unit": "%",
     "worse": true
   },
