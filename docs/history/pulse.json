@@ -1585,6 +1585,13 @@
         "tone": -0.13,
         "weight": 13.8
       },
+      "MX": {
+        "driver": "Banxico Interest Rate Decision",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 3.0
+      },
       "NZ": {
         "driver": "Employment Change",
         "driver_dir": -1,
@@ -1654,6 +1661,10 @@
       "IT": {
         "dir": 0,
         "streak": 0
+      },
+      "MX": {
+        "dir": -1,
+        "streak": 1
       },
       "NZ": {
         "dir": -1,

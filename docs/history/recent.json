@@ -3937,6 +3937,17 @@
     "unit": "%",
     "worse": false
   },
+  "MX|Rate Decision|2026-11-05": {
+    "actual": "6.25",
+    "better": false,
+    "consensus": "6.5",
+    "country": "MX",
+    "date": "2026-11-05",
+    "indicator": "Rate Decision",
+    "previous": "6.5",
+    "unit": "%",
+    "worse": true
+  },
   "NO|Rate Decision|2026-08-13": {
     "actual": "4.25",
     "better": false,
