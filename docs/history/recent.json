@@ -659,17 +659,6 @@
     "unit": "",
     "worse": false
   },
-  "CA|Employment Change|2026-08-07": {
-    "actual": "75.1",
-    "better": true,
-    "consensus": "15",
-    "country": "CA",
-    "date": "2026-08-07",
-    "indicator": "Employment Change",
-    "previous": "18.2",
-    "unit": "",
-    "worse": false
-  },
   "CA|Employment Change|2026-09-04": {
     "actual": "-41.7",
     "better": false,
@@ -689,6 +678,17 @@
     "date": "2026-10-09",
     "indicator": "Employment Change",
     "previous": "-41.7",
+    "unit": "",
+    "worse": true
+  },
+  "CA|Employment Change|2026-11-06": {
+    "actual": "-4.7",
+    "better": false,
+    "consensus": "13.6",
+    "country": "CA",
+    "date": "2026-11-06",
+    "indicator": "Employment Change",
+    "previous": "-68.3",
     "unit": "",
     "worse": true
   },
@@ -725,17 +725,6 @@
     "unit": "%",
     "worse": true
   },
-  "CA|Ivey Purchasing Managers Index s.a|2026-08-07": {
-    "actual": "55.1",
-    "better": false,
-    "consensus": "55.5",
-    "country": "CA",
-    "date": "2026-08-07",
-    "indicator": "Ivey Purchasing Managers Index s.a",
-    "previous": "56.2",
-    "unit": "",
-    "worse": true
-  },
   "CA|Ivey Purchasing Managers Index s.a|2026-09-04": {
     "actual": "64.3",
     "better": true,
@@ -757,17 +746,6 @@
     "previous": "64.3",
     "unit": "",
     "worse": true
-  },
-  "CA|Ivey Purchasing Managers Index|2026-08-07": {
-    "actual": "54.1",
-    "better": false,
-    "consensus": "",
-    "country": "CA",
-    "date": "2026-08-07",
-    "indicator": "Ivey Purchasing Managers Index",
-    "previous": "59.7",
-    "unit": "",
-    "worse": false
   },
   "CA|Ivey Purchasing Managers Index|2026-09-04": {
     "actual": "62.7",
@@ -879,17 +857,6 @@
     "unit": "%",
     "worse": true
   },
-  "CA|Unemployment Rate|2026-08-07": {
-    "actual": "6.4",
-    "better": true,
-    "consensus": "6.5",
-    "country": "CA",
-    "date": "2026-08-07",
-    "indicator": "Unemployment Rate",
-    "previous": "6.5",
-    "unit": "%",
-    "worse": false
-  },
   "CA|Unemployment Rate|2026-09-04": {
     "actual": "6.4",
     "better": false,
@@ -912,16 +879,16 @@
     "unit": "%",
     "worse": false
   },
-  "CA|Wage Growth|2026-08-07": {
-    "actual": "3",
+  "CA|Unemployment Rate|2026-11-06": {
+    "actual": "6.7",
     "better": false,
-    "consensus": "",
+    "consensus": "6.5",
     "country": "CA",
-    "date": "2026-08-07",
-    "indicator": "Wage Growth",
-    "previous": "3.7",
+    "date": "2026-11-06",
+    "indicator": "Unemployment Rate",
+    "previous": "6.5",
     "unit": "%",
-    "worse": false
+    "worse": true
   },
   "CA|Wage Growth|2026-09-04": {
     "actual": "2",
@@ -942,6 +909,17 @@
     "date": "2026-10-09",
     "indicator": "Wage Growth",
     "previous": "2",
+    "unit": "%",
+    "worse": false
+  },
+  "CA|Wage Growth|2026-11-06": {
+    "actual": "2.0",
+    "better": false,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-11-06",
+    "indicator": "Wage Growth",
+    "previous": "2.3",
     "unit": "%",
     "worse": false
   },
@@ -1110,17 +1088,6 @@
     "unit": "%",
     "worse": true
   },
-  "CN|Exports|2026-08-07": {
-    "actual": "23.9",
-    "better": true,
-    "consensus": "22.2",
-    "country": "CN",
-    "date": "2026-08-07",
-    "indicator": "Exports",
-    "previous": "27",
-    "unit": "%",
-    "worse": false
-  },
   "CN|Exports|2026-09-08": {
     "actual": "25",
     "better": false,
@@ -1153,17 +1120,6 @@
     "previous": "0.9",
     "unit": "%",
     "worse": false
-  },
-  "CN|Imports|2026-08-07": {
-    "actual": "27.5",
-    "better": false,
-    "consensus": "27.9",
-    "country": "CN",
-    "date": "2026-08-07",
-    "indicator": "Imports",
-    "previous": "36",
-    "unit": "%",
-    "worse": true
   },
   "CN|Imports|2026-09-08": {
     "actual": "28.2",
@@ -1404,17 +1360,6 @@
     "date": "2026-11-04",
     "indicator": "Services PMI",
     "previous": "51.6",
-    "unit": "",
-    "worse": false
-  },
-  "CN|Trade Balance|2026-08-07": {
-    "actual": "767.07",
-    "better": true,
-    "consensus": "740",
-    "country": "CN",
-    "date": "2026-08-07",
-    "indicator": "Trade Balance",
-    "previous": "859.05",
     "unit": "",
     "worse": false
   },
@@ -1726,17 +1671,6 @@
     "unit": "",
     "worse": false
   },
-  "DE|Industrial Production|2026-08-07": {
-    "actual": "-0.1",
-    "better": true,
-    "consensus": "",
-    "country": "DE",
-    "date": "2026-08-07",
-    "indicator": "Industrial Production",
-    "previous": "0",
-    "unit": "%",
-    "worse": false
-  },
   "DE|Industrial Production|2026-09-07": {
     "actual": "-1.6",
     "better": false,
@@ -1756,6 +1690,17 @@
     "date": "2026-10-07",
     "indicator": "Industrial Production",
     "previous": "-1.6",
+    "unit": "%",
+    "worse": false
+  },
+  "DE|Industrial Production|2026-11-06": {
+    "actual": "0.4",
+    "better": true,
+    "consensus": "",
+    "country": "DE",
+    "date": "2026-11-06",
+    "indicator": "Industrial Production",
+    "previous": "2.3",
     "unit": "%",
     "worse": false
   },
@@ -2022,17 +1967,6 @@
     "previous": "51.7",
     "unit": "",
     "worse": false
-  },
-  "DE|Trade Balance|2026-08-07": {
-    "actual": "15.4",
-    "better": false,
-    "consensus": "17.4",
-    "country": "DE",
-    "date": "2026-08-07",
-    "indicator": "Trade Balance",
-    "previous": "19.1",
-    "unit": "\u20ac",
-    "worse": true
   },
   "DE|Trade Balance|2026-09-08": {
     "actual": "21.3",
@@ -2636,6 +2570,17 @@
     "date": "2026-10-06",
     "indicator": "Retail Sales",
     "previous": "-0.6",
+    "unit": "%",
+    "worse": true
+  },
+  "EMU|Retail Sales|2026-11-06": {
+    "actual": "-0.7",
+    "better": false,
+    "consensus": "-0.1",
+    "country": "EMU",
+    "date": "2026-11-06",
+    "indicator": "Retail Sales",
+    "previous": "0.1",
     "unit": "%",
     "worse": true
   },
@@ -3651,6 +3596,17 @@
     "unit": "%",
     "worse": false
   },
+  "JP|Labor Cash Earnings|2026-11-05": {
+    "actual": "4.6",
+    "better": true,
+    "consensus": "3.8",
+    "country": "JP",
+    "date": "2026-11-05",
+    "indicator": "Labor Cash Earnings",
+    "previous": "3.8",
+    "unit": "%",
+    "worse": false
+  },
   "JP|Large Retailer Sales|2026-08-30": {
     "actual": "1.4",
     "better": false,
@@ -3890,17 +3846,6 @@
     "date": "2026-10-22",
     "indicator": "Rate Decision",
     "previous": "3.0",
-    "unit": "%",
-    "worse": false
-  },
-  "MX|Headline Inflation|2026-08-07": {
-    "actual": "0.03",
-    "better": false,
-    "consensus": "0.03",
-    "country": "MX",
-    "date": "2026-08-07",
-    "indicator": "Headline Inflation",
-    "previous": "-0.27",
     "unit": "%",
     "worse": false
   },
@@ -5334,17 +5279,6 @@
     "unit": "",
     "worse": false
   },
-  "US|Average Hourly Earnings|2026-08-07": {
-    "actual": "0.1",
-    "better": false,
-    "consensus": "0.3",
-    "country": "US",
-    "date": "2026-08-07",
-    "indicator": "Average Hourly Earnings",
-    "previous": "0.3",
-    "unit": "%",
-    "worse": true
-  },
   "US|Average Hourly Earnings|2026-09-04": {
     "actual": "0.3",
     "better": true,
@@ -5366,6 +5300,17 @@
     "previous": "0.3",
     "unit": "%",
     "worse": true
+  },
+  "US|Average Hourly Earnings|2026-11-06": {
+    "actual": "0.4",
+    "better": true,
+    "consensus": "0.3",
+    "country": "US",
+    "date": "2026-11-06",
+    "indicator": "Average Hourly Earnings",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": false
   },
   "US|Building Permits|2026-08-18": {
     "actual": "1.443",
@@ -5664,17 +5609,6 @@
     "unit": "%",
     "worse": false
   },
-  "US|Employment Change|2026-08-07": {
-    "actual": "61.4",
-    "better": false,
-    "consensus": "",
-    "country": "US",
-    "date": "2026-08-07",
-    "indicator": "Employment Change",
-    "previous": "61.5",
-    "unit": "%",
-    "worse": false
-  },
   "US|Employment Change|2026-09-04": {
     "actual": "61.6",
     "better": false,
@@ -5694,6 +5628,17 @@
     "date": "2026-10-02",
     "indicator": "Employment Change",
     "previous": "61.6",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Employment Change|2026-11-06": {
+    "actual": "61.9",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-11-06",
+    "indicator": "Employment Change",
+    "previous": "61.8",
     "unit": "%",
     "worse": false
   },
@@ -6665,17 +6610,6 @@
     "unit": "%",
     "worse": false
   },
-  "US|Nonfarm Payrolls|2026-08-07": {
-    "actual": "-23",
-    "better": false,
-    "consensus": "80",
-    "country": "US",
-    "date": "2026-08-07",
-    "indicator": "Nonfarm Payrolls",
-    "previous": "57",
-    "unit": "",
-    "worse": true
-  },
   "US|Nonfarm Payrolls|2026-09-04": {
     "actual": "162",
     "better": true,
@@ -6697,6 +6631,17 @@
     "previous": "162",
     "unit": "",
     "worse": true
+  },
+  "US|Nonfarm Payrolls|2026-11-06": {
+    "actual": "165.0",
+    "better": true,
+    "consensus": "65.0",
+    "country": "US",
+    "date": "2026-11-06",
+    "indicator": "Nonfarm Payrolls",
+    "previous": "29.0",
+    "unit": "",
+    "worse": false
   },
   "US|Nonfarm Productivity|2026-09-03": {
     "actual": "1.4",
@@ -7138,17 +7083,6 @@
     "unit": "",
     "worse": true
   },
-  "US|U6 Underemployment Rate|2026-08-07": {
-    "actual": "7.9",
-    "better": false,
-    "consensus": "",
-    "country": "US",
-    "date": "2026-08-07",
-    "indicator": "U6 Underemployment Rate",
-    "previous": "7.9",
-    "unit": "%",
-    "worse": false
-  },
   "US|U6 Underemployment Rate|2026-09-04": {
     "actual": "7.7",
     "better": false,
@@ -7171,14 +7105,14 @@
     "unit": "%",
     "worse": false
   },
-  "US|Unemployment Rate|2026-08-07": {
-    "actual": "4.1",
-    "better": true,
-    "consensus": "4.2",
+  "US|U6 Underemployment Rate|2026-11-06": {
+    "actual": "7.9",
+    "better": false,
+    "consensus": "",
     "country": "US",
-    "date": "2026-08-07",
-    "indicator": "Unemployment Rate",
-    "previous": "4.2",
+    "date": "2026-11-06",
+    "indicator": "U6 Underemployment Rate",
+    "previous": "7.6",
     "unit": "%",
     "worse": false
   },
@@ -7203,6 +7137,17 @@
     "previous": "4.1",
     "unit": "%",
     "worse": true
+  },
+  "US|Unemployment Rate|2026-11-06": {
+    "actual": "4.1",
+    "better": true,
+    "consensus": "4.2",
+    "country": "US",
+    "date": "2026-11-06",
+    "indicator": "Unemployment Rate",
+    "previous": "4.2",
+    "unit": "%",
+    "worse": false
   },
   "US|Unit Labor Costs|2026-09-03": {
     "actual": "1.2",

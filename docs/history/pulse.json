@@ -1513,7 +1513,7 @@
     "week": "2026-W44"
   },
   "2026-W45": {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "rows": {
       "AU": {
         "driver": "Trade Balance (MoM)",
@@ -1523,11 +1523,11 @@
         "weight": 7.1
       },
       "CA": {
-        "driver": "Gross Domestic Product (MoM)",
+        "driver": "Net Change in Employment",
         "driver_dir": -1,
-        "n": 1,
+        "n": 2,
         "tone": -1.0,
-        "weight": 3.0
+        "weight": 9.0
       },
       "CH": {
         "driver": "Consumer Price Index (YoY)",
@@ -1544,18 +1544,18 @@
         "weight": 2.7
       },
       "DE": {
-        "driver": "Gross Domestic Product (QoQ)",
-        "driver_dir": 1,
-        "n": 10,
-        "tone": 0.033,
-        "weight": 30.2
+        "driver": "Retail Sales (MoM)",
+        "driver_dir": -1,
+        "n": 5,
+        "tone": 0.35,
+        "weight": 8.0
       },
       "EMU": {
-        "driver": "Gross Domestic Product s.a. (QoQ)",
-        "driver_dir": 1,
-        "n": 5,
-        "tone": 0.385,
-        "weight": 15.6
+        "driver": "Retail Sales (YoY)",
+        "driver_dir": -1,
+        "n": 4,
+        "tone": -0.556,
+        "weight": 8.1
       },
       "ES": {
         "driver": "HCOB Manufacturing PMI",
@@ -1563,13 +1563,6 @@
         "n": 1,
         "tone": 1.0,
         "weight": 1.8
-      },
-      "FR": {
-        "driver": "Gross Domestic Product (QoQ)",
-        "driver_dir": -1,
-        "n": 2,
-        "tone": 0.0,
-        "weight": 6.0
       },
       "IN": {
         "driver": "HSBC Composite PMI",
@@ -1579,11 +1572,18 @@
         "weight": 3.6
       },
       "IT": {
-        "driver": "Gross Domestic Product (QoQ)",
+        "driver": "HCOB Manufacturing PMI",
         "driver_dir": -1,
-        "n": 5,
-        "tone": -0.13,
-        "weight": 13.8
+        "n": 1,
+        "tone": -1.0,
+        "weight": 1.8
+      },
+      "JP": {
+        "driver": "Labor Cash Earnings (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 0.8
       },
       "MX": {
         "driver": "Banxico Interest Rate Decision",
@@ -1616,9 +1616,9 @@
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": 1,
-        "n": 11,
-        "tone": 0.137,
-        "weight": 18.3
+        "n": 14,
+        "tone": 0.533,
+        "weight": 30.4
       }
     },
     "trends": {
@@ -1639,28 +1639,28 @@
         "streak": 1
       },
       "DE": {
-        "dir": 0,
-        "streak": 0
+        "dir": 1,
+        "streak": 1
       },
       "EMU": {
-        "dir": 1,
-        "streak": 2
+        "dir": -1,
+        "streak": 1
       },
       "ES": {
         "dir": 1,
         "streak": 1
-      },
-      "FR": {
-        "dir": 0,
-        "streak": 0
       },
       "IN": {
         "dir": -1,
         "streak": 1
       },
       "IT": {
-        "dir": 0,
-        "streak": 0
+        "dir": -1,
+        "streak": 1
+      },
+      "JP": {
+        "dir": 1,
+        "streak": 2
       },
       "MX": {
         "dir": -1,
@@ -1679,8 +1679,8 @@
         "streak": 1
       },
       "US": {
-        "dir": 0,
-        "streak": 0
+        "dir": 1,
+        "streak": 1
       }
     },
     "week": "2026-W45"
