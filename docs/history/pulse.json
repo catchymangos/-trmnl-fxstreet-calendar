@@ -1525,9 +1525,9 @@
       "CA": {
         "driver": "Net Change in Employment",
         "driver_dir": -1,
-        "n": 2,
-        "tone": -1.0,
-        "weight": 9.0
+        "n": 3,
+        "tone": -0.667,
+        "weight": 10.8
       },
       "CH": {
         "driver": "Consumer Price Index (YoY)",
@@ -1616,9 +1616,9 @@
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": 1,
-        "n": 14,
-        "tone": 0.533,
-        "weight": 30.4
+        "n": 15,
+        "tone": 0.551,
+        "weight": 31.6
       }
     },
     "trends": {

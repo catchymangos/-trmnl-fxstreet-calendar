@@ -120,6 +120,28 @@
     "unit": "",
     "worse": true
   },
+  "CA|Ivey Purchasing Managers Index s.a|2026-11-06": {
+    "actual": "58.3",
+    "better": true,
+    "consensus": "58.0",
+    "country": "CA",
+    "date": "2026-11-06",
+    "indicator": "Ivey Purchasing Managers Index s.a",
+    "previous": "58.2",
+    "unit": "",
+    "worse": false
+  },
+  "CA|Ivey Purchasing Managers Index|2026-11-06": {
+    "actual": "56.4",
+    "better": false,
+    "consensus": "",
+    "country": "CA",
+    "date": "2026-11-06",
+    "indicator": "Ivey Purchasing Managers Index",
+    "previous": "61.9",
+    "unit": "",
+    "worse": false
+  },
   "CA|Manufacturing PMI|2026-11-02": {
     "actual": "49.6",
     "better": false,
@@ -681,6 +703,28 @@
     "unit": "",
     "worse": false
   },
+  "US|Michigan Consumer Expectations Index|2026-11-06": {
+    "actual": "50.9",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-11-06",
+    "indicator": "Michigan Consumer Expectations Index",
+    "previous": "48.8",
+    "unit": "",
+    "worse": false
+  },
+  "US|Michigan Consumer Sentiment Index|2026-11-06": {
+    "actual": "51.0",
+    "better": true,
+    "consensus": "48.0",
+    "country": "US",
+    "date": "2026-11-06",
+    "indicator": "Michigan Consumer Sentiment Index",
+    "previous": "48.0",
+    "unit": "",
+    "worse": false
+  },
   "US|Nonfarm Payrolls|2026-11-06": {
     "actual": "165.0",
     "better": true,
@@ -757,5 +801,27 @@
     "previous": "1.2",
     "unit": "%",
     "worse": true
+  },
+  "US|UoM 1-year Consumer Inflation Expectations|2026-11-06": {
+    "actual": "4.3",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-11-06",
+    "indicator": "UoM 1-year Consumer Inflation Expectations",
+    "previous": "4.7",
+    "unit": "%",
+    "worse": false
+  },
+  "US|UoM 5-year Consumer Inflation Expectation|2026-11-06": {
+    "actual": "3.4",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-11-06",
+    "indicator": "UoM 5-year Consumer Inflation Expectation",
+    "previous": "3.5",
+    "unit": "%",
+    "worse": false
   }
 }
