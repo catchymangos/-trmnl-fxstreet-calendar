@@ -1077,17 +1077,6 @@
     "unit": "",
     "worse": false
   },
-  "CN|CPI|2026-08-09": {
-    "actual": "-0.1",
-    "better": false,
-    "consensus": "0.2",
-    "country": "CN",
-    "date": "2026-08-09",
-    "indicator": "CPI",
-    "previous": "-0.3",
-    "unit": "%",
-    "worse": true
-  },
   "CN|CPI|2026-09-09": {
     "actual": "0.4",
     "better": true,
@@ -1252,17 +1241,6 @@
     "previous": "52.1",
     "unit": "",
     "worse": false
-  },
-  "CN|PPI|2026-08-09": {
-    "actual": "3.5",
-    "better": false,
-    "consensus": "3.8",
-    "country": "CN",
-    "date": "2026-08-09",
-    "indicator": "PPI",
-    "previous": "4.1",
-    "unit": "%",
-    "worse": true
   },
   "CN|PPI|2026-09-09": {
     "actual": "3.8",
@@ -3474,17 +3452,6 @@
     "previous": "2.7",
     "unit": "%",
     "worse": false
-  },
-  "JP|Current Account n.s.a.|2026-08-09": {
-    "actual": "-92.3",
-    "better": false,
-    "consensus": "1512",
-    "country": "JP",
-    "date": "2026-08-09",
-    "indicator": "Current Account n.s.a.",
-    "previous": "3968.3",
-    "unit": "\u00a5",
-    "worse": true
   },
   "JP|Current Account n.s.a.|2026-09-07": {
     "actual": "2988",
