@@ -1099,6 +1099,17 @@
     "unit": "%",
     "worse": true
   },
+  "CN|CPI|2026-11-09": {
+    "actual": "0.0",
+    "better": false,
+    "consensus": "0.0",
+    "country": "CN",
+    "date": "2026-11-09",
+    "indicator": "CPI",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": true
+  },
   "CN|Exports|2026-09-08": {
     "actual": "25",
     "better": false,
@@ -1261,6 +1272,17 @@
     "date": "2026-10-14",
     "indicator": "PPI",
     "previous": "3.8",
+    "unit": "%",
+    "worse": false
+  },
+  "CN|PPI|2026-11-09": {
+    "actual": "5.7",
+    "better": true,
+    "consensus": "5.3",
+    "country": "CN",
+    "date": "2026-11-09",
+    "indicator": "PPI",
+    "previous": "5.0",
     "unit": "%",
     "worse": false
   },
@@ -1990,6 +2012,17 @@
     "unit": "\u20ac",
     "worse": false
   },
+  "DE|Trade Balance|2026-11-09": {
+    "actual": "15.6",
+    "better": false,
+    "consensus": "19.2",
+    "country": "DE",
+    "date": "2026-11-09",
+    "indicator": "Trade Balance",
+    "previous": "19.5",
+    "unit": "\u20ac",
+    "worse": true
+  },
   "DE|Unemployment Rate|2026-08-28": {
     "actual": "6.4",
     "better": false,
@@ -2584,17 +2617,6 @@
     "unit": "%",
     "worse": true
   },
-  "EMU|Sentix Investor Confidence|2026-08-10": {
-    "actual": "0.9",
-    "better": false,
-    "consensus": "",
-    "country": "EMU",
-    "date": "2026-08-10",
-    "indicator": "Sentix Investor Confidence",
-    "previous": "-3.1",
-    "unit": "",
-    "worse": false
-  },
   "EMU|Sentix Investor Confidence|2026-09-07": {
     "actual": "5.1",
     "better": false,
@@ -2614,6 +2636,17 @@
     "date": "2026-10-05",
     "indicator": "Sentix Investor Confidence",
     "previous": "5.1",
+    "unit": "",
+    "worse": false
+  },
+  "EMU|Sentix Investor Confidence|2026-11-09": {
+    "actual": "2.4",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-11-09",
+    "indicator": "Sentix Investor Confidence",
+    "previous": "2.7",
     "unit": "",
     "worse": false
   },
@@ -3046,17 +3079,6 @@
     "unit": "",
     "worse": true
   },
-  "ID|Consumer Confidence|2026-08-10": {
-    "actual": "116.8",
-    "better": false,
-    "consensus": "",
-    "country": "ID",
-    "date": "2026-08-10",
-    "indicator": "Consumer Confidence",
-    "previous": "117.8",
-    "unit": "",
-    "worse": false
-  },
   "ID|Consumer Confidence|2026-09-10": {
     "actual": "118.5",
     "better": false,
@@ -3076,6 +3098,17 @@
     "date": "2026-10-08",
     "indicator": "Consumer Confidence",
     "previous": "118.5",
+    "unit": "",
+    "worse": false
+  },
+  "ID|Consumer Confidence|2026-11-09": {
+    "actual": "119.9",
+    "better": false,
+    "consensus": "",
+    "country": "ID",
+    "date": "2026-11-09",
+    "indicator": "Consumer Confidence",
+    "previous": "118.1",
     "unit": "",
     "worse": false
   },
@@ -3859,6 +3892,17 @@
     "previous": "0.2",
     "unit": "%",
     "worse": true
+  },
+  "MX|Headline Inflation|2026-11-09": {
+    "actual": "0.65",
+    "better": true,
+    "consensus": "0.55",
+    "country": "MX",
+    "date": "2026-11-09",
+    "indicator": "Headline Inflation",
+    "previous": "0.42",
+    "unit": "%",
+    "worse": false
   },
   "MX|Rate Decision|2026-09-24": {
     "actual": "6.5",
@@ -4926,17 +4970,6 @@
     "previous": "3.75",
     "unit": "%",
     "worse": false
-  },
-  "UK|Retail Sales|2026-08-10": {
-    "actual": "1",
-    "better": false,
-    "consensus": "1.5",
-    "country": "UK",
-    "date": "2026-08-10",
-    "indicator": "Retail Sales",
-    "previous": "1.7",
-    "unit": "%",
-    "worse": true
   },
   "UK|Retail Sales|2026-08-21": {
     "actual": "-0.5",

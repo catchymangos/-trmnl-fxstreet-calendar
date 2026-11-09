@@ -1684,5 +1684,156 @@
       }
     },
     "week": "2026-W45"
+  },
+  "2026-W46": {
+    "date": "2026-11-09",
+    "rows": {
+      "AU": {
+        "driver": "Trade Balance (MoM)",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 1.0,
+        "weight": 6.3
+      },
+      "CA": {
+        "driver": "Net Change in Employment",
+        "driver_dir": -1,
+        "n": 3,
+        "tone": -0.667,
+        "weight": 10.8
+      },
+      "CH": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 7.5
+      },
+      "CN": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -0.429,
+        "weight": 6.3
+      },
+      "DE": {
+        "driver": "HCOB Composite PMI",
+        "driver_dir": 1,
+        "n": 5,
+        "tone": 0.35,
+        "weight": 8.0
+      },
+      "EMU": {
+        "driver": "Retail Sales (YoY)",
+        "driver_dir": -1,
+        "n": 4,
+        "tone": -0.556,
+        "weight": 8.1
+      },
+      "IN": {
+        "driver": "HSBC Composite PMI",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 3.6
+      },
+      "JP": {
+        "driver": "Labor Cash Earnings (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 0.8
+      },
+      "MX": {
+        "driver": "Banxico Interest Rate Decision",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -0.579,
+        "weight": 3.8
+      },
+      "NZ": {
+        "driver": "Employment Change",
+        "driver_dir": -1,
+        "n": 4,
+        "tone": -1.0,
+        "weight": 10.6
+      },
+      "TR": {
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 3.0
+      },
+      "UK": {
+        "driver": "BoE MPC Vote Rate Hike",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.2
+      },
+      "US": {
+        "driver": "ADP Employment Change",
+        "driver_dir": 1,
+        "n": 13,
+        "tone": 0.609,
+        "weight": 27.1
+      }
+    },
+    "trends": {
+      "AU": {
+        "dir": 1,
+        "streak": 3
+      },
+      "CA": {
+        "dir": -1,
+        "streak": 4
+      },
+      "CH": {
+        "dir": 1,
+        "streak": 2
+      },
+      "CN": {
+        "dir": -1,
+        "streak": 1
+      },
+      "DE": {
+        "dir": 1,
+        "streak": 2
+      },
+      "EMU": {
+        "dir": -1,
+        "streak": 2
+      },
+      "IN": {
+        "dir": -1,
+        "streak": 2
+      },
+      "JP": {
+        "dir": 1,
+        "streak": 3
+      },
+      "MX": {
+        "dir": -1,
+        "streak": 2
+      },
+      "NZ": {
+        "dir": -1,
+        "streak": 4
+      },
+      "TR": {
+        "dir": 1,
+        "streak": 2
+      },
+      "UK": {
+        "dir": 1,
+        "streak": 2
+      },
+      "US": {
+        "dir": 1,
+        "streak": 2
+      }
+    },
+    "week": "2026-W46"
   }
 }
