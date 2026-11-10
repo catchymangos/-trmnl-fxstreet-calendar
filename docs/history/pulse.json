@@ -1705,9 +1705,9 @@
       "CN": {
         "driver": "Consumer Price Index (YoY)",
         "driver_dir": -1,
-        "n": 2,
-        "tone": -0.429,
-        "weight": 6.3
+        "n": 6,
+        "tone": -0.409,
+        "weight": 11.5
       },
       "DE": {
         "driver": "HCOB Composite PMI",
@@ -1754,9 +1754,9 @@
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": 1,
-        "n": 11,
-        "tone": 0.584,
-        "weight": 25.5
+        "n": 13,
+        "tone": 0.693,
+        "weight": 34.5
       }
     },
     "trends": {

@@ -1132,6 +1132,17 @@
     "unit": "%",
     "worse": false
   },
+  "CN|Exports|2026-11-10": {
+    "actual": "35.2",
+    "better": true,
+    "consensus": "33.5",
+    "country": "CN",
+    "date": "2026-11-10",
+    "indicator": "Exports",
+    "previous": "36.3",
+    "unit": "%",
+    "worse": false
+  },
   "CN|GDP|2026-10-19": {
     "actual": "1.2",
     "better": true,
@@ -1162,6 +1173,17 @@
     "date": "2026-10-14",
     "indicator": "Imports",
     "previous": "28.2",
+    "unit": "%",
+    "worse": false
+  },
+  "CN|Imports|2026-11-10": {
+    "actual": "41.6",
+    "better": true,
+    "consensus": "32.0",
+    "country": "CN",
+    "date": "2026-11-10",
+    "indicator": "Imports",
+    "previous": "31.0",
     "unit": "%",
     "worse": false
   },
@@ -1406,6 +1428,17 @@
     "previous": "809.3",
     "unit": "",
     "worse": false
+  },
+  "CN|Trade Balance|2026-11-10": {
+    "actual": "712.78",
+    "better": false,
+    "consensus": "859.0",
+    "country": "CN",
+    "date": "2026-11-10",
+    "indicator": "Trade Balance",
+    "previous": "905.97",
+    "unit": "",
+    "worse": true
   },
   "DE|CPI|2026-08-31": {
     "actual": "0.2",
@@ -5312,6 +5345,17 @@
     "unit": "",
     "worse": false
   },
+  "US|ADP Jobs|2026-11-10": {
+    "actual": "19.75",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-11-10",
+    "indicator": "ADP Jobs",
+    "previous": "16.8",
+    "unit": "",
+    "worse": false
+  },
   "US|Average Hourly Earnings|2026-09-04": {
     "actual": "0.3",
     "better": true,
@@ -5408,6 +5452,17 @@
     "date": "2026-10-14",
     "indicator": "CPI",
     "previous": "0.4",
+    "unit": "%",
+    "worse": false
+  },
+  "US|CPI|2026-11-10": {
+    "actual": "0.4",
+    "better": true,
+    "consensus": "0.3",
+    "country": "US",
+    "date": "2026-11-10",
+    "indicator": "CPI",
+    "previous": "0.6",
     "unit": "%",
     "worse": false
   },
