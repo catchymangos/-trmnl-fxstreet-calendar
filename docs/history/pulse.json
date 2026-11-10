@@ -1686,14 +1686,14 @@
     "week": "2026-W45"
   },
   "2026-W46": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "rows": {
       "AU": {
         "driver": "Trade Balance (MoM)",
         "driver_dir": 1,
-        "n": 3,
+        "n": 1,
         "tone": 1.0,
-        "weight": 6.3
+        "weight": 2.7
       },
       "CA": {
         "driver": "Net Change in Employment",
@@ -1701,13 +1701,6 @@
         "n": 3,
         "tone": -0.667,
         "weight": 10.8
-      },
-      "CH": {
-        "driver": "Consumer Price Index (YoY)",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 1.0,
-        "weight": 7.5
       },
       "CN": {
         "driver": "Consumer Price Index (YoY)",
@@ -1740,9 +1733,9 @@
       "JP": {
         "driver": "Labor Cash Earnings (YoY)",
         "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 0.8
+        "n": 2,
+        "tone": 0.0,
+        "weight": 1.6
       },
       "MX": {
         "driver": "Banxico Interest Rate Decision",
@@ -1751,33 +1744,19 @@
         "tone": -0.579,
         "weight": 3.8
       },
-      "NZ": {
-        "driver": "Employment Change",
-        "driver_dir": -1,
-        "n": 4,
-        "tone": -1.0,
-        "weight": 10.6
-      },
-      "TR": {
-        "driver": "Consumer Price Index (YoY)",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 3.0
-      },
       "UK": {
-        "driver": "BoE MPC Vote Rate Hike",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 1.2
+        "driver": "BRC Like-For-Like Retail Sales (YoY)",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -0.2,
+        "weight": 3.0
       },
       "US": {
         "driver": "ADP Employment Change",
         "driver_dir": 1,
-        "n": 13,
-        "tone": 0.609,
-        "weight": 27.1
+        "n": 11,
+        "tone": 0.584,
+        "weight": 25.5
       }
     },
     "trends": {
@@ -1788,10 +1767,6 @@
       "CA": {
         "dir": -1,
         "streak": 4
-      },
-      "CH": {
-        "dir": 1,
-        "streak": 2
       },
       "CN": {
         "dir": -1,
@@ -1810,24 +1785,16 @@
         "streak": 2
       },
       "JP": {
-        "dir": 1,
-        "streak": 3
+        "dir": 0,
+        "streak": 0
       },
       "MX": {
         "dir": -1,
         "streak": 2
       },
-      "NZ": {
-        "dir": -1,
-        "streak": 4
-      },
-      "TR": {
-        "dir": 1,
-        "streak": 2
-      },
       "UK": {
-        "dir": 1,
-        "streak": 2
+        "dir": -1,
+        "streak": 1
       },
       "US": {
         "dir": 1,

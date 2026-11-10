@@ -98,6 +98,17 @@
     "unit": "",
     "worse": false
   },
+  "AU|Westpac Consumer Confidence|2026-11-09": {
+    "actual": "-2.7",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-11-09",
+    "indicator": "Westpac Consumer Confidence",
+    "previous": "-4.7",
+    "unit": "%",
+    "worse": false
+  },
   "CA|BoC's Governor Macklem speech|2026-11-03": {
     "actual": "0.0",
     "better": false,
@@ -461,6 +472,17 @@
     "unit": "",
     "worse": true
   },
+  "JP|Current Account n.s.a.|2026-11-09": {
+    "actual": "2372.0",
+    "better": false,
+    "consensus": "3354.4",
+    "country": "JP",
+    "date": "2026-11-09",
+    "indicator": "Current Account n.s.a.",
+    "previous": "4062.0",
+    "unit": "\u00a5",
+    "worse": true
+  },
   "JP|Labor Cash Earnings|2026-11-05": {
     "actual": "4.6",
     "better": true,
@@ -614,6 +636,17 @@
     "previous": "3.75",
     "unit": "%",
     "worse": false
+  },
+  "UK|Retail Sales|2026-11-10": {
+    "actual": "1.1",
+    "better": false,
+    "consensus": "1.2",
+    "country": "UK",
+    "date": "2026-11-10",
+    "indicator": "Retail Sales",
+    "previous": "1.0",
+    "unit": "%",
+    "worse": true
   },
   "US|ADP Jobs|2026-11-04": {
     "actual": "86.0",

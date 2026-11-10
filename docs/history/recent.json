@@ -296,17 +296,6 @@
     "unit": "%",
     "worse": true
   },
-  "AU|Rate Decision|2026-08-11": {
-    "actual": "4.35",
-    "better": false,
-    "consensus": "4.35",
-    "country": "AU",
-    "date": "2026-08-11",
-    "indicator": "Rate Decision",
-    "previous": "4.35",
-    "unit": "%",
-    "worse": false
-  },
   "AU|Rate Decision|2026-09-29": {
     "actual": "4.6",
     "better": false,
@@ -601,6 +590,17 @@
     "date": "2026-10-05",
     "indicator": "Westpac Consumer Confidence",
     "previous": "-5.2",
+    "unit": "%",
+    "worse": false
+  },
+  "AU|Westpac Consumer Confidence|2026-11-09": {
+    "actual": "-2.7",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-11-09",
+    "indicator": "Westpac Consumer Confidence",
+    "previous": "-4.7",
     "unit": "%",
     "worse": false
   },
@@ -3508,6 +3508,17 @@
     "unit": "\u00a5",
     "worse": false
   },
+  "JP|Current Account n.s.a.|2026-11-09": {
+    "actual": "2372.0",
+    "better": false,
+    "consensus": "3354.4",
+    "country": "JP",
+    "date": "2026-11-09",
+    "indicator": "Current Account n.s.a.",
+    "previous": "4062.0",
+    "unit": "\u00a5",
+    "worse": true
+  },
   "JP|Exports|2026-08-19": {
     "actual": "23.2",
     "better": true,
@@ -5026,6 +5037,17 @@
     "unit": "%",
     "worse": true
   },
+  "UK|Retail Sales|2026-11-10": {
+    "actual": "1.1",
+    "better": false,
+    "consensus": "1.2",
+    "country": "UK",
+    "date": "2026-11-10",
+    "indicator": "Retail Sales",
+    "previous": "1.0",
+    "unit": "%",
+    "worse": true
+  },
   "UK|S&P Global Composite PMI|2026-08-21": {
     "actual": "52.5",
     "better": true,
@@ -5156,17 +5178,6 @@
     "indicator": "Wage Growth",
     "previous": "3.5",
     "unit": "%",
-    "worse": false
-  },
-  "US|ADP Jobs|2026-08-11": {
-    "actual": "8.25",
-    "better": false,
-    "consensus": "",
-    "country": "US",
-    "date": "2026-08-11",
-    "indicator": "ADP Jobs",
-    "previous": "15",
-    "unit": "",
     "worse": false
   },
   "US|ADP Jobs|2026-08-18": {
@@ -5672,17 +5683,6 @@
     "date": "2026-10-30",
     "indicator": "Employment Cost Index",
     "previous": "0.9",
-    "unit": "%",
-    "worse": false
-  },
-  "US|Existing Home Sales Change|2026-08-11": {
-    "actual": "-1.7",
-    "better": false,
-    "consensus": "",
-    "country": "US",
-    "date": "2026-08-11",
-    "indicator": "Existing Home Sales Change",
-    "previous": "-2.4",
     "unit": "%",
     "worse": false
   },
