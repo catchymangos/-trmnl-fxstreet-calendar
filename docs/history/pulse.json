@@ -1686,7 +1686,7 @@
     "week": "2026-W45"
   },
   "2026-W46": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "rows": {
       "AU": {
         "driver": "Trade Balance (MoM)",
@@ -1710,25 +1710,18 @@
         "weight": 11.5
       },
       "DE": {
-        "driver": "HCOB Composite PMI",
+        "driver": "Industrial Production s.a. (MoM)",
         "driver_dir": 1,
-        "n": 5,
-        "tone": 0.35,
-        "weight": 8.0
+        "n": 3,
+        "tone": -0.182,
+        "weight": 4.4
       },
       "EMU": {
         "driver": "Retail Sales (YoY)",
         "driver_dir": -1,
-        "n": 4,
-        "tone": -0.556,
-        "weight": 8.1
-      },
-      "IN": {
-        "driver": "HSBC Composite PMI",
-        "driver_dir": -1,
-        "n": 2,
-        "tone": -1.0,
-        "weight": 3.6
+        "n": 3,
+        "tone": -0.429,
+        "weight": 6.3
       },
       "JP": {
         "driver": "Labor Cash Earnings (YoY)",
@@ -1752,11 +1745,11 @@
         "weight": 3.0
       },
       "US": {
-        "driver": "ADP Employment Change",
+        "driver": "Nonfarm Payrolls",
         "driver_dir": 1,
-        "n": 13,
-        "tone": 0.693,
-        "weight": 34.5
+        "n": 10,
+        "tone": 0.937,
+        "weight": 25.5
       }
     },
     "trends": {
@@ -1773,14 +1766,10 @@
         "streak": 1
       },
       "DE": {
-        "dir": 1,
-        "streak": 2
+        "dir": -1,
+        "streak": 1
       },
       "EMU": {
-        "dir": -1,
-        "streak": 2
-      },
-      "IN": {
         "dir": -1,
         "streak": 2
       },

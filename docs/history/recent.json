@@ -1759,17 +1759,6 @@
     "unit": "%",
     "worse": false
   },
-  "DE|Inflation|2026-08-12": {
-    "actual": "0.9",
-    "better": false,
-    "consensus": "0.9",
-    "country": "DE",
-    "date": "2026-08-12",
-    "indicator": "Inflation",
-    "previous": "0.9",
-    "unit": "%",
-    "worse": false
-  },
   "DE|Inflation|2026-08-31": {
     "actual": "0.2",
     "better": false,
@@ -1824,6 +1813,17 @@
     "previous": "0.6",
     "unit": "%",
     "worse": true
+  },
+  "DE|Inflation|2026-11-11": {
+    "actual": "-0.1",
+    "better": false,
+    "consensus": "-0.1",
+    "country": "DE",
+    "date": "2026-11-11",
+    "indicator": "Inflation",
+    "previous": "-0.1",
+    "unit": "%",
+    "worse": false
   },
   "DE|Manufacturing PMI|2026-08-21": {
     "actual": "54.1",
@@ -3331,17 +3331,6 @@
     "previous": "56.2",
     "unit": "",
     "worse": true
-  },
-  "IT|CPI|2026-08-12": {
-    "actual": "2.9",
-    "better": true,
-    "consensus": "2.9",
-    "country": "IT",
-    "date": "2026-08-12",
-    "indicator": "CPI",
-    "previous": "2.9",
-    "unit": "%",
-    "worse": false
   },
   "IT|CPI|2026-09-01": {
     "actual": "3.2",
@@ -5422,17 +5411,6 @@
     "unit": "",
     "worse": false
   },
-  "US|CPI|2026-08-12": {
-    "actual": "0.1",
-    "better": false,
-    "consensus": "0.1",
-    "country": "US",
-    "date": "2026-08-12",
-    "indicator": "CPI",
-    "previous": "-0.4",
-    "unit": "%",
-    "worse": false
-  },
   "US|CPI|2026-09-11": {
     "actual": "0.4",
     "better": true,
@@ -6576,17 +6554,6 @@
     "previous": "48.0",
     "unit": "",
     "worse": false
-  },
-  "US|Monthly Budget Statement|2026-08-12": {
-    "actual": "-432",
-    "better": false,
-    "consensus": "-346",
-    "country": "US",
-    "date": "2026-08-12",
-    "indicator": "Monthly Budget Statement",
-    "previous": "-120",
-    "unit": "$",
-    "worse": true
   },
   "US|Monthly Budget Statement|2026-09-11": {
     "actual": "-166.8",

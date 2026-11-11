@@ -329,6 +329,17 @@
     "unit": "%",
     "worse": false
   },
+  "DE|Inflation|2026-11-11": {
+    "actual": "-0.1",
+    "better": false,
+    "consensus": "-0.1",
+    "country": "DE",
+    "date": "2026-11-11",
+    "indicator": "Inflation",
+    "previous": "-0.1",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Manufacturing PMI|2026-11-02": {
     "actual": "54.2",
     "better": false,
