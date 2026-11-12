@@ -4729,6 +4729,17 @@
     "unit": "%",
     "worse": false
   },
+  "UK|GDP|2026-11-12": {
+    "actual": "0.2",
+    "better": true,
+    "consensus": "0.0",
+    "country": "UK",
+    "date": "2026-11-12",
+    "indicator": "GDP",
+    "previous": "0.1",
+    "unit": "%",
+    "worse": false
+  },
   "UK|GfK Consumer Confidence|2026-08-20": {
     "actual": "-14",
     "better": true,
@@ -4784,6 +4795,17 @@
     "unit": "%",
     "worse": false
   },
+  "UK|Industrial Production|2026-11-12": {
+    "actual": "0.3",
+    "better": true,
+    "consensus": "-0.3",
+    "country": "UK",
+    "date": "2026-11-12",
+    "indicator": "Industrial Production",
+    "previous": "0.8",
+    "unit": "%",
+    "worse": false
+  },
   "UK|Manufacturing PMI|2026-08-21": {
     "actual": "51.5",
     "better": false,
@@ -4836,6 +4858,17 @@
     "date": "2026-10-15",
     "indicator": "Manufacturing Production",
     "previous": "0.9",
+    "unit": "%",
+    "worse": false
+  },
+  "UK|Manufacturing Production|2026-11-12": {
+    "actual": "0.7",
+    "better": true,
+    "consensus": "-0.5",
+    "country": "UK",
+    "date": "2026-11-12",
+    "indicator": "Manufacturing Production",
+    "previous": "1.2",
     "unit": "%",
     "worse": false
   },
@@ -6158,6 +6191,17 @@
     "previous": "194.0",
     "unit": "",
     "worse": false
+  },
+  "US|Initial Jobless Claims|2026-11-12": {
+    "actual": "200.0",
+    "better": false,
+    "consensus": "195.0",
+    "country": "US",
+    "date": "2026-11-12",
+    "indicator": "Initial Jobless Claims",
+    "previous": "189.0",
+    "unit": "",
+    "worse": true
   },
   "US|Interest Rate Projections - 1st year|2026-09-16": {
     "actual": "4.1",

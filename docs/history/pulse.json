@@ -1731,18 +1731,18 @@
         "weight": 0.8
       },
       "UK": {
-        "driver": "BRC Like-For-Like Retail Sales (YoY)",
-        "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 1.8
+        "driver": "Gross Domestic Product (MoM)",
+        "driver_dir": 1,
+        "n": 4,
+        "tone": 0.514,
+        "weight": 7.4
       },
       "US": {
         "driver": "Nonfarm Payrolls",
         "driver_dir": 1,
-        "n": 7,
-        "tone": 1.0,
-        "weight": 23.1
+        "n": 8,
+        "tone": 0.933,
+        "weight": 23.9
       }
     },
     "trends": {
@@ -1771,8 +1771,8 @@
         "streak": 1
       },
       "UK": {
-        "dir": -1,
-        "streak": 1
+        "dir": 1,
+        "streak": 2
       },
       "US": {
         "dir": 1,
