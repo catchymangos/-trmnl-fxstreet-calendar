@@ -131,6 +131,17 @@
     "unit": "%",
     "worse": false
   },
+  "AU|Consumer Inflation Expectations|2026-11-12": {
+    "actual": "5.3",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-11-12",
+    "indicator": "Consumer Inflation Expectations",
+    "previous": "5.3",
+    "unit": "%",
+    "worse": false
+  },
   "AU|Employment Change|2026-08-20": {
     "actual": "-15.8",
     "better": false,
@@ -2452,17 +2463,6 @@
     "unit": "",
     "worse": true
   },
-  "EMU|Industrial Production|2026-08-13": {
-    "actual": "0",
-    "better": true,
-    "consensus": "-0.1",
-    "country": "EMU",
-    "date": "2026-08-13",
-    "indicator": "Industrial Production",
-    "previous": "-0.2",
-    "unit": "%",
-    "worse": false
-  },
   "EMU|Industrial Production|2026-09-16": {
     "actual": "-0.1",
     "better": true,
@@ -2801,17 +2801,6 @@
     "date": "2026-10-30",
     "indicator": "GDP",
     "previous": "0.7",
-    "unit": "%",
-    "worse": false
-  },
-  "ES|Inflation|2026-08-13": {
-    "actual": "3.9",
-    "better": true,
-    "consensus": "3.8",
-    "country": "ES",
-    "date": "2026-08-13",
-    "indicator": "Inflation",
-    "previous": "3.8",
     "unit": "%",
     "worse": false
   },
@@ -3959,17 +3948,6 @@
     "unit": "%",
     "worse": true
   },
-  "NO|Rate Decision|2026-08-13": {
-    "actual": "4.25",
-    "better": false,
-    "consensus": "4.25",
-    "country": "NO",
-    "date": "2026-08-13",
-    "indicator": "Rate Decision",
-    "previous": "4.25",
-    "unit": "%",
-    "worse": false
-  },
   "NO|Rate Decision|2026-09-24": {
     "actual": "4.5",
     "better": false,
@@ -4056,17 +4034,6 @@
     "indicator": "Building Permits s.a.",
     "previous": "5.6",
     "unit": "%",
-    "worse": false
-  },
-  "NZ|Business NZ PMI|2026-08-13": {
-    "actual": "54.3",
-    "better": false,
-    "consensus": "",
-    "country": "NZ",
-    "date": "2026-08-13",
-    "indicator": "Business NZ PMI",
-    "previous": "59.7",
-    "unit": "",
     "worse": false
   },
   "NZ|Business NZ PMI|2026-09-10": {
@@ -4253,17 +4220,6 @@
     "date": "2026-08-18",
     "indicator": "PPI",
     "previous": "0.8",
-    "unit": "%",
-    "worse": false
-  },
-  "NZ|RBNZ Inflation Expectations|2026-08-13": {
-    "actual": "2.34",
-    "better": false,
-    "consensus": "",
-    "country": "NZ",
-    "date": "2026-08-13",
-    "indicator": "RBNZ Inflation Expectations",
-    "previous": "2.53",
     "unit": "%",
     "worse": false
   },
@@ -4740,17 +4696,6 @@
     "unit": "",
     "worse": false
   },
-  "UK|GDP|2026-08-13": {
-    "actual": "0.3",
-    "better": true,
-    "consensus": "0",
-    "country": "UK",
-    "date": "2026-08-13",
-    "indicator": "GDP",
-    "previous": "0.1",
-    "unit": "%",
-    "worse": false
-  },
   "UK|GDP|2026-09-11": {
     "actual": "0.4",
     "better": true,
@@ -4817,17 +4762,6 @@
     "unit": "",
     "worse": true
   },
-  "UK|Industrial Production|2026-08-13": {
-    "actual": "-0.2",
-    "better": false,
-    "consensus": "0.1",
-    "country": "UK",
-    "date": "2026-08-13",
-    "indicator": "Industrial Production",
-    "previous": "-0.5",
-    "unit": "%",
-    "worse": true
-  },
   "UK|Industrial Production|2026-09-11": {
     "actual": "0.2",
     "better": true,
@@ -4882,17 +4816,6 @@
     "previous": "51.9",
     "unit": "",
     "worse": false
-  },
-  "UK|Manufacturing Production|2026-08-13": {
-    "actual": "-0.5",
-    "better": false,
-    "consensus": "-0.2",
-    "country": "UK",
-    "date": "2026-08-13",
-    "indicator": "Manufacturing Production",
-    "previous": "0.1",
-    "unit": "%",
-    "worse": true
   },
   "UK|Manufacturing Production|2026-09-11": {
     "actual": "0.9",
@@ -6104,17 +6027,6 @@
     "unit": "%",
     "worse": false
   },
-  "US|Initial Jobless Claims|2026-08-13": {
-    "actual": "209",
-    "better": false,
-    "consensus": "202",
-    "country": "US",
-    "date": "2026-08-13",
-    "indicator": "Initial Jobless Claims",
-    "previous": "199",
-    "unit": "",
-    "worse": true
-  },
   "US|Initial Jobless Claims|2026-08-20": {
     "actual": "206",
     "better": true,
@@ -6730,17 +6642,6 @@
     "previous": "1.4",
     "unit": "%",
     "worse": false
-  },
-  "US|PPI|2026-08-13": {
-    "actual": "0",
-    "better": false,
-    "consensus": "0.2",
-    "country": "US",
-    "date": "2026-08-13",
-    "indicator": "PPI",
-    "previous": "-0.3",
-    "unit": "%",
-    "worse": true
   },
   "US|PPI|2026-09-10": {
     "actual": "0.4",

@@ -1686,15 +1686,8 @@
     "week": "2026-W45"
   },
   "2026-W46": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "rows": {
-      "AU": {
-        "driver": "Trade Balance (MoM)",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 2.7
-      },
       "CA": {
         "driver": "Net Change in Employment",
         "driver_dir": -1,
@@ -1712,51 +1705,47 @@
       "DE": {
         "driver": "Industrial Production s.a. (MoM)",
         "driver_dir": 1,
-        "n": 3,
-        "tone": -0.182,
-        "weight": 4.4
+        "n": 2,
+        "tone": 0.0,
+        "weight": 3.6
       },
       "EMU": {
         "driver": "Retail Sales (YoY)",
         "driver_dir": -1,
-        "n": 3,
-        "tone": -0.429,
-        "weight": 6.3
+        "n": 2,
+        "tone": -1.0,
+        "weight": 4.5
       },
       "JP": {
-        "driver": "Labor Cash Earnings (YoY)",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 0.0,
-        "weight": 1.6
+        "driver": "Current Account n.s.a.",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 0.8
       },
       "MX": {
-        "driver": "Banxico Interest Rate Decision",
-        "driver_dir": -1,
-        "n": 2,
-        "tone": -0.579,
-        "weight": 3.8
+        "driver": "Headline Inflation",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 0.8
       },
       "UK": {
         "driver": "BRC Like-For-Like Retail Sales (YoY)",
         "driver_dir": -1,
-        "n": 2,
-        "tone": -0.2,
-        "weight": 3.0
+        "n": 1,
+        "tone": -1.0,
+        "weight": 1.8
       },
       "US": {
         "driver": "Nonfarm Payrolls",
         "driver_dir": 1,
-        "n": 10,
-        "tone": 0.937,
-        "weight": 25.5
+        "n": 7,
+        "tone": 1.0,
+        "weight": 23.1
       }
     },
     "trends": {
-      "AU": {
-        "dir": 1,
-        "streak": 3
-      },
       "CA": {
         "dir": -1,
         "streak": 4
@@ -1766,20 +1755,20 @@
         "streak": 1
       },
       "DE": {
-        "dir": -1,
-        "streak": 1
+        "dir": 0,
+        "streak": 0
       },
       "EMU": {
         "dir": -1,
         "streak": 2
       },
       "JP": {
-        "dir": 0,
-        "streak": 0
+        "dir": -1,
+        "streak": 1
       },
       "MX": {
-        "dir": -1,
-        "streak": 2
+        "dir": 1,
+        "streak": 1
       },
       "UK": {
         "dir": -1,

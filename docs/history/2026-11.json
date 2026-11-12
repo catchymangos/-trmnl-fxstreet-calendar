@@ -21,6 +21,17 @@
     "unit": "%",
     "worse": false
   },
+  "AU|Consumer Inflation Expectations|2026-11-12": {
+    "actual": "5.3",
+    "better": false,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-11-12",
+    "indicator": "Consumer Inflation Expectations",
+    "previous": "5.3",
+    "unit": "%",
+    "worse": false
+  },
   "AU|Exports|2026-11-05": {
     "actual": "2.3",
     "better": false,
