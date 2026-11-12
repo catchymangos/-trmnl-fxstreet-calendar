@@ -4058,6 +4058,17 @@
     "unit": "",
     "worse": false
   },
+  "NZ|Business NZ PMI|2026-11-12": {
+    "actual": "54.9",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-11-12",
+    "indicator": "Business NZ PMI",
+    "previous": "56.5",
+    "unit": "",
+    "worse": false
+  },
   "NZ|Business NZ PSI|2026-08-16": {
     "actual": "50.6",
     "better": false,
@@ -5697,6 +5708,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|Existing Home Sales Change|2026-11-12": {
+    "actual": "-5.5",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-11-12",
+    "indicator": "Existing Home Sales Change",
+    "previous": "1.5",
+    "unit": "%",
+    "worse": false
+  },
   "US|Factory Orders|2026-09-02": {
     "actual": "0.9",
     "better": true,
@@ -6532,6 +6554,17 @@
     "previous": "-166.8",
     "unit": "$",
     "worse": false
+  },
+  "US|Monthly Budget Statement|2026-11-12": {
+    "actual": "-404.1",
+    "better": false,
+    "consensus": "-298.6",
+    "country": "US",
+    "date": "2026-11-12",
+    "indicator": "Monthly Budget Statement",
+    "previous": "-27.0",
+    "unit": "$",
+    "worse": true
   },
   "US|NY Empire State Manufacturing Index|2026-08-17": {
     "actual": "20.6",

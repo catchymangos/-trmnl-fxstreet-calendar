@@ -1740,9 +1740,9 @@
       "US": {
         "driver": "Nonfarm Payrolls",
         "driver_dir": 1,
-        "n": 8,
-        "tone": 0.933,
-        "weight": 23.9
+        "n": 9,
+        "tone": 0.87,
+        "weight": 24.7
       }
     },
     "trends": {
