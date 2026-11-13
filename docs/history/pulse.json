@@ -1686,15 +1686,8 @@
     "week": "2026-W45"
   },
   "2026-W46": {
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "rows": {
-      "CA": {
-        "driver": "Net Change in Employment",
-        "driver_dir": -1,
-        "n": 3,
-        "tone": -0.667,
-        "weight": 10.8
-      },
       "CN": {
         "driver": "Consumer Price Index (YoY)",
         "driver_dir": -1,
@@ -1703,18 +1696,25 @@
         "weight": 11.5
       },
       "DE": {
-        "driver": "Industrial Production s.a. (MoM)",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 0.0,
-        "weight": 3.6
+        "driver": "Trade Balance s.a.",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 1.8
       },
       "EMU": {
-        "driver": "Retail Sales (YoY)",
+        "driver": "Employment Change (QoQ)",
         "driver_dir": -1,
-        "n": 2,
+        "n": 1,
         "tone": -1.0,
-        "weight": 4.5
+        "weight": 3.0
+      },
+      "FR": {
+        "driver": "Consumer Price Index (EU norm) (YoY)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 3.0
       },
       "JP": {
         "driver": "Current Account n.s.a.",
@@ -1738,29 +1738,29 @@
         "weight": 7.4
       },
       "US": {
-        "driver": "Nonfarm Payrolls",
+        "driver": "Consumer Price Index (MoM)",
         "driver_dir": 1,
-        "n": 9,
-        "tone": 0.87,
-        "weight": 24.7
+        "n": 6,
+        "tone": 0.268,
+        "weight": 14.2
       }
     },
     "trends": {
-      "CA": {
-        "dir": -1,
-        "streak": 4
-      },
       "CN": {
         "dir": -1,
         "streak": 1
       },
       "DE": {
-        "dir": 0,
-        "streak": 0
+        "dir": -1,
+        "streak": 1
       },
       "EMU": {
         "dir": -1,
         "streak": 2
+      },
+      "FR": {
+        "dir": -1,
+        "streak": 1
       },
       "JP": {
         "dir": -1,
