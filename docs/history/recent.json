@@ -626,17 +626,6 @@
     "unit": "",
     "worse": false
   },
-  "CA|CPI|2026-08-17": {
-    "actual": "0.2",
-    "better": true,
-    "consensus": "",
-    "country": "CA",
-    "date": "2026-08-17",
-    "indicator": "CPI",
-    "previous": "0.1",
-    "unit": "%",
-    "worse": false
-  },
   "CA|CPI|2026-09-14": {
     "actual": "0.1",
     "better": false,
@@ -658,6 +647,17 @@
     "previous": "0.1",
     "unit": "%",
     "worse": true
+  },
+  "CA|CPI|2026-11-16": {
+    "actual": "0.4",
+    "better": true,
+    "consensus": "0.2",
+    "country": "CA",
+    "date": "2026-11-16",
+    "indicator": "CPI",
+    "previous": "0.0",
+    "unit": "%",
+    "worse": false
   },
   "CA|Current Account|2026-08-27": {
     "actual": "8.84",
@@ -1198,17 +1198,6 @@
     "unit": "%",
     "worse": false
   },
-  "CN|Industrial Production|2026-08-17": {
-    "actual": "4.5",
-    "better": false,
-    "consensus": "5",
-    "country": "CN",
-    "date": "2026-08-17",
-    "indicator": "Industrial Production",
-    "previous": "5.3",
-    "unit": "%",
-    "worse": true
-  },
   "CN|Industrial Production|2026-09-15": {
     "actual": "5.2",
     "better": true,
@@ -1230,6 +1219,17 @@
     "previous": "5.2",
     "unit": "%",
     "worse": false
+  },
+  "CN|Industrial Production|2026-11-16": {
+    "actual": "4.8",
+    "better": false,
+    "consensus": "5.3",
+    "country": "CN",
+    "date": "2026-11-16",
+    "indicator": "Industrial Production",
+    "previous": "5.5",
+    "unit": "%",
+    "worse": true
   },
   "CN|Manufacturing PMI|2026-08-31": {
     "actual": "49.8",
@@ -1352,17 +1352,6 @@
     "unit": "%",
     "worse": false
   },
-  "CN|Retail Sales|2026-08-17": {
-    "actual": "0.6",
-    "better": false,
-    "consensus": "1.5",
-    "country": "CN",
-    "date": "2026-08-17",
-    "indicator": "Retail Sales",
-    "previous": "1",
-    "unit": "%",
-    "worse": true
-  },
   "CN|Retail Sales|2026-09-15": {
     "actual": "0.4",
     "better": false,
@@ -1384,6 +1373,17 @@
     "previous": "0.4",
     "unit": "%",
     "worse": false
+  },
+  "CN|Retail Sales|2026-11-16": {
+    "actual": "0.4",
+    "better": false,
+    "consensus": "0.8",
+    "country": "CN",
+    "date": "2026-11-16",
+    "indicator": "Retail Sales",
+    "previous": "1.1",
+    "unit": "%",
+    "worse": true
   },
   "CN|Services PMI|2026-09-03": {
     "actual": "51.4",
@@ -2482,6 +2482,17 @@
     "date": "2026-10-15",
     "indicator": "Industrial Production",
     "previous": "-0.1",
+    "unit": "%",
+    "worse": true
+  },
+  "EMU|Industrial Production|2026-11-16": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "0.6",
+    "country": "EMU",
+    "date": "2026-11-16",
+    "indicator": "Industrial Production",
+    "previous": "-0.5",
     "unit": "%",
     "worse": true
   },
@@ -3585,6 +3596,17 @@
     "unit": "%",
     "worse": false
   },
+  "JP|GDP|2026-11-15": {
+    "actual": "0.0",
+    "better": false,
+    "consensus": "0.1",
+    "country": "JP",
+    "date": "2026-11-15",
+    "indicator": "GDP",
+    "previous": "0.4",
+    "unit": "%",
+    "worse": true
+  },
   "JP|Imports|2026-08-19": {
     "actual": "27.8",
     "better": true,
@@ -4088,6 +4110,17 @@
     "date": "2026-10-18",
     "indicator": "Business NZ PSI",
     "previous": "51.2",
+    "unit": "",
+    "worse": false
+  },
+  "NZ|Business NZ PSI|2026-11-15": {
+    "actual": "51.7",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-11-15",
+    "indicator": "Business NZ PSI",
+    "previous": "50.9",
     "unit": "",
     "worse": false
   },
@@ -6533,17 +6566,6 @@
     "unit": "$",
     "worse": true
   },
-  "US|NY Empire State Manufacturing Index|2026-08-17": {
-    "actual": "20.6",
-    "better": true,
-    "consensus": "11",
-    "country": "US",
-    "date": "2026-08-17",
-    "indicator": "NY Empire State Manufacturing Index",
-    "previous": "15.6",
-    "unit": "",
-    "worse": false
-  },
   "US|NY Empire State Manufacturing Index|2026-09-15": {
     "actual": "7.6",
     "better": false,
@@ -6565,6 +6587,17 @@
     "previous": "7.6",
     "unit": "",
     "worse": false
+  },
+  "US|NY Empire State Manufacturing Index|2026-11-16": {
+    "actual": "7.8",
+    "better": false,
+    "consensus": "18.0",
+    "country": "US",
+    "date": "2026-11-16",
+    "indicator": "NY Empire State Manufacturing Index",
+    "previous": "25.5",
+    "unit": "",
+    "worse": true
   },
   "US|New Home Sales Change|2026-08-25": {
     "actual": "-10.5",
