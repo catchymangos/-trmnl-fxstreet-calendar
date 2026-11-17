@@ -1782,7 +1782,7 @@
     "week": "2026-W46"
   },
   "2026-W47": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "rows": {
       "CA": {
         "driver": "Consumer Price Index (YoY)",
@@ -1794,9 +1794,9 @@
       "CN": {
         "driver": "Industrial Production (YoY)",
         "driver_dir": -1,
-        "n": 6,
-        "tone": -0.698,
-        "weight": 10.6
+        "n": 2,
+        "tone": -1.0,
+        "weight": 5.4
       },
       "EMU": {
         "driver": "Employment Change (QoQ)",
@@ -1815,16 +1815,16 @@
       "UK": {
         "driver": "Gross Domestic Product (MoM)",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 0.514,
-        "weight": 7.4
+        "n": 3,
+        "tone": 1.0,
+        "weight": 5.6
       },
       "US": {
-        "driver": "Consumer Price Index (MoM)",
-        "driver_dir": 1,
-        "n": 7,
-        "tone": 0.2,
-        "weight": 15.0
+        "driver": "Producer Price Index (MoM)",
+        "driver_dir": -1,
+        "n": 5,
+        "tone": -1.0,
+        "weight": 6.0
       }
     },
     "trends": {
@@ -1849,8 +1849,8 @@
         "streak": 3
       },
       "US": {
-        "dir": 1,
-        "streak": 3
+        "dir": -1,
+        "streak": 1
       }
     },
     "week": "2026-W47"
