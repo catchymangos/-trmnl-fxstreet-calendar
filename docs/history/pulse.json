@@ -1798,12 +1798,19 @@
         "tone": -1.0,
         "weight": 5.4
       },
+      "DE": {
+        "driver": "ZEW Survey \u2013 Current Situation",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 1.6
+      },
       "EMU": {
         "driver": "Employment Change (QoQ)",
         "driver_dir": -1,
-        "n": 2,
-        "tone": -1.0,
-        "weight": 4.8
+        "n": 3,
+        "tone": -0.714,
+        "weight": 5.6
       },
       "FR": {
         "driver": "Consumer Price Index (EU norm) (YoY)",
@@ -1812,19 +1819,26 @@
         "tone": -1.0,
         "weight": 3.0
       },
-      "UK": {
-        "driver": "Gross Domestic Product (MoM)",
+      "IT": {
+        "driver": "Consumer Price Index (YoY)",
         "driver_dir": 1,
-        "n": 3,
+        "n": 1,
         "tone": 1.0,
-        "weight": 5.6
+        "weight": 3.0
+      },
+      "UK": {
+        "driver": "ILO Unemployment Rate (3M)",
+        "driver_dir": 1,
+        "n": 6,
+        "tone": 0.542,
+        "weight": 13.1
       },
       "US": {
         "driver": "Producer Price Index (MoM)",
         "driver_dir": -1,
-        "n": 5,
-        "tone": -1.0,
-        "weight": 6.0
+        "n": 7,
+        "tone": -0.625,
+        "weight": 9.6
       }
     },
     "trends": {
@@ -1836,6 +1850,10 @@
         "dir": -1,
         "streak": 2
       },
+      "DE": {
+        "dir": 1,
+        "streak": 1
+      },
       "EMU": {
         "dir": -1,
         "streak": 3
@@ -1843,6 +1861,10 @@
       "FR": {
         "dir": -1,
         "streak": 2
+      },
+      "IT": {
+        "dir": 1,
+        "streak": 1
       },
       "UK": {
         "dir": 1,

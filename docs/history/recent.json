@@ -2111,6 +2111,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|ZEW Current Conditions|2026-11-17": {
+    "actual": "-33.2",
+    "better": true,
+    "consensus": "-35.0",
+    "country": "DE",
+    "date": "2026-11-17",
+    "indicator": "ZEW Current Conditions",
+    "previous": "-35.9",
+    "unit": "",
+    "worse": false
+  },
   "DE|ZEW Sentiment|2026-09-15": {
     "actual": "34.7",
     "better": false,
@@ -2132,6 +2143,17 @@
     "previous": "34.7",
     "unit": "",
     "worse": true
+  },
+  "DE|ZEW Sentiment|2026-11-17": {
+    "actual": "35.6",
+    "better": true,
+    "consensus": "29.0",
+    "country": "DE",
+    "date": "2026-11-17",
+    "indicator": "ZEW Sentiment",
+    "previous": "28.1",
+    "unit": "",
+    "worse": false
   },
   "EMU|Business Climate|2026-08-28": {
     "actual": "-0.23",
@@ -2749,6 +2771,17 @@
     "unit": "",
     "worse": true
   },
+  "EMU|ZEW Sentiment|2026-11-17": {
+    "actual": "26.5",
+    "better": true,
+    "consensus": "19.1",
+    "country": "EMU",
+    "date": "2026-11-17",
+    "indicator": "ZEW Sentiment",
+    "previous": "18.5",
+    "unit": "",
+    "worse": false
+  },
   "ES|GDP|2026-09-25": {
     "actual": "0.7",
     "better": false,
@@ -3351,6 +3384,17 @@
     "date": "2026-10-30",
     "indicator": "CPI",
     "previous": "4.2",
+    "unit": "%",
+    "worse": false
+  },
+  "IT|CPI|2026-11-17": {
+    "actual": "5.6",
+    "better": true,
+    "consensus": "5.6",
+    "country": "IT",
+    "date": "2026-11-17",
+    "indicator": "CPI",
+    "previous": "5.6",
     "unit": "%",
     "worse": false
   },
@@ -4201,6 +4245,17 @@
     "unit": "%",
     "worse": false
   },
+  "NZ|RBNZ Inflation Expectations|2026-11-17": {
+    "actual": "2.36",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-11-17",
+    "indicator": "RBNZ Inflation Expectations",
+    "previous": "2.34",
+    "unit": "%",
+    "worse": false
+  },
   "NZ|Rate Decision|2026-09-02": {
     "actual": "2.75",
     "better": false,
@@ -4520,6 +4575,17 @@
     "unit": "",
     "worse": true
   },
+  "UK|Claimant Count Change|2026-11-17": {
+    "actual": "33.2",
+    "better": false,
+    "consensus": "28.1",
+    "country": "UK",
+    "date": "2026-11-17",
+    "indicator": "Claimant Count Change",
+    "previous": "30.3",
+    "unit": "",
+    "worse": true
+  },
   "UK|Claimant Count Rate|2026-09-15": {
     "actual": "4.4",
     "better": false,
@@ -4537,6 +4603,17 @@
     "consensus": "",
     "country": "UK",
     "date": "2026-10-20",
+    "indicator": "Claimant Count Rate",
+    "previous": "4.4",
+    "unit": "%",
+    "worse": false
+  },
+  "UK|Claimant Count Rate|2026-11-17": {
+    "actual": "4.5",
+    "better": false,
+    "consensus": "",
+    "country": "UK",
+    "date": "2026-11-17",
     "indicator": "Claimant Count Rate",
     "previous": "4.4",
     "unit": "%",
@@ -4638,6 +4715,17 @@
     "date": "2026-10-20",
     "indicator": "Employment Change",
     "previous": "67.0",
+    "unit": "",
+    "worse": false
+  },
+  "UK|Employment Change|2026-11-17": {
+    "actual": "156.0",
+    "better": false,
+    "consensus": "",
+    "country": "UK",
+    "date": "2026-11-17",
+    "indicator": "Employment Change",
+    "previous": "102.0",
     "unit": "",
     "worse": false
   },
@@ -5059,6 +5147,17 @@
     "unit": "%",
     "worse": false
   },
+  "UK|Unemployment Rate|2026-11-17": {
+    "actual": "4.6",
+    "better": true,
+    "consensus": "4.7",
+    "country": "UK",
+    "date": "2026-11-17",
+    "indicator": "Unemployment Rate",
+    "previous": "4.7",
+    "unit": "%",
+    "worse": false
+  },
   "UK|Wage Growth|2026-09-15": {
     "actual": "3.5",
     "better": false,
@@ -5080,6 +5179,17 @@
     "previous": "3.5",
     "unit": "%",
     "worse": false
+  },
+  "UK|Wage Growth|2026-11-17": {
+    "actual": "3.5",
+    "better": false,
+    "consensus": "3.6",
+    "country": "UK",
+    "date": "2026-11-17",
+    "indicator": "Wage Growth",
+    "previous": "3.7",
+    "unit": "%",
+    "worse": true
   },
   "US|ADP Jobs|2026-08-25": {
     "actual": "11.75",
@@ -5210,6 +5320,17 @@
     "date": "2026-11-10",
     "indicator": "ADP Jobs",
     "previous": "16.8",
+    "unit": "",
+    "worse": false
+  },
+  "US|ADP Jobs|2026-11-17": {
+    "actual": "23.75",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-11-17",
+    "indicator": "ADP Jobs",
+    "previous": "19.75",
     "unit": "",
     "worse": false
   },
@@ -5949,6 +6070,17 @@
     "previous": "0.0",
     "unit": "%",
     "worse": false
+  },
+  "US|Industrial Production|2026-11-17": {
+    "actual": "-0.4",
+    "better": false,
+    "consensus": "0.1",
+    "country": "US",
+    "date": "2026-11-17",
+    "indicator": "Industrial Production",
+    "previous": "0.7",
+    "unit": "%",
+    "worse": true
   },
   "US|Initial Jobless Claims|2026-08-20": {
     "actual": "206",
@@ -6827,6 +6959,17 @@
     "date": "2026-10-15",
     "indicator": "Retail Sales",
     "previous": "1.2",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Retail Sales|2026-11-17": {
+    "actual": "0.2",
+    "better": true,
+    "consensus": "0.2",
+    "country": "US",
+    "date": "2026-11-17",
+    "indicator": "Retail Sales",
+    "previous": "0.8",
     "unit": "%",
     "worse": false
   },
