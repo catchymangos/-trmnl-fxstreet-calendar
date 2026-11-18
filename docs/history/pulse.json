@@ -1815,9 +1815,9 @@
       "EMU": {
         "driver": "Employment Change (QoQ)",
         "driver_dir": -1,
-        "n": 3,
-        "tone": -0.714,
-        "weight": 5.6
+        "n": 5,
+        "tone": -0.345,
+        "weight": 11.6
       },
       "FR": {
         "driver": "Consumer Price Index (EU norm) (YoY)",
@@ -1850,16 +1850,16 @@
       "UK": {
         "driver": "ILO Unemployment Rate (3M)",
         "driver_dir": 1,
-        "n": 6,
-        "tone": 0.542,
-        "weight": 13.1
+        "n": 9,
+        "tone": 0.079,
+        "weight": 20.2
       },
       "US": {
         "driver": "Producer Price Index (MoM)",
         "driver_dir": -1,
-        "n": 7,
-        "tone": -0.625,
-        "weight": 9.6
+        "n": 10,
+        "tone": -0.567,
+        "weight": 12.0
       }
     },
     "trends": {
@@ -1900,8 +1900,8 @@
         "streak": 1
       },
       "UK": {
-        "dir": 1,
-        "streak": 3
+        "dir": 0,
+        "streak": 0
       },
       "US": {
         "dir": -1,
