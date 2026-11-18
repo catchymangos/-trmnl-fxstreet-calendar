@@ -560,12 +560,12 @@
     "unit": "%",
     "worse": true
   },
-  "AU|Wage Growth|2026-08-19": {
-    "actual": "0.8",
-    "better": false,
-    "consensus": "0.8",
+  "AU|Wage Growth|2026-11-18": {
+    "actual": "1.1",
+    "better": true,
+    "consensus": "1.0",
     "country": "AU",
-    "date": "2026-08-19",
+    "date": "2026-11-18",
     "indicator": "Wage Growth",
     "previous": "0.8",
     "unit": "%",
@@ -986,17 +986,6 @@
     "date": "2026-09-03",
     "indicator": "GDP",
     "previous": "0.7",
-    "unit": "%",
-    "worse": false
-  },
-  "CH|Industrial Production|2026-08-19": {
-    "actual": "5.5",
-    "better": false,
-    "consensus": "",
-    "country": "CH",
-    "date": "2026-08-19",
-    "indicator": "Industrial Production",
-    "previous": "-7.1",
     "unit": "%",
     "worse": false
   },
@@ -2485,17 +2474,6 @@
     "unit": "%",
     "worse": true
   },
-  "EMU|Inflation|2026-08-19": {
-    "actual": "0",
-    "better": false,
-    "consensus": "",
-    "country": "EMU",
-    "date": "2026-08-19",
-    "indicator": "Inflation",
-    "previous": "0",
-    "unit": "%",
-    "worse": false
-  },
   "EMU|Inflation|2026-09-01": {
     "actual": "0.2",
     "better": false,
@@ -3552,17 +3530,6 @@
     "unit": "\u00a5",
     "worse": true
   },
-  "JP|Exports|2026-08-19": {
-    "actual": "23.2",
-    "better": true,
-    "consensus": "19.9",
-    "country": "JP",
-    "date": "2026-08-19",
-    "indicator": "Exports",
-    "previous": "19.3",
-    "unit": "%",
-    "worse": false
-  },
   "JP|Exports|2026-09-15": {
     "actual": "19.3",
     "better": true,
@@ -3584,6 +3551,17 @@
     "previous": "19.3",
     "unit": "%",
     "worse": true
+  },
+  "JP|Exports|2026-11-17": {
+    "actual": "20.5",
+    "better": true,
+    "consensus": "20.0",
+    "country": "JP",
+    "date": "2026-11-17",
+    "indicator": "Exports",
+    "previous": "16.7",
+    "unit": "%",
+    "worse": false
   },
   "JP|GDP|2026-09-07": {
     "actual": "0.4",
@@ -3607,17 +3585,6 @@
     "unit": "%",
     "worse": true
   },
-  "JP|Imports|2026-08-19": {
-    "actual": "27.8",
-    "better": true,
-    "consensus": "26.5",
-    "country": "JP",
-    "date": "2026-08-19",
-    "indicator": "Imports",
-    "previous": "25.4",
-    "unit": "%",
-    "worse": false
-  },
   "JP|Imports|2026-09-15": {
     "actual": "28",
     "better": true,
@@ -3637,6 +3604,17 @@
     "date": "2026-10-20",
     "indicator": "Imports",
     "previous": "28.0",
+    "unit": "%",
+    "worse": true
+  },
+  "JP|Imports|2026-11-17": {
+    "actual": "21.6",
+    "better": false,
+    "consensus": "25.8",
+    "country": "JP",
+    "date": "2026-11-17",
+    "indicator": "Imports",
+    "previous": "18.9",
     "unit": "%",
     "worse": true
   },
@@ -3805,17 +3783,6 @@
     "unit": "%",
     "worse": true
   },
-  "JP|Trade Balance|2026-08-19": {
-    "actual": "-686",
-    "better": true,
-    "consensus": "",
-    "country": "JP",
-    "date": "2026-08-19",
-    "indicator": "Trade Balance",
-    "previous": "-881.9",
-    "unit": "\u00a5",
-    "worse": false
-  },
   "JP|Trade Balance|2026-09-15": {
     "actual": "-840.6",
     "better": false,
@@ -3837,6 +3804,17 @@
     "previous": "-840.6",
     "unit": "\u00a5",
     "worse": true
+  },
+  "JP|Trade Balance|2026-11-17": {
+    "actual": "-767.2",
+    "better": true,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-11-17",
+    "indicator": "Trade Balance",
+    "previous": "-704.0",
+    "unit": "\u00a5",
+    "worse": false
   },
   "JP|Unemployment Rate|2026-08-27": {
     "actual": "2.4",
@@ -4245,6 +4223,17 @@
     "unit": "%",
     "worse": false
   },
+  "NZ|PPI|2026-11-17": {
+    "actual": "0.8",
+    "better": false,
+    "consensus": "1.1",
+    "country": "NZ",
+    "date": "2026-11-17",
+    "indicator": "PPI",
+    "previous": "1.6",
+    "unit": "%",
+    "worse": true
+  },
   "NZ|RBNZ Inflation Expectations|2026-11-17": {
     "actual": "2.36",
     "better": false,
@@ -4520,17 +4509,6 @@
     "unit": "",
     "worse": false
   },
-  "UK|CPI|2026-08-19": {
-    "actual": "0.3",
-    "better": false,
-    "consensus": "0.3",
-    "country": "UK",
-    "date": "2026-08-19",
-    "indicator": "CPI",
-    "previous": "0.1",
-    "unit": "%",
-    "worse": false
-  },
   "UK|CPI|2026-09-16": {
     "actual": "0.5",
     "better": false,
@@ -4630,17 +4608,6 @@
     "unit": "%",
     "worse": false
   },
-  "UK|Core CPI|2026-08-19": {
-    "actual": "2.6",
-    "better": true,
-    "consensus": "2.5",
-    "country": "UK",
-    "date": "2026-08-19",
-    "indicator": "Core CPI",
-    "previous": "2.6",
-    "unit": "%",
-    "worse": false
-  },
   "UK|Core CPI|2026-09-16": {
     "actual": "2.6",
     "better": false,
@@ -4660,17 +4627,6 @@
     "date": "2026-10-21",
     "indicator": "Core CPI",
     "previous": "2.6",
-    "unit": "%",
-    "worse": false
-  },
-  "UK|Core PPI|2026-08-19": {
-    "actual": "0.6",
-    "better": false,
-    "consensus": "",
-    "country": "UK",
-    "date": "2026-08-19",
-    "indicator": "Core PPI",
-    "previous": "0.5",
     "unit": "%",
     "worse": false
   },
@@ -4905,17 +4861,6 @@
     "unit": "%",
     "worse": false
   },
-  "UK|PPI|2026-08-19": {
-    "actual": "0.2",
-    "better": false,
-    "consensus": "0.2",
-    "country": "UK",
-    "date": "2026-08-19",
-    "indicator": "PPI",
-    "previous": "0",
-    "unit": "%",
-    "worse": true
-  },
   "UK|PPI|2026-09-16": {
     "actual": "0.7",
     "better": true,
@@ -4935,17 +4880,6 @@
     "date": "2026-10-21",
     "indicator": "PPI",
     "previous": "0.7",
-    "unit": "%",
-    "worse": false
-  },
-  "UK|RPI|2026-08-19": {
-    "actual": "0.6",
-    "better": false,
-    "consensus": "",
-    "country": "UK",
-    "date": "2026-08-19",
-    "indicator": "RPI",
-    "previous": "0.3",
     "unit": "%",
     "worse": false
   },

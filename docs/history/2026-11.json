@@ -109,6 +109,17 @@
     "unit": "",
     "worse": false
   },
+  "AU|Wage Growth|2026-11-18": {
+    "actual": "1.1",
+    "better": true,
+    "consensus": "1.0",
+    "country": "AU",
+    "date": "2026-11-18",
+    "indicator": "Wage Growth",
+    "previous": "0.8",
+    "unit": "%",
+    "worse": false
+  },
   "AU|Westpac Consumer Confidence|2026-11-09": {
     "actual": "-2.7",
     "better": false,
@@ -670,6 +681,17 @@
     "unit": "\u00a5",
     "worse": true
   },
+  "JP|Exports|2026-11-17": {
+    "actual": "20.5",
+    "better": true,
+    "consensus": "20.0",
+    "country": "JP",
+    "date": "2026-11-17",
+    "indicator": "Exports",
+    "previous": "16.7",
+    "unit": "%",
+    "worse": false
+  },
   "JP|GDP|2026-11-15": {
     "actual": "0.0",
     "better": false,
@@ -678,6 +700,17 @@
     "date": "2026-11-15",
     "indicator": "GDP",
     "previous": "0.4",
+    "unit": "%",
+    "worse": true
+  },
+  "JP|Imports|2026-11-17": {
+    "actual": "21.6",
+    "better": false,
+    "consensus": "25.8",
+    "country": "JP",
+    "date": "2026-11-17",
+    "indicator": "Imports",
+    "previous": "18.9",
     "unit": "%",
     "worse": true
   },
@@ -690,6 +723,17 @@
     "indicator": "Labor Cash Earnings",
     "previous": "3.8",
     "unit": "%",
+    "worse": false
+  },
+  "JP|Trade Balance|2026-11-17": {
+    "actual": "-767.2",
+    "better": true,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-11-17",
+    "indicator": "Trade Balance",
+    "previous": "-704.0",
+    "unit": "\u00a5",
     "worse": false
   },
   "MX|Headline Inflation|2026-11-09": {
@@ -777,6 +821,17 @@
     "date": "2026-11-03",
     "indicator": "Labour Cost Index",
     "previous": "0.7",
+    "unit": "%",
+    "worse": true
+  },
+  "NZ|PPI|2026-11-17": {
+    "actual": "0.8",
+    "better": false,
+    "consensus": "1.1",
+    "country": "NZ",
+    "date": "2026-11-17",
+    "indicator": "PPI",
+    "previous": "1.6",
     "unit": "%",
     "worse": true
   },

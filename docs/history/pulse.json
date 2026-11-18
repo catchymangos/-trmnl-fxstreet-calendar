@@ -1782,8 +1782,15 @@
     "week": "2026-W46"
   },
   "2026-W47": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "rows": {
+      "AU": {
+        "driver": "Wage Price Index (QoQ)",
+        "driver_dir": 1,
+        "n": 1,
+        "tone": 1.0,
+        "weight": 1.8
+      },
       "CA": {
         "driver": "Consumer Price Index (YoY)",
         "driver_dir": -1,
@@ -1826,6 +1833,20 @@
         "tone": 1.0,
         "weight": 3.0
       },
+      "JP": {
+        "driver": "Merchandise Trade Balance Total",
+        "driver_dir": 1,
+        "n": 3,
+        "tone": 0.529,
+        "weight": 3.4
+      },
+      "NZ": {
+        "driver": "Producer Price Index - Output (QoQ)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 1.8
+      },
       "UK": {
         "driver": "ILO Unemployment Rate (3M)",
         "driver_dir": 1,
@@ -1842,6 +1863,10 @@
       }
     },
     "trends": {
+      "AU": {
+        "dir": 1,
+        "streak": 1
+      },
       "CA": {
         "dir": -1,
         "streak": 1
@@ -1864,6 +1889,14 @@
       },
       "IT": {
         "dir": 1,
+        "streak": 1
+      },
+      "JP": {
+        "dir": 1,
+        "streak": 1
+      },
+      "NZ": {
+        "dir": -1,
         "streak": 1
       },
       "UK": {
