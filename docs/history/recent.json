@@ -4168,6 +4168,17 @@
     "unit": "$",
     "worse": false
   },
+  "NZ|Exports|2026-11-18": {
+    "actual": "6.95",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-11-18",
+    "indicator": "Exports",
+    "previous": "6.47",
+    "unit": "$",
+    "worse": false
+  },
   "NZ|GDP|2026-09-16": {
     "actual": "0.2",
     "better": true,
@@ -4209,6 +4220,17 @@
     "date": "2026-10-18",
     "indicator": "Imports",
     "previous": "8.0",
+    "unit": "$",
+    "worse": false
+  },
+  "NZ|Imports|2026-11-18": {
+    "actual": "9.72",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-11-18",
+    "indicator": "Imports",
+    "previous": "8.44",
     "unit": "$",
     "worse": false
   },
@@ -4319,6 +4341,17 @@
     "date": "2026-10-18",
     "indicator": "Trade Balance",
     "previous": "-5.44",
+    "unit": "$",
+    "worse": false
+  },
+  "NZ|Trade Balance|2026-11-18": {
+    "actual": "-7.51",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-11-18",
+    "indicator": "Trade Balance",
+    "previous": "-6.18",
     "unit": "$",
     "worse": false
   },
