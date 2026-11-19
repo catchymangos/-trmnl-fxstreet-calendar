@@ -98,17 +98,6 @@
     "unit": "%",
     "worse": false
   },
-  "AU|Consumer Inflation Expectations|2026-08-20": {
-    "actual": "4.9",
-    "better": false,
-    "consensus": "",
-    "country": "AU",
-    "date": "2026-08-20",
-    "indicator": "Consumer Inflation Expectations",
-    "previous": "4.7",
-    "unit": "%",
-    "worse": false
-  },
   "AU|Consumer Inflation Expectations|2026-09-10": {
     "actual": "4.9",
     "better": false,
@@ -142,17 +131,6 @@
     "unit": "%",
     "worse": false
   },
-  "AU|Employment Change|2026-08-20": {
-    "actual": "-15.8",
-    "better": false,
-    "consensus": "15",
-    "country": "AU",
-    "date": "2026-08-20",
-    "indicator": "Employment Change",
-    "previous": "76.3",
-    "unit": "",
-    "worse": true
-  },
   "AU|Employment Change|2026-09-24": {
     "actual": "39.5",
     "better": true,
@@ -172,6 +150,17 @@
     "date": "2026-10-15",
     "indicator": "Employment Change",
     "previous": "39.5",
+    "unit": "",
+    "worse": true
+  },
+  "AU|Employment Change|2026-11-19": {
+    "actual": "-43.5",
+    "better": false,
+    "consensus": "25.0",
+    "country": "AU",
+    "date": "2026-11-19",
+    "indicator": "Employment Change",
+    "previous": "-39.3",
     "unit": "",
     "worse": true
   },
@@ -252,17 +241,6 @@
     "unit": "%",
     "worse": false
   },
-  "AU|Manufacturing PMI|2026-08-20": {
-    "actual": "52",
-    "better": false,
-    "consensus": "",
-    "country": "AU",
-    "date": "2026-08-20",
-    "indicator": "Manufacturing PMI",
-    "previous": "52",
-    "unit": "",
-    "worse": false
-  },
   "AU|Manufacturing PMI|2026-09-22": {
     "actual": "49.3",
     "better": false,
@@ -329,17 +307,6 @@
     "unit": "%",
     "worse": false
   },
-  "AU|S&P Global Composite PMI|2026-08-20": {
-    "actual": "52.5",
-    "better": false,
-    "consensus": "",
-    "country": "AU",
-    "date": "2026-08-20",
-    "indicator": "S&P Global Composite PMI",
-    "previous": "53.2",
-    "unit": "",
-    "worse": false
-  },
   "AU|S&P Global Composite PMI|2026-09-02": {
     "actual": "52.7",
     "better": true,
@@ -392,17 +359,6 @@
     "date": "2026-11-03",
     "indicator": "S&P Global Composite PMI",
     "previous": "47.7",
-    "unit": "",
-    "worse": false
-  },
-  "AU|Services PMI|2026-08-20": {
-    "actual": "52.9",
-    "better": false,
-    "consensus": "",
-    "country": "AU",
-    "date": "2026-08-20",
-    "indicator": "Services PMI",
-    "previous": "53.6",
     "unit": "",
     "worse": false
   },
@@ -527,17 +483,6 @@
     "unit": "",
     "worse": false
   },
-  "AU|Unemployment Rate|2026-08-20": {
-    "actual": "4.5",
-    "better": false,
-    "consensus": "4.4",
-    "country": "AU",
-    "date": "2026-08-20",
-    "indicator": "Unemployment Rate",
-    "previous": "4.4",
-    "unit": "%",
-    "worse": true
-  },
   "AU|Unemployment Rate|2026-09-24": {
     "actual": "4.6",
     "better": false,
@@ -557,6 +502,17 @@
     "date": "2026-10-15",
     "indicator": "Unemployment Rate",
     "previous": "4.6",
+    "unit": "%",
+    "worse": true
+  },
+  "AU|Unemployment Rate|2026-11-19": {
+    "actual": "4.9",
+    "better": false,
+    "consensus": "4.7",
+    "country": "AU",
+    "date": "2026-11-19",
+    "indicator": "Unemployment Rate",
+    "previous": "4.7",
     "unit": "%",
     "worse": true
   },
@@ -989,6 +945,17 @@
     "unit": "%",
     "worse": false
   },
+  "CH|Industrial Production|2026-11-19": {
+    "actual": "0.8",
+    "better": false,
+    "consensus": "",
+    "country": "CH",
+    "date": "2026-11-19",
+    "indicator": "Industrial Production",
+    "previous": "5.5",
+    "unit": "%",
+    "worse": false
+  },
   "CH|Rate Decision|2026-09-24": {
     "actual": "0",
     "better": false,
@@ -1294,17 +1261,6 @@
     "date": "2026-11-09",
     "indicator": "PPI",
     "previous": "5.0",
-    "unit": "%",
-    "worse": false
-  },
-  "CN|Rate Decision|2026-08-20": {
-    "actual": "3",
-    "better": false,
-    "consensus": "3",
-    "country": "CN",
-    "date": "2026-08-20",
-    "indicator": "Rate Decision",
-    "previous": "3",
     "unit": "%",
     "worse": false
   },
@@ -1878,17 +1834,6 @@
     "indicator": "Manufacturing PMI",
     "previous": "54.2",
     "unit": "",
-    "worse": false
-  },
-  "DE|PPI|2026-08-20": {
-    "actual": "1.1",
-    "better": true,
-    "consensus": "0.7",
-    "country": "DE",
-    "date": "2026-08-20",
-    "indicator": "PPI",
-    "previous": "-0.3",
-    "unit": "%",
     "worse": false
   },
   "DE|PPI|2026-09-18": {
@@ -3442,17 +3387,6 @@
     "unit": "",
     "worse": true
   },
-  "JP|CPI|2026-08-20": {
-    "actual": "1.9",
-    "better": false,
-    "consensus": "",
-    "country": "JP",
-    "date": "2026-08-20",
-    "indicator": "CPI",
-    "previous": "1.7",
-    "unit": "%",
-    "worse": false
-  },
   "JP|CPI|2026-08-27": {
     "actual": "1.9",
     "better": true,
@@ -4135,17 +4069,6 @@
     "unit": "%",
     "worse": true
   },
-  "NZ|Exports|2026-08-20": {
-    "actual": "7.39",
-    "better": false,
-    "consensus": "",
-    "country": "NZ",
-    "date": "2026-08-20",
-    "indicator": "Exports",
-    "previous": "8.09",
-    "unit": "$",
-    "worse": false
-  },
   "NZ|Exports|2026-09-17": {
     "actual": "6.66",
     "better": false,
@@ -4188,17 +4111,6 @@
     "indicator": "GDP",
     "previous": "0.8",
     "unit": "%",
-    "worse": false
-  },
-  "NZ|Imports|2026-08-20": {
-    "actual": "9.34",
-    "better": false,
-    "consensus": "",
-    "country": "NZ",
-    "date": "2026-08-20",
-    "indicator": "Imports",
-    "previous": "8.07",
-    "unit": "$",
     "worse": false
   },
   "NZ|Imports|2026-09-17": {
@@ -4311,17 +4223,6 @@
     "unit": "%",
     "worse": true
   },
-  "NZ|Trade Balance|2026-08-20": {
-    "actual": "-5.23",
-    "better": false,
-    "consensus": "",
-    "country": "NZ",
-    "date": "2026-08-20",
-    "indicator": "Trade Balance",
-    "previous": "-3.74",
-    "unit": "$",
-    "worse": false
-  },
   "NZ|Trade Balance|2026-09-17": {
     "actual": "-5.44",
     "better": false,
@@ -4396,17 +4297,6 @@
     "date": "2026-10-23",
     "indicator": "Rate Decision",
     "previous": "14.0",
-    "unit": "%",
-    "worse": false
-  },
-  "SE|Rate Decision|2026-08-20": {
-    "actual": "1.75",
-    "better": false,
-    "consensus": "1.75",
-    "country": "SE",
-    "date": "2026-08-20",
-    "indicator": "Rate Decision",
-    "previous": "1.75",
     "unit": "%",
     "worse": false
   },
@@ -4804,17 +4694,6 @@
     "indicator": "GDP",
     "previous": "0.1",
     "unit": "%",
-    "worse": false
-  },
-  "UK|GfK Consumer Confidence|2026-08-20": {
-    "actual": "-14",
-    "better": true,
-    "consensus": "-18",
-    "country": "UK",
-    "date": "2026-08-20",
-    "indicator": "GfK Consumer Confidence",
-    "previous": "-17",
-    "unit": "",
     "worse": false
   },
   "UK|GfK Consumer Confidence|2026-09-24": {
@@ -6137,17 +6016,6 @@
     "unit": "%",
     "worse": true
   },
-  "US|Initial Jobless Claims|2026-08-20": {
-    "actual": "206",
-    "better": true,
-    "consensus": "210",
-    "country": "US",
-    "date": "2026-08-20",
-    "indicator": "Initial Jobless Claims",
-    "previous": "209",
-    "unit": "",
-    "worse": false
-  },
   "US|Initial Jobless Claims|2026-08-27": {
     "actual": "203",
     "better": true,
@@ -6277,6 +6145,17 @@
     "date": "2026-11-12",
     "indicator": "Initial Jobless Claims",
     "previous": "189.0",
+    "unit": "",
+    "worse": true
+  },
+  "US|Initial Jobless Claims|2026-11-19": {
+    "actual": "203.0",
+    "better": false,
+    "consensus": "197.0",
+    "country": "US",
+    "date": "2026-11-19",
+    "indicator": "Initial Jobless Claims",
+    "previous": "200.0",
     "unit": "",
     "worse": true
   },
@@ -6951,17 +6830,6 @@
     "unit": "%",
     "worse": true
   },
-  "US|Philadelphia Fed Manufacturing Survey|2026-08-20": {
-    "actual": "47.4",
-    "better": true,
-    "consensus": "25",
-    "country": "US",
-    "date": "2026-08-20",
-    "indicator": "Philadelphia Fed Manufacturing Survey",
-    "previous": "41.4",
-    "unit": "",
-    "worse": false
-  },
   "US|Philadelphia Fed Manufacturing Survey|2026-09-17": {
     "actual": "37.8",
     "better": true,
@@ -6981,6 +6849,17 @@
     "date": "2026-10-15",
     "indicator": "Philadelphia Fed Manufacturing Survey",
     "previous": "37.8",
+    "unit": "",
+    "worse": true
+  },
+  "US|Philadelphia Fed Manufacturing Survey|2026-11-19": {
+    "actual": "6.3",
+    "better": false,
+    "consensus": "20.0",
+    "country": "US",
+    "date": "2026-11-19",
+    "indicator": "Philadelphia Fed Manufacturing Survey",
+    "previous": "20.9",
     "unit": "",
     "worse": true
   },

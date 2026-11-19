@@ -1782,14 +1782,14 @@
     "week": "2026-W46"
   },
   "2026-W47": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "rows": {
       "AU": {
-        "driver": "Wage Price Index (QoQ)",
-        "driver_dir": 1,
-        "n": 1,
-        "tone": 1.0,
-        "weight": 1.8
+        "driver": "Employment Change s.a.",
+        "driver_dir": -1,
+        "n": 4,
+        "tone": -0.69,
+        "weight": 11.6
       },
       "CA": {
         "driver": "Consumer Price Index (YoY)",
@@ -1850,9 +1850,9 @@
       "UK": {
         "driver": "ILO Unemployment Rate (3M)",
         "driver_dir": 1,
-        "n": 9,
-        "tone": 0.079,
-        "weight": 20.2
+        "n": 6,
+        "tone": -0.274,
+        "weight": 14.6
       },
       "US": {
         "driver": "Producer Price Index (MoM)",
@@ -1864,7 +1864,7 @@
     },
     "trends": {
       "AU": {
-        "dir": 1,
+        "dir": -1,
         "streak": 1
       },
       "CA": {
@@ -1900,8 +1900,8 @@
         "streak": 1
       },
       "UK": {
-        "dir": 0,
-        "streak": 0
+        "dir": -1,
+        "streak": 1
       },
       "US": {
         "dir": -1,
