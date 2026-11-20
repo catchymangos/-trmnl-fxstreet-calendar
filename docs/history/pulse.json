@@ -1782,7 +1782,7 @@
     "week": "2026-W46"
   },
   "2026-W47": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "rows": {
       "AU": {
         "driver": "Employment Change s.a.",
@@ -1813,18 +1813,11 @@
         "weight": 1.6
       },
       "EMU": {
-        "driver": "Employment Change (QoQ)",
-        "driver_dir": -1,
-        "n": 5,
-        "tone": -0.345,
-        "weight": 11.6
-      },
-      "FR": {
-        "driver": "Consumer Price Index (EU norm) (YoY)",
-        "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 3.0
+        "driver": "Core Harmonized Index of Consumer Prices (YoY)",
+        "driver_dir": 1,
+        "n": 4,
+        "tone": -0.116,
+        "weight": 8.6
       },
       "IT": {
         "driver": "Consumer Price Index (YoY)",
@@ -1834,11 +1827,11 @@
         "weight": 3.0
       },
       "JP": {
-        "driver": "Merchandise Trade Balance Total",
-        "driver_dir": 1,
-        "n": 3,
-        "tone": 0.529,
-        "weight": 3.4
+        "driver": "National CPI ex Fresh Food (YoY)",
+        "driver_dir": -1,
+        "n": 4,
+        "tone": -0.187,
+        "weight": 6.4
       },
       "NZ": {
         "driver": "Producer Price Index - Output (QoQ)",
@@ -1855,11 +1848,11 @@
         "weight": 14.6
       },
       "US": {
-        "driver": "Producer Price Index (MoM)",
-        "driver_dir": -1,
-        "n": 10,
-        "tone": -0.567,
-        "weight": 12.0
+        "driver": "Retail Sales ex Autos (MoM)",
+        "driver_dir": 1,
+        "n": 8,
+        "tone": -0.381,
+        "weight": 8.4
       }
     },
     "trends": {
@@ -1880,20 +1873,16 @@
         "streak": 1
       },
       "EMU": {
-        "dir": -1,
-        "streak": 3
-      },
-      "FR": {
-        "dir": -1,
-        "streak": 2
+        "dir": 0,
+        "streak": 0
       },
       "IT": {
         "dir": 1,
         "streak": 1
       },
       "JP": {
-        "dir": 1,
-        "streak": 1
+        "dir": -1,
+        "streak": 2
       },
       "NZ": {
         "dir": -1,

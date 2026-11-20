@@ -714,6 +714,17 @@
     "unit": "",
     "worse": true
   },
+  "JP|CPI|2026-11-19": {
+    "actual": "2.3",
+    "better": false,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-11-19",
+    "indicator": "CPI",
+    "previous": "2.1",
+    "unit": "%",
+    "worse": true
+  },
   "JP|Current Account n.s.a.|2026-11-09": {
     "actual": "2372.0",
     "better": false,
@@ -1064,6 +1075,17 @@
     "indicator": "GDP",
     "previous": "0.1",
     "unit": "%",
+    "worse": false
+  },
+  "UK|GfK Consumer Confidence|2026-11-20": {
+    "actual": "-22.0",
+    "better": false,
+    "consensus": "-22.0",
+    "country": "UK",
+    "date": "2026-11-20",
+    "indicator": "GfK Consumer Confidence",
+    "previous": "-24.0",
+    "unit": "",
     "worse": false
   },
   "UK|Industrial Production|2026-11-12": {
