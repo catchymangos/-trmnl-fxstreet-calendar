@@ -1794,9 +1794,9 @@
       "CA": {
         "driver": "Consumer Price Index (YoY)",
         "driver_dir": -1,
-        "n": 4,
-        "tone": -0.556,
-        "weight": 13.5
+        "n": 6,
+        "tone": -0.228,
+        "weight": 17.1
       },
       "CN": {
         "driver": "Industrial Production (YoY)",
@@ -1806,18 +1806,18 @@
         "weight": 5.4
       },
       "DE": {
-        "driver": "ZEW Survey \u2013 Current Situation",
+        "driver": "Producer Price Index (MoM)",
         "driver_dir": 1,
-        "n": 2,
+        "n": 4,
         "tone": 1.0,
-        "weight": 1.6
+        "weight": 5.2
       },
       "EMU": {
         "driver": "Core Harmonized Index of Consumer Prices (YoY)",
         "driver_dir": 1,
-        "n": 4,
-        "tone": -0.116,
-        "weight": 8.6
+        "n": 5,
+        "tone": -0.021,
+        "weight": 9.4
       },
       "IT": {
         "driver": "Consumer Price Index (YoY)",
@@ -1843,16 +1843,16 @@
       "UK": {
         "driver": "ILO Unemployment Rate (3M)",
         "driver_dir": 1,
-        "n": 6,
-        "tone": -0.274,
-        "weight": 14.6
+        "n": 9,
+        "tone": 0.11,
+        "weight": 20.9
       },
       "US": {
         "driver": "Retail Sales ex Autos (MoM)",
         "driver_dir": 1,
-        "n": 8,
-        "tone": -0.381,
-        "weight": 8.4
+        "n": 11,
+        "tone": -0.37,
+        "weight": 10.8
       }
     },
     "trends": {
@@ -1889,8 +1889,8 @@
         "streak": 1
       },
       "UK": {
-        "dir": -1,
-        "streak": 1
+        "dir": 0,
+        "streak": 0
       },
       "US": {
         "dir": -1,

@@ -219,6 +219,17 @@
     "unit": "",
     "worse": false
   },
+  "CA|Retail Sales|2026-11-20": {
+    "actual": "0.8",
+    "better": true,
+    "consensus": "0.7",
+    "country": "CA",
+    "date": "2026-11-20",
+    "indicator": "Retail Sales",
+    "previous": "1.2",
+    "unit": "%",
+    "worse": false
+  },
   "CA|Unemployment Rate|2026-11-06": {
     "actual": "6.7",
     "better": false,
@@ -340,6 +351,17 @@
     "unit": "%",
     "worse": false
   },
+  "CN|Rate Decision|2026-11-20": {
+    "actual": "3.0",
+    "better": false,
+    "consensus": "3.0",
+    "country": "CN",
+    "date": "2026-11-20",
+    "indicator": "Rate Decision",
+    "previous": "3.0",
+    "unit": "%",
+    "worse": false
+  },
   "CN|Retail Sales|2026-11-16": {
     "actual": "0.4",
     "better": false,
@@ -439,6 +461,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|PPI|2026-11-20": {
+    "actual": "1.4",
+    "better": true,
+    "consensus": "0.9",
+    "country": "DE",
+    "date": "2026-11-20",
+    "indicator": "PPI",
+    "previous": "1.9",
+    "unit": "%",
+    "worse": false
+  },
   "DE|Retail Sales|2026-11-02": {
     "actual": "-2.0",
     "better": false,
@@ -491,6 +524,17 @@
     "date": "2026-11-17",
     "indicator": "ZEW Sentiment",
     "previous": "28.1",
+    "unit": "",
+    "worse": false
+  },
+  "EMU|Consumer Confidence|2026-11-20": {
+    "actual": "-16.9",
+    "better": true,
+    "consensus": "-17.9",
+    "country": "EMU",
+    "date": "2026-11-20",
+    "indicator": "Consumer Confidence",
+    "previous": "-17.9",
     "unit": "",
     "worse": false
   },
@@ -1154,6 +1198,17 @@
     "unit": "%",
     "worse": true
   },
+  "UK|Retail Sales|2026-11-20": {
+    "actual": "0.7",
+    "better": true,
+    "consensus": "0.0",
+    "country": "UK",
+    "date": "2026-11-20",
+    "indicator": "Retail Sales",
+    "previous": "-0.4",
+    "unit": "%",
+    "worse": false
+  },
   "UK|Unemployment Rate|2026-11-17": {
     "actual": "4.6",
     "better": true,
@@ -1440,6 +1495,17 @@
     "unit": "",
     "worse": false
   },
+  "US|Michigan Consumer Expectations Index|2026-11-20": {
+    "actual": "52.9",
+    "better": true,
+    "consensus": "50.9",
+    "country": "US",
+    "date": "2026-11-20",
+    "indicator": "Michigan Consumer Expectations Index",
+    "previous": "50.9",
+    "unit": "",
+    "worse": false
+  },
   "US|Michigan Consumer Sentiment Index|2026-11-06": {
     "actual": "51.0",
     "better": true,
@@ -1448,6 +1514,17 @@
     "date": "2026-11-06",
     "indicator": "Michigan Consumer Sentiment Index",
     "previous": "48.0",
+    "unit": "",
+    "worse": false
+  },
+  "US|Michigan Consumer Sentiment Index|2026-11-20": {
+    "actual": "51.5",
+    "better": false,
+    "consensus": "51.5",
+    "country": "US",
+    "date": "2026-11-20",
+    "indicator": "Michigan Consumer Sentiment Index",
+    "previous": "51.0",
     "unit": "",
     "worse": false
   },
@@ -1605,6 +1682,17 @@
     "unit": "%",
     "worse": false
   },
+  "US|UoM 1-year Consumer Inflation Expectations|2026-11-20": {
+    "actual": "3.7",
+    "better": false,
+    "consensus": "4.3",
+    "country": "US",
+    "date": "2026-11-20",
+    "indicator": "UoM 1-year Consumer Inflation Expectations",
+    "previous": "4.3",
+    "unit": "%",
+    "worse": true
+  },
   "US|UoM 5-year Consumer Inflation Expectation|2026-11-06": {
     "actual": "3.4",
     "better": false,
@@ -1615,5 +1703,16 @@
     "previous": "3.5",
     "unit": "%",
     "worse": false
+  },
+  "US|UoM 5-year Consumer Inflation Expectation|2026-11-20": {
+    "actual": "3.3",
+    "better": false,
+    "consensus": "3.4",
+    "country": "US",
+    "date": "2026-11-20",
+    "indicator": "UoM 5-year Consumer Inflation Expectation",
+    "previous": "3.4",
+    "unit": "%",
+    "worse": true
   }
 }
