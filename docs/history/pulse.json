@@ -1919,9 +1919,9 @@
       "DE": {
         "driver": "HCOB Manufacturing PMI",
         "driver_dir": 1,
-        "n": 4,
-        "tone": 1.0,
-        "weight": 9.0
+        "n": 7,
+        "tone": 0.86,
+        "weight": 11.4
       },
       "EMU": {
         "driver": "Core Harmonized Index of Consumer Prices (YoY)",
@@ -1954,9 +1954,9 @@
       "US": {
         "driver": "S&P Global Manufacturing PMI",
         "driver_dir": -1,
-        "n": 10,
-        "tone": -0.729,
-        "weight": 11.8
+        "n": 11,
+        "tone": -0.746,
+        "weight": 12.6
       }
     },
     "trends": {
