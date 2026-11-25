@@ -65,17 +65,6 @@
     "unit": "%",
     "worse": false
   },
-  "AU|CPI|2026-08-26": {
-    "actual": "1",
-    "better": true,
-    "consensus": "0.8",
-    "country": "AU",
-    "date": "2026-08-26",
-    "indicator": "CPI",
-    "previous": "-0.1",
-    "unit": "%",
-    "worse": false
-  },
   "AU|CPI|2026-09-30": {
     "actual": "0.4",
     "better": false,
@@ -95,6 +84,17 @@
     "date": "2026-10-28",
     "indicator": "CPI",
     "previous": "0.4",
+    "unit": "%",
+    "worse": false
+  },
+  "AU|CPI|2026-11-25": {
+    "actual": "0.5",
+    "better": true,
+    "consensus": "",
+    "country": "AU",
+    "date": "2026-11-25",
+    "indicator": "CPI",
+    "previous": "0.8",
     "unit": "%",
     "worse": false
   },
@@ -1032,17 +1032,6 @@
     "previous": "3.2",
     "unit": "%",
     "worse": true
-  },
-  "CH|ZEW Sentiment|2026-08-26": {
-    "actual": "12.1",
-    "better": false,
-    "consensus": "",
-    "country": "CH",
-    "date": "2026-08-26",
-    "indicator": "ZEW Sentiment",
-    "previous": "10",
-    "unit": "",
-    "worse": false
   },
   "CH|ZEW Sentiment|2026-09-30": {
     "actual": "2.6",
@@ -5477,17 +5466,6 @@
     "unit": "",
     "worse": true
   },
-  "US|Core Personal Consumption Expenditures - Price Index|2026-08-26": {
-    "actual": "0.2",
-    "better": false,
-    "consensus": "0.2",
-    "country": "US",
-    "date": "2026-08-26",
-    "indicator": "Core Personal Consumption Expenditures - Price Index",
-    "previous": "0.1",
-    "unit": "%",
-    "worse": false
-  },
   "US|Core Personal Consumption Expenditures - Price Index|2026-09-30": {
     "actual": "0.2",
     "better": false,
@@ -5507,17 +5485,6 @@
     "date": "2026-10-29",
     "indicator": "Core Personal Consumption Expenditures - Price Index",
     "previous": "0.2",
-    "unit": "%",
-    "worse": false
-  },
-  "US|Core Personal Consumption Expenditures|2026-08-26": {
-    "actual": "3.7",
-    "better": true,
-    "consensus": "3.4",
-    "country": "US",
-    "date": "2026-08-26",
-    "indicator": "Core Personal Consumption Expenditures",
-    "previous": "3.4",
     "unit": "%",
     "worse": false
   },
@@ -5543,17 +5510,6 @@
     "unit": "%",
     "worse": false
   },
-  "US|Durable Goods Orders ex Defense|2026-08-26": {
-    "actual": "1.3",
-    "better": false,
-    "consensus": "",
-    "country": "US",
-    "date": "2026-08-26",
-    "indicator": "Durable Goods Orders ex Defense",
-    "previous": "0.3",
-    "unit": "%",
-    "worse": false
-  },
   "US|Durable Goods Orders ex Defense|2026-09-25": {
     "actual": "0.1",
     "better": false,
@@ -5576,17 +5532,6 @@
     "unit": "%",
     "worse": false
   },
-  "US|Durable Goods Orders ex Transportation|2026-08-26": {
-    "actual": "0.4",
-    "better": false,
-    "consensus": "0.5",
-    "country": "US",
-    "date": "2026-08-26",
-    "indicator": "Durable Goods Orders ex Transportation",
-    "previous": "0.6",
-    "unit": "%",
-    "worse": true
-  },
   "US|Durable Goods Orders ex Transportation|2026-09-25": {
     "actual": "0.3",
     "better": false,
@@ -5608,17 +5553,6 @@
     "previous": "0.3",
     "unit": "%",
     "worse": true
-  },
-  "US|Durable Goods Orders|2026-08-26": {
-    "actual": "1.1",
-    "better": true,
-    "consensus": "0.7",
-    "country": "US",
-    "date": "2026-08-26",
-    "indicator": "Durable Goods Orders",
-    "previous": "0.3",
-    "unit": "%",
-    "worse": false
   },
   "US|Durable Goods Orders|2026-09-25": {
     "actual": "0",
@@ -5749,17 +5683,6 @@
     "date": "2026-11-03",
     "indicator": "Factory Orders",
     "previous": "0.1",
-    "unit": "%",
-    "worse": false
-  },
-  "US|GDP|2026-08-26": {
-    "actual": "1.5",
-    "better": true,
-    "consensus": "1.5",
-    "country": "US",
-    "date": "2026-08-26",
-    "indicator": "GDP",
-    "previous": "1.5",
     "unit": "%",
     "worse": false
   },
@@ -6621,17 +6544,6 @@
     "unit": "%",
     "worse": false
   },
-  "US|Nondefense Capital Goods Orders ex Aircraft|2026-08-26": {
-    "actual": "0.2",
-    "better": false,
-    "consensus": "",
-    "country": "US",
-    "date": "2026-08-26",
-    "indicator": "Nondefense Capital Goods Orders ex Aircraft",
-    "previous": "0.9",
-    "unit": "%",
-    "worse": false
-  },
   "US|Nondefense Capital Goods Orders ex Aircraft|2026-09-25": {
     "actual": "1.6",
     "better": true,
@@ -6775,17 +6687,6 @@
     "unit": "%",
     "worse": true
   },
-  "US|Personal Consumption Expenditures - Price Index|2026-08-26": {
-    "actual": "0.2",
-    "better": true,
-    "consensus": "0.1",
-    "country": "US",
-    "date": "2026-08-26",
-    "indicator": "Personal Consumption Expenditures - Price Index",
-    "previous": "-0.1",
-    "unit": "%",
-    "worse": false
-  },
   "US|Personal Consumption Expenditures - Price Index|2026-09-30": {
     "actual": "0.3",
     "better": false,
@@ -6805,17 +6706,6 @@
     "date": "2026-10-29",
     "indicator": "Personal Consumption Expenditures - Price Index",
     "previous": "0.3",
-    "unit": "%",
-    "worse": false
-  },
-  "US|Personal Consumption Expenditures Prices|2026-08-26": {
-    "actual": "5.3",
-    "better": true,
-    "consensus": "5.1",
-    "country": "US",
-    "date": "2026-08-26",
-    "indicator": "Personal Consumption Expenditures Prices",
-    "previous": "5.1",
     "unit": "%",
     "worse": false
   },
@@ -6841,17 +6731,6 @@
     "unit": "%",
     "worse": true
   },
-  "US|Personal Income|2026-08-26": {
-    "actual": "0.4",
-    "better": true,
-    "consensus": "0.3",
-    "country": "US",
-    "date": "2026-08-26",
-    "indicator": "Personal Income",
-    "previous": "0.2",
-    "unit": "%",
-    "worse": false
-  },
   "US|Personal Income|2026-09-30": {
     "actual": "0.2",
     "better": false,
@@ -6873,17 +6752,6 @@
     "previous": "0.2",
     "unit": "%",
     "worse": true
-  },
-  "US|Personal Spending|2026-08-26": {
-    "actual": "0.2",
-    "better": false,
-    "consensus": "0.2",
-    "country": "US",
-    "date": "2026-08-26",
-    "indicator": "Personal Spending",
-    "previous": "0.3",
-    "unit": "%",
-    "worse": false
   },
   "US|Personal Spending|2026-09-30": {
     "actual": "0.9",

@@ -1900,14 +1900,14 @@
     "week": "2026-W47"
   },
   "2026-W48": {
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "rows": {
       "AU": {
         "driver": "Employment Change s.a.",
         "driver_dir": -1,
         "n": 4,
-        "tone": -0.69,
-        "weight": 11.6
+        "tone": -0.371,
+        "weight": 14.3
       },
       "CA": {
         "driver": "Retail Sales (MoM)",
@@ -1924,11 +1924,11 @@
         "weight": 11.4
       },
       "EMU": {
-        "driver": "Core Harmonized Index of Consumer Prices (YoY)",
+        "driver": "HCOB Manufacturing PMI",
         "driver_dir": 1,
-        "n": 5,
-        "tone": 0.066,
-        "weight": 12.2
+        "n": 3,
+        "tone": 0.129,
+        "weight": 6.2
       },
       "FR": {
         "driver": "HCOB Manufacturing PMI",
@@ -1945,18 +1945,18 @@
         "weight": 3.0
       },
       "UK": {
-        "driver": "Consumer Price Index (YoY)",
-        "driver_dir": -1,
-        "n": 8,
-        "tone": -0.245,
-        "weight": 18.8
+        "driver": "Retail Sales (MoM)",
+        "driver_dir": 1,
+        "n": 5,
+        "tone": 0.077,
+        "weight": 11.7
       },
       "US": {
         "driver": "S&P Global Manufacturing PMI",
         "driver_dir": -1,
-        "n": 11,
-        "tone": -0.746,
-        "weight": 12.6
+        "n": 8,
+        "tone": -0.843,
+        "weight": 10.2
       }
     },
     "trends": {
@@ -1985,8 +1985,8 @@
         "streak": 3
       },
       "UK": {
-        "dir": -1,
-        "streak": 1
+        "dir": 0,
+        "streak": 0
       },
       "US": {
         "dir": -1,
