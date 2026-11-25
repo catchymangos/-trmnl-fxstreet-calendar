@@ -1917,11 +1917,11 @@
         "weight": 3.6
       },
       "DE": {
-        "driver": "HCOB Manufacturing PMI",
-        "driver_dir": 1,
-        "n": 7,
-        "tone": 0.86,
-        "weight": 11.4
+        "driver": "Gross Domestic Product (QoQ)",
+        "driver_dir": -1,
+        "n": 9,
+        "tone": 0.218,
+        "weight": 17.4
       },
       "EMU": {
         "driver": "HCOB Manufacturing PMI",
@@ -1952,11 +1952,11 @@
         "weight": 11.7
       },
       "US": {
-        "driver": "S&P Global Manufacturing PMI",
-        "driver_dir": -1,
-        "n": 8,
-        "tone": -0.843,
-        "weight": 10.2
+        "driver": "Core Personal Consumption Expenditures - Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 15,
+        "tone": -0.172,
+        "weight": 23.9
       }
     },
     "trends": {

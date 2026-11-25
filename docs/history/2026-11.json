@@ -329,6 +329,17 @@
     "unit": "%",
     "worse": true
   },
+  "CH|ZEW Sentiment|2026-11-25": {
+    "actual": "2.3",
+    "better": false,
+    "consensus": "",
+    "country": "CH",
+    "date": "2026-11-25",
+    "indicator": "ZEW Sentiment",
+    "previous": "-15.3",
+    "unit": "",
+    "worse": false
+  },
   "CN|CPI|2026-11-09": {
     "actual": "0.0",
     "better": false,
@@ -458,6 +469,17 @@
     "date": "2026-11-05",
     "indicator": "Factory Orders s.a.",
     "previous": "-10.6",
+    "unit": "%",
+    "worse": true
+  },
+  "DE|GDP|2026-11-25": {
+    "actual": "0.1",
+    "better": false,
+    "consensus": "0.2",
+    "country": "DE",
+    "date": "2026-11-25",
+    "indicator": "GDP",
+    "previous": "0.2",
     "unit": "%",
     "worse": true
   },
@@ -1550,6 +1572,61 @@
     "unit": "",
     "worse": false
   },
+  "US|Core Personal Consumption Expenditures - Price Index|2026-11-25": {
+    "actual": "0.3",
+    "better": true,
+    "consensus": "0.3",
+    "country": "US",
+    "date": "2026-11-25",
+    "indicator": "Core Personal Consumption Expenditures - Price Index",
+    "previous": "0.3",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Core Personal Consumption Expenditures|2026-11-25": {
+    "actual": "2.5",
+    "better": false,
+    "consensus": "2.5",
+    "country": "US",
+    "date": "2026-11-25",
+    "indicator": "Core Personal Consumption Expenditures",
+    "previous": "2.5",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Durable Goods Orders ex Defense|2026-11-25": {
+    "actual": "0.4",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-11-25",
+    "indicator": "Durable Goods Orders ex Defense",
+    "previous": "2.2",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Durable Goods Orders ex Transportation|2026-11-25": {
+    "actual": "0.5",
+    "better": false,
+    "consensus": "0.5",
+    "country": "US",
+    "date": "2026-11-25",
+    "indicator": "Durable Goods Orders ex Transportation",
+    "previous": "0.5",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Durable Goods Orders|2026-11-25": {
+    "actual": "0.2",
+    "better": false,
+    "consensus": "0.4",
+    "country": "US",
+    "date": "2026-11-25",
+    "indicator": "Durable Goods Orders",
+    "previous": "1.8",
+    "unit": "%",
+    "worse": true
+  },
   "US|Employment Change|2026-11-06": {
     "actual": "61.9",
     "better": false,
@@ -1580,6 +1657,17 @@
     "date": "2026-11-03",
     "indicator": "Factory Orders",
     "previous": "0.1",
+    "unit": "%",
+    "worse": false
+  },
+  "US|GDP|2026-11-25": {
+    "actual": "4.3",
+    "better": true,
+    "consensus": "3.4",
+    "country": "US",
+    "date": "2026-11-25",
+    "indicator": "GDP",
+    "previous": "3.4",
     "unit": "%",
     "worse": false
   },
@@ -1715,6 +1803,17 @@
     "unit": "",
     "worse": true
   },
+  "US|Initial Jobless Claims|2026-11-25": {
+    "actual": "189.0",
+    "better": true,
+    "consensus": "200.0",
+    "country": "US",
+    "date": "2026-11-25",
+    "indicator": "Initial Jobless Claims",
+    "previous": "203.0",
+    "unit": "",
+    "worse": false
+  },
   "US|JOLTS Job Openings|2026-11-03": {
     "actual": "7.523",
     "better": true,
@@ -1814,6 +1913,28 @@
     "unit": "",
     "worse": true
   },
+  "US|New Home Sales Change|2026-11-25": {
+    "actual": "14.2",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-11-25",
+    "indicator": "New Home Sales Change",
+    "previous": "-0.6",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Nondefense Capital Goods Orders ex Aircraft|2026-11-25": {
+    "actual": "1.2",
+    "better": false,
+    "consensus": "",
+    "country": "US",
+    "date": "2026-11-25",
+    "indicator": "Nondefense Capital Goods Orders ex Aircraft",
+    "previous": "0.5",
+    "unit": "%",
+    "worse": false
+  },
   "US|Nonfarm Payrolls|2026-11-06": {
     "actual": "165.0",
     "better": true,
@@ -1855,6 +1976,50 @@
     "date": "2026-11-18",
     "indicator": "Pending Home Sales",
     "previous": "-7.3",
+    "unit": "%",
+    "worse": true
+  },
+  "US|Personal Consumption Expenditures - Price Index|2026-11-25": {
+    "actual": "0.3",
+    "better": false,
+    "consensus": "0.3",
+    "country": "US",
+    "date": "2026-11-25",
+    "indicator": "Personal Consumption Expenditures - Price Index",
+    "previous": "0.5",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Personal Consumption Expenditures Prices|2026-11-25": {
+    "actual": "2.1",
+    "better": false,
+    "consensus": "2.1",
+    "country": "US",
+    "date": "2026-11-25",
+    "indicator": "Personal Consumption Expenditures Prices",
+    "previous": "2.1",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Personal Income|2026-11-25": {
+    "actual": "0.7",
+    "better": true,
+    "consensus": "0.4",
+    "country": "US",
+    "date": "2026-11-25",
+    "indicator": "Personal Income",
+    "previous": "0.2",
+    "unit": "%",
+    "worse": false
+  },
+  "US|Personal Spending|2026-11-25": {
+    "actual": "0.3",
+    "better": false,
+    "consensus": "0.4",
+    "country": "US",
+    "date": "2026-11-25",
+    "indicator": "Personal Spending",
+    "previous": "0.5",
     "unit": "%",
     "worse": true
   },
