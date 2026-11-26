@@ -285,16 +285,16 @@
     "unit": "%",
     "worse": false
   },
-  "AU|Private Capital Expenditure|2026-08-27": {
-    "actual": "-3.6",
-    "better": false,
-    "consensus": "0",
+  "AU|Private Capital Expenditure|2026-11-26": {
+    "actual": "12.2",
+    "better": true,
+    "consensus": "4.4",
     "country": "AU",
-    "date": "2026-08-27",
+    "date": "2026-11-26",
     "indicator": "Private Capital Expenditure",
-    "previous": "6.5",
+    "previous": "-3.6",
     "unit": "%",
-    "worse": true
+    "worse": false
   },
   "AU|Rate Decision|2026-09-29": {
     "actual": "4.6",
@@ -635,17 +635,6 @@
     "indicator": "CPI",
     "previous": "0.0",
     "unit": "%",
-    "worse": false
-  },
-  "CA|Current Account|2026-08-27": {
-    "actual": "8.84",
-    "better": true,
-    "consensus": "-2",
-    "country": "CA",
-    "date": "2026-08-27",
-    "indicator": "Current Account",
-    "previous": "-7.2",
-    "unit": "",
     "worse": false
   },
   "CA|Employment Change|2026-09-04": {
@@ -1582,17 +1571,6 @@
     "previous": "0.2",
     "unit": "%",
     "worse": true
-  },
-  "DE|GfK Consumer Confidence Survey|2026-08-27": {
-    "actual": "-26.6",
-    "better": true,
-    "consensus": "-29.6",
-    "country": "DE",
-    "date": "2026-08-27",
-    "indicator": "GfK Consumer Confidence Survey",
-    "previous": "-29.6",
-    "unit": "",
-    "worse": false
   },
   "DE|GfK Consumer Confidence Survey|2026-09-25": {
     "actual": "-30.6",
@@ -3442,17 +3420,6 @@
     "unit": "",
     "worse": true
   },
-  "JP|CPI|2026-08-27": {
-    "actual": "1.9",
-    "better": true,
-    "consensus": "",
-    "country": "JP",
-    "date": "2026-08-27",
-    "indicator": "CPI",
-    "previous": "2",
-    "unit": "%",
-    "worse": false
-  },
   "JP|CPI|2026-09-17": {
     "actual": "1.9",
     "better": true,
@@ -3827,17 +3794,6 @@
     "unit": "\u00a5",
     "worse": false
   },
-  "JP|Unemployment Rate|2026-08-27": {
-    "actual": "2.4",
-    "better": true,
-    "consensus": "2.5",
-    "country": "JP",
-    "date": "2026-08-27",
-    "indicator": "Unemployment Rate",
-    "previous": "2.5",
-    "unit": "%",
-    "worse": false
-  },
   "JP|Unemployment Rate|2026-10-01": {
     "actual": "2.5",
     "better": false,
@@ -3882,23 +3838,23 @@
     "unit": "%",
     "worse": false
   },
-  "KR|Rate Decision|2026-08-27": {
-    "actual": "3",
-    "better": false,
-    "consensus": "3",
-    "country": "KR",
-    "date": "2026-08-27",
-    "indicator": "Rate Decision",
-    "previous": "2.75",
-    "unit": "%",
-    "worse": false
-  },
   "KR|Rate Decision|2026-10-22": {
     "actual": "3.0",
     "better": false,
     "consensus": "3.0",
     "country": "KR",
     "date": "2026-10-22",
+    "indicator": "Rate Decision",
+    "previous": "3.0",
+    "unit": "%",
+    "worse": false
+  },
+  "KR|Rate Decision|2026-11-26": {
+    "actual": "3.25",
+    "better": false,
+    "consensus": "3.25",
+    "country": "KR",
+    "date": "2026-11-26",
     "indicator": "Rate Decision",
     "previous": "3.0",
     "unit": "%",
@@ -3979,17 +3935,6 @@
     "indicator": "Rate Decision",
     "previous": "4.5",
     "unit": "%",
-    "worse": false
-  },
-  "NZ|ANZ \u2013 Roy Morgan Consumer Confidence|2026-08-27": {
-    "actual": "98",
-    "better": false,
-    "consensus": "",
-    "country": "NZ",
-    "date": "2026-08-27",
-    "indicator": "ANZ \u2013 Roy Morgan Consumer Confidence",
-    "previous": "99.3",
-    "unit": "",
     "worse": false
   },
   "NZ|ANZ \u2013 Roy Morgan Consumer Confidence|2026-10-01": {
@@ -6092,17 +6037,6 @@
     "previous": "0.7",
     "unit": "%",
     "worse": true
-  },
-  "US|Initial Jobless Claims|2026-08-27": {
-    "actual": "203",
-    "better": true,
-    "consensus": "208",
-    "country": "US",
-    "date": "2026-08-27",
-    "indicator": "Initial Jobless Claims",
-    "previous": "206",
-    "unit": "",
-    "worse": false
   },
   "US|Initial Jobless Claims|2026-09-03": {
     "actual": "206",

@@ -1900,14 +1900,14 @@
     "week": "2026-W47"
   },
   "2026-W48": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "rows": {
       "AU": {
-        "driver": "Employment Change s.a.",
-        "driver_dir": -1,
-        "n": 4,
-        "tone": -0.371,
-        "weight": 14.3
+        "driver": "Consumer Price Index (YoY)",
+        "driver_dir": 1,
+        "n": 2,
+        "tone": 1.0,
+        "weight": 5.3
       },
       "CA": {
         "driver": "Retail Sales (MoM)",
@@ -1937,13 +1937,6 @@
         "tone": -1.0,
         "weight": 3.6
       },
-      "JP": {
-        "driver": "National CPI ex Fresh Food (YoY)",
-        "driver_dir": -1,
-        "n": 1,
-        "tone": -1.0,
-        "weight": 3.0
-      },
       "UK": {
         "driver": "Retail Sales (MoM)",
         "driver_dir": 1,
@@ -1954,15 +1947,15 @@
       "US": {
         "driver": "Core Personal Consumption Expenditures - Price Index (YoY)",
         "driver_dir": 1,
-        "n": 15,
-        "tone": -0.172,
-        "weight": 23.9
+        "n": 13,
+        "tone": -0.112,
+        "weight": 22.3
       }
     },
     "trends": {
       "AU": {
-        "dir": -1,
-        "streak": 2
+        "dir": 1,
+        "streak": 1
       },
       "CA": {
         "dir": 1,
@@ -1980,17 +1973,13 @@
         "dir": -1,
         "streak": 1
       },
-      "JP": {
-        "dir": -1,
-        "streak": 3
-      },
       "UK": {
         "dir": 0,
         "streak": 0
       },
       "US": {
-        "dir": -1,
-        "streak": 2
+        "dir": 0,
+        "streak": 0
       }
     },
     "week": "2026-W48"
