@@ -1594,6 +1594,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|GfK Consumer Confidence Survey|2026-11-26": {
+    "actual": "-30.2",
+    "better": false,
+    "consensus": "-29.9",
+    "country": "DE",
+    "date": "2026-11-26",
+    "indicator": "GfK Consumer Confidence Survey",
+    "previous": "-30.8",
+    "unit": "",
+    "worse": true
+  },
   "DE|HCOB Composite PMI|2026-09-03": {
     "actual": "51.8",
     "better": true,
