@@ -1000,6 +1000,17 @@
     "unit": "%",
     "worse": true
   },
+  "JP|CPI|2026-11-26": {
+    "actual": "2.8",
+    "better": false,
+    "consensus": "",
+    "country": "JP",
+    "date": "2026-11-26",
+    "indicator": "CPI",
+    "previous": "2.8",
+    "unit": "%",
+    "worse": true
+  },
   "JP|Current Account n.s.a.|2026-11-09": {
     "actual": "2372.0",
     "better": false,
@@ -1108,6 +1119,17 @@
     "indicator": "Rate Decision",
     "previous": "4.5",
     "unit": "%",
+    "worse": false
+  },
+  "NZ|ANZ \u2013 Roy Morgan Consumer Confidence|2026-11-26": {
+    "actual": "100.2",
+    "better": false,
+    "consensus": "",
+    "country": "NZ",
+    "date": "2026-11-26",
+    "indicator": "ANZ \u2013 Roy Morgan Consumer Confidence",
+    "previous": "96.2",
+    "unit": "",
     "worse": false
   },
   "NZ|Building Permits s.a.|2026-11-02": {

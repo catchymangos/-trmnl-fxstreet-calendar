@@ -1900,7 +1900,7 @@
     "week": "2026-W47"
   },
   "2026-W48": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "rows": {
       "AU": {
         "driver": "Consumer Price Index (YoY)",
@@ -1909,26 +1909,19 @@
         "tone": 1.0,
         "weight": 5.3
       },
-      "CA": {
-        "driver": "Retail Sales (MoM)",
-        "driver_dir": 1,
-        "n": 2,
-        "tone": 1.0,
-        "weight": 3.6
-      },
       "DE": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": -1,
-        "n": 10,
-        "tone": 0.165,
-        "weight": 18.2
+        "n": 8,
+        "tone": -0.041,
+        "weight": 14.6
       },
       "EMU": {
         "driver": "HCOB Manufacturing PMI",
         "driver_dir": 1,
-        "n": 3,
-        "tone": 0.129,
-        "weight": 6.2
+        "n": 2,
+        "tone": 0.0,
+        "weight": 5.4
       },
       "FR": {
         "driver": "HCOB Manufacturing PMI",
@@ -1937,19 +1930,26 @@
         "tone": -1.0,
         "weight": 3.6
       },
+      "JP": {
+        "driver": "Tokyo CPI ex Food, Energy (YoY)",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 7.5
+      },
       "UK": {
-        "driver": "Retail Sales (MoM)",
-        "driver_dir": 1,
-        "n": 5,
-        "tone": 0.077,
-        "weight": 11.7
+        "driver": "S&P Global Manufacturing PMI",
+        "driver_dir": -1,
+        "n": 2,
+        "tone": -1.0,
+        "weight": 5.4
       },
       "US": {
         "driver": "Core Personal Consumption Expenditures - Price Index (YoY)",
         "driver_dir": 1,
-        "n": 13,
-        "tone": -0.112,
-        "weight": 22.3
+        "n": 10,
+        "tone": -0.085,
+        "weight": 19.9
       }
     },
     "trends": {
@@ -1957,13 +1957,9 @@
         "dir": 1,
         "streak": 1
       },
-      "CA": {
-        "dir": 1,
-        "streak": 1
-      },
       "DE": {
-        "dir": 1,
-        "streak": 2
+        "dir": 0,
+        "streak": 0
       },
       "EMU": {
         "dir": 0,
@@ -1973,9 +1969,13 @@
         "dir": -1,
         "streak": 1
       },
+      "JP": {
+        "dir": -1,
+        "streak": 3
+      },
       "UK": {
-        "dir": 0,
-        "streak": 0
+        "dir": -1,
+        "streak": 1
       },
       "US": {
         "dir": 0,
