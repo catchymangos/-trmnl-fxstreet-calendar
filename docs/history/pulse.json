@@ -1909,26 +1909,40 @@
         "tone": 1.0,
         "weight": 5.3
       },
+      "CA": {
+        "driver": "Current Account",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 0.8
+      },
       "DE": {
         "driver": "Gross Domestic Product (QoQ)",
         "driver_dir": -1,
-        "n": 8,
-        "tone": -0.041,
-        "weight": 14.6
+        "n": 9,
+        "tone": -0.205,
+        "weight": 17.6
       },
       "EMU": {
         "driver": "HCOB Manufacturing PMI",
         "driver_dir": 1,
-        "n": 2,
-        "tone": 0.0,
-        "weight": 5.4
+        "n": 3,
+        "tone": -0.129,
+        "weight": 6.2
+      },
+      "ES": {
+        "driver": "Harmonized Index of Consumer Prices (YoY)",
+        "driver_dir": -1,
+        "n": 1,
+        "tone": -1.0,
+        "weight": 3.0
       },
       "FR": {
-        "driver": "HCOB Manufacturing PMI",
+        "driver": "Consumer Price Index (EU norm) (YoY)",
         "driver_dir": -1,
-        "n": 2,
+        "n": 3,
         "tone": -1.0,
-        "weight": 3.6
+        "weight": 6.6
       },
       "JP": {
         "driver": "Tokyo CPI ex Food, Energy (YoY)",
@@ -1957,13 +1971,21 @@
         "dir": 1,
         "streak": 1
       },
+      "CA": {
+        "dir": -1,
+        "streak": 2
+      },
       "DE": {
-        "dir": 0,
-        "streak": 0
+        "dir": -1,
+        "streak": 1
       },
       "EMU": {
         "dir": 0,
         "streak": 0
+      },
+      "ES": {
+        "dir": -1,
+        "streak": 1
       },
       "FR": {
         "dir": -1,

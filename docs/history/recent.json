@@ -637,6 +637,17 @@
     "unit": "%",
     "worse": false
   },
+  "CA|Current Account|2026-11-27": {
+    "actual": "4.48",
+    "better": false,
+    "consensus": "9.9",
+    "country": "CA",
+    "date": "2026-11-27",
+    "indicator": "Current Account",
+    "previous": "8.84",
+    "unit": "",
+    "worse": true
+  },
   "CA|Employment Change|2026-09-04": {
     "actual": "-41.7",
     "better": false,
@@ -1462,6 +1473,17 @@
     "unit": "",
     "worse": false
   },
+  "DE|Employment Change|2026-11-27": {
+    "actual": "9.0",
+    "better": false,
+    "consensus": "4.0",
+    "country": "DE",
+    "date": "2026-11-27",
+    "indicator": "Employment Change",
+    "previous": "4.0",
+    "unit": "",
+    "worse": true
+  },
   "DE|Factory Orders n.s.a.|2026-09-04": {
     "actual": "13.1",
     "better": false,
@@ -2034,6 +2056,17 @@
     "unit": "%",
     "worse": false
   },
+  "DE|Unemployment Rate|2026-11-27": {
+    "actual": "6.4",
+    "better": false,
+    "consensus": "6.4",
+    "country": "DE",
+    "date": "2026-11-27",
+    "indicator": "Unemployment Rate",
+    "previous": "6.4",
+    "unit": "%",
+    "worse": false
+  },
   "DE|ZEW Current Conditions|2026-09-15": {
     "actual": "-47.1",
     "better": true,
@@ -2122,6 +2155,17 @@
     "unit": "",
     "worse": false
   },
+  "EMU|Business Climate|2026-11-27": {
+    "actual": "-0.01",
+    "better": false,
+    "consensus": "",
+    "country": "EMU",
+    "date": "2026-11-27",
+    "indicator": "Business Climate",
+    "previous": "0.09",
+    "unit": "",
+    "worse": false
+  },
   "EMU|Consumer Confidence|2026-09-22": {
     "actual": "-16.5",
     "better": false,
@@ -2174,6 +2218,17 @@
     "date": "2026-11-20",
     "indicator": "Consumer Confidence",
     "previous": "-17.9",
+    "unit": "",
+    "worse": false
+  },
+  "EMU|Consumer Confidence|2026-11-27": {
+    "actual": "-16.9",
+    "better": false,
+    "consensus": "-16.9",
+    "country": "EMU",
+    "date": "2026-11-27",
+    "indicator": "Consumer Confidence",
+    "previous": "-16.9",
     "unit": "",
     "worse": false
   },
@@ -2240,6 +2295,17 @@
     "date": "2026-10-29",
     "indicator": "Economic Sentiment Indicator",
     "previous": "97.9",
+    "unit": "",
+    "worse": true
+  },
+  "EMU|Economic Sentiment Indicator|2026-11-27": {
+    "actual": "95.8",
+    "better": false,
+    "consensus": "97.2",
+    "country": "EMU",
+    "date": "2026-11-27",
+    "indicator": "Economic Sentiment Indicator",
+    "previous": "96.9",
     "unit": "",
     "worse": true
   },
@@ -2771,6 +2837,17 @@
     "unit": "%",
     "worse": false
   },
+  "ES|Inflation|2026-11-27": {
+    "actual": "4.1",
+    "better": false,
+    "consensus": "4.7",
+    "country": "ES",
+    "date": "2026-11-27",
+    "indicator": "Inflation",
+    "previous": "4.9",
+    "unit": "%",
+    "worse": true
+  },
   "ES|Manufacturing PMI|2026-09-01": {
     "actual": "49.5",
     "better": false,
@@ -2889,6 +2966,17 @@
     "date": "2026-11-13",
     "indicator": "CPI",
     "previous": "3.8",
+    "unit": "%",
+    "worse": true
+  },
+  "FR|CPI|2026-11-27": {
+    "actual": "3.2",
+    "better": false,
+    "consensus": "3.6",
+    "country": "FR",
+    "date": "2026-11-27",
+    "indicator": "CPI",
+    "previous": "3.7",
     "unit": "%",
     "worse": true
   },
